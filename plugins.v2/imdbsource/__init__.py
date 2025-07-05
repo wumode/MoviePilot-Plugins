@@ -61,7 +61,7 @@ class ImdbSource(_PluginBase):
             settings.SECURITY_IMAGE_DOMAINS.append("media-amazon.com")
         if "media-imdb.com" not in settings.SECURITY_IMAGE_DOMAINS:
             settings.SECURITY_IMAGE_DOMAINS.append("media-imdb.com")
-        self._img_proxy_prefix = f'api/v1/system/img/{int(bool(self._proxy))}?imgurl=' if self._image_proxy else ''
+        self._img_proxy_prefix = f'/api/v1/system/img/{int(bool(self._proxy))}?imgurl=' if self._image_proxy else ''
         if self._enabled:
             self._scheduler = BackgroundScheduler(timezone=settings.TZ)
             self._scheduler.start()
