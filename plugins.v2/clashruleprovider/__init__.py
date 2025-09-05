@@ -24,14 +24,15 @@ from app.core.config import settings
 from app.core.event import eventmanager, Event
 from app.log import logger
 from app.plugins import _PluginBase
-from app.plugins.clashruleprovider.clashruleparser import Action, RuleType, ClashRule, MatchRule, LogicRule
-from app.plugins.clashruleprovider.clashruleparser import ClashRuleParser, Converter
-from app.plugins.clashruleprovider.clashruleparser import ProxyGroup, RuleProvider
 from app.schemas.types import EventType
 from app.schemas.types import NotificationType
 from app.utils.http import RequestUtils, AsyncRequestUtils
 from app.utils.ip import IpUtils
 
+from .configconverter import Converter
+from .clashruleparser import Action, RuleType, ClashRule, MatchRule, LogicRule
+from .clashruleparser import ClashRuleParser
+from .clashruleparser import ProxyGroup, RuleProvider
 
 class ClashRuleProvider(_PluginBase):
     # 插件名称
@@ -41,7 +42,7 @@ class ClashRuleProvider(_PluginBase):
     # 插件图标
     plugin_icon = "Mihomo_Meta_A.png"
     # 插件版本
-    plugin_version = "1.4.1"
+    plugin_version = "1.4.2"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -976,6 +977,13 @@ class ClashRuleProvider(_PluginBase):
             proxy_copy = copy.deepcopy(proxy)
             proxy_copy['source'] = 'Template'
             proxies.append(proxy_copy)
+        for proxy in proxies:
+            proxy_link = ''
+            try:
+                proxy_link = Converter.convert_to_share_link(proxy)
+            except Exception as e:
+                logger.error(f"Failed to convert proxy link: {repr(e)}")
+            proxy['v2ray_link'] = proxy_link
         return schemas.Response(success=True, data={'extra_proxies': proxies})
 
     def add_extra_proxies(self, params: Dict[str, Any]):
