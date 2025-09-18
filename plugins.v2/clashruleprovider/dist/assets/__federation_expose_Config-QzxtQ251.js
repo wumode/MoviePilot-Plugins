@@ -112,6 +112,13 @@ onMounted(() => {
   }
 });
 
+const sub_links = computed(() => {
+  if (!config.subscriptions_config) {
+    return [];
+  }
+  return config.subscriptions_config.map(item => item.url);
+});
+
 // 验证函数
 const isValidUrl = (urlString) => {
   if (!urlString) return false;
@@ -160,14 +167,14 @@ async function testConnection() {
 
   try {
     // 验证必需的参数
-    if (!config.sub_links || config.sub_links.length === 0) {
+    if (sub_links.value.length === 0) {
       throw new Error('请先配置至少一个订阅链接')
     }
 
     // 准备API请求参数
     const testParams = {
       clash_dashboards: config.clash_dashboards,
-      sub_links: config.sub_links // 使用第一个订阅链接进行测试
+      sub_links: sub_links.value
     };
 
     // 调用API进行连接测试
@@ -1500,6 +1507,6 @@ return (_ctx, _cache) => {
 }
 
 };
-const ConfigComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-e27f8bc8"]]);
+const ConfigComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-9160bf0d"]]);
 
 export { ConfigComponent as default };
