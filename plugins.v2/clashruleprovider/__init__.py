@@ -167,7 +167,7 @@ class ClashRuleProvider(_PluginBase):
             self._timeout = config.get("timeout")
             self._retry_times = config.get("retry_times") or 3
             self._filter_keywords = config.get("filter_keywords")
-            self._ruleset_prefix = (config.get("ruleset_prefix") or "📂<=").strip()
+            self._ruleset_prefix = (config.get("ruleset_prefix") or "").strip()
             self._acl4ssr_prefix = (config.get("acl4ssr_prefix") or "🗂️=>").strip()
             self._auto_update_subscriptions = config.get("auto_update_subscriptions")
             self._group_by_region = config.get("group_by_region")
@@ -1243,7 +1243,7 @@ class ClashRuleProvider(_PluginBase):
     def overwrite_region_group(self, proxy_group: Dict[str, Any]):
         region_group = ProxyGroup.parse_obj(proxy_group)
         overwrite_config = {k: v for k, v in region_group.dict(by_alias=True, exclude_none=True).items() if
-                            k not in {'name', 'proxies'}}
+                            k not in {'name', 'proxies', 'use'}}
         self._overwritten_region_groups[proxy_group['name']] = overwrite_config
         self.__group_by_region.cache_clear()
         self.save_data('overwritten_region_groups', self._overwritten_region_groups)
