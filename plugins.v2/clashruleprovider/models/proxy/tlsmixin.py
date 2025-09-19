@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field
 
 class RealityOpts(BaseModel):
     public_key: str = Field(..., alias='public-key')
-    short_id: str = Field(..., alias='short-id')
+    short_id: Optional[str] = Field(None, alias='short-id')
     support_x25519mlkem768: Optional[bool] = Field(None, alias='support-x25519mlkem768')
 
 

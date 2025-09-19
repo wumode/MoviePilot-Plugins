@@ -5385,8 +5385,9 @@ return (_ctx, _cache) => {
                   _createTextVNode$1(" 参考"),
                   _createElementVNode$1("a", {
                     href: "https://wiki.metacubex.one/config/proxies/",
-                    target: "_blank"
-                  }, "通用字段", -1),
+                    target: "_blank",
+                    style: {"text-decoration":"underline"}
+                  }, "Docs", -1),
                   _createTextVNode$1(", 覆写某些选项可能导致代理不可用。 ")
                 ])),
                 _: 1
@@ -5435,7 +5436,7 @@ return (_ctx, _cache) => {
 }
 
 };
-const ProxiesDialog = /*#__PURE__*/_export_sfc(_sfc_main$1, [['__scopeId',"data-v-7ee88f63"]]);
+const ProxiesDialog = /*#__PURE__*/_export_sfc(_sfc_main$1, [['__scopeId',"data-v-5b19bb19"]]);
 
 const {toDisplayString:_toDisplayString,createTextVNode:_createTextVNode,resolveComponent:_resolveComponent,withCtx:_withCtx,openBlock:_openBlock,createBlock:_createBlock,createCommentVNode:_createCommentVNode,createElementVNode:_createElementVNode,createVNode:_createVNode,withModifiers:_withModifiers,normalizeClass:_normalizeClass,renderList:_renderList,Fragment:_Fragment,createElementBlock:_createElementBlock,mergeProps:_mergeProps,unref:_unref} = await importShared('vue');
 
@@ -8636,24 +8637,6 @@ return (_ctx, _cache) => {
                                                 _createVNode(_component_v_btn, {
                                                   icon: "",
                                                   size: "small",
-                                                  color: "info",
-                                                  variant: "text",
-                                                  onClick: $event => (showProxyGroupYaml(item))
-                                                }, {
-                                                  default: _withCtx(() => [
-                                                    _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[158] || (_cache[158] = [
-                                                        _createTextVNode("mdi-code-json")
-                                                      ])),
-                                                      _: 1
-                                                    })
-                                                  ]),
-                                                  _: 2
-                                                }, 1032, ["onClick"]),
-                                                _createVNode(_component_v_spacer),
-                                                _createVNode(_component_v_btn, {
-                                                  icon: "",
-                                                  size: "small",
                                                   color: "primary",
                                                   variant: "text",
                                                   onClick: $event => (openProxiesDialog(item))
@@ -8661,17 +8644,35 @@ return (_ctx, _cache) => {
                                                   default: _withCtx(() => [
                                                     (item.overwritten)
                                                       ? (_openBlock(), _createBlock(_component_v_icon, { key: 0 }, {
-                                                          default: _withCtx(() => _cache[159] || (_cache[159] = [
+                                                          default: _withCtx(() => _cache[158] || (_cache[158] = [
                                                             _createTextVNode("mdi-wrench-check")
                                                           ])),
                                                           _: 1
                                                         }))
                                                       : (_openBlock(), _createBlock(_component_v_icon, { key: 1 }, {
-                                                          default: _withCtx(() => _cache[160] || (_cache[160] = [
+                                                          default: _withCtx(() => _cache[159] || (_cache[159] = [
                                                             _createTextVNode("mdi-cog")
                                                           ])),
                                                           _: 1
                                                         }))
+                                                  ]),
+                                                  _: 2
+                                                }, 1032, ["onClick"]),
+                                                _createVNode(_component_v_spacer),
+                                                _createVNode(_component_v_btn, {
+                                                  icon: "",
+                                                  size: "small",
+                                                  color: "info",
+                                                  variant: "text",
+                                                  onClick: $event => (showProxyGroupYaml(item))
+                                                }, {
+                                                  default: _withCtx(() => [
+                                                    _createVNode(_component_v_icon, null, {
+                                                      default: _withCtx(() => _cache[160] || (_cache[160] = [
+                                                        _createTextVNode("mdi-code-json")
+                                                      ])),
+                                                      _: 1
+                                                    })
                                                   ]),
                                                   _: 2
                                                 }, 1032, ["onClick"]),
@@ -10673,8 +10674,9 @@ return (_ctx, _cache) => {
                     _createTextVNode(" 参考"),
                     _createElementVNode("a", {
                       href: "https://wiki.metacubex.one/config/proxy-groups/",
-                      target: "_blank"
-                    }, "虚空终端 Docs", -1)
+                      target: "_blank",
+                      style: {"text-decoration":"underline"}
+                    }, "Docs", -1)
                   ])),
                   _: 1
                 }),
@@ -11308,6 +11310,6 @@ return (_ctx, _cache) => {
 }
 
 };
-const PageComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-27491fc4"]]);
+const PageComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-8b230a99"]]);
 
 export { PageComponent as default };

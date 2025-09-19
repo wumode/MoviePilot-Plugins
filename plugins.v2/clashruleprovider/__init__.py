@@ -32,10 +32,10 @@ from .helper.configconverter import Converter
 from .helper.clashruleparser import ClashRuleParser, Action, RuleType, ClashRule, MatchRule, LogicRule
 from .helper.clashrulemanager import ClashRuleManager, RuleItem
 from .helper.proxiesmanager import ProxyManager
+from .helper.utilsprovider import UtilsProvider
 from .models import ProxyBase, ProxyGroup, RuleProvider, Proxy, ProxyType
 from .models.proxy.networkmixin import NetworkMixin
 from .models.proxy.tlsmixin import TLSMixin
-from .utils import ProviderUtils
 
 
 class ClashRuleProvider(_PluginBase):
@@ -46,7 +46,7 @@ class ClashRuleProvider(_PluginBase):
     # 插件图标
     plugin_icon = "Mihomo_Meta_A.png"
     # 插件版本
-    plugin_version = "2.0.0"
+    plugin_version = "2.0.1"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -217,7 +217,7 @@ class ClashRuleProvider(_PluginBase):
                                    self._clash_configs.get(url)}
             for url, config in self._clash_configs.items():
                 self.__add_proxies_to_manager(config.get('proxies', []),
-                                              f"Sub:{ProviderUtils.get_url_domain(url)}-{abs(hash(url))}")
+                                              f"Sub:{UtilsProvider.get_url_domain(url)}-{abs(hash(url))}")
             self.__add_proxies_to_manager(self._clash_template_dict['proxies'], 'Template')
             self.__check_proxies_lifetime()
             self._scheduler = BackgroundScheduler(timezone=settings.TZ)
@@ -636,7 +636,7 @@ class ClashRuleProvider(_PluginBase):
         for proxy in proxies:
             try:
                 if isinstance(proxy, dict):
-                    proxy = ProviderUtils.filter_empty(proxy, empty=['', None])
+                    proxy = UtilsProvider.filter_empty(proxy, empty=['', None])
                     self._proxies_manager.add_proxy_dict(proxy, remark='Manual')
                 if isinstance(proxy, str):
                     proxy_dict = Converter.convert_line(proxy)
@@ -979,7 +979,7 @@ class ClashRuleProvider(_PluginBase):
         if not config:
             return schemas.Response(success=False, message=f"订阅链接 {url} 更新失败")
         self._clash_configs[url] = config
-        remark = f"Sub:{ProviderUtils.get_url_domain(url)}-{abs(hash(url))}"
+        remark = f"Sub:{UtilsProvider.get_url_domain(url)}-{abs(hash(url))}"
         self._proxies_manager.remove_proxies_by_condition(lambda p: p.remark == remark)
         self.__add_proxies_to_manager(config.get("proxies", []), remark)
         self._subscription_info[url] = {**info, 'enabled': self._subscription_info.get(url, {}).get('enabled', False)}
@@ -1041,7 +1041,7 @@ class ClashRuleProvider(_PluginBase):
             return schemas.Response(success=True, data={'proxy_groups': []})
         proxy_groups = []
         sub = self.dict_from_sub_conf('proxy-groups')
-        hostnames = [ProviderUtils.get_url_domain(url) or '' for url in sub]
+        hostnames = [UtilsProvider.get_url_domain(url) or '' for url in sub]
         sub_proxy_groups = sub.values()
         sources = ('Manual', 'Template', *hostnames, 'Region')
         groups = (self._proxy_groups, self._clash_template_dict.get('proxy-groups', []),
@@ -1262,7 +1262,7 @@ class ClashRuleProvider(_PluginBase):
     def rule_providers(self) -> List[Dict[str, Any]]:
         rule_providers = []
         sub = self.dict_from_sub_conf('rule-providers')
-        hostnames = [ProviderUtils.get_url_domain(url) for url in sub]
+        hostnames = [UtilsProvider.get_url_domain(url) for url in sub]
         sub_rule_providers = sub.values()
         provider_sources = (self._extra_rule_providers,
                             *sub_rule_providers,
@@ -1361,7 +1361,7 @@ class ClashRuleProvider(_PluginBase):
         index = 1
         for url, result in res.items():
             try:
-                host_name = ProviderUtils.get_url_domain(url)
+                host_name = UtilsProvider.get_url_domain(url)
             except ValueError:
                 host_name = url
             message = f"{index}. 「 {host_name} 」\n"
@@ -1449,7 +1449,7 @@ class ClashRuleProvider(_PluginBase):
             self._subscription_info[url] = {**sub_info, 'enabled': True}
             res[url] = True
             self._clash_configs[url] = config
-            remark = f"Sub:{ProviderUtils.get_url_domain(url)}-{abs(hash(url))}"
+            remark = f"Sub:{UtilsProvider.get_url_domain(url)}-{abs(hash(url))}"
             self._proxies_manager.remove_proxies_by_condition(lambda p: p.remark == remark)
             self.__add_proxies_to_manager(config.get("proxies", []), remark)
         self.save_data('subscription_info', self._subscription_info)
@@ -1885,7 +1885,7 @@ class ClashRuleProvider(_PluginBase):
 
         # 对代理组进行回环检测
         proxy_graph = ClashRuleProvider.build_graph(clash_config)
-        cycles = ProviderUtils.find_cycles(proxy_graph)
+        cycles = UtilsProvider.find_cycles(proxy_graph)
         # 警告但不处理
         if cycles:
             logger.warn("发现代理组回环：")

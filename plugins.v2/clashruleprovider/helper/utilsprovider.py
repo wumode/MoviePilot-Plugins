@@ -2,7 +2,7 @@ from typing import Any, Final, Optional, List, Literal, Dict, Tuple, Union
 from urllib.parse import urlparse
 
 
-class ProviderUtils:
+class UtilsProvider:
 
     @staticmethod
     def filter_empty(original_dict: dict, empty: Optional[List[Any]] = None) -> dict:
