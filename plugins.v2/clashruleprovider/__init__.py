@@ -46,7 +46,7 @@ class ClashRuleProvider(_PluginBase):
     # 插件图标
     plugin_icon = "Mihomo_Meta_A.png"
     # 插件版本
-    plugin_version = "2.0.1"
+    plugin_version = "2.0.2"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -639,7 +639,7 @@ class ClashRuleProvider(_PluginBase):
                     proxy = UtilsProvider.filter_empty(proxy, empty=['', None])
                     self._proxies_manager.add_proxy_dict(proxy, remark='Manual')
                 if isinstance(proxy, str):
-                    proxy_dict = Converter.convert_line(proxy)
+                    proxy_dict = Converter().convert_line(proxy)
                     if proxy_dict:
                         self._proxies_manager.add_proxy_dict(proxy_dict, remark='Manual', raw=proxy)
             except Exception as e:
@@ -1104,7 +1104,7 @@ class ClashRuleProvider(_PluginBase):
                 links = params['payload'].strip().splitlines()
                 names = {}
                 for link in links:
-                    proxy = Converter.convert_line(link, names, skip_exception=True)
+                    proxy = Converter().convert_line(link, names, skip_exception=True)
                     if proxy:
                         extra_proxies.append({'proxy': proxy, 'raw': None})
             except Exception as err:
@@ -1483,7 +1483,7 @@ class ClashRuleProvider(_PluginBase):
             rs: Dict[str, Any] = yaml.load(ret.content, Loader=yaml.SafeLoader)
             if type(rs) is str:
                 all_proxies = {'name': "All Proxies", 'type': 'select', 'include-all-proxies': True}
-                proxies = Converter.convert_v2ray(ret.content)
+                proxies = Converter().convert_v2ray(ret.content)
                 if not proxies:
                     raise ValueError(f"Unknown content: {rs}")
                 rs = {'proxies': proxies, 'proxy-groups': [all_proxies, ]}
