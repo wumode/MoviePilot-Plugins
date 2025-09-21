@@ -20,12 +20,16 @@ class RuleProvider(BaseModel):
     def check_url_for_http_type(cls, v, values):
         if values.get("type") == "http" and v is None:
             raise ValueError("url must be configured if the type is 'http'")
+        elif values.get("type") != "http":
+            return None
         return v
 
     @validator("path", pre=True, always=True, allow_reuse=True)
     def check_path_for_file_type(cls, v, values):
         if values.get("type") == "file" and v is None:
             raise ValueError("path must be configured if the type is 'file'")
+        elif values.get("type") != "file":
+            return None
         return v
 
     @validator("payload", pre=True, always=True, allow_reuse=True)

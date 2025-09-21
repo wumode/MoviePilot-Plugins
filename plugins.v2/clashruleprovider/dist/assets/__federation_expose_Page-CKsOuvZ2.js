@@ -5848,7 +5848,8 @@ const payloadRules = computed(() => {
 });
 
 function dragStart(event, priority, type = 'top') {
-  dragItem.value = {priority, type};
+  const currentRules = type === 'top' ? rules.value : rulesetRules.value;
+  dragItem.value = currentRules.find(r => r.priority === priority);
   event.dataTransfer.effectAllowed = 'move';
 }
 
@@ -5863,14 +5864,9 @@ function dragOver(event, priority, type = 'top') {
 
 async function drop(event, targetPriority, type = 'top') {
   // 5. 调用 API 提交
-  await props.api.put('/plugin/ClashRuleProvider/reorder-rules', {
-    moved_priority: dragItem.value.priority,
-    target_priority: targetPriority,
-    rule_data: dragItem.value,
-    type: type
-  });
-  await refreshAllRegions(["top", "ruleset"]);
+  await props.api.put(`/plugin/ClashRuleProvider/reorder-rules/${type}/${targetPriority}`, dragItem.value);
   dragItem.value = null;
+  await refreshAllRegions(["top", "ruleset"]);
 }
 
 // 接收初始配置
@@ -5909,6 +5905,14 @@ const newProxyGroup = ref({
 });
 
 // 组件状态
+const deleteLoading = ref(
+    {
+      rop: false,
+      ruleset: false,
+      proxy_group: false,
+      proxy: false,
+    }
+);
 const expand = ref(false);
 const loading = ref(true);
 const importProxiesLoading = ref(false);
@@ -5964,8 +5968,8 @@ const newRule = ref({
 const newRuleProvider = ref({
   name: '',
   type: 'http',
-  path: '',
-  url: '',
+  path: null,
+  url: null,
   interval: 600,
   behavior: 'classical',
   format: 'yaml',
@@ -6274,8 +6278,8 @@ function openAddRuleProviderDialog() {
   newRuleProvider.value = {
     name: '',
     type: 'http',
-    path: '',
-    url: '',
+    path: null,
+    url: null,
     interval: 600,
     behavior: 'classical',
     format: 'yaml',
@@ -6521,12 +6525,11 @@ async function saveProxyGroups() {
   if (!valid) return;
   try {
     saveProxyGroupLoading.value = true;
-    const requestData = {
-      proxy_group: newProxyGroup.value,
-      name: editingProxyGroupName.value,
-    };
-    const method = editingProxyGroupName.value === null ? 'post' : 'put';
-    const result = await props.api[method]('/plugin/ClashRuleProvider/proxy-group', requestData);
+    const requestData = newProxyGroup.value;
+    const name = encodeURIComponent(editingProxyGroupName.value);
+    const path = editingProxyGroupName.value === null  ? '': `/${name}`;
+    const method = editingProxyGroupName.value === null ? 'post' : 'patch';
+    const result = await props.api[method](`/plugin/ClashRuleProvider/proxy-groups${path}`, requestData);
     if (!result.success) {
       showError(action + '失败: ' + (result.message || '未知错误'));
       snackbar.value = {
@@ -6574,20 +6577,26 @@ async function saveRule() {
   try {
     saveRuleLoading.value = true;
     newRule.value.payload = newRule.value.payload.trim();
-    const requestData = {
-      type: editingType.value, // "top" 或 "ruleset"
-      priority: editingPriority.value,
-      rule_data: {
+    const requestData =
+       {
         ...newRule.value,
         additional_params: newRule.value.additional_params
             ? newRule.value.additional_params
             : null
       }
-    };
-
-    const method = editingPriority.value === null ? 'post' : 'put';
-    await props.api[method]('/plugin/ClashRuleProvider/rule', requestData);
-
+    ;
+    const priority = editingPriority.value === null  ? '': `/${editingPriority.value}`;
+    const method = editingPriority.value === null ? 'post' : 'patch';
+    const result = await props.api[method](`/plugin/ClashRuleProvider/rules/${editingType.value}${priority}`, requestData);
+    if (!result.success) {
+      showError('保存规则失败: ' + (result.message || '未知错误'));
+      snackbar.value = {
+        show: true,
+        message: '保存规则合失败',
+        color: 'error'
+      };
+      return
+    }
     closeRuleDialog();
     await refreshAllRegions(["top", "ruleset"]);
     // 显示成功提示
@@ -6613,11 +6622,12 @@ async function saveRuleProvider() {
   if (!valid) return;
   try {
     saveRuleProviderLoading.value = true;
+    const name = encodeURIComponent(editingRuleProviderName.value === null ? newRuleProvider.value.name : editingRuleProviderName.value);
     const requestData = {
-      name: editingRuleProviderName.value === null ? newRuleProvider.value.name : editingRuleProviderName.value,
-      value: newRuleProvider.value
+      name: newRuleProvider.value.name,
+      rule_provider: newRuleProvider.value,
     };
-    const result = await props.api.post('/plugin/ClashRuleProvider/extra-rule-provider', requestData);
+    const result = await props.api.post(`/plugin/ClashRuleProvider/rule-providers/${name}`, requestData);
     if (!result.success) {
       showError('保存规则集合失败: ' + (result.message || '未知错误'));
       snackbar.value = {
@@ -6649,11 +6659,9 @@ async function saveRuleProvider() {
 const saveProxy = async (proxy) => {
   saveProxyLoading.value = true;
   try {
-    const requestData = {
-      name: editingProxyName.value,
-      proxy: proxy
-    };
-    const result = await props.api.post('/plugin/ClashRuleProvider/proxies', requestData);
+    const requestData = proxy;
+    const name = encodeURIComponent(editingProxyName.value);
+    const result = await props.api.patch(`/plugin/ClashRuleProvider/proxies/${name}`, requestData);
     if (!result.success) {
       showError('保存出站代理失败: ' + (result.message || '未知错误'));
       snackbar.value = {
@@ -6692,7 +6700,7 @@ async function saveHost() {
       domain: editingHostDomainName.value === null ? newHost.value.domain : editingHostDomainName.value,
       value: newHost.value
     };
-    const result = await props.api.post('/plugin/ClashRuleProvider/host', requestData);
+    const result = await props.api.post('/plugin/ClashRuleProvider/hosts', requestData);
     if (!result.success) {
       showError('保存 Host 失败: ' + (result.message || '未知错误'));
       snackbar.value = {
@@ -6723,26 +6731,22 @@ async function saveHost() {
 
 // 删除规则
 async function deleteRule(priority, type = 'top') {
+  deleteLoading.value[type] = true;
   try {
-    await props.api.delete('/plugin/ClashRuleProvider/rule', {
-      data: {
-        type: type,          // 规则类型
-        priority: priority   // 要删除的规则优先级
-      }
-    });
+    await props.api.delete(`/plugin/ClashRuleProvider/rules/${type}/${priority}`);
     await refreshAllRegions(["top", "ruleset"]);
   } catch (err) {
     showError(err.message || '删除规则失败');
+  }
+  finally {
+    deleteLoading.value[type] = false;
   }
 }
 
 async function deleteRuleProvider(name) {
   try {
-    await props.api.delete('/plugin/ClashRuleProvider/extra-rule-provider', {
-      data: {
-        name: name,
-      }
-    });
+    const n = encodeURIComponent(name);
+    await props.api.delete(`/plugin/ClashRuleProvider/rule-providers/${n}`);
     await refreshAllRegions(["rule-providers"]);
   } catch (err) {
     showError(err.message || '删除规则集合失败');
@@ -6751,10 +6755,8 @@ async function deleteRuleProvider(name) {
 
 async function deleteHost(name) {
   try {
-    await props.api.delete('/plugin/ClashRuleProvider/host', {
-      data: {
-        domain: name,
-      }
+    await props.api.delete('/plugin/ClashRuleProvider/hosts', {
+      domain: name
     });
     await refreshAllRegions(["hosts"]);
   } catch (err) {
@@ -6764,11 +6766,8 @@ async function deleteHost(name) {
 
 async function deleteProxyGroup(name) {
   try {
-    await props.api.delete('/plugin/ClashRuleProvider/proxy-group', {
-      data: {
-        name: name
-      }
-    });
+    const n = encodeURIComponent(name);
+    await props.api.delete(`/plugin/ClashRuleProvider/proxy-groups/${n}`);
     await refreshAllRegions(["proxy-groups", "clash-outbounds"]);
   } catch (err) {
     showError(err.message || '删除规则失败');
@@ -6777,11 +6776,7 @@ async function deleteProxyGroup(name) {
 
 async function deleteExtraProxies(name) {
   try {
-    await props.api.delete('/plugin/ClashRuleProvider/proxies', {
-      data: {
-        name: name
-      }
-    });
+    await props.api.delete(`/plugin/ClashRuleProvider/proxies/${name}`);
     await refreshAllRegions(["proxies", "clash-outbounds"]);
   } catch (err) {
     showError(err.message || '删除规则失败');
@@ -6797,7 +6792,7 @@ async function updateSubscription(url) {
 
   refreshingSubscription.value[url] = true;
   try {
-    await props.api.put('plugin/ClashRuleProvider/subscription', {
+    await props.api.put('plugin/ClashRuleProvider/refresh', {
       url: url
     });
     // 显示成功提示
@@ -6895,12 +6890,12 @@ async function refreshStatus() {
 }
 
 async function refreshTopRules() {
-  const response = await props.api.get('/plugin/ClashRuleProvider/rules?rule_type=top');
+  const response = await props.api.get('/plugin/ClashRuleProvider/rules/top');
   rules.value = response?.data.rules || [];
 }
 
 async function refreshRulesetRules() {
-  const response = await props.api.get('/plugin/ClashRuleProvider/rules?rule_type=ruleset');
+  const response = await props.api.get('/plugin/ClashRuleProvider/rules/ruleset');
   rulesetRules.value = response?.data.rules || [];
 }
 
@@ -6990,8 +6985,8 @@ async function refreshData() {
       proxyProvidersResponse,
     ] = await Promise.all([
       props.api.get('/plugin/ClashRuleProvider/status'),
-      props.api.get('/plugin/ClashRuleProvider/rules?rule_type=top'),
-      props.api.get('/plugin/ClashRuleProvider/rules?rule_type=ruleset'),
+      props.api.get('/plugin/ClashRuleProvider/rules/top'),
+      props.api.get('/plugin/ClashRuleProvider/rules/ruleset'),
       props.api.get('/plugin/ClashRuleProvider/clash-outbound'),
       props.api.get('/plugin/ClashRuleProvider/rule-providers'),
       props.api.get('/plugin/ClashRuleProvider/proxy-groups'),
@@ -7416,7 +7411,8 @@ return (_ctx, _cache) => {
                                         size: "small",
                                         color: "error",
                                         variant: "text",
-                                        onClick: $event => (deleteRule(item.priority, 'ruleset'))
+                                        onClick: $event => (deleteRule(item.priority, 'ruleset')),
+                                        loading: deleteLoading.value.ruleset
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
@@ -7427,7 +7423,7 @@ return (_ctx, _cache) => {
                                           })
                                         ]),
                                         _: 2
-                                      }, 1032, ["onClick"])
+                                      }, 1032, ["onClick", "loading"])
                                     ])
                                   ], 42, _hoisted_7)
                                 ]),
@@ -11310,6 +11306,6 @@ return (_ctx, _cache) => {
 }
 
 };
-const PageComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-8b230a99"]]);
+const PageComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-d178f9c6"]]);
 
 export { PageComponent as default };

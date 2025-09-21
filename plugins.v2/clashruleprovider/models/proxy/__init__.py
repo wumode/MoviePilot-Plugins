@@ -9,18 +9,19 @@ from .httpproxy import HttpProxy
 from .hysteriaproxy import HysteriaProxy
 from .hysteria2proxy import Hysteria2Proxy
 from .mieruproxy import MieruProxy
+from .networkmixin import NetworkMixin
 from .proxybase import ProxyBase
 from .shadowsocksproxy import ShadowsocksProxy
 from .shadowsocksrproxy import ShadowsocksRProxy
 from .snellproxy import SnellProxy
 from .socks5proxy import Socks5Proxy
 from .sshproxy import SshProxy
+from .tlsmixin import TLSMixin
 from .trojanproxy import TrojanProxy
 from .tuicproxy import TuicProxy
 from .vlessproxy import VlessProxy
 from .vmessproxy import VmessProxy
 from .wireguardproxy import WireGuardProxy
-
 
 ProxyType = Union[
     AnyTLSProxy,

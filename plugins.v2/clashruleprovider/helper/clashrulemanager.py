@@ -114,7 +114,7 @@ class ClashRuleManager:
                     return True
         return False
 
-    def reorder_rules(self, moved_priority: int, target_priority: int):
+    def reorder_rules(self, moved_priority: int, target_priority: int) -> RuleItem:
         """Reorder the rules"""
         if not (0 <= moved_priority < len(self.rules)):
             raise IndexError("moved_priority out of range")
@@ -122,6 +122,7 @@ class ClashRuleManager:
             raise IndexError("target_priority out of range")
         rule = self.rules.pop(moved_priority)
         self.rules.insert(target_priority, rule)
+        return rule
 
     def to_list(self) -> List[Dict[str, str]]:
         """Convert parsed rules to a list"""

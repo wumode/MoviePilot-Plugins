@@ -173,7 +173,7 @@ async function testConnection() {
 
     // 准备API请求参数
     const testParams = {
-      clash_dashboards: config.clash_dashboards,
+      clash_apis: config.clash_dashboards,
       sub_links: sub_links.value
     };
 
@@ -1507,6 +1507,6 @@ return (_ctx, _cache) => {
 }
 
 };
-const ConfigComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-9160bf0d"]]);
+const ConfigComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-527086e2"]]);
 
 export { ConfigComponent as default };

@@ -24,7 +24,7 @@ class Smux(BaseModel):
 class ProxyBase(BaseModel):
     name: str
     type: Literal['direct', 'dns', 'http', 'ss', 'ssr', 'mieru', 'snell', 'vmess', 'vless', 'trojan', 'anytls',
-                  'hysteria','hysteria2', 'tuic', 'wireguard', 'ssh']
+                  'hysteria','hysteria2', 'tuic', 'wireguard', 'ssh', 'socks5']
     server: str
     port: int
     ip_version: Optional[Literal['dual', 'ipv4', 'ipv6', 'ipv4-prefer', 'ipv6-prefer']] = Field(None,
@@ -36,4 +36,3 @@ class ProxyBase(BaseModel):
     mptcp: Optional[bool] = None
     dialer_proxy: Optional[str] = Field(None, alias='dialer-proxy')
     smux: Optional[Smux] = None
-
