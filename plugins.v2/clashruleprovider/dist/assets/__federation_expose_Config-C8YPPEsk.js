@@ -920,7 +920,7 @@ return (_ctx, _cache) => {
                                         return (_openBlock(), _createBlock(_component_v_row, { key: index }, {
                                           default: _withCtx(() => [
                                             _createVNode(_component_v_col, {
-                                              cols: "12",
+                                              cols: "2",
                                               md: "1",
                                               class: "d-flex align-center"
                                             }, {
@@ -934,7 +934,7 @@ return (_ctx, _cache) => {
                                               _: 2
                                             }, 1024),
                                             _createVNode(_component_v_col, {
-                                              cols: "12",
+                                              cols: "10",
                                               md: "5"
                                             }, {
                                               default: _withCtx(() => [
@@ -961,7 +961,7 @@ return (_ctx, _cache) => {
                                               _: 2
                                             }, 1024),
                                             _createVNode(_component_v_col, {
-                                              cols: "12",
+                                              cols: "10",
                                               md: "5"
                                             }, {
                                               default: _withCtx(() => [
@@ -990,7 +990,7 @@ return (_ctx, _cache) => {
                                               _: 2
                                             }, 1024),
                                             _createVNode(_component_v_col, {
-                                              cols: "12",
+                                              cols: "2",
                                               md: "1",
                                               class: "d-flex align-center"
                                             }, {
@@ -1508,6 +1508,6 @@ return (_ctx, _cache) => {
 }
 
 };
-const ConfigComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-c8bca33c"]]);
+const ConfigComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-5f383f33"]]);
 
 export { ConfigComponent as default };

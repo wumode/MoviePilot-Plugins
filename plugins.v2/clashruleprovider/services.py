@@ -57,8 +57,7 @@ class ClashRuleProviderService:
 
     def organize_and_save_rules(self):
         self.sync_ruleset()
-        self.plugin.save_data('top_rules', self.plugin.state.top_rules_manager.export_rules())
-        self.plugin.save_data('ruleset_rules', self.plugin.state.ruleset_rules_manager.export_rules())
+        self.plugin.save_rules()
 
     def ruleset(self, ruleset: str) -> List[str]:
         if not ruleset.startswith(self.plugin.config.ruleset_prefix):
@@ -495,7 +494,8 @@ class ClashRuleProviderService:
                              timedelta(seconds=self.plugin.config.refresh_delay),
                     args=(ruleset, self.plugin.config.dashboard_url,
                           self.plugin.config.dashboard_secret),
-                    id=f'CRP-notify-clash{ruleset}', replace_existing=True, misfire_grace_time=120
+                    id=f'CRP-notify-clash{ruleset}', replace_existing=True,
+                    misfire_grace_time=self.plugin.MISFIRE_GRACE_TIME
                 )
 
     def clash_config(self) -> Optional[Dict[str, Any]]:
@@ -750,7 +750,7 @@ class ClashRuleProviderService:
             if rule_type == 'ruleset':
                 manager = self.plugin.state.ruleset_rules_manager
                 original_rule = manager.get_rule_at_priority(src_priority)
-                rule_item = RuleItem(rule=clash_rule, remark=original_rule.remark)
+                rule_item = RuleItem(rule=clash_rule, remark=original_rule.remark, time_modified=time.time())
                 res = manager.update_rule_at_priority(rule_item, src_priority, dst_priority)
                 if res:
                     ruleset_to_notify = [f"{self.plugin.config.ruleset_prefix}{clash_rule.action}"]
@@ -760,7 +760,7 @@ class ClashRuleProviderService:
             else:
                 manager = self.plugin.state.top_rules_manager
                 original_rule = manager.get_rule_at_priority(src_priority)
-                rule_item = RuleItem(rule=clash_rule, remark=original_rule.remark)
+                rule_item = RuleItem(rule=clash_rule, remark=original_rule.remark, time_modified=time.time())
                 res = manager.update_rule_at_priority(rule_item, src_priority, dst_priority)
         except Exception as err:
             logger.info(f"Failed to update rules: {repr(err)}")
@@ -774,7 +774,7 @@ class ClashRuleProviderService:
             clash_rule = ClashRuleParser.parse_rule_dict(rule_data.dict(exclude_none=True))
             if not clash_rule:
                 return False, f"无效的输入规则: {rule_data.dict(exclude_none=True)}"
-            rule_item = RuleItem(rule=clash_rule, remark='Manual')
+            rule_item = RuleItem(rule=clash_rule, remark='Manual', time_modified=time.time())
             if rule_type == 'ruleset':
                 self.plugin.state.ruleset_rules_manager.insert_rule_at_priority(rule_item, priority)
                 self.add_notification_job([f"{self.plugin.config.ruleset_prefix}{clash_rule.action}"])

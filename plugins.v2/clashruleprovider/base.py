@@ -18,6 +18,7 @@ class _ClashRuleProviderBase(_PluginBase):
     }
     OVERWRITTEN_PROXIES_LIFETIME: Final[int] = 10
     ACL4SSR_API_URL: Final[str] = "https://api.github.com/repos/ACL4SSR/ACL4SSR/contents/"
+    MISFIRE_GRACE_TIME: Final[int] = 120
 
     def __init__(self):
         # Configuration attributes
@@ -38,4 +39,8 @@ class _ClashRuleProviderBase(_PluginBase):
 
     @abstractmethod
     def load_rules(self):
+        pass
+
+    @abstractmethod
+    def save_rules(self):
         pass

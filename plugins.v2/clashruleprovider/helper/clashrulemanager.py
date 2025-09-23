@@ -1,3 +1,5 @@
+import time
+
 from dataclasses import dataclass, field
 from typing import Callable, Dict, List, Optional, Union, Iterator
 
@@ -8,6 +10,7 @@ class RuleItem:
     """Clash rule item"""
     rule: Union[ClashRule, LogicRule, MatchRule]
     remark: str = field(default="")
+    time_modified: float = field(default=0)
 
 class ClashRuleManager:
     """Clash rule manager"""
@@ -18,13 +21,16 @@ class ClashRuleManager:
         self.rules = []
         for r in rules_list:
             rule = ClashRuleParser.parse_rule_line(r['rule'])
+            if rule is None:
+                continue
             remark = r.get('remark', '')
-            self.rules.append(RuleItem(rule=rule, remark=remark))
+            time_modified = r.get('time_modified', time.time())
+            self.rules.append(RuleItem(rule=rule, remark=remark, time_modified=time_modified))
 
     def export_rules(self) -> List[Dict[str, str]]:
         rules_list = []
         for rule in self.rules:
-            rules_list.append({'rule': rule.rule.raw_rule, 'remark': rule.remark})
+            rules_list.append({'rule': rule.rule.raw_rule, 'remark': rule.remark, 'time_modified': rule.time_modified})
         return rules_list
 
     def append_rules(self, clash_rules: List[RuleItem]):
@@ -128,7 +134,8 @@ class ClashRuleManager:
         """Convert parsed rules to a list"""
         result = []
         for priority, rule_item in enumerate(self.rules):
-            rule_dict = {'remark': rule_item.remark, 'priority': priority, **rule_item.rule.to_dict()}
+            rule_dict = {'remark': rule_item.remark, 'time_modified': rule_item.time_modified,'priority': priority,
+                         **rule_item.rule.to_dict()}
             result.append(rule_dict)
         return result
 

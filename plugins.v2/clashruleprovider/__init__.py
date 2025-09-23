@@ -1,5 +1,6 @@
 import copy
 import pytz
+import time
 import yaml
 from datetime import datetime, timedelta
 from typing import Any, Optional, List, Dict, Tuple
@@ -117,15 +118,15 @@ class ClashRuleProvider(_ClashRuleProviderBase):
         self.scheduler.start()
         now = datetime.now(tz=pytz.timezone(settings.TZ))
         self.scheduler.add_job(self.services.async_refresh_subscriptions, "date",
-                               run_date=now + timedelta(seconds=2), misfire_grace_time=120)
+                               run_date=now + timedelta(seconds=2), misfire_grace_time=self.MISFIRE_GRACE_TIME)
         if self.config.hint_geo_dat:
             self.scheduler.add_job(self.services.async_refresh_geo_dat, "date",
-                                   run_date=now + timedelta(seconds=3), misfire_grace_time=120)
+                                   run_date=now + timedelta(seconds=3), misfire_grace_time=self.MISFIRE_GRACE_TIME)
         else:
             self.state.geo_rules = {'geoip': [], 'geosite': []}
         if self.config.enable_acl4ssr:
             self.scheduler.add_job(self.services.async_refresh_acl4ssr, "date",
-                                   run_date=now + timedelta(seconds=4), misfire_grace_time=120)
+                                   run_date=now + timedelta(seconds=4), misfire_grace_time=self.MISFIRE_GRACE_TIME)
         else:
             self.state.acl4ssr_providers = {}
 
@@ -232,11 +233,15 @@ class ClashRuleProvider(_ClashRuleProviderBase):
             raw_rules = raw_rules or []
             rules = [self.__upgrade_rule(r) if isinstance(r, str) else r for r in raw_rules]
             manager.import_rules(rules)
-            if any(isinstance(r, str) for r in raw_rules):
+            if any((isinstance(r, str) or 'time_modified' not in r) for r in raw_rules):
                 self.save_data(key, manager.export_rules())
 
         process_rules(self.get_data("top_rules"), self.state.top_rules_manager, "top_rules")
         process_rules(self.get_data("ruleset_rules"), self.state.ruleset_rules_manager, "ruleset_rules")
+
+    def save_rules(self):
+        self.save_data('top_rules', self.state.top_rules_manager.export_rules())
+        self.save_data('ruleset_rules', self.state.ruleset_rules_manager.export_rules())
 
     def __upgrade_rule(self, rule_string: str) -> Dict[str, str]:
         rule = ClashRuleParser.parse_rule_line(rule_string)
@@ -244,7 +249,7 @@ class ClashRuleProvider(_ClashRuleProviderBase):
         if isinstance(rule, ClashRule) and rule.rule_type == RuleType.RULE_SET and rule.payload.startswith(
                 self.config.ruleset_prefix):
             remark = 'Auto'
-        return {'rule': rule_string, 'remark': remark}
+        return {'rule': rule_string, 'remark': remark, 'time_modified': time.time()}
 
     @eventmanager.register(EventType.PluginAction)
     def update_cloudflare_ips_handler(self, event: Event = None):
