@@ -3850,6 +3850,1214 @@ var jsYaml = {
 	safeDump: safeDump
 };
 
+const {toDisplayString:_toDisplayString$2,createTextVNode:_createTextVNode$2,resolveComponent:_resolveComponent$2,withCtx:_withCtx$2,createVNode:_createVNode$2,openBlock:_openBlock$2,createBlock:_createBlock$2,createCommentVNode:_createCommentVNode$2,createElementBlock:_createElementBlock$1,withModifiers:_withModifiers$2,createElementVNode:_createElementVNode$1} = await importShared('vue');
+
+
+const _hoisted_1$1 = { key: 0 };
+const _hoisted_2$1 = {
+  key: 0,
+  class: "mt-2"
+};
+const _hoisted_3$1 = {
+  key: 0,
+  class: "mt-2"
+};
+const _hoisted_4$1 = {
+  key: 0,
+  class: "mt-2"
+};
+const _hoisted_5$1 = {
+  key: 0,
+  class: "mt-2"
+};
+const _hoisted_6$1 = {
+  key: 0,
+  class: "mt-2"
+};
+const _hoisted_7$1 = { key: 0 };
+
+const {ref: ref$2,watch,computed: computed$2} = await importShared('vue');
+
+
+
+const _sfc_main$2 = {
+  __name: 'ProxiesDialog',
+  props: {
+  modelValue: {type: Boolean, default: false},
+  proxyData: {type: Object, default: null},
+  loading: {type: Boolean, default: false}
+},
+  emits: ['update:modelValue', 'save'],
+  setup(__props, { emit: __emit }) {
+
+const props = __props;
+
+const emit = __emit;
+
+const dialog = computed$2({
+  get: () => props.modelValue,
+  set: (value) => emit('update:modelValue', value)
+});
+
+const isEditing = computed$2(() => !!props.proxyData?.name);
+
+const proxyForm = ref$2(null);
+const tab = ref$2('general');
+const proxy = ref$2({});
+const wsHeaderString = ref$2('');
+const httpHeaderString = ref$2('');
+
+const jsonValidator = (value) => {
+  if (!value) return true
+  try {
+    JSON.parse(value);
+    return true
+  } catch (e) {
+    return '无效的JSON格式'
+  }
+};
+
+const proxyTypes = ['ss', 'ssr', 'vmess', 'vless', 'trojan', 'http', 'snell', 'tuic', 'hysteria', 'hysteria2'];
+
+// Default structure to avoid template errors
+const getDefaultProxy = () => ({
+  name: '',
+  type: 'ss',
+  server: '',
+  port: 443,
+  udp: false,
+  tfo: false,
+  mptcp: false,
+  tls: false,
+  'skip-cert-verify': false,
+  alpn: [],
+  network: null,
+  'ws-opts': {
+    path: '/',
+    headers: {},
+    'max-early-data': null,
+    'early-data-header-name': null,
+    'v2ray-http-upgrade': false,
+    'v2ray-http-upgrade-fast-open': false
+  },
+  'http-opts': {method: 'GET', path: ['/'], headers: {}},
+  'h2-opts': {host: [], path: '/'},
+  'grpc-opts': {'grpc-service-name': ''},
+  smux: {
+    enabled: false,
+    protocol: 'h2mux',
+    'max-connections': null,
+    'min-streams': null,
+    'max-streams': null,
+    padding: false,
+    statistic: false,
+    'only-tcp': false,
+    'brutal-opts': {
+      enabled: false,
+      up: null,
+      down: null
+    }
+  },
+  rescind: false,
+});
+
+// Watch for props changes to initialize data when the dialog opens
+watch(() => props.modelValue, (newValue) => {
+  // Guard to run only when the dialog opens
+  if (newValue) {
+    // Deep copy proxyData or use default.
+    const defaultProxy = getDefaultProxy();
+    proxy.value = JSON.parse(JSON.stringify(props.proxyData || defaultProxy));
+
+    // Ensure network field exists to prevent undefined model value
+    if (!('network' in proxy.value)) {
+      proxy.value.network = null;
+    }
+
+    // Ensure nested opts objects exist to prevent template errors
+    proxy.value['ws-opts'] = Object.assign({}, defaultProxy['ws-opts'], proxy.value['ws-opts']);
+    proxy.value['http-opts'] = Object.assign({}, defaultProxy['http-opts'], proxy.value['http-opts']);
+    proxy.value['h2-opts'] = Object.assign({}, defaultProxy['h2-opts'], proxy.value['h2-opts']);
+    proxy.value['grpc-opts'] = Object.assign({}, defaultProxy['grpc-opts'], proxy.value['grpc-opts']);
+    proxy.value.smux = Object.assign({}, defaultProxy.smux, proxy.value.smux);
+    proxy.value.smux['brutal-opts'] = Object.assign({}, defaultProxy.smux['brutal-opts'], proxy.value.smux['brutal-opts']);
+
+    // Convert headers object to JSON string for ws-opts for easier editing
+    if (proxy.value['ws-opts']?.headers) {
+      try {
+        wsHeaderString.value = JSON.stringify(proxy.value['ws-opts'].headers, null, 2);
+      } catch (e) {
+        wsHeaderString.value = '{}';
+      }
+    } else {
+      wsHeaderString.value = '{}';
+    }
+
+    // Convert headers object to JSON string for http-opts for easier editing
+    if (proxy.value['http-opts']?.headers) {
+      try {
+        httpHeaderString.value = JSON.stringify(proxy.value['http-opts'].headers, null, 2);
+      } catch (e) {
+        httpHeaderString.value = '{}';
+      }
+    } else {
+      httpHeaderString.value = '{}';
+    }
+  }
+}, {immediate: true});
+
+// Parse header strings back to objects before saving
+const parseHeaders = () => {
+  if (proxy.value.network === 'ws') {
+    try {
+      proxy.value['ws-opts'].headers = JSON.parse(wsHeaderString.value || '{}');
+    } catch (e) {
+      console.error("Invalid JSON format for ws headers:", e);
+      proxy.value['ws-opts'].headers = {};
+    }
+  }
+  if (proxy.value.network === 'http') {
+    try {
+      proxy.value['http-opts'].headers = JSON.parse(httpHeaderString.value || '{}');
+    } catch (e) {
+      console.error("Invalid JSON format for http headers:", e);
+      proxy.value['http-opts'].headers = {};
+    }
+  }
+};
+
+const handleSave = async () => {
+  const {valid} = await proxyForm.value.validate();
+  if (valid) {
+    parseHeaders();
+
+    // Create a clean proxy object to emit
+    const finalProxy = {...proxy.value};
+
+    // Clean up unused transport options
+    if (finalProxy.network !== 'ws') delete finalProxy['ws-opts'];
+    if (finalProxy.network !== 'http') delete finalProxy['http-opts'];
+    if (finalProxy.network !== 'h2') delete finalProxy['h2-opts'];
+    if (finalProxy.network !== 'grpc') delete finalProxy['grpc-opts'];
+
+    // Clean up smux if disabled
+    if (!finalProxy.smux?.enabled) {
+      delete finalProxy.smux;
+    } else if (!finalProxy.smux['brutal-opts']?.enabled) {
+      delete finalProxy.smux['brutal-opts'];
+    }
+
+    // Clean up unused TLS options
+    if (!finalProxy.tls) {
+      delete finalProxy.servername;
+      delete finalProxy.fingerprint;
+      delete finalProxy.alpn;
+      delete finalProxy['skip-cert-verify'];
+      delete finalProxy['client-fingerprint'];
+      delete finalProxy.sni;
+    } else {
+      // If TLS is enabled, clean up the one that is not used
+      if (['vmess', 'vless'].includes(finalProxy.type)) {
+        delete finalProxy.sni;
+      } else {
+        delete finalProxy.servername;
+      }
+      if (!['vmess', 'vless', 'trojan'].includes(finalProxy.type)) {
+        delete finalProxy['client-fingerprint'];
+      }
+    }
+    emit('save', finalProxy);
+  }
+};
+
+const handleCancel = () => {
+  dialog.value = false;
+};
+
+return (_ctx, _cache) => {
+  const _component_v_card_title = _resolveComponent$2("v-card-title");
+  const _component_v_tab = _resolveComponent$2("v-tab");
+  const _component_v_tabs = _resolveComponent$2("v-tabs");
+  const _component_v_text_field = _resolveComponent$2("v-text-field");
+  const _component_v_col = _resolveComponent$2("v-col");
+  const _component_v_select = _resolveComponent$2("v-select");
+  const _component_v_switch = _resolveComponent$2("v-switch");
+  const _component_v_row = _resolveComponent$2("v-row");
+  const _component_v_container = _resolveComponent$2("v-container");
+  const _component_v_window_item = _resolveComponent$2("v-window-item");
+  const _component_v_combobox = _resolveComponent$2("v-combobox");
+  const _component_v_expand_transition = _resolveComponent$2("v-expand-transition");
+  const _component_v_textarea = _resolveComponent$2("v-textarea");
+  const _component_v_card_text = _resolveComponent$2("v-card-text");
+  const _component_v_card = _resolveComponent$2("v-card");
+  const _component_v_window = _resolveComponent$2("v-window");
+  const _component_v_form = _resolveComponent$2("v-form");
+  const _component_v_alert = _resolveComponent$2("v-alert");
+  const _component_v_checkbox = _resolveComponent$2("v-checkbox");
+  const _component_v_spacer = _resolveComponent$2("v-spacer");
+  const _component_v_btn = _resolveComponent$2("v-btn");
+  const _component_v_card_actions = _resolveComponent$2("v-card-actions");
+  const _component_v_dialog = _resolveComponent$2("v-dialog");
+
+  return (_openBlock$2(), _createBlock$2(_component_v_dialog, {
+    modelValue: dialog.value,
+    "onUpdate:modelValue": _cache[45] || (_cache[45] = $event => ((dialog).value = $event)),
+    "max-width": "50rem",
+    persistent: ""
+  }, {
+    default: _withCtx$2(() => [
+      _createVNode$2(_component_v_card, null, {
+        default: _withCtx$2(() => [
+          _createVNode$2(_component_v_card_title, null, {
+            default: _withCtx$2(() => [
+              _createTextVNode$2(_toDisplayString$2(isEditing.value ? '覆写代理' : '添加代理'), 1)
+            ]),
+            _: 1
+          }),
+          _createVNode$2(_component_v_card_text, { class: "pa-2" }, {
+            default: _withCtx$2(() => [
+              _createVNode$2(_component_v_form, {
+                ref_key: "proxyForm",
+                ref: proxyForm,
+                onSubmit: _withModifiers$2(handleSave, ["prevent"])
+              }, {
+                default: _withCtx$2(() => [
+                  _createVNode$2(_component_v_tabs, {
+                    modelValue: tab.value,
+                    "onUpdate:modelValue": _cache[0] || (_cache[0] = $event => ((tab).value = $event)),
+                    "background-color": "primary",
+                    dark: "",
+                    grow: ""
+                  }, {
+                    default: _withCtx$2(() => [
+                      _createVNode$2(_component_v_tab, { value: "general" }, {
+                        default: _withCtx$2(() => _cache[46] || (_cache[46] = [
+                          _createTextVNode$2("通用")
+                        ])),
+                        _: 1
+                      }),
+                      _createVNode$2(_component_v_tab, { value: "tls" }, {
+                        default: _withCtx$2(() => _cache[47] || (_cache[47] = [
+                          _createTextVNode$2("TLS")
+                        ])),
+                        _: 1
+                      }),
+                      _createVNode$2(_component_v_tab, { value: "transport" }, {
+                        default: _withCtx$2(() => _cache[48] || (_cache[48] = [
+                          _createTextVNode$2("传输层")
+                        ])),
+                        _: 1
+                      })
+                    ]),
+                    _: 1
+                  }, 8, ["modelValue"]),
+                  _createVNode$2(_component_v_window, {
+                    modelValue: tab.value,
+                    "onUpdate:modelValue": _cache[43] || (_cache[43] = $event => ((tab).value = $event)),
+                    class: "pt-4"
+                  }, {
+                    default: _withCtx$2(() => [
+                      _createVNode$2(_component_v_window_item, { value: "general" }, {
+                        default: _withCtx$2(() => [
+                          _createVNode$2(_component_v_container, { fluid: "" }, {
+                            default: _withCtx$2(() => [
+                              _createVNode$2(_component_v_row, { dense: "" }, {
+                                default: _withCtx$2(() => [
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_text_field, {
+                                        modelValue: proxy.value.name,
+                                        "onUpdate:modelValue": _cache[1] || (_cache[1] = $event => ((proxy.value.name) = $event)),
+                                        disabled: "",
+                                        label: "名称 (name)",
+                                        rules: [v => !!v || '名称不能为空'],
+                                        hint: "代理名称",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue", "rules"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_select, {
+                                        modelValue: proxy.value.type,
+                                        "onUpdate:modelValue": _cache[2] || (_cache[2] = $event => ((proxy.value.type) = $event)),
+                                        label: "类型 (type)",
+                                        items: proxyTypes,
+                                        rules: [v => !!v || '类型不能为空'],
+                                        hint: "代理协议类型",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue", "rules"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_text_field, {
+                                        modelValue: proxy.value.server,
+                                        "onUpdate:modelValue": _cache[3] || (_cache[3] = $event => ((proxy.value.server) = $event)),
+                                        label: "服务器 (server)",
+                                        rules: [v => !!v || '服务器地址不能为空'],
+                                        hint: "代理服务器地址 (域名/IP)",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue", "rules"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_text_field, {
+                                        modelValue: proxy.value.port,
+                                        "onUpdate:modelValue": _cache[4] || (_cache[4] = $event => ((proxy.value.port) = $event)),
+                                        modelModifiers: { number: true },
+                                        label: "端口 (port)",
+                                        type: "number",
+                                        rules: [v => !!v || '端口不能为空'],
+                                        hint: "代理服务器端口",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue", "rules"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_select, {
+                                        modelValue: proxy.value['ip-version'],
+                                        "onUpdate:modelValue": _cache[5] || (_cache[5] = $event => ((proxy.value['ip-version']) = $event)),
+                                        label: "IP版本 (ip-version)",
+                                        items: ['dual', 'ipv4', 'ipv6', 'ipv4-prefer', 'ipv6-prefer'],
+                                        hint: "出站使用的IP版本",
+                                        clearable: "",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_text_field, {
+                                        modelValue: proxy.value['interface-name'],
+                                        "onUpdate:modelValue": _cache[6] || (_cache[6] = $event => ((proxy.value['interface-name']) = $event)),
+                                        label: "网络接口 (interface-name)",
+                                        hint: "指定出站网络接口",
+                                        clearable: "",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_text_field, {
+                                        modelValue: proxy.value['routing-mark'],
+                                        "onUpdate:modelValue": _cache[7] || (_cache[7] = $event => ((proxy.value['routing-mark']) = $event)),
+                                        modelModifiers: { number: true },
+                                        label: "路由标记 (routing-mark)",
+                                        type: "number",
+                                        hint: "为出站连接设置路由标记",
+                                        clearable: "",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "12",
+                                    md: "6"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_text_field, {
+                                        modelValue: proxy.value['dialer-proxy'],
+                                        "onUpdate:modelValue": _cache[8] || (_cache[8] = $event => ((proxy.value['dialer-proxy']) = $event)),
+                                        label: "拨号代理 (dialer-proxy)",
+                                        hint: "指定当前代理通过哪个代理建立连接",
+                                        clearable: "",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "4",
+                                    sm: "4"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_switch, {
+                                        modelValue: proxy.value.udp,
+                                        "onUpdate:modelValue": _cache[9] || (_cache[9] = $event => ((proxy.value.udp) = $event)),
+                                        label: "UDP",
+                                        hint: "是否允许UDP",
+                                        inset: "",
+                                        color: "primary"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "4",
+                                    sm: "4"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_switch, {
+                                        modelValue: proxy.value.tfo,
+                                        "onUpdate:modelValue": _cache[10] || (_cache[10] = $event => ((proxy.value.tfo) = $event)),
+                                        label: "TFO",
+                                        hint: "启用 TCP Fast Open",
+                                        inset: "",
+                                        color: "primary"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  }),
+                                  _createVNode$2(_component_v_col, {
+                                    cols: "4",
+                                    sm: "4"
+                                  }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_switch, {
+                                        modelValue: proxy.value.mptcp,
+                                        "onUpdate:modelValue": _cache[11] || (_cache[11] = $event => ((proxy.value.mptcp) = $event)),
+                                        label: "MPTCP",
+                                        hint: "启用 Multi-Path TCP",
+                                        inset: "",
+                                        color: "primary"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  })
+                                ]),
+                                _: 1
+                              })
+                            ]),
+                            _: 1
+                          })
+                        ]),
+                        _: 1
+                      }),
+                      _createVNode$2(_component_v_window_item, { value: "tls" }, {
+                        default: _withCtx$2(() => [
+                          _createVNode$2(_component_v_container, { fluid: "" }, {
+                            default: _withCtx$2(() => [
+                              _createVNode$2(_component_v_row, { dense: "" }, {
+                                default: _withCtx$2(() => [
+                                  _createVNode$2(_component_v_col, { cols: "12" }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_switch, {
+                                        modelValue: proxy.value.tls,
+                                        "onUpdate:modelValue": _cache[12] || (_cache[12] = $event => ((proxy.value.tls) = $event)),
+                                        label: "启用 TLS",
+                                        inset: "",
+                                        color: "primary"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  })
+                                ]),
+                                _: 1
+                              }),
+                              _createVNode$2(_component_v_expand_transition, null, {
+                                default: _withCtx$2(() => [
+                                  (proxy.value.tls)
+                                    ? (_openBlock$2(), _createElementBlock$1("div", _hoisted_1$1, [
+                                        _createVNode$2(_component_v_row, { dense: "" }, {
+                                          default: _withCtx$2(() => [
+                                            _createVNode$2(_component_v_col, {
+                                              cols: "12",
+                                              md: "6"
+                                            }, {
+                                              default: _withCtx$2(() => [
+                                                (['vmess', 'vless'].includes(proxy.value.type))
+                                                  ? (_openBlock$2(), _createBlock$2(_component_v_text_field, {
+                                                      key: 0,
+                                                      modelValue: proxy.value.servername,
+                                                      "onUpdate:modelValue": _cache[13] || (_cache[13] = $event => ((proxy.value.servername) = $event)),
+                                                      label: "服务器名称 (servername)",
+                                                      hint: "TLS服务器名称(SNI)",
+                                                      clearable: "",
+                                                      "persistent-hint": "",
+                                                      variant: "outlined"
+                                                    }, null, 8, ["modelValue"]))
+                                                  : (_openBlock$2(), _createBlock$2(_component_v_text_field, {
+                                                      key: 1,
+                                                      modelValue: proxy.value.sni,
+                                                      "onUpdate:modelValue": _cache[14] || (_cache[14] = $event => ((proxy.value.sni) = $event)),
+                                                      label: "SNI",
+                                                      hint: "TLS服务器名称(SNI)",
+                                                      clearable: "",
+                                                      "persistent-hint": "",
+                                                      variant: "outlined"
+                                                    }, null, 8, ["modelValue"]))
+                                              ]),
+                                              _: 1
+                                            }),
+                                            _createVNode$2(_component_v_col, {
+                                              cols: "12",
+                                              md: "6"
+                                            }, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_text_field, {
+                                                  modelValue: proxy.value.fingerprint,
+                                                  "onUpdate:modelValue": _cache[15] || (_cache[15] = $event => ((proxy.value.fingerprint) = $event)),
+                                                  label: "指纹 (fingerprint)",
+                                                  hint: "证书指纹",
+                                                  clearable: "",
+                                                  "persistent-hint": "",
+                                                  variant: "outlined"
+                                                }, null, 8, ["modelValue"])
+                                              ]),
+                                              _: 1
+                                            }),
+                                            _createVNode$2(_component_v_col, { cols: "12" }, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_combobox, {
+                                                  modelValue: proxy.value.alpn,
+                                                  "onUpdate:modelValue": _cache[16] || (_cache[16] = $event => ((proxy.value.alpn) = $event)),
+                                                  label: "ALPN",
+                                                  hint: "应用层协议协商",
+                                                  multiple: "",
+                                                  chips: "",
+                                                  clearable: "",
+                                                  "deletable-chips": "",
+                                                  "persistent-hint": "",
+                                                  variant: "outlined"
+                                                }, null, 8, ["modelValue"])
+                                              ]),
+                                              _: 1
+                                            }),
+                                            (['vmess', 'vless', 'trojan'].includes(proxy.value.type))
+                                              ? (_openBlock$2(), _createBlock$2(_component_v_col, {
+                                                  key: 0,
+                                                  cols: "12",
+                                                  md: "6"
+                                                }, {
+                                                  default: _withCtx$2(() => [
+                                                    _createVNode$2(_component_v_select, {
+                                                      modelValue: proxy.value['client-fingerprint'],
+                                                      "onUpdate:modelValue": _cache[17] || (_cache[17] = $event => ((proxy.value['client-fingerprint']) = $event)),
+                                                      label: "客户端指纹 (client-fingerprint)",
+                                                      items: ['chrome', 'firefox', 'safari', 'ios', 'android', 'edge', '360', 'qq', 'random'],
+                                                      hint: "uTLS客户端指紋",
+                                                      clearable: "",
+                                                      "persistent-hint": "",
+                                                      variant: "outlined"
+                                                    }, null, 8, ["modelValue"])
+                                                  ]),
+                                                  _: 1
+                                                }))
+                                              : _createCommentVNode$2("", true),
+                                            _createVNode$2(_component_v_col, {
+                                              cols: "12",
+                                              md: "6",
+                                              class: "d-flex align-center"
+                                            }, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_switch, {
+                                                  modelValue: proxy.value['skip-cert-verify'],
+                                                  "onUpdate:modelValue": _cache[18] || (_cache[18] = $event => ((proxy.value['skip-cert-verify']) = $event)),
+                                                  label: "跳过证书验证",
+                                                  inset: "",
+                                                  "persistent-hint": "",
+                                                  color: "primary"
+                                                }, null, 8, ["modelValue"])
+                                              ]),
+                                              _: 1
+                                            })
+                                          ]),
+                                          _: 1
+                                        })
+                                      ]))
+                                    : _createCommentVNode$2("", true)
+                                ]),
+                                _: 1
+                              })
+                            ]),
+                            _: 1
+                          })
+                        ]),
+                        _: 1
+                      }),
+                      _createVNode$2(_component_v_window_item, { value: "transport" }, {
+                        default: _withCtx$2(() => [
+                          _createVNode$2(_component_v_container, { fluid: "" }, {
+                            default: _withCtx$2(() => [
+                              _createVNode$2(_component_v_row, null, {
+                                default: _withCtx$2(() => [
+                                  _createVNode$2(_component_v_col, { cols: "12" }, {
+                                    default: _withCtx$2(() => [
+                                      _createVNode$2(_component_v_select, {
+                                        modelValue: proxy.value.network,
+                                        "onUpdate:modelValue": _cache[19] || (_cache[19] = $event => ((proxy.value.network) = $event)),
+                                        label: "网络 (network)",
+                                        items: ['http', 'h2', 'grpc', 'ws'],
+                                        hint: "传输层协议",
+                                        clearable: "",
+                                        "persistent-hint": "",
+                                        variant: "outlined"
+                                      }, null, 8, ["modelValue"])
+                                    ]),
+                                    _: 1
+                                  })
+                                ]),
+                                _: 1
+                              }),
+                              _createVNode$2(_component_v_expand_transition, null, {
+                                default: _withCtx$2(() => [
+                                  (proxy.value.network === 'ws')
+                                    ? (_openBlock$2(), _createElementBlock$1("div", _hoisted_2$1, [
+                                        _createVNode$2(_component_v_card, { variant: "tonal" }, {
+                                          default: _withCtx$2(() => [
+                                            _createVNode$2(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
+                                              default: _withCtx$2(() => _cache[49] || (_cache[49] = [
+                                                _createTextVNode$2("WebSocket 选项")
+                                              ])),
+                                              _: 1
+                                            }),
+                                            _createVNode$2(_component_v_card_text, null, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_row, null, {
+                                                  default: _withCtx$2(() => [
+                                                    _createVNode$2(_component_v_col, {
+                                                      cols: "12",
+                                                      md: "6"
+                                                    }, {
+                                                      default: _withCtx$2(() => [
+                                                        _createVNode$2(_component_v_switch, {
+                                                          modelValue: proxy.value['ws-opts']['v2ray-http-upgrade'],
+                                                          "onUpdate:modelValue": _cache[20] || (_cache[20] = $event => ((proxy.value['ws-opts']['v2ray-http-upgrade']) = $event)),
+                                                          label: "v2ray-http-upgrade",
+                                                          hint: "启用 http upgrade",
+                                                          inset: "",
+                                                          color: "primary"
+                                                        }, null, 8, ["modelValue"])
+                                                      ]),
+                                                      _: 1
+                                                    }),
+                                                    _createVNode$2(_component_v_col, {
+                                                      cols: "12",
+                                                      md: "6"
+                                                    }, {
+                                                      default: _withCtx$2(() => [
+                                                        _createVNode$2(_component_v_switch, {
+                                                          modelValue: proxy.value['ws-opts']['v2ray-http-upgrade-fast-open'],
+                                                          "onUpdate:modelValue": _cache[21] || (_cache[21] = $event => ((proxy.value['ws-opts']['v2ray-http-upgrade-fast-open']) = $event)),
+                                                          label: "v2ray-http-upgrade-fast-open",
+                                                          hint: "启用 http upgrade 的 fast open",
+                                                          inset: "",
+                                                          color: "primary"
+                                                        }, null, 8, ["modelValue"])
+                                                      ]),
+                                                      _: 1
+                                                    })
+                                                  ]),
+                                                  _: 1
+                                                }),
+                                                _createVNode$2(_component_v_text_field, {
+                                                  modelValue: proxy.value['ws-opts'].path,
+                                                  "onUpdate:modelValue": _cache[22] || (_cache[22] = $event => ((proxy.value['ws-opts'].path) = $event)),
+                                                  label: "路径 (path)",
+                                                  hint: "WebSocket请求路径",
+                                                  variant: "outlined",
+                                                  class: "mb-2"
+                                                }, null, 8, ["modelValue"]),
+                                                _createVNode$2(_component_v_text_field, {
+                                                  modelValue: proxy.value['ws-opts']['max-early-data'],
+                                                  "onUpdate:modelValue": _cache[23] || (_cache[23] = $event => ((proxy.value['ws-opts']['max-early-data']) = $event)),
+                                                  modelModifiers: { number: true },
+                                                  label: "max-early-data",
+                                                  type: "number",
+                                                  hint: "Early Data 首包长度阈值",
+                                                  variant: "outlined",
+                                                  class: "mb-2",
+                                                  clearable: ""
+                                                }, null, 8, ["modelValue"]),
+                                                _createVNode$2(_component_v_text_field, {
+                                                  modelValue: proxy.value['ws-opts']['early-data-header-name'],
+                                                  "onUpdate:modelValue": _cache[24] || (_cache[24] = $event => ((proxy.value['ws-opts']['early-data-header-name']) = $event)),
+                                                  label: "early-data-header-name",
+                                                  variant: "outlined",
+                                                  class: "mb-2",
+                                                  clearable: ""
+                                                }, null, 8, ["modelValue"]),
+                                                _createVNode$2(_component_v_textarea, {
+                                                  modelValue: wsHeaderString.value,
+                                                  "onUpdate:modelValue": _cache[25] || (_cache[25] = $event => ((wsHeaderString).value = $event)),
+                                                  label: "请求头 (headers)",
+                                                  hint: "请输入JSON格式字符串, 例如: {\"Host\":\"example.com\"}",
+                                                  variant: "outlined",
+                                                  rows: "3",
+                                                  rules: [jsonValidator]
+                                                }, null, 8, ["modelValue", "rules"])
+                                              ]),
+                                              _: 1
+                                            })
+                                          ]),
+                                          _: 1
+                                        })
+                                      ]))
+                                    : _createCommentVNode$2("", true)
+                                ]),
+                                _: 1
+                              }),
+                              _createVNode$2(_component_v_expand_transition, null, {
+                                default: _withCtx$2(() => [
+                                  (proxy.value.network === 'http')
+                                    ? (_openBlock$2(), _createElementBlock$1("div", _hoisted_3$1, [
+                                        _createVNode$2(_component_v_card, { variant: "tonal" }, {
+                                          default: _withCtx$2(() => [
+                                            _createVNode$2(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
+                                              default: _withCtx$2(() => _cache[50] || (_cache[50] = [
+                                                _createTextVNode$2("HTTP 选项")
+                                              ])),
+                                              _: 1
+                                            }),
+                                            _createVNode$2(_component_v_card_text, null, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_text_field, {
+                                                  modelValue: proxy.value['http-opts'].method,
+                                                  "onUpdate:modelValue": _cache[26] || (_cache[26] = $event => ((proxy.value['http-opts'].method) = $event)),
+                                                  label: "方法 (method)",
+                                                  hint: "HTTP请求方法",
+                                                  variant: "outlined",
+                                                  class: "mb-2"
+                                                }, null, 8, ["modelValue"]),
+                                                _createVNode$2(_component_v_combobox, {
+                                                  modelValue: proxy.value['http-opts'].path,
+                                                  "onUpdate:modelValue": _cache[27] || (_cache[27] = $event => ((proxy.value['http-opts'].path) = $event)),
+                                                  label: "路径 (path)",
+                                                  hint: "HTTP请求路径",
+                                                  multiple: "",
+                                                  chips: "",
+                                                  clearable: "",
+                                                  "deletable-chips": "",
+                                                  variant: "outlined",
+                                                  class: "mb-2"
+                                                }, null, 8, ["modelValue"]),
+                                                _createVNode$2(_component_v_textarea, {
+                                                  modelValue: httpHeaderString.value,
+                                                  "onUpdate:modelValue": _cache[28] || (_cache[28] = $event => ((httpHeaderString).value = $event)),
+                                                  label: "请求头 (headers)",
+                                                  hint: "请输入JSON格式字符串, 例如: {\"Host\":\"example.com\"}",
+                                                  variant: "outlined",
+                                                  rows: "3",
+                                                  rules: [jsonValidator]
+                                                }, null, 8, ["modelValue", "rules"])
+                                              ]),
+                                              _: 1
+                                            })
+                                          ]),
+                                          _: 1
+                                        })
+                                      ]))
+                                    : _createCommentVNode$2("", true)
+                                ]),
+                                _: 1
+                              }),
+                              _createVNode$2(_component_v_expand_transition, null, {
+                                default: _withCtx$2(() => [
+                                  (proxy.value.network === 'h2')
+                                    ? (_openBlock$2(), _createElementBlock$1("div", _hoisted_4$1, [
+                                        _createVNode$2(_component_v_card, { variant: "tonal" }, {
+                                          default: _withCtx$2(() => [
+                                            _createVNode$2(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
+                                              default: _withCtx$2(() => _cache[51] || (_cache[51] = [
+                                                _createTextVNode$2("H2 选项")
+                                              ])),
+                                              _: 1
+                                            }),
+                                            _createVNode$2(_component_v_card_text, null, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_text_field, {
+                                                  modelValue: proxy.value['h2-opts'].path,
+                                                  "onUpdate:modelValue": _cache[29] || (_cache[29] = $event => ((proxy.value['h2-opts'].path) = $event)),
+                                                  label: "路径 (path)",
+                                                  hint: "H2请求路径",
+                                                  variant: "outlined",
+                                                  class: "mb-2"
+                                                }, null, 8, ["modelValue"]),
+                                                _createVNode$2(_component_v_combobox, {
+                                                  modelValue: proxy.value['h2-opts'].host,
+                                                  "onUpdate:modelValue": _cache[30] || (_cache[30] = $event => ((proxy.value['h2-opts'].host) = $event)),
+                                                  label: "主机 (host)",
+                                                  hint: "主机域名列表",
+                                                  multiple: "",
+                                                  chips: "",
+                                                  clearable: "",
+                                                  "deletable-chips": "",
+                                                  variant: "outlined"
+                                                }, null, 8, ["modelValue"])
+                                              ]),
+                                              _: 1
+                                            })
+                                          ]),
+                                          _: 1
+                                        })
+                                      ]))
+                                    : _createCommentVNode$2("", true)
+                                ]),
+                                _: 1
+                              }),
+                              _createVNode$2(_component_v_expand_transition, null, {
+                                default: _withCtx$2(() => [
+                                  (proxy.value.network === 'grpc')
+                                    ? (_openBlock$2(), _createElementBlock$1("div", _hoisted_5$1, [
+                                        _createVNode$2(_component_v_card, { variant: "tonal" }, {
+                                          default: _withCtx$2(() => [
+                                            _createVNode$2(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
+                                              default: _withCtx$2(() => _cache[52] || (_cache[52] = [
+                                                _createTextVNode$2("gRPC 选项")
+                                              ])),
+                                              _: 1
+                                            }),
+                                            _createVNode$2(_component_v_card_text, null, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_text_field, {
+                                                  modelValue: proxy.value['grpc-opts']['grpc-service-name'],
+                                                  "onUpdate:modelValue": _cache[31] || (_cache[31] = $event => ((proxy.value['grpc-opts']['grpc-service-name']) = $event)),
+                                                  label: "服务名称 (grpc-service-name)",
+                                                  hint: "gRPC服务名称",
+                                                  variant: "outlined"
+                                                }, null, 8, ["modelValue"])
+                                              ]),
+                                              _: 1
+                                            })
+                                          ]),
+                                          _: 1
+                                        })
+                                      ]))
+                                    : _createCommentVNode$2("", true)
+                                ]),
+                                _: 1
+                              }),
+                              _createVNode$2(_component_v_expand_transition, null, {
+                                default: _withCtx$2(() => [
+                                  (!proxy.value.network || proxy.value.network === 'tcp')
+                                    ? (_openBlock$2(), _createElementBlock$1("div", _hoisted_6$1, [
+                                        _createVNode$2(_component_v_card, { variant: "tonal" }, {
+                                          default: _withCtx$2(() => [
+                                            _createVNode$2(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
+                                              default: _withCtx$2(() => _cache[53] || (_cache[53] = [
+                                                _createTextVNode$2("Smux 选项")
+                                              ])),
+                                              _: 1
+                                            }),
+                                            _createVNode$2(_component_v_card_text, null, {
+                                              default: _withCtx$2(() => [
+                                                _createVNode$2(_component_v_row, { dense: "" }, {
+                                                  default: _withCtx$2(() => [
+                                                    _createVNode$2(_component_v_col, { cols: "12" }, {
+                                                      default: _withCtx$2(() => [
+                                                        _createVNode$2(_component_v_switch, {
+                                                          modelValue: proxy.value.smux.enabled,
+                                                          "onUpdate:modelValue": _cache[32] || (_cache[32] = $event => ((proxy.value.smux.enabled) = $event)),
+                                                          label: "启用 Smux",
+                                                          inset: "",
+                                                          color: "primary"
+                                                        }, null, 8, ["modelValue"])
+                                                      ]),
+                                                      _: 1
+                                                    })
+                                                  ]),
+                                                  _: 1
+                                                }),
+                                                _createVNode$2(_component_v_expand_transition, null, {
+                                                  default: _withCtx$2(() => [
+                                                    (proxy.value.smux.enabled)
+                                                      ? (_openBlock$2(), _createElementBlock$1("div", _hoisted_7$1, [
+                                                          _createVNode$2(_component_v_row, { dense: "" }, {
+                                                            default: _withCtx$2(() => [
+                                                              _createVNode$2(_component_v_col, {
+                                                                cols: "12",
+                                                                md: "6"
+                                                              }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_select, {
+                                                                    modelValue: proxy.value.smux.protocol,
+                                                                    "onUpdate:modelValue": _cache[33] || (_cache[33] = $event => ((proxy.value.smux.protocol) = $event)),
+                                                                    label: "协议 (protocol)",
+                                                                    items: ['smux', 'yamux', 'h2mux'],
+                                                                    hint: "Smux协议类型",
+                                                                    variant: "outlined"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              }),
+                                                              _createVNode$2(_component_v_col, {
+                                                                cols: "12",
+                                                                md: "6"
+                                                              }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_text_field, {
+                                                                    modelValue: proxy.value.smux['max-connections'],
+                                                                    "onUpdate:modelValue": _cache[34] || (_cache[34] = $event => ((proxy.value.smux['max-connections']) = $event)),
+                                                                    modelModifiers: { number: true },
+                                                                    label: "最大连接数 (max-connections)",
+                                                                    type: "number",
+                                                                    hint: "最大复用连接数",
+                                                                    clearable: "",
+                                                                    variant: "outlined"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              }),
+                                                              _createVNode$2(_component_v_col, {
+                                                                cols: "12",
+                                                                md: "6"
+                                                              }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_text_field, {
+                                                                    modelValue: proxy.value.smux['min-streams'],
+                                                                    "onUpdate:modelValue": _cache[35] || (_cache[35] = $event => ((proxy.value.smux['min-streams']) = $event)),
+                                                                    modelModifiers: { number: true },
+                                                                    label: "最小流数 (min-streams)",
+                                                                    type: "number",
+                                                                    hint: "每个连接的最小流数",
+                                                                    clearable: "",
+                                                                    variant: "outlined"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              }),
+                                                              _createVNode$2(_component_v_col, {
+                                                                cols: "12",
+                                                                md: "6"
+                                                              }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_text_field, {
+                                                                    modelValue: proxy.value.smux['max-streams'],
+                                                                    "onUpdate:modelValue": _cache[36] || (_cache[36] = $event => ((proxy.value.smux['max-streams']) = $event)),
+                                                                    modelModifiers: { number: true },
+                                                                    label: "最大流数 (max-streams)",
+                                                                    type: "number",
+                                                                    hint: "每个连接的最大流数",
+                                                                    clearable: "",
+                                                                    variant: "outlined"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              }),
+                                                              _createVNode$2(_component_v_col, {
+                                                                cols: "4",
+                                                                sm: "4"
+                                                              }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_switch, {
+                                                                    modelValue: proxy.value.smux.padding,
+                                                                    "onUpdate:modelValue": _cache[37] || (_cache[37] = $event => ((proxy.value.smux.padding) = $event)),
+                                                                    label: "Padding",
+                                                                    hint: "启用Padding",
+                                                                    inset: "",
+                                                                    color: "primary"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              }),
+                                                              _createVNode$2(_component_v_col, {
+                                                                cols: "4",
+                                                                sm: "4"
+                                                              }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_switch, {
+                                                                    modelValue: proxy.value.smux.statistic,
+                                                                    "onUpdate:modelValue": _cache[38] || (_cache[38] = $event => ((proxy.value.smux.statistic) = $event)),
+                                                                    label: "Statistic",
+                                                                    hint: "启用统计",
+                                                                    inset: "",
+                                                                    color: "primary"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              }),
+                                                              _createVNode$2(_component_v_col, {
+                                                                cols: "4",
+                                                                sm: "4"
+                                                              }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_switch, {
+                                                                    modelValue: proxy.value.smux['only-tcp'],
+                                                                    "onUpdate:modelValue": _cache[39] || (_cache[39] = $event => ((proxy.value.smux['only-tcp']) = $event)),
+                                                                    label: "Only TCP",
+                                                                    hint: "仅用于TCP",
+                                                                    inset: "",
+                                                                    color: "primary"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              }),
+                                                              _createVNode$2(_component_v_col, { cols: "12" }, {
+                                                                default: _withCtx$2(() => [
+                                                                  _createVNode$2(_component_v_switch, {
+                                                                    modelValue: proxy.value.smux['brutal-opts'].enabled,
+                                                                    "onUpdate:modelValue": _cache[40] || (_cache[40] = $event => ((proxy.value.smux['brutal-opts'].enabled) = $event)),
+                                                                    label: "启用 Brutal 优化",
+                                                                    inset: "",
+                                                                    color: "primary"
+                                                                  }, null, 8, ["modelValue"])
+                                                                ]),
+                                                                _: 1
+                                                              })
+                                                            ]),
+                                                            _: 1
+                                                          }),
+                                                          _createVNode$2(_component_v_expand_transition, null, {
+                                                            default: _withCtx$2(() => [
+                                                              (proxy.value.smux['brutal-opts'].enabled)
+                                                                ? (_openBlock$2(), _createBlock$2(_component_v_row, {
+                                                                    key: 0,
+                                                                    dense: ""
+                                                                  }, {
+                                                                    default: _withCtx$2(() => [
+                                                                      _createVNode$2(_component_v_col, {
+                                                                        cols: "12",
+                                                                        md: "6"
+                                                                      }, {
+                                                                        default: _withCtx$2(() => [
+                                                                          _createVNode$2(_component_v_text_field, {
+                                                                            modelValue: proxy.value.smux['brutal-opts'].up,
+                                                                            "onUpdate:modelValue": _cache[41] || (_cache[41] = $event => ((proxy.value.smux['brutal-opts'].up) = $event)),
+                                                                            modelModifiers: { number: true },
+                                                                            label: "上行带宽 (up)",
+                                                                            hint: "上行带宽, 默认以 Mbps 为单位",
+                                                                            clearable: "",
+                                                                            variant: "outlined"
+                                                                          }, null, 8, ["modelValue"])
+                                                                        ]),
+                                                                        _: 1
+                                                                      }),
+                                                                      _createVNode$2(_component_v_col, {
+                                                                        cols: "12",
+                                                                        md: "6"
+                                                                      }, {
+                                                                        default: _withCtx$2(() => [
+                                                                          _createVNode$2(_component_v_text_field, {
+                                                                            modelValue: proxy.value.smux['brutal-opts'].down,
+                                                                            "onUpdate:modelValue": _cache[42] || (_cache[42] = $event => ((proxy.value.smux['brutal-opts'].down) = $event)),
+                                                                            modelModifiers: { number: true },
+                                                                            label: "下行带宽 (down)",
+                                                                            hint: "下行带宽, 默认以 Mbps 为单位",
+                                                                            clearable: "",
+                                                                            variant: "outlined"
+                                                                          }, null, 8, ["modelValue"])
+                                                                        ]),
+                                                                        _: 1
+                                                                      })
+                                                                    ]),
+                                                                    _: 1
+                                                                  }))
+                                                                : _createCommentVNode$2("", true)
+                                                            ]),
+                                                            _: 1
+                                                          })
+                                                        ]))
+                                                      : _createCommentVNode$2("", true)
+                                                  ]),
+                                                  _: 1
+                                                })
+                                              ]),
+                                              _: 1
+                                            })
+                                          ]),
+                                          _: 1
+                                        })
+                                      ]))
+                                    : _createCommentVNode$2("", true)
+                                ]),
+                                _: 1
+                              })
+                            ]),
+                            _: 1
+                          })
+                        ]),
+                        _: 1
+                      })
+                    ]),
+                    _: 1
+                  }, 8, ["modelValue"])
+                ]),
+                _: 1
+              }, 512),
+              _createVNode$2(_component_v_alert, {
+                type: "info",
+                text: "",
+                variant: "tonal"
+              }, {
+                default: _withCtx$2(() => _cache[54] || (_cache[54] = [
+                  _createTextVNode$2(" 参考"),
+                  _createElementVNode$1("a", {
+                    href: "https://wiki.metacubex.one/config/proxies/",
+                    target: "_blank",
+                    style: {"text-decoration":"underline"}
+                  }, "Docs", -1),
+                  _createTextVNode$2(", 覆写某些选项可能导致代理不可用。 ")
+                ])),
+                _: 1
+              })
+            ]),
+            _: 1
+          }),
+          _createVNode$2(_component_v_card_actions, null, {
+            default: _withCtx$2(() => [
+              _createVNode$2(_component_v_checkbox, {
+                modelValue: proxy.value.rescind,
+                "onUpdate:modelValue": _cache[44] || (_cache[44] = $event => ((proxy.value.rescind) = $event)),
+                label: "删除覆写"
+              }, null, 8, ["modelValue"]),
+              _createVNode$2(_component_v_spacer),
+              _createVNode$2(_component_v_btn, {
+                text: "",
+                onClick: handleCancel
+              }, {
+                default: _withCtx$2(() => _cache[55] || (_cache[55] = [
+                  _createTextVNode$2("取消")
+                ])),
+                _: 1
+              }),
+              _createVNode$2(_component_v_btn, {
+                color: "primary",
+                loading: __props.loading,
+                disabled: __props.loading,
+                onClick: handleSave
+              }, {
+                default: _withCtx$2(() => _cache[56] || (_cache[56] = [
+                  _createTextVNode$2("保存")
+                ])),
+                _: 1
+              }, 8, ["loading", "disabled"])
+            ]),
+            _: 1
+          })
+        ]),
+        _: 1
+      })
+    ]),
+    _: 1
+  }, 8, ["modelValue"]))
+}
+}
+
+};
+const ProxiesDialog = /*#__PURE__*/_export_sfc(_sfc_main$2, [['__scopeId',"data-v-5b19bb19"]]);
+
 /**
  * lodash (Custom Build) <https://lodash.com/>
  * Build: `lodash modularize exports="npm" -o ./`
@@ -4230,1205 +5438,399 @@ var lodash_debounce = debounce;
 
 const debounce$1 = /*@__PURE__*/getDefaultExportFromCjs(lodash_debounce);
 
-const {toDisplayString:_toDisplayString$1,createTextVNode:_createTextVNode$1,resolveComponent:_resolveComponent$1,withCtx:_withCtx$1,createVNode:_createVNode$1,openBlock:_openBlock$1,createBlock:_createBlock$1,createCommentVNode:_createCommentVNode$1,createElementBlock:_createElementBlock$1,withModifiers:_withModifiers$1,createElementVNode:_createElementVNode$1} = await importShared('vue');
+const {toDisplayString:_toDisplayString$1,createTextVNode:_createTextVNode$1,resolveComponent:_resolveComponent$1,withCtx:_withCtx$1,createVNode:_createVNode$1,openBlock:_openBlock$1,createBlock:_createBlock$1,createCommentVNode:_createCommentVNode$1,withModifiers:_withModifiers$1} = await importShared('vue');
 
 
-const _hoisted_1$1 = { key: 0 };
-const _hoisted_2$1 = {
-  key: 0,
-  class: "mt-2"
-};
-const _hoisted_3$1 = {
-  key: 0,
-  class: "mt-2"
-};
-const _hoisted_4$1 = {
-  key: 0,
-  class: "mt-2"
-};
-const _hoisted_5$1 = {
-  key: 0,
-  class: "mt-2"
-};
-const _hoisted_6$1 = {
-  key: 0,
-  class: "mt-2"
-};
-const _hoisted_7$1 = { key: 0 };
-
-const {ref: ref$1,watch,computed: computed$1} = await importShared('vue');
-
+const {ref: ref$1,computed: computed$1} = await importShared('vue');
 
 
 const _sfc_main$1 = {
-  __name: 'ProxiesDialog',
+  __name: 'RuleDialog',
   props: {
-  modelValue: {type: Boolean, default: false},
-  proxyData: {type: Object, default: null},
-  loading: {type: Boolean, default: false}
+  // 父组件传递的规则数据
+  initialRule: {
+    type: Object,
+    default: () => ({
+      type: 'DOMAIN',
+      payload: null,
+      action: 'DIRECT',
+      priority: 0,
+      additional_params: null,
+      conditions: [],
+      condition: null
+    })
+  },
+  // 控制对话框的显示与隐藏
+  showDialog: {
+    type: Boolean,
+    default: false
+  },
+  isAddingRule: {
+    type: Boolean,
+    default: true
+  },
+  editingType: {
+    type: String,
+    default: 'top'
+  },
+  ruleProviderNames: {
+    type: Array,
+    default: () => []
+  },
+  geoIp: {
+    type: Array,
+    default: () => []
+  },
+  geoSite: {
+    type: Array,
+    default: () => []
+  },
+  customOutbounds: {
+    type: Array,
+    default: () => []
+  },
+  loading: {
+    type: Boolean,
+    default: false
+  }
 },
-  emits: ['update:modelValue', 'save'],
+  emits: ['save', 'update:showDialog'],
   setup(__props, { emit: __emit }) {
 
+
+const ruleForm = ref$1(null);
+const geoSearch = ref$1('');
+const geoIPSearch = ref$1('');
+const geoFilterLoading = ref$1(false);
+const filteredGeoItems = ref$1([]);
+const ruleTypes = computed$1(() => {
+  const allTypes = [
+    'DOMAIN', 'DOMAIN-SUFFIX', 'DOMAIN-KEYWORD', 'DOMAIN-REGEX', 'DOMAIN-WILDCARD', 'GEOSITE', 'GEOIP',
+    'IP-CIDR', 'IP-CIDR6', 'IP-SUFFIX', 'IP-ASN',
+    'SRC-GEOIP', 'SRC-IP-ASN', 'SRC-IP-CIDR', 'SRC-IP-SUFFIX',
+    'DST-PORT', 'SRC-PORT', 'IN-PORT', 'IN-TYPE', 'IN-USER', 'IN-NAME',
+    'PROCESS-PATH', 'PROCESS-PATH-REGEX', 'PROCESS-NAME', 'PROCESS-NAME-REGEX',
+    'UID', 'NETWORK', 'DSCP', 'RULE-SET', 'AND', 'OR', 'NOT', 'SUB-RULE', 'MATCH'
+  ];
+
+  // 如果是 ruleset 规则，过滤掉 SUB-RULE 和 RULE-SET
+  if (props.editingType.value === 'ruleset') {
+    return allTypes.filter(type => !['SUB-RULE', 'RULE-SET'].includes(type));
+  }
+  return allTypes;
+});
+const showAdditionalParams = computed$1(() => {
+  return ['IP-CIDR', 'IP-CIDR6', 'IP-ASN', 'GEOIP'].includes(rule.value.type);
+});
+const onGeoSearch = (val) => {
+  geoSearch.value = val;
+  performGeoSiteFilter(val);
+};
+const onGeoIPSearch = (val) => {
+  geoIPSearch.value = val;
+  performGeoIPFilter(val);
+};
+const performGeoSiteFilter = debounce$1((val) => {
+  if (!val) {
+    filteredGeoItems.value = [];
+    geoFilterLoading.value = false;
+    return
+  }
+  geoFilterLoading.value = true;
+  filteredGeoItems.value = props.geoSite.filter(item =>
+      item.toLowerCase().includes(val.toLowerCase())
+  );
+  geoFilterLoading.value = false;
+}, 100); // 10ms debounce
+
+const performGeoIPFilter = debounce$1((val) => {
+  if (!val) {
+    filteredGeoItems.value = [];
+    geoFilterLoading.value = false;
+    return
+  }
+  geoFilterLoading.value = true;
+  filteredGeoItems.value = props.geoIp.filter(item =>
+      item.toLowerCase().includes(val.toLowerCase())
+  );
+  geoFilterLoading.value = false;
+}, 200); // 20ms debounce
+
+// 当输入框失去焦点时，将当前搜索词设置为选中项（如果它不在候选列表中）
+const onGeoSiteBlur = () => {
+  if (!filteredGeoItems.value.includes(geoSearch.value)) {
+    rule.value.payload = geoSearch.value;
+  }
+};
+const onGeoIPBlur = () => {
+  if (!filteredGeoItems.value.includes(geoIPSearch.value)) {
+    rule.value.payload = geoIPSearch.value;
+  }
+};
+
+const actions = computed$1(() => [
+  'DIRECT', 'REJECT', 'REJECT-DROP', 'PASS', 'COMPATIBLE',
+  ...props.customOutbounds.map(outbound => outbound.name)
+]);
+
+const additionalParamOptions = ref$1([
+  {title: '无', value: ''},
+  {title: 'no-resolve', value: 'no-resolve'},
+  {title: 'src', value: 'src'}
+]);
+
+
+// 1. 定义 Props
+// 使用 defineProps 宏。传入的参数与 defineComponent 的 props 选项内容相同
 const props = __props;
 
+// 2. 定义 Emits
+// 使用 defineEmits 宏。传入一个字符串数组，列出组件会触发的事件
 const emit = __emit;
 
-const dialog = computed$1({
-  get: () => props.modelValue,
-  set: (value) => emit('update:modelValue', value)
+// 3. 响应式数据
+// 将 props 中的 initialRule 复制到 rule 中，以便在组件内部修改而不影响父组件的 prop
+const rule = ref$1({...props.initialRule});
+
+const show = computed$1({
+  get: () => props.showDialog,
+  set: (value) => emit('update:showDialog', value)
 });
 
-const isEditing = computed$1(() => !!props.proxyData?.name);
 
-const proxyForm = ref$1(null);
-const tab = ref$1('general');
-const proxy = ref$1({});
-const wsHeaderString = ref$1('');
-const httpHeaderString = ref$1('');
-
-const jsonValidator = (value) => {
-  if (!value) return true
-  try {
-    JSON.parse(value);
-    return true
-  } catch (e) {
-    return '无效的JSON格式'
-  }
-};
-
-const proxyTypes = ['ss', 'ssr', 'vmess', 'vless', 'trojan', 'http', 'snell', 'tuic', 'hysteria', 'hysteria2'];
-
-// Default structure to avoid template errors
-const getDefaultProxy = () => ({
-  name: '',
-  type: 'ss',
-  server: '',
-  port: 443,
-  udp: false,
-  tfo: false,
-  mptcp: false,
-  tls: false,
-  'skip-cert-verify': false,
-  alpn: [],
-  network: null,
-  'ws-opts': {
-    path: '/',
-    headers: {},
-    'max-early-data': null,
-    'early-data-header-name': null,
-    'v2ray-http-upgrade': false,
-    'v2ray-http-upgrade-fast-open': false
-  },
-  'http-opts': {method: 'GET', path: ['/'], headers: {}},
-  'h2-opts': {host: [], path: '/'},
-  'grpc-opts': {'grpc-service-name': ''},
-  smux: {
-    enabled: false,
-    protocol: 'h2mux',
-    'max-connections': null,
-    'min-streams': null,
-    'max-streams': null,
-    padding: false,
-    statistic: false,
-    'only-tcp': false,
-    'brutal-opts': {
-      enabled: false,
-      up: null,
-      down: null
-    }
-  },
-  rescind: false,
+const payloadRules = computed$1(() => {
+  return [
+    (v) => {
+      // 如果 type 是 'MATCH'，允许 payload 为空
+      if (rule.value.type === 'MATCH') {
+        return true; // 不验证
+      }
+      // 否则，payload 不能为空
+      return !!v || '内容不能为空';
+    },
+  ];
 });
 
-// Watch for props changes to initialize data when the dialog opens
-watch(() => props.modelValue, (newValue) => {
-  // Guard to run only when the dialog opens
-  if (newValue) {
-    // Deep copy proxyData or use default.
-    const defaultProxy = getDefaultProxy();
-    proxy.value = JSON.parse(JSON.stringify(props.proxyData || defaultProxy));
-
-    // Ensure network field exists to prevent undefined model value
-    if (!('network' in proxy.value)) {
-      proxy.value.network = null;
-    }
-
-    // Ensure nested opts objects exist to prevent template errors
-    proxy.value['ws-opts'] = Object.assign({}, defaultProxy['ws-opts'], proxy.value['ws-opts']);
-    proxy.value['http-opts'] = Object.assign({}, defaultProxy['http-opts'], proxy.value['http-opts']);
-    proxy.value['h2-opts'] = Object.assign({}, defaultProxy['h2-opts'], proxy.value['h2-opts']);
-    proxy.value['grpc-opts'] = Object.assign({}, defaultProxy['grpc-opts'], proxy.value['grpc-opts']);
-    proxy.value.smux = Object.assign({}, defaultProxy.smux, proxy.value.smux);
-    proxy.value.smux['brutal-opts'] = Object.assign({}, defaultProxy.smux['brutal-opts'], proxy.value.smux['brutal-opts']);
-
-    // Convert headers object to JSON string for ws-opts for easier editing
-    if (proxy.value['ws-opts']?.headers) {
-      try {
-        wsHeaderString.value = JSON.stringify(proxy.value['ws-opts'].headers, null, 2);
-      } catch (e) {
-        wsHeaderString.value = '{}';
-      }
-    } else {
-      wsHeaderString.value = '{}';
-    }
-
-    // Convert headers object to JSON string for http-opts for easier editing
-    if (proxy.value['http-opts']?.headers) {
-      try {
-        httpHeaderString.value = JSON.stringify(proxy.value['http-opts'].headers, null, 2);
-      } catch (e) {
-        httpHeaderString.value = '{}';
-      }
-    } else {
-      httpHeaderString.value = '{}';
-    }
-  }
-}, {immediate: true});
-
-// Parse header strings back to objects before saving
-const parseHeaders = () => {
-  if (proxy.value.network === 'ws') {
-    try {
-      proxy.value['ws-opts'].headers = JSON.parse(wsHeaderString.value || '{}');
-    } catch (e) {
-      console.error("Invalid JSON format for ws headers:", e);
-      proxy.value['ws-opts'].headers = {};
-    }
-  }
-  if (proxy.value.network === 'http') {
-    try {
-      proxy.value['http-opts'].headers = JSON.parse(httpHeaderString.value || '{}');
-    } catch (e) {
-      console.error("Invalid JSON format for http headers:", e);
-      proxy.value['http-opts'].headers = {};
-    }
-  }
-};
-
-const handleSave = async () => {
-  const {valid} = await proxyForm.value.validate();
+// 4. 方法
+// 提交表单
+const submitForm = async () => {
+  const {valid} = await ruleForm.value.validate();
   if (valid) {
-    parseHeaders();
-
-    // Create a clean proxy object to emit
-    const finalProxy = {...proxy.value};
-
-    // Clean up unused transport options
-    if (finalProxy.network !== 'ws') delete finalProxy['ws-opts'];
-    if (finalProxy.network !== 'http') delete finalProxy['http-opts'];
-    if (finalProxy.network !== 'h2') delete finalProxy['h2-opts'];
-    if (finalProxy.network !== 'grpc') delete finalProxy['grpc-opts'];
-
-    // Clean up smux if disabled
-    if (!finalProxy.smux?.enabled) {
-      delete finalProxy.smux;
-    } else if (!finalProxy.smux['brutal-opts']?.enabled) {
-      delete finalProxy.smux['brutal-opts'];
-    }
-
-    // Clean up unused TLS options
-    if (!finalProxy.tls) {
-      delete finalProxy.servername;
-      delete finalProxy.fingerprint;
-      delete finalProxy.alpn;
-      delete finalProxy['skip-cert-verify'];
-      delete finalProxy['client-fingerprint'];
-      delete finalProxy.sni;
-    } else {
-      // If TLS is enabled, clean up the one that is not used
-      if (['vmess', 'vless'].includes(finalProxy.type)) {
-        delete finalProxy.sni;
-      } else {
-        delete finalProxy.servername;
-      }
-      if (!['vmess', 'vless', 'trojan'].includes(finalProxy.type)) {
-        delete finalProxy['client-fingerprint'];
-      }
-    }
-    emit('save', finalProxy);
+    // 触发父组件的保存事件
+    emit('save', rule.value);
+    // 关闭对话框
+    // emit('update:showDialog', false);
   }
 };
 
-const handleCancel = () => {
-  dialog.value = false;
+// 关闭对话框
+const closeDialog = () => {
+  emit('update:showDialog', false);
 };
+
 
 return (_ctx, _cache) => {
   const _component_v_card_title = _resolveComponent$1("v-card-title");
-  const _component_v_tab = _resolveComponent$1("v-tab");
-  const _component_v_tabs = _resolveComponent$1("v-tabs");
-  const _component_v_text_field = _resolveComponent$1("v-text-field");
-  const _component_v_col = _resolveComponent$1("v-col");
   const _component_v_select = _resolveComponent$1("v-select");
-  const _component_v_switch = _resolveComponent$1("v-switch");
-  const _component_v_row = _resolveComponent$1("v-row");
-  const _component_v_container = _resolveComponent$1("v-container");
-  const _component_v_window_item = _resolveComponent$1("v-window-item");
+  const _component_v_autocomplete = _resolveComponent$1("v-autocomplete");
   const _component_v_combobox = _resolveComponent$1("v-combobox");
-  const _component_v_expand_transition = _resolveComponent$1("v-expand-transition");
-  const _component_v_textarea = _resolveComponent$1("v-textarea");
+  const _component_v_text_field = _resolveComponent$1("v-text-field");
   const _component_v_card_text = _resolveComponent$1("v-card-text");
-  const _component_v_card = _resolveComponent$1("v-card");
-  const _component_v_window = _resolveComponent$1("v-window");
-  const _component_v_form = _resolveComponent$1("v-form");
-  const _component_v_alert = _resolveComponent$1("v-alert");
-  const _component_v_checkbox = _resolveComponent$1("v-checkbox");
   const _component_v_spacer = _resolveComponent$1("v-spacer");
   const _component_v_btn = _resolveComponent$1("v-btn");
   const _component_v_card_actions = _resolveComponent$1("v-card-actions");
+  const _component_v_card = _resolveComponent$1("v-card");
+  const _component_v_form = _resolveComponent$1("v-form");
   const _component_v_dialog = _resolveComponent$1("v-dialog");
 
   return (_openBlock$1(), _createBlock$1(_component_v_dialog, {
-    modelValue: dialog.value,
-    "onUpdate:modelValue": _cache[45] || (_cache[45] = $event => ((dialog).value = $event)),
-    "max-width": "50rem",
-    persistent: ""
+    modelValue: show.value,
+    "onUpdate:modelValue": _cache[11] || (_cache[11] = $event => ((show).value = $event)),
+    "max-width": "40rem"
   }, {
     default: _withCtx$1(() => [
-      _createVNode$1(_component_v_card, null, {
+      _createVNode$1(_component_v_form, {
+        ref_key: "ruleForm",
+        ref: ruleForm,
+        onSubmit: _withModifiers$1(submitForm, ["prevent"])
+      }, {
         default: _withCtx$1(() => [
-          _createVNode$1(_component_v_card_title, null, {
+          _createVNode$1(_component_v_card, null, {
             default: _withCtx$1(() => [
-              _createTextVNode$1(_toDisplayString$1(isEditing.value ? '覆写代理' : '添加代理'), 1)
-            ]),
-            _: 1
-          }),
-          _createVNode$1(_component_v_card_text, { class: "pa-2" }, {
-            default: _withCtx$1(() => [
-              _createVNode$1(_component_v_form, {
-                ref_key: "proxyForm",
-                ref: proxyForm,
-                onSubmit: _withModifiers$1(handleSave, ["prevent"])
-              }, {
+              _createVNode$1(_component_v_card_title, null, {
                 default: _withCtx$1(() => [
-                  _createVNode$1(_component_v_tabs, {
-                    modelValue: tab.value,
-                    "onUpdate:modelValue": _cache[0] || (_cache[0] = $event => ((tab).value = $event)),
-                    "background-color": "primary",
-                    dark: "",
-                    grow: ""
-                  }, {
-                    default: _withCtx$1(() => [
-                      _createVNode$1(_component_v_tab, { value: "general" }, {
-                        default: _withCtx$1(() => _cache[46] || (_cache[46] = [
-                          _createTextVNode$1("通用")
-                        ])),
-                        _: 1
-                      }),
-                      _createVNode$1(_component_v_tab, { value: "tls" }, {
-                        default: _withCtx$1(() => _cache[47] || (_cache[47] = [
-                          _createTextVNode$1("TLS")
-                        ])),
-                        _: 1
-                      }),
-                      _createVNode$1(_component_v_tab, { value: "transport" }, {
-                        default: _withCtx$1(() => _cache[48] || (_cache[48] = [
-                          _createTextVNode$1("传输层")
-                        ])),
-                        _: 1
-                      })
-                    ]),
-                    _: 1
-                  }, 8, ["modelValue"]),
-                  _createVNode$1(_component_v_window, {
-                    modelValue: tab.value,
-                    "onUpdate:modelValue": _cache[43] || (_cache[43] = $event => ((tab).value = $event)),
-                    class: "pt-4"
-                  }, {
-                    default: _withCtx$1(() => [
-                      _createVNode$1(_component_v_window_item, { value: "general" }, {
-                        default: _withCtx$1(() => [
-                          _createVNode$1(_component_v_container, { fluid: "" }, {
-                            default: _withCtx$1(() => [
-                              _createVNode$1(_component_v_row, { dense: "" }, {
-                                default: _withCtx$1(() => [
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_text_field, {
-                                        modelValue: proxy.value.name,
-                                        "onUpdate:modelValue": _cache[1] || (_cache[1] = $event => ((proxy.value.name) = $event)),
-                                        disabled: "",
-                                        label: "名称 (name)",
-                                        rules: [v => !!v || '名称不能为空'],
-                                        hint: "代理名称",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue", "rules"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_select, {
-                                        modelValue: proxy.value.type,
-                                        "onUpdate:modelValue": _cache[2] || (_cache[2] = $event => ((proxy.value.type) = $event)),
-                                        label: "类型 (type)",
-                                        items: proxyTypes,
-                                        rules: [v => !!v || '类型不能为空'],
-                                        hint: "代理协议类型",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue", "rules"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_text_field, {
-                                        modelValue: proxy.value.server,
-                                        "onUpdate:modelValue": _cache[3] || (_cache[3] = $event => ((proxy.value.server) = $event)),
-                                        label: "服务器 (server)",
-                                        rules: [v => !!v || '服务器地址不能为空'],
-                                        hint: "代理服务器地址 (域名/IP)",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue", "rules"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_text_field, {
-                                        modelValue: proxy.value.port,
-                                        "onUpdate:modelValue": _cache[4] || (_cache[4] = $event => ((proxy.value.port) = $event)),
-                                        modelModifiers: { number: true },
-                                        label: "端口 (port)",
-                                        type: "number",
-                                        rules: [v => !!v || '端口不能为空'],
-                                        hint: "代理服务器端口",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue", "rules"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_select, {
-                                        modelValue: proxy.value['ip-version'],
-                                        "onUpdate:modelValue": _cache[5] || (_cache[5] = $event => ((proxy.value['ip-version']) = $event)),
-                                        label: "IP版本 (ip-version)",
-                                        items: ['dual', 'ipv4', 'ipv6', 'ipv4-prefer', 'ipv6-prefer'],
-                                        hint: "出站使用的IP版本",
-                                        clearable: "",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_text_field, {
-                                        modelValue: proxy.value['interface-name'],
-                                        "onUpdate:modelValue": _cache[6] || (_cache[6] = $event => ((proxy.value['interface-name']) = $event)),
-                                        label: "网络接口 (interface-name)",
-                                        hint: "指定出站网络接口",
-                                        clearable: "",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_text_field, {
-                                        modelValue: proxy.value['routing-mark'],
-                                        "onUpdate:modelValue": _cache[7] || (_cache[7] = $event => ((proxy.value['routing-mark']) = $event)),
-                                        modelModifiers: { number: true },
-                                        label: "路由标记 (routing-mark)",
-                                        type: "number",
-                                        hint: "为出站连接设置路由标记",
-                                        clearable: "",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "12",
-                                    md: "6"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_text_field, {
-                                        modelValue: proxy.value['dialer-proxy'],
-                                        "onUpdate:modelValue": _cache[8] || (_cache[8] = $event => ((proxy.value['dialer-proxy']) = $event)),
-                                        label: "拨号代理 (dialer-proxy)",
-                                        hint: "指定当前代理通过哪个代理建立连接",
-                                        clearable: "",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "4",
-                                    sm: "4"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_switch, {
-                                        modelValue: proxy.value.udp,
-                                        "onUpdate:modelValue": _cache[9] || (_cache[9] = $event => ((proxy.value.udp) = $event)),
-                                        label: "UDP",
-                                        hint: "是否允许UDP",
-                                        inset: "",
-                                        color: "primary"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "4",
-                                    sm: "4"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_switch, {
-                                        modelValue: proxy.value.tfo,
-                                        "onUpdate:modelValue": _cache[10] || (_cache[10] = $event => ((proxy.value.tfo) = $event)),
-                                        label: "TFO",
-                                        hint: "启用 TCP Fast Open",
-                                        inset: "",
-                                        color: "primary"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  }),
-                                  _createVNode$1(_component_v_col, {
-                                    cols: "4",
-                                    sm: "4"
-                                  }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_switch, {
-                                        modelValue: proxy.value.mptcp,
-                                        "onUpdate:modelValue": _cache[11] || (_cache[11] = $event => ((proxy.value.mptcp) = $event)),
-                                        label: "MPTCP",
-                                        hint: "启用 Multi-Path TCP",
-                                        inset: "",
-                                        color: "primary"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  })
-                                ]),
-                                _: 1
-                              })
-                            ]),
-                            _: 1
-                          })
-                        ]),
-                        _: 1
-                      }),
-                      _createVNode$1(_component_v_window_item, { value: "tls" }, {
-                        default: _withCtx$1(() => [
-                          _createVNode$1(_component_v_container, { fluid: "" }, {
-                            default: _withCtx$1(() => [
-                              _createVNode$1(_component_v_row, { dense: "" }, {
-                                default: _withCtx$1(() => [
-                                  _createVNode$1(_component_v_col, { cols: "12" }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_switch, {
-                                        modelValue: proxy.value.tls,
-                                        "onUpdate:modelValue": _cache[12] || (_cache[12] = $event => ((proxy.value.tls) = $event)),
-                                        label: "启用 TLS",
-                                        inset: "",
-                                        color: "primary"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  })
-                                ]),
-                                _: 1
-                              }),
-                              _createVNode$1(_component_v_expand_transition, null, {
-                                default: _withCtx$1(() => [
-                                  (proxy.value.tls)
-                                    ? (_openBlock$1(), _createElementBlock$1("div", _hoisted_1$1, [
-                                        _createVNode$1(_component_v_row, { dense: "" }, {
-                                          default: _withCtx$1(() => [
-                                            _createVNode$1(_component_v_col, {
-                                              cols: "12",
-                                              md: "6"
-                                            }, {
-                                              default: _withCtx$1(() => [
-                                                (['vmess', 'vless'].includes(proxy.value.type))
-                                                  ? (_openBlock$1(), _createBlock$1(_component_v_text_field, {
-                                                      key: 0,
-                                                      modelValue: proxy.value.servername,
-                                                      "onUpdate:modelValue": _cache[13] || (_cache[13] = $event => ((proxy.value.servername) = $event)),
-                                                      label: "服务器名称 (servername)",
-                                                      hint: "TLS服务器名称(SNI)",
-                                                      clearable: "",
-                                                      "persistent-hint": "",
-                                                      variant: "outlined"
-                                                    }, null, 8, ["modelValue"]))
-                                                  : (_openBlock$1(), _createBlock$1(_component_v_text_field, {
-                                                      key: 1,
-                                                      modelValue: proxy.value.sni,
-                                                      "onUpdate:modelValue": _cache[14] || (_cache[14] = $event => ((proxy.value.sni) = $event)),
-                                                      label: "SNI",
-                                                      hint: "TLS服务器名称(SNI)",
-                                                      clearable: "",
-                                                      "persistent-hint": "",
-                                                      variant: "outlined"
-                                                    }, null, 8, ["modelValue"]))
-                                              ]),
-                                              _: 1
-                                            }),
-                                            _createVNode$1(_component_v_col, {
-                                              cols: "12",
-                                              md: "6"
-                                            }, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_text_field, {
-                                                  modelValue: proxy.value.fingerprint,
-                                                  "onUpdate:modelValue": _cache[15] || (_cache[15] = $event => ((proxy.value.fingerprint) = $event)),
-                                                  label: "指纹 (fingerprint)",
-                                                  hint: "证书指纹",
-                                                  clearable: "",
-                                                  "persistent-hint": "",
-                                                  variant: "outlined"
-                                                }, null, 8, ["modelValue"])
-                                              ]),
-                                              _: 1
-                                            }),
-                                            _createVNode$1(_component_v_col, { cols: "12" }, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_combobox, {
-                                                  modelValue: proxy.value.alpn,
-                                                  "onUpdate:modelValue": _cache[16] || (_cache[16] = $event => ((proxy.value.alpn) = $event)),
-                                                  label: "ALPN",
-                                                  hint: "应用层协议协商",
-                                                  multiple: "",
-                                                  chips: "",
-                                                  clearable: "",
-                                                  "deletable-chips": "",
-                                                  "persistent-hint": "",
-                                                  variant: "outlined"
-                                                }, null, 8, ["modelValue"])
-                                              ]),
-                                              _: 1
-                                            }),
-                                            (['vmess', 'vless', 'trojan'].includes(proxy.value.type))
-                                              ? (_openBlock$1(), _createBlock$1(_component_v_col, {
-                                                  key: 0,
-                                                  cols: "12",
-                                                  md: "6"
-                                                }, {
-                                                  default: _withCtx$1(() => [
-                                                    _createVNode$1(_component_v_select, {
-                                                      modelValue: proxy.value['client-fingerprint'],
-                                                      "onUpdate:modelValue": _cache[17] || (_cache[17] = $event => ((proxy.value['client-fingerprint']) = $event)),
-                                                      label: "客户端指纹 (client-fingerprint)",
-                                                      items: ['chrome', 'firefox', 'safari', 'ios', 'android', 'edge', '360', 'qq', 'random'],
-                                                      hint: "uTLS客户端指紋",
-                                                      clearable: "",
-                                                      "persistent-hint": "",
-                                                      variant: "outlined"
-                                                    }, null, 8, ["modelValue"])
-                                                  ]),
-                                                  _: 1
-                                                }))
-                                              : _createCommentVNode$1("", true),
-                                            _createVNode$1(_component_v_col, {
-                                              cols: "12",
-                                              md: "6",
-                                              class: "d-flex align-center"
-                                            }, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_switch, {
-                                                  modelValue: proxy.value['skip-cert-verify'],
-                                                  "onUpdate:modelValue": _cache[18] || (_cache[18] = $event => ((proxy.value['skip-cert-verify']) = $event)),
-                                                  label: "跳过证书验证",
-                                                  inset: "",
-                                                  "persistent-hint": "",
-                                                  color: "primary"
-                                                }, null, 8, ["modelValue"])
-                                              ]),
-                                              _: 1
-                                            })
-                                          ]),
-                                          _: 1
-                                        })
-                                      ]))
-                                    : _createCommentVNode$1("", true)
-                                ]),
-                                _: 1
-                              })
-                            ]),
-                            _: 1
-                          })
-                        ]),
-                        _: 1
-                      }),
-                      _createVNode$1(_component_v_window_item, { value: "transport" }, {
-                        default: _withCtx$1(() => [
-                          _createVNode$1(_component_v_container, { fluid: "" }, {
-                            default: _withCtx$1(() => [
-                              _createVNode$1(_component_v_row, null, {
-                                default: _withCtx$1(() => [
-                                  _createVNode$1(_component_v_col, { cols: "12" }, {
-                                    default: _withCtx$1(() => [
-                                      _createVNode$1(_component_v_select, {
-                                        modelValue: proxy.value.network,
-                                        "onUpdate:modelValue": _cache[19] || (_cache[19] = $event => ((proxy.value.network) = $event)),
-                                        label: "网络 (network)",
-                                        items: ['http', 'h2', 'grpc', 'ws'],
-                                        hint: "传输层协议",
-                                        clearable: "",
-                                        "persistent-hint": "",
-                                        variant: "outlined"
-                                      }, null, 8, ["modelValue"])
-                                    ]),
-                                    _: 1
-                                  })
-                                ]),
-                                _: 1
-                              }),
-                              _createVNode$1(_component_v_expand_transition, null, {
-                                default: _withCtx$1(() => [
-                                  (proxy.value.network === 'ws')
-                                    ? (_openBlock$1(), _createElementBlock$1("div", _hoisted_2$1, [
-                                        _createVNode$1(_component_v_card, { variant: "tonal" }, {
-                                          default: _withCtx$1(() => [
-                                            _createVNode$1(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
-                                              default: _withCtx$1(() => _cache[49] || (_cache[49] = [
-                                                _createTextVNode$1("WebSocket 选项")
-                                              ])),
-                                              _: 1
-                                            }),
-                                            _createVNode$1(_component_v_card_text, null, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_row, null, {
-                                                  default: _withCtx$1(() => [
-                                                    _createVNode$1(_component_v_col, {
-                                                      cols: "12",
-                                                      md: "6"
-                                                    }, {
-                                                      default: _withCtx$1(() => [
-                                                        _createVNode$1(_component_v_switch, {
-                                                          modelValue: proxy.value['ws-opts']['v2ray-http-upgrade'],
-                                                          "onUpdate:modelValue": _cache[20] || (_cache[20] = $event => ((proxy.value['ws-opts']['v2ray-http-upgrade']) = $event)),
-                                                          label: "v2ray-http-upgrade",
-                                                          hint: "启用 http upgrade",
-                                                          inset: "",
-                                                          color: "primary"
-                                                        }, null, 8, ["modelValue"])
-                                                      ]),
-                                                      _: 1
-                                                    }),
-                                                    _createVNode$1(_component_v_col, {
-                                                      cols: "12",
-                                                      md: "6"
-                                                    }, {
-                                                      default: _withCtx$1(() => [
-                                                        _createVNode$1(_component_v_switch, {
-                                                          modelValue: proxy.value['ws-opts']['v2ray-http-upgrade-fast-open'],
-                                                          "onUpdate:modelValue": _cache[21] || (_cache[21] = $event => ((proxy.value['ws-opts']['v2ray-http-upgrade-fast-open']) = $event)),
-                                                          label: "v2ray-http-upgrade-fast-open",
-                                                          hint: "启用 http upgrade 的 fast open",
-                                                          inset: "",
-                                                          color: "primary"
-                                                        }, null, 8, ["modelValue"])
-                                                      ]),
-                                                      _: 1
-                                                    })
-                                                  ]),
-                                                  _: 1
-                                                }),
-                                                _createVNode$1(_component_v_text_field, {
-                                                  modelValue: proxy.value['ws-opts'].path,
-                                                  "onUpdate:modelValue": _cache[22] || (_cache[22] = $event => ((proxy.value['ws-opts'].path) = $event)),
-                                                  label: "路径 (path)",
-                                                  hint: "WebSocket请求路径",
-                                                  variant: "outlined",
-                                                  class: "mb-2"
-                                                }, null, 8, ["modelValue"]),
-                                                _createVNode$1(_component_v_text_field, {
-                                                  modelValue: proxy.value['ws-opts']['max-early-data'],
-                                                  "onUpdate:modelValue": _cache[23] || (_cache[23] = $event => ((proxy.value['ws-opts']['max-early-data']) = $event)),
-                                                  modelModifiers: { number: true },
-                                                  label: "max-early-data",
-                                                  type: "number",
-                                                  hint: "Early Data 首包长度阈值",
-                                                  variant: "outlined",
-                                                  class: "mb-2",
-                                                  clearable: ""
-                                                }, null, 8, ["modelValue"]),
-                                                _createVNode$1(_component_v_text_field, {
-                                                  modelValue: proxy.value['ws-opts']['early-data-header-name'],
-                                                  "onUpdate:modelValue": _cache[24] || (_cache[24] = $event => ((proxy.value['ws-opts']['early-data-header-name']) = $event)),
-                                                  label: "early-data-header-name",
-                                                  variant: "outlined",
-                                                  class: "mb-2",
-                                                  clearable: ""
-                                                }, null, 8, ["modelValue"]),
-                                                _createVNode$1(_component_v_textarea, {
-                                                  modelValue: wsHeaderString.value,
-                                                  "onUpdate:modelValue": _cache[25] || (_cache[25] = $event => ((wsHeaderString).value = $event)),
-                                                  label: "请求头 (headers)",
-                                                  hint: "请输入JSON格式字符串, 例如: {\"Host\":\"example.com\"}",
-                                                  variant: "outlined",
-                                                  rows: "3",
-                                                  rules: [jsonValidator]
-                                                }, null, 8, ["modelValue", "rules"])
-                                              ]),
-                                              _: 1
-                                            })
-                                          ]),
-                                          _: 1
-                                        })
-                                      ]))
-                                    : _createCommentVNode$1("", true)
-                                ]),
-                                _: 1
-                              }),
-                              _createVNode$1(_component_v_expand_transition, null, {
-                                default: _withCtx$1(() => [
-                                  (proxy.value.network === 'http')
-                                    ? (_openBlock$1(), _createElementBlock$1("div", _hoisted_3$1, [
-                                        _createVNode$1(_component_v_card, { variant: "tonal" }, {
-                                          default: _withCtx$1(() => [
-                                            _createVNode$1(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
-                                              default: _withCtx$1(() => _cache[50] || (_cache[50] = [
-                                                _createTextVNode$1("HTTP 选项")
-                                              ])),
-                                              _: 1
-                                            }),
-                                            _createVNode$1(_component_v_card_text, null, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_text_field, {
-                                                  modelValue: proxy.value['http-opts'].method,
-                                                  "onUpdate:modelValue": _cache[26] || (_cache[26] = $event => ((proxy.value['http-opts'].method) = $event)),
-                                                  label: "方法 (method)",
-                                                  hint: "HTTP请求方法",
-                                                  variant: "outlined",
-                                                  class: "mb-2"
-                                                }, null, 8, ["modelValue"]),
-                                                _createVNode$1(_component_v_combobox, {
-                                                  modelValue: proxy.value['http-opts'].path,
-                                                  "onUpdate:modelValue": _cache[27] || (_cache[27] = $event => ((proxy.value['http-opts'].path) = $event)),
-                                                  label: "路径 (path)",
-                                                  hint: "HTTP请求路径",
-                                                  multiple: "",
-                                                  chips: "",
-                                                  clearable: "",
-                                                  "deletable-chips": "",
-                                                  variant: "outlined",
-                                                  class: "mb-2"
-                                                }, null, 8, ["modelValue"]),
-                                                _createVNode$1(_component_v_textarea, {
-                                                  modelValue: httpHeaderString.value,
-                                                  "onUpdate:modelValue": _cache[28] || (_cache[28] = $event => ((httpHeaderString).value = $event)),
-                                                  label: "请求头 (headers)",
-                                                  hint: "请输入JSON格式字符串, 例如: {\"Host\":\"example.com\"}",
-                                                  variant: "outlined",
-                                                  rows: "3",
-                                                  rules: [jsonValidator]
-                                                }, null, 8, ["modelValue", "rules"])
-                                              ]),
-                                              _: 1
-                                            })
-                                          ]),
-                                          _: 1
-                                        })
-                                      ]))
-                                    : _createCommentVNode$1("", true)
-                                ]),
-                                _: 1
-                              }),
-                              _createVNode$1(_component_v_expand_transition, null, {
-                                default: _withCtx$1(() => [
-                                  (proxy.value.network === 'h2')
-                                    ? (_openBlock$1(), _createElementBlock$1("div", _hoisted_4$1, [
-                                        _createVNode$1(_component_v_card, { variant: "tonal" }, {
-                                          default: _withCtx$1(() => [
-                                            _createVNode$1(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
-                                              default: _withCtx$1(() => _cache[51] || (_cache[51] = [
-                                                _createTextVNode$1("H2 选项")
-                                              ])),
-                                              _: 1
-                                            }),
-                                            _createVNode$1(_component_v_card_text, null, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_text_field, {
-                                                  modelValue: proxy.value['h2-opts'].path,
-                                                  "onUpdate:modelValue": _cache[29] || (_cache[29] = $event => ((proxy.value['h2-opts'].path) = $event)),
-                                                  label: "路径 (path)",
-                                                  hint: "H2请求路径",
-                                                  variant: "outlined",
-                                                  class: "mb-2"
-                                                }, null, 8, ["modelValue"]),
-                                                _createVNode$1(_component_v_combobox, {
-                                                  modelValue: proxy.value['h2-opts'].host,
-                                                  "onUpdate:modelValue": _cache[30] || (_cache[30] = $event => ((proxy.value['h2-opts'].host) = $event)),
-                                                  label: "主机 (host)",
-                                                  hint: "主机域名列表",
-                                                  multiple: "",
-                                                  chips: "",
-                                                  clearable: "",
-                                                  "deletable-chips": "",
-                                                  variant: "outlined"
-                                                }, null, 8, ["modelValue"])
-                                              ]),
-                                              _: 1
-                                            })
-                                          ]),
-                                          _: 1
-                                        })
-                                      ]))
-                                    : _createCommentVNode$1("", true)
-                                ]),
-                                _: 1
-                              }),
-                              _createVNode$1(_component_v_expand_transition, null, {
-                                default: _withCtx$1(() => [
-                                  (proxy.value.network === 'grpc')
-                                    ? (_openBlock$1(), _createElementBlock$1("div", _hoisted_5$1, [
-                                        _createVNode$1(_component_v_card, { variant: "tonal" }, {
-                                          default: _withCtx$1(() => [
-                                            _createVNode$1(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
-                                              default: _withCtx$1(() => _cache[52] || (_cache[52] = [
-                                                _createTextVNode$1("gRPC 选项")
-                                              ])),
-                                              _: 1
-                                            }),
-                                            _createVNode$1(_component_v_card_text, null, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_text_field, {
-                                                  modelValue: proxy.value['grpc-opts']['grpc-service-name'],
-                                                  "onUpdate:modelValue": _cache[31] || (_cache[31] = $event => ((proxy.value['grpc-opts']['grpc-service-name']) = $event)),
-                                                  label: "服务名称 (grpc-service-name)",
-                                                  hint: "gRPC服务名称",
-                                                  variant: "outlined"
-                                                }, null, 8, ["modelValue"])
-                                              ]),
-                                              _: 1
-                                            })
-                                          ]),
-                                          _: 1
-                                        })
-                                      ]))
-                                    : _createCommentVNode$1("", true)
-                                ]),
-                                _: 1
-                              }),
-                              _createVNode$1(_component_v_expand_transition, null, {
-                                default: _withCtx$1(() => [
-                                  (!proxy.value.network || proxy.value.network === 'tcp')
-                                    ? (_openBlock$1(), _createElementBlock$1("div", _hoisted_6$1, [
-                                        _createVNode$1(_component_v_card, { variant: "tonal" }, {
-                                          default: _withCtx$1(() => [
-                                            _createVNode$1(_component_v_card_title, { class: "text-subtitle-1 py-2" }, {
-                                              default: _withCtx$1(() => _cache[53] || (_cache[53] = [
-                                                _createTextVNode$1("Smux 选项")
-                                              ])),
-                                              _: 1
-                                            }),
-                                            _createVNode$1(_component_v_card_text, null, {
-                                              default: _withCtx$1(() => [
-                                                _createVNode$1(_component_v_row, { dense: "" }, {
-                                                  default: _withCtx$1(() => [
-                                                    _createVNode$1(_component_v_col, { cols: "12" }, {
-                                                      default: _withCtx$1(() => [
-                                                        _createVNode$1(_component_v_switch, {
-                                                          modelValue: proxy.value.smux.enabled,
-                                                          "onUpdate:modelValue": _cache[32] || (_cache[32] = $event => ((proxy.value.smux.enabled) = $event)),
-                                                          label: "启用 Smux",
-                                                          inset: "",
-                                                          color: "primary"
-                                                        }, null, 8, ["modelValue"])
-                                                      ]),
-                                                      _: 1
-                                                    })
-                                                  ]),
-                                                  _: 1
-                                                }),
-                                                _createVNode$1(_component_v_expand_transition, null, {
-                                                  default: _withCtx$1(() => [
-                                                    (proxy.value.smux.enabled)
-                                                      ? (_openBlock$1(), _createElementBlock$1("div", _hoisted_7$1, [
-                                                          _createVNode$1(_component_v_row, { dense: "" }, {
-                                                            default: _withCtx$1(() => [
-                                                              _createVNode$1(_component_v_col, {
-                                                                cols: "12",
-                                                                md: "6"
-                                                              }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_select, {
-                                                                    modelValue: proxy.value.smux.protocol,
-                                                                    "onUpdate:modelValue": _cache[33] || (_cache[33] = $event => ((proxy.value.smux.protocol) = $event)),
-                                                                    label: "协议 (protocol)",
-                                                                    items: ['smux', 'yamux', 'h2mux'],
-                                                                    hint: "Smux协议类型",
-                                                                    variant: "outlined"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              }),
-                                                              _createVNode$1(_component_v_col, {
-                                                                cols: "12",
-                                                                md: "6"
-                                                              }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_text_field, {
-                                                                    modelValue: proxy.value.smux['max-connections'],
-                                                                    "onUpdate:modelValue": _cache[34] || (_cache[34] = $event => ((proxy.value.smux['max-connections']) = $event)),
-                                                                    modelModifiers: { number: true },
-                                                                    label: "最大连接数 (max-connections)",
-                                                                    type: "number",
-                                                                    hint: "最大复用连接数",
-                                                                    clearable: "",
-                                                                    variant: "outlined"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              }),
-                                                              _createVNode$1(_component_v_col, {
-                                                                cols: "12",
-                                                                md: "6"
-                                                              }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_text_field, {
-                                                                    modelValue: proxy.value.smux['min-streams'],
-                                                                    "onUpdate:modelValue": _cache[35] || (_cache[35] = $event => ((proxy.value.smux['min-streams']) = $event)),
-                                                                    modelModifiers: { number: true },
-                                                                    label: "最小流数 (min-streams)",
-                                                                    type: "number",
-                                                                    hint: "每个连接的最小流数",
-                                                                    clearable: "",
-                                                                    variant: "outlined"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              }),
-                                                              _createVNode$1(_component_v_col, {
-                                                                cols: "12",
-                                                                md: "6"
-                                                              }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_text_field, {
-                                                                    modelValue: proxy.value.smux['max-streams'],
-                                                                    "onUpdate:modelValue": _cache[36] || (_cache[36] = $event => ((proxy.value.smux['max-streams']) = $event)),
-                                                                    modelModifiers: { number: true },
-                                                                    label: "最大流数 (max-streams)",
-                                                                    type: "number",
-                                                                    hint: "每个连接的最大流数",
-                                                                    clearable: "",
-                                                                    variant: "outlined"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              }),
-                                                              _createVNode$1(_component_v_col, {
-                                                                cols: "4",
-                                                                sm: "4"
-                                                              }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_switch, {
-                                                                    modelValue: proxy.value.smux.padding,
-                                                                    "onUpdate:modelValue": _cache[37] || (_cache[37] = $event => ((proxy.value.smux.padding) = $event)),
-                                                                    label: "Padding",
-                                                                    hint: "启用Padding",
-                                                                    inset: "",
-                                                                    color: "primary"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              }),
-                                                              _createVNode$1(_component_v_col, {
-                                                                cols: "4",
-                                                                sm: "4"
-                                                              }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_switch, {
-                                                                    modelValue: proxy.value.smux.statistic,
-                                                                    "onUpdate:modelValue": _cache[38] || (_cache[38] = $event => ((proxy.value.smux.statistic) = $event)),
-                                                                    label: "Statistic",
-                                                                    hint: "启用统计",
-                                                                    inset: "",
-                                                                    color: "primary"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              }),
-                                                              _createVNode$1(_component_v_col, {
-                                                                cols: "4",
-                                                                sm: "4"
-                                                              }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_switch, {
-                                                                    modelValue: proxy.value.smux['only-tcp'],
-                                                                    "onUpdate:modelValue": _cache[39] || (_cache[39] = $event => ((proxy.value.smux['only-tcp']) = $event)),
-                                                                    label: "Only TCP",
-                                                                    hint: "仅用于TCP",
-                                                                    inset: "",
-                                                                    color: "primary"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              }),
-                                                              _createVNode$1(_component_v_col, { cols: "12" }, {
-                                                                default: _withCtx$1(() => [
-                                                                  _createVNode$1(_component_v_switch, {
-                                                                    modelValue: proxy.value.smux['brutal-opts'].enabled,
-                                                                    "onUpdate:modelValue": _cache[40] || (_cache[40] = $event => ((proxy.value.smux['brutal-opts'].enabled) = $event)),
-                                                                    label: "启用 Brutal 优化",
-                                                                    inset: "",
-                                                                    color: "primary"
-                                                                  }, null, 8, ["modelValue"])
-                                                                ]),
-                                                                _: 1
-                                                              })
-                                                            ]),
-                                                            _: 1
-                                                          }),
-                                                          _createVNode$1(_component_v_expand_transition, null, {
-                                                            default: _withCtx$1(() => [
-                                                              (proxy.value.smux['brutal-opts'].enabled)
-                                                                ? (_openBlock$1(), _createBlock$1(_component_v_row, {
-                                                                    key: 0,
-                                                                    dense: ""
-                                                                  }, {
-                                                                    default: _withCtx$1(() => [
-                                                                      _createVNode$1(_component_v_col, {
-                                                                        cols: "12",
-                                                                        md: "6"
-                                                                      }, {
-                                                                        default: _withCtx$1(() => [
-                                                                          _createVNode$1(_component_v_text_field, {
-                                                                            modelValue: proxy.value.smux['brutal-opts'].up,
-                                                                            "onUpdate:modelValue": _cache[41] || (_cache[41] = $event => ((proxy.value.smux['brutal-opts'].up) = $event)),
-                                                                            modelModifiers: { number: true },
-                                                                            label: "上行带宽 (up)",
-                                                                            hint: "上行带宽, 默认以 Mbps 为单位",
-                                                                            clearable: "",
-                                                                            variant: "outlined"
-                                                                          }, null, 8, ["modelValue"])
-                                                                        ]),
-                                                                        _: 1
-                                                                      }),
-                                                                      _createVNode$1(_component_v_col, {
-                                                                        cols: "12",
-                                                                        md: "6"
-                                                                      }, {
-                                                                        default: _withCtx$1(() => [
-                                                                          _createVNode$1(_component_v_text_field, {
-                                                                            modelValue: proxy.value.smux['brutal-opts'].down,
-                                                                            "onUpdate:modelValue": _cache[42] || (_cache[42] = $event => ((proxy.value.smux['brutal-opts'].down) = $event)),
-                                                                            modelModifiers: { number: true },
-                                                                            label: "下行带宽 (down)",
-                                                                            hint: "下行带宽, 默认以 Mbps 为单位",
-                                                                            clearable: "",
-                                                                            variant: "outlined"
-                                                                          }, null, 8, ["modelValue"])
-                                                                        ]),
-                                                                        _: 1
-                                                                      })
-                                                                    ]),
-                                                                    _: 1
-                                                                  }))
-                                                                : _createCommentVNode$1("", true)
-                                                            ]),
-                                                            _: 1
-                                                          })
-                                                        ]))
-                                                      : _createCommentVNode$1("", true)
-                                                  ]),
-                                                  _: 1
-                                                })
-                                              ]),
-                                              _: 1
-                                            })
-                                          ]),
-                                          _: 1
-                                        })
-                                      ]))
-                                    : _createCommentVNode$1("", true)
-                                ]),
-                                _: 1
-                              })
-                            ]),
-                            _: 1
-                          })
-                        ]),
-                        _: 1
-                      })
-                    ]),
-                    _: 1
-                  }, 8, ["modelValue"])
+                  _createTextVNode$1(_toDisplayString$1(props.isAddingRule ? '添加规则' : '编辑规则'), 1)
                 ]),
                 _: 1
-              }, 512),
-              _createVNode$1(_component_v_alert, {
-                type: "info",
-                text: "",
-                variant: "tonal"
-              }, {
-                default: _withCtx$1(() => _cache[54] || (_cache[54] = [
-                  _createTextVNode$1(" 参考"),
-                  _createElementVNode$1("a", {
-                    href: "https://wiki.metacubex.one/config/proxies/",
-                    target: "_blank",
-                    style: {"text-decoration":"underline"}
-                  }, "Docs", -1),
-                  _createTextVNode$1(", 覆写某些选项可能导致代理不可用。 ")
-                ])),
-                _: 1
-              })
-            ]),
-            _: 1
-          }),
-          _createVNode$1(_component_v_card_actions, null, {
-            default: _withCtx$1(() => [
-              _createVNode$1(_component_v_checkbox, {
-                modelValue: proxy.value.rescind,
-                "onUpdate:modelValue": _cache[44] || (_cache[44] = $event => ((proxy.value.rescind) = $event)),
-                label: "删除覆写"
-              }, null, 8, ["modelValue"]),
-              _createVNode$1(_component_v_spacer),
-              _createVNode$1(_component_v_btn, {
-                text: "",
-                onClick: handleCancel
-              }, {
-                default: _withCtx$1(() => _cache[55] || (_cache[55] = [
-                  _createTextVNode$1("取消")
-                ])),
+              }),
+              _createVNode$1(_component_v_card_text, null, {
+                default: _withCtx$1(() => [
+                  _createVNode$1(_component_v_select, {
+                    modelValue: rule.value.type,
+                    "onUpdate:modelValue": _cache[0] || (_cache[0] = $event => ((rule.value.type) = $event)),
+                    items: ruleTypes.value,
+                    label: "规则类型",
+                    required: "",
+                    class: "mb-4"
+                  }, null, 8, ["modelValue", "items"]),
+                  (rule.value.type === 'RULE-SET')
+                    ? (_openBlock$1(), _createBlock$1(_component_v_select, {
+                        key: 0,
+                        modelValue: rule.value.payload,
+                        "onUpdate:modelValue": _cache[1] || (_cache[1] = $event => ((rule.value.payload) = $event)),
+                        items: props.ruleProviderNames,
+                        label: "选择规则集",
+                        required: "",
+                        rules: [(v) => !!v || '请选择一个有效的规则集',],
+                        class: "mb-4"
+                      }, null, 8, ["modelValue", "items", "rules"]))
+                    : (rule.value.type === 'GEOSITE')
+                      ? (_openBlock$1(), _createBlock$1(_component_v_autocomplete, {
+                          key: 1,
+                          modelValue: rule.value.payload,
+                          "onUpdate:modelValue": _cache[2] || (_cache[2] = $event => ((rule.value.payload) = $event)),
+                          search: geoSearch.value,
+                          items: filteredGeoItems.value,
+                          loading: geoFilterLoading.value,
+                          "hide-no-data": "",
+                          "hide-selected": "",
+                          label: "内容",
+                          "no-filter": "",
+                          solo: "",
+                          "custom-filter": () => true,
+                          clearable: "",
+                          "onUpdate:search": onGeoSearch,
+                          onBlur: onGeoSiteBlur,
+                          class: "mb-4",
+                          rules: payloadRules.value
+                        }, null, 8, ["modelValue", "search", "items", "loading", "rules"]))
+                      : (rule.value.type === 'GEOIP')
+                        ? (_openBlock$1(), _createBlock$1(_component_v_autocomplete, {
+                            key: 2,
+                            modelValue: rule.value.payload,
+                            "onUpdate:modelValue": _cache[3] || (_cache[3] = $event => ((rule.value.payload) = $event)),
+                            search: geoIPSearch.value,
+                            items: filteredGeoItems.value,
+                            loading: geoFilterLoading.value,
+                            "hide-no-data": "",
+                            "hide-selected": "",
+                            label: "内容",
+                            "no-filter": "",
+                            solo: "",
+                            "custom-filter": () => true,
+                            clearable: "",
+                            "onUpdate:search": onGeoIPSearch,
+                            onBlur: onGeoIPBlur,
+                            class: "mb-4",
+                            rules: payloadRules.value
+                          }, null, 8, ["modelValue", "search", "items", "loading", "rules"]))
+                        : (rule.value.type === 'AND' || rule.value.type === 'OR' || rule.value.type === 'NOT')
+                          ? (_openBlock$1(), _createBlock$1(_component_v_combobox, {
+                              key: 3,
+                              modelValue: rule.value.conditions,
+                              "onUpdate:modelValue": _cache[4] || (_cache[4] = $event => ((rule.value.conditions) = $event)),
+                              label: "条件",
+                              multiple: "",
+                              chips: "",
+                              hint: "(DOMAIN,baidu.com) (NETWORK,TCP)",
+                              clearable: "",
+                              required: "",
+                              class: "mb-4"
+                            }, null, 8, ["modelValue"]))
+                          : (rule.value.type === 'SUB-RULE')
+                            ? (_openBlock$1(), _createBlock$1(_component_v_text_field, {
+                                key: 4,
+                                modelValue: rule.value.condition,
+                                "onUpdate:modelValue": _cache[5] || (_cache[5] = $event => ((rule.value.condition) = $event)),
+                                label: "条件",
+                                required: "",
+                                placeholder: "(AND,(DOMAIN,baidu.com),(NETWORK,TCP))",
+                                rules: payloadRules.value,
+                                class: "mb-4"
+                              }, null, 8, ["modelValue", "rules"]))
+                            : (_openBlock$1(), _createBlock$1(_component_v_text_field, {
+                                key: 5,
+                                modelValue: rule.value.payload,
+                                "onUpdate:modelValue": _cache[6] || (_cache[6] = $event => ((rule.value.payload) = $event)),
+                                label: "内容",
+                                required: "",
+                                rules: payloadRules.value,
+                                class: "mb-4"
+                              }, null, 8, ["modelValue", "rules"])),
+                  (rule.value.type === 'SUB-RULE')
+                    ? (_openBlock$1(), _createBlock$1(_component_v_text_field, {
+                        key: 6,
+                        modelValue: rule.value.action,
+                        "onUpdate:modelValue": _cache[7] || (_cache[7] = $event => ((rule.value.action) = $event)),
+                        label: "子规则",
+                        required: "",
+                        class: "mb-4"
+                      }, null, 8, ["modelValue"]))
+                    : (_openBlock$1(), _createBlock$1(_component_v_select, {
+                        key: 7,
+                        modelValue: rule.value.action,
+                        "onUpdate:modelValue": _cache[8] || (_cache[8] = $event => ((rule.value.action) = $event)),
+                        items: actions.value,
+                        label: "出站",
+                        required: "",
+                        class: "mb-4"
+                      }, null, 8, ["modelValue", "items"])),
+                  (showAdditionalParams.value)
+                    ? (_openBlock$1(), _createBlock$1(_component_v_select, {
+                        key: 8,
+                        modelValue: rule.value.additional_params,
+                        "onUpdate:modelValue": _cache[9] || (_cache[9] = $event => ((rule.value.additional_params) = $event)),
+                        label: "附加参数",
+                        items: additionalParamOptions.value,
+                        clearable: "",
+                        hint: "可选参数",
+                        "persistent-hint": "",
+                        class: "mb-4"
+                      }, null, 8, ["modelValue", "items"]))
+                    : _createCommentVNode$1("", true),
+                  _createVNode$1(_component_v_text_field, {
+                    modelValue: rule.value.priority,
+                    "onUpdate:modelValue": _cache[10] || (_cache[10] = $event => ((rule.value.priority) = $event)),
+                    modelModifiers: { number: true },
+                    type: "number",
+                    label: "优先级",
+                    hint: "数字越小优先级越高",
+                    "persistent-hint": ""
+                  }, null, 8, ["modelValue"])
+                ]),
                 _: 1
               }),
-              _createVNode$1(_component_v_btn, {
-                color: "primary",
-                loading: __props.loading,
-                disabled: __props.loading,
-                onClick: handleSave
-              }, {
-                default: _withCtx$1(() => _cache[56] || (_cache[56] = [
-                  _createTextVNode$1("保存")
-                ])),
+              _createVNode$1(_component_v_card_actions, null, {
+                default: _withCtx$1(() => [
+                  _createVNode$1(_component_v_spacer),
+                  _createVNode$1(_component_v_btn, {
+                    color: "secondary",
+                    onClick: closeDialog
+                  }, {
+                    default: _withCtx$1(() => _cache[12] || (_cache[12] = [
+                      _createTextVNode$1("取消")
+                    ])),
+                    _: 1
+                  }),
+                  _createVNode$1(_component_v_btn, {
+                    color: "primary",
+                    type: "submit",
+                    loading: props.loading
+                  }, {
+                    default: _withCtx$1(() => _cache[13] || (_cache[13] = [
+                      _createTextVNode$1("保存 ")
+                    ])),
+                    _: 1
+                  }, 8, ["loading"])
+                ]),
                 _: 1
-              }, 8, ["loading", "disabled"])
+              })
             ]),
             _: 1
           })
         ]),
         _: 1
-      })
+      }, 512)
     ]),
     _: 1
   }, 8, ["modelValue"]))
@@ -5436,7 +5838,6 @@ return (_ctx, _cache) => {
 }
 
 };
-const ProxiesDialog = /*#__PURE__*/_export_sfc(_sfc_main$1, [['__scopeId',"data-v-5b19bb19"]]);
 
 const {toDisplayString:_toDisplayString,createTextVNode:_createTextVNode,resolveComponent:_resolveComponent,withCtx:_withCtx,openBlock:_openBlock,createBlock:_createBlock,createCommentVNode:_createCommentVNode,createElementVNode:_createElementVNode,createVNode:_createVNode,createElementBlock:_createElementBlock,withModifiers:_withModifiers,normalizeClass:_normalizeClass,renderList:_renderList,Fragment:_Fragment,mergeProps:_mergeProps,unref:_unref} = await importShared('vue');
 
@@ -5792,11 +6193,7 @@ const snackbar = ref({
 const dragItem = ref(null);
 // 添加自定义出站状态
 const customOutbounds = ref([]);
-const additionalParamOptions = ref([
-  {title: '无', value: ''},
-  {title: 'no-resolve', value: 'no-resolve'},
-  {title: 'src', value: 'src'}
-]);
+
 
 const subUrl = ref('');
 const isValidUrl = (urlString) => {
@@ -5835,19 +6232,6 @@ function validateIPs(ips) {
   }
   return true
 }
-
-const payloadRules = computed(() => {
-  return [
-    (v) => {
-      // 如果 type 是 'MATCH'，允许 payload 为空
-      if (newRule.value.type === 'MATCH') {
-        return true; // 不验证
-      }
-      // 否则，payload 不能为空
-      return !!v || '内容不能为空';
-    },
-  ];
-});
 
 function dragStart(event, priority, type = 'top') {
   const currentRules = type === 'top' ? rules.value : rulesetRules.value;
@@ -5940,7 +6324,7 @@ const searchProxyGroups = ref('');
 const searchHosts = ref('');
 // 规则编辑相关状态
 const proxyGroupDialog = ref(false);
-const ruleDialog = ref(false);
+const ruleDialogVisible = ref(false);
 const ruleProviderDialog = ref(false);
 const hostDialog = ref(false);
 const proxiesDialogVisible = ref(false);
@@ -5951,11 +6335,11 @@ const editingHostDomainName = ref(null);
 const editingType = ref('top'); // 记录当前编辑的规则类型（'top' 或 'ruleset'）
 const editingProxy = ref(null);
 const editingProxyName = ref(null);
-const newRule = ref({
+const currentRule = ref({
   type: 'DOMAIN-SUFFIX',
   payload: '',
   action: 'DIRECT',
-  additional_params: '',
+  additional_params: null,
   priority: 0
 });
 
@@ -5992,38 +6376,17 @@ const importExtraProxies = ref({
 // 排序后的规则
 const sortedRules = computed(() => [...rules.value].sort((a, b) => a.priority - b.priority));
 const sortedRulesetRules = computed(() => [...rulesetRules.value].sort((a, b) => a.priority - b.priority));
-const showAdditionalParams = computed(() => {
-  return ['IP-CIDR', 'IP-CIDR6', 'IP-ASN', 'GEOIP'].includes(newRule.value.type);
-});
 const ruleProviderNames = computed(() => {
   return extraRuleProviders.value.map(provider => provider.name)
 });
-// 规则类型和动作选项
-const ruleTypes = computed(() => {
-  const allTypes = [
-    'DOMAIN', 'DOMAIN-SUFFIX', 'DOMAIN-KEYWORD', 'DOMAIN-REGEX', 'DOMAIN-WILDCARD', 'GEOSITE', 'GEOIP',
-    'IP-CIDR', 'IP-CIDR6', 'IP-SUFFIX', 'IP-ASN',
-    'SRC-GEOIP', 'SRC-IP-ASN', 'SRC-IP-CIDR', 'SRC-IP-SUFFIX',
-    'DST-PORT', 'SRC-PORT', 'IN-PORT', 'IN-TYPE', 'IN-USER', 'IN-NAME',
-    'PROCESS-PATH', 'PROCESS-PATH-REGEX', 'PROCESS-NAME', 'PROCESS-NAME-REGEX',
-    'UID', 'NETWORK', 'DSCP', 'RULE-SET', 'AND', 'OR', 'NOT', 'SUB-RULE', 'MATCH'
-  ];
 
-  // 如果是 ruleset 规则，过滤掉 SUB-RULE 和 RULE-SET
-  if (editingType.value === 'ruleset') {
-    return allTypes.filter(type => !['SUB-RULE', 'RULE-SET'].includes(type));
-  }
-  return allTypes;
-});
 const importExtraProxiesPlaceholderText = computed(() => {
   return importExtraProxies.value.type === 'YAML'
       ? 'proxies: []'
       : 'vless://xxxx';
 });
 const proxyGroupTypes = ref(['select', 'url-test', 'fallback', 'load-balance', 'smart']);
-ref(['Direct', 'Reject', 'RejectDrop', 'Compatible', 'Pass', 'Dns', 'Relay', 'Selector',
-  'Fallback', 'URLTest', 'LoadBalance', 'Shadowsocks', 'ShadowsocksR', 'Snell', 'Socks5', 'Http', 'Vmess', 'Vless',
-  'Trojan', 'Hysteria', 'Hysteria2', 'WireGuard', 'Tuic', 'Ssh',]);
+
 const strategyTypes = ref(['round-robin', 'consistent-hashing', 'sticky-sessions']);
 const smartStrategyTypes = ref(['round-robin', 'sticky-sessions']);
 const importRuleTypes = ['YAML'];
@@ -6038,58 +6401,6 @@ const actions = computed(() => [
 ]);
 
 const proxyProviderNames = computed(() => Object.keys(proxyProviders.value));
-ref('');
-const filteredGeoItems = ref([]);
-const geoSearch = ref('');
-const geoIPSearch = ref('');
-const geoFilterLoading = ref(false);
-
-// 当输入框失去焦点时，将当前搜索词设置为选中项（如果它不在候选列表中）
-const onGeoSiteBlur = () => {
-  if (!filteredGeoItems.value.includes(geoSearch.value)) {
-    newRule.value.payload = geoSearch.value;
-  }
-};
-const onGeoIPBlur = () => {
-  if (!filteredGeoItems.value.includes(geoIPSearch.value)) {
-    newRule.value.payload = geoIPSearch.value;
-  }
-};
-const performFilter = debounce$1((val) => {
-  if (!val) {
-    filteredGeoItems.value = [];
-    geoFilterLoading.value = false;
-    return
-  }
-  geoFilterLoading.value = true;
-  filteredGeoItems.value = geoRules.value.geosite.filter(item =>
-      item.toLowerCase().includes(val.toLowerCase())
-  );
-  geoFilterLoading.value = false;
-}, 200); // 20ms debounce
-
-const performGeoIPFilter = debounce$1((val) => {
-  if (!val) {
-    filteredGeoItems.value = [];
-    geoFilterLoading.value = false;
-    return
-  }
-  geoFilterLoading.value = true;
-  filteredGeoItems.value = geoRules.value.geoip.filter(item =>
-      item.toLowerCase().includes(val.toLowerCase())
-  );
-  geoFilterLoading.value = false;
-}, 200); // 20ms debounce
-
-const onGeoSearch = (val) => {
-  geoSearch.value = val;
-  performFilter(val);
-};
-
-const onGeoIPSearch = (val) => {
-  geoIPSearch.value = val;
-  performGeoIPFilter(val);
-};
 
 const subscriptionsInfo = ref({});
 const bestCloudflareIPs = ref([]);
@@ -6264,14 +6575,14 @@ function openAddRuleDialog(type = 'top') {
   const nextPriority = currentRules.length > 0
       ? Math.max(...currentRules.map(r => r.priority)) + 1
       : 0;
-  newRule.value = {
+  currentRule.value = {
     type: 'DOMAIN-SUFFIX',
     payload: '',
     action: 'DIRECT',
-    additional_params: '',
+    additional_params: null,
     priority: nextPriority
   };
-  ruleDialog.value = true;
+  ruleDialogVisible.value = true;
 }
 
 function openAddRuleProviderDialog() {
@@ -6357,14 +6668,16 @@ function editRule(priority, type = 'top') {
 
   if (rule) {
     editingPriority.value = priority;
-    newRule.value = {
+    currentRule.value = {
       type: rule.type,
-      payload: rule.payload,
+      payload: rule?.payload,
       action: rule.action,
-      additional_params: rule.additional_params || '',
-      priority: rule.priority
+      additional_params: rule.additional_params || null,
+      priority: rule.priority,
+      conditions: rule?.conditions,
+      condition: rule?.condition,
     };
-    ruleDialog.value = true;
+    ruleDialogVisible.value = true;
   }
 }
 
@@ -6559,30 +6872,26 @@ async function saveProxyGroups() {
   }
 }
 
-const ruleForm = ref(null);
 const proxyGroupsForm = ref(null);
 const ruleProvidersForm = ref(null);
 const hostForm = ref(null);
 
 function closeRuleDialog() {
-  ruleDialog.value = false;
-  geoSearch.value = '';
-  geoIPSearch.value = '';
-  filteredGeoItems.value = [];
+  ruleDialogVisible.value = false;
 }
 
 // 保存规则
-async function saveRule() {
-  const {valid} = await ruleForm.value.validate();
-  if (!valid) return;
+async function saveRule(newRule) {
   try {
     saveRuleLoading.value = true;
-    newRule.value.payload = newRule.value.payload.trim();
+    if (newRule.payload) {
+      newRule.payload = newRule.payload.trim();
+    }
     const requestData =
         {
-          ...newRule.value,
-          additional_params: newRule.value.additional_params
-              ? newRule.value.additional_params
+          ...newRule,
+          additional_params: newRule.additional_params
+              ? newRule.additional_params
               : null
         }
     ;
@@ -7095,7 +7404,6 @@ return (_ctx, _cache) => {
   const _component_v_expand_transition = _resolveComponent("v-expand-transition");
   const _component_v_snackbar = _resolveComponent("v-snackbar");
   const _component_v_select = _resolveComponent("v-select");
-  const _component_v_autocomplete = _resolveComponent("v-autocomplete");
   const _component_v_form = _resolveComponent("v-form");
   const _component_v_dialog = _resolveComponent("v-dialog");
   const _component_v_textarea = _resolveComponent("v-textarea");
@@ -7129,7 +7437,7 @@ return (_ctx, _cache) => {
             }, {
               default: _withCtx(() => [
                 _createVNode(_component_v_icon, { left: "" }, {
-                  default: _withCtx(() => _cache[99] || (_cache[99] = [
+                  default: _withCtx(() => _cache[91] || (_cache[91] = [
                     _createTextVNode("mdi-close")
                   ])),
                   _: 1
@@ -7154,7 +7462,7 @@ return (_ctx, _cache) => {
                   ]),
                   _: 1
                 }),
-                _cache[98] || (_cache[98] = _createTextVNode(" Clash Rule Provider ")),
+                _cache[90] || (_cache[90] = _createTextVNode(" Clash Rule Provider ")),
                 _createVNode(_component_v_chip, {
                   onClick: _cache[1] || (_cache[1] = $event => (copyToClipboard(subUrl.value))),
                   size: "small",
@@ -7189,12 +7497,60 @@ return (_ctx, _cache) => {
                       _createVNode(_component_v_tab, null, {
                         default: _withCtx(() => [
                           _createVNode(_component_v_icon, { start: "" }, {
-                            default: _withCtx(() => _cache[100] || (_cache[100] = [
+                            default: _withCtx(() => _cache[92] || (_cache[92] = [
                               _createTextVNode("mdi-format-list-bulleted")
                             ])),
                             _: 1
                           }),
-                          _cache[101] || (_cache[101] = _createTextVNode(" 规则集规则 "))
+                          _cache[93] || (_cache[93] = _createTextVNode(" 规则集规则 "))
+                        ]),
+                        _: 1
+                      }),
+                      _createVNode(_component_v_tab, null, {
+                        default: _withCtx(() => [
+                          _createVNode(_component_v_icon, { start: "" }, {
+                            default: _withCtx(() => _cache[94] || (_cache[94] = [
+                              _createTextVNode("mdi-pin")
+                            ])),
+                            _: 1
+                          }),
+                          _cache[95] || (_cache[95] = _createTextVNode(" 置顶规则 "))
+                        ]),
+                        _: 1
+                      }),
+                      _createVNode(_component_v_tab, null, {
+                        default: _withCtx(() => [
+                          _createVNode(_component_v_icon, { start: "" }, {
+                            default: _withCtx(() => _cache[96] || (_cache[96] = [
+                              _createTextVNode("mdi-source-branch")
+                            ])),
+                            _: 1
+                          }),
+                          _cache[97] || (_cache[97] = _createTextVNode(" 代理组 "))
+                        ]),
+                        _: 1
+                      }),
+                      _createVNode(_component_v_tab, null, {
+                        default: _withCtx(() => [
+                          _createVNode(_component_v_icon, { start: "" }, {
+                            default: _withCtx(() => _cache[98] || (_cache[98] = [
+                              _createTextVNode("mdi-rocket-launch")
+                            ])),
+                            _: 1
+                          }),
+                          _cache[99] || (_cache[99] = _createTextVNode(" 出站代理 "))
+                        ]),
+                        _: 1
+                      }),
+                      _createVNode(_component_v_tab, null, {
+                        default: _withCtx(() => [
+                          _createVNode(_component_v_icon, { start: "" }, {
+                            default: _withCtx(() => _cache[100] || (_cache[100] = [
+                              _createTextVNode("mdi-folder-multiple")
+                            ])),
+                            _: 1
+                          }),
+                          _cache[101] || (_cache[101] = _createTextVNode(" 规则集合 "))
                         ]),
                         _: 1
                       }),
@@ -7202,11 +7558,11 @@ return (_ctx, _cache) => {
                         default: _withCtx(() => [
                           _createVNode(_component_v_icon, { start: "" }, {
                             default: _withCtx(() => _cache[102] || (_cache[102] = [
-                              _createTextVNode("mdi-pin")
+                              _createTextVNode("mdi-lan")
                             ])),
                             _: 1
                           }),
-                          _cache[103] || (_cache[103] = _createTextVNode(" 置顶规则 "))
+                          _cache[103] || (_cache[103] = _createTextVNode(" Hosts "))
                         ]),
                         _: 1
                       }),
@@ -7214,59 +7570,11 @@ return (_ctx, _cache) => {
                         default: _withCtx(() => [
                           _createVNode(_component_v_icon, { start: "" }, {
                             default: _withCtx(() => _cache[104] || (_cache[104] = [
-                              _createTextVNode("mdi-source-branch")
-                            ])),
-                            _: 1
-                          }),
-                          _cache[105] || (_cache[105] = _createTextVNode(" 代理组 "))
-                        ]),
-                        _: 1
-                      }),
-                      _createVNode(_component_v_tab, null, {
-                        default: _withCtx(() => [
-                          _createVNode(_component_v_icon, { start: "" }, {
-                            default: _withCtx(() => _cache[106] || (_cache[106] = [
-                              _createTextVNode("mdi-rocket-launch")
-                            ])),
-                            _: 1
-                          }),
-                          _cache[107] || (_cache[107] = _createTextVNode(" 出站代理 "))
-                        ]),
-                        _: 1
-                      }),
-                      _createVNode(_component_v_tab, null, {
-                        default: _withCtx(() => [
-                          _createVNode(_component_v_icon, { start: "" }, {
-                            default: _withCtx(() => _cache[108] || (_cache[108] = [
-                              _createTextVNode("mdi-folder-multiple")
-                            ])),
-                            _: 1
-                          }),
-                          _cache[109] || (_cache[109] = _createTextVNode(" 规则集合 "))
-                        ]),
-                        _: 1
-                      }),
-                      _createVNode(_component_v_tab, null, {
-                        default: _withCtx(() => [
-                          _createVNode(_component_v_icon, { start: "" }, {
-                            default: _withCtx(() => _cache[110] || (_cache[110] = [
-                              _createTextVNode("mdi-lan")
-                            ])),
-                            _: 1
-                          }),
-                          _cache[111] || (_cache[111] = _createTextVNode(" Hosts "))
-                        ]),
-                        _: 1
-                      }),
-                      _createVNode(_component_v_tab, null, {
-                        default: _withCtx(() => [
-                          _createVNode(_component_v_icon, { start: "" }, {
-                            default: _withCtx(() => _cache[112] || (_cache[112] = [
                               _createTextVNode("mdi-cloud-sync")
                             ])),
                             _: 1
                           }),
-                          _cache[113] || (_cache[113] = _createTextVNode(" 订阅状态 "))
+                          _cache[105] || (_cache[105] = _createTextVNode(" 订阅状态 "))
                         ]),
                         _: 1
                       })
@@ -7323,7 +7631,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[114] || (_cache[114] = [
+                                            default: _withCtx(() => _cache[106] || (_cache[106] = [
                                               _createTextVNode("mdi-plus")
                                             ])),
                                             _: 1
@@ -7364,7 +7672,7 @@ return (_ctx, _cache) => {
                                   }, [
                                     _createElementVNode("td", null, [
                                       _createVNode(_component_v_icon, { class: "drag-handle mr-1" }, {
-                                        default: _withCtx(() => _cache[115] || (_cache[115] = [
+                                        default: _withCtx(() => _cache[107] || (_cache[107] = [
                                           _createTextVNode("mdi-drag")
                                         ])),
                                         _: 1
@@ -7399,7 +7707,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[116] || (_cache[116] = [
+                                            default: _withCtx(() => _cache[108] || (_cache[108] = [
                                               _createTextVNode("mdi-pencil")
                                             ])),
                                             _: 1
@@ -7416,7 +7724,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[117] || (_cache[117] = [
+                                            default: _withCtx(() => _cache[109] || (_cache[109] = [
                                               _createTextVNode("mdi-delete")
                                             ])),
                                             _: 1
@@ -7451,7 +7759,7 @@ return (_ctx, _cache) => {
                                                     small: "",
                                                     class: "mr-1"
                                                   }, {
-                                                    default: _withCtx(() => _cache[118] || (_cache[118] = [
+                                                    default: _withCtx(() => _cache[110] || (_cache[110] = [
                                                       _createTextVNode("mdi-order-numeric-ascending")
                                                     ])),
                                                     _: 1
@@ -7474,15 +7782,15 @@ return (_ctx, _cache) => {
                                             _createVNode(_component_v_card_text, null, {
                                               default: _withCtx(() => [
                                                 _createElementVNode("div", _hoisted_12, [
-                                                  _cache[119] || (_cache[119] = _createElementVNode("strong", null, "类型：", -1)),
+                                                  _cache[111] || (_cache[111] = _createElementVNode("strong", null, "类型：", -1)),
                                                   _createTextVNode(_toDisplayString(item.type), 1)
                                                 ]),
                                                 _createElementVNode("div", _hoisted_13, [
-                                                  _cache[120] || (_cache[120] = _createElementVNode("strong", null, "内容：", -1)),
+                                                  _cache[112] || (_cache[112] = _createElementVNode("strong", null, "内容：", -1)),
                                                   _createTextVNode(_toDisplayString(item.payload), 1)
                                                 ]),
                                                 _createElementVNode("div", _hoisted_14, [
-                                                  _cache[121] || (_cache[121] = _createElementVNode("strong", null, "规则：", -1)),
+                                                  _cache[113] || (_cache[113] = _createElementVNode("strong", null, "规则：", -1)),
                                                   _createTextVNode(_toDisplayString(rulesetPrefix.value) + _toDisplayString(item.action), 1)
                                                 ])
                                               ]),
@@ -7499,7 +7807,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[122] || (_cache[122] = [
+                                                      default: _withCtx(() => _cache[114] || (_cache[114] = [
                                                         _createTextVNode("mdi-pencil")
                                                       ])),
                                                       _: 1
@@ -7516,7 +7824,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[123] || (_cache[123] = [
+                                                      default: _withCtx(() => _cache[115] || (_cache[115] = [
                                                         _createTextVNode("mdi-delete")
                                                       ])),
                                                       _: 1
@@ -7626,7 +7934,7 @@ return (_ctx, _cache) => {
                               })
                             ]),
                             _createVNode(_component_v_divider),
-                            _cache[124] || (_cache[124] = _createElementVNode("div", { class: "text-caption text-grey mt-2" }, " * 对规则集的修改会在 Clash 中立即生效。 ", -1))
+                            _cache[116] || (_cache[116] = _createElementVNode("div", { class: "text-caption text-grey mt-2" }, " * 对规则集的修改会在 Clash 中立即生效。 ", -1))
                           ])
                         ]),
                         _: 1
@@ -7677,7 +7985,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[125] || (_cache[125] = [
+                                            default: _withCtx(() => _cache[117] || (_cache[117] = [
                                               _createTextVNode("mdi-import")
                                             ])),
                                             _: 1
@@ -7692,7 +8000,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[126] || (_cache[126] = [
+                                            default: _withCtx(() => _cache[118] || (_cache[118] = [
                                               _createTextVNode("mdi-plus")
                                             ])),
                                             _: 1
@@ -7732,7 +8040,7 @@ return (_ctx, _cache) => {
                                   }, [
                                     _createElementVNode("td", null, [
                                       _createVNode(_component_v_icon, { class: "drag-handle" }, {
-                                        default: _withCtx(() => _cache[127] || (_cache[127] = [
+                                        default: _withCtx(() => _cache[119] || (_cache[119] = [
                                           _createTextVNode("mdi-drag")
                                         ])),
                                         _: 1
@@ -7767,7 +8075,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[128] || (_cache[128] = [
+                                            default: _withCtx(() => _cache[120] || (_cache[120] = [
                                               _createTextVNode("mdi-pencil")
                                             ])),
                                             _: 1
@@ -7785,7 +8093,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[129] || (_cache[129] = [
+                                            default: _withCtx(() => _cache[121] || (_cache[121] = [
                                               _createTextVNode("mdi-delete")
                                             ])),
                                             _: 1
@@ -7799,7 +8107,7 @@ return (_ctx, _cache) => {
                                             activator: "parent",
                                             location: "top"
                                           }, {
-                                            default: _withCtx(() => _cache[130] || (_cache[130] = [
+                                            default: _withCtx(() => _cache[122] || (_cache[122] = [
                                               _createTextVNode(" 根据规则集自动添加 ")
                                             ])),
                                             _: 1
@@ -7832,7 +8140,7 @@ return (_ctx, _cache) => {
                                                     small: "",
                                                     class: "mr-1"
                                                   }, {
-                                                    default: _withCtx(() => _cache[131] || (_cache[131] = [
+                                                    default: _withCtx(() => _cache[123] || (_cache[123] = [
                                                       _createTextVNode("mdi-order-numeric-ascending")
                                                     ])),
                                                     _: 1
@@ -7855,11 +8163,11 @@ return (_ctx, _cache) => {
                                             _createVNode(_component_v_card_text, null, {
                                               default: _withCtx(() => [
                                                 _createElementVNode("div", _hoisted_24, [
-                                                  _cache[132] || (_cache[132] = _createElementVNode("strong", null, "类型：", -1)),
+                                                  _cache[124] || (_cache[124] = _createElementVNode("strong", null, "类型：", -1)),
                                                   _createTextVNode(_toDisplayString(item.type), 1)
                                                 ]),
                                                 _createElementVNode("div", _hoisted_25, [
-                                                  _cache[133] || (_cache[133] = _createElementVNode("strong", null, "内容：", -1)),
+                                                  _cache[125] || (_cache[125] = _createElementVNode("strong", null, "内容：", -1)),
                                                   _createTextVNode(_toDisplayString(item.payload), 1)
                                                 ])
                                               ]),
@@ -7877,7 +8185,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[134] || (_cache[134] = [
+                                                      default: _withCtx(() => _cache[126] || (_cache[126] = [
                                                         _createTextVNode("mdi-pencil")
                                                       ])),
                                                       _: 1
@@ -7895,7 +8203,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[135] || (_cache[135] = [
+                                                      default: _withCtx(() => _cache[127] || (_cache[127] = [
                                                         _createTextVNode("mdi-delete")
                                                       ])),
                                                       _: 1
@@ -8005,8 +8313,8 @@ return (_ctx, _cache) => {
                               })
                             ]),
                             _createVNode(_component_v_divider),
-                            _cache[136] || (_cache[136] = _createElementVNode("div", { class: "text-caption text-grey mt-2" }, " *置顶规则用于管理来自规则集的匹配规则，这些规则会动态更新。 ", -1)),
-                            _cache[137] || (_cache[137] = _createElementVNode("div", { class: "text-caption text-grey mt-2" }, " *对置顶规则的修改只有Clash更新配置后才会生效。 ", -1))
+                            _cache[128] || (_cache[128] = _createElementVNode("div", { class: "text-caption text-grey mt-2" }, " *置顶规则用于管理来自规则集的匹配规则，这些规则会动态更新。 ", -1)),
+                            _cache[129] || (_cache[129] = _createElementVNode("div", { class: "text-caption text-grey mt-2" }, " *对置顶规则的修改只有Clash更新配置后才会生效。 ", -1))
                           ])
                         ]),
                         _: 1
@@ -8056,7 +8364,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[138] || (_cache[138] = [
+                                            default: _withCtx(() => _cache[130] || (_cache[130] = [
                                               _createTextVNode("mdi-plus")
                                             ])),
                                             _: 1
@@ -8107,7 +8415,7 @@ return (_ctx, _cache) => {
                                             key: 0,
                                             color: "primary"
                                           }, {
-                                            default: _withCtx(() => _cache[139] || (_cache[139] = [
+                                            default: _withCtx(() => _cache[131] || (_cache[131] = [
                                               _createTextVNode("mdi-feather")
                                             ])),
                                             _: 1
@@ -8117,7 +8425,7 @@ return (_ctx, _cache) => {
                                               key: 1,
                                               color: "info"
                                             }, {
-                                              default: _withCtx(() => _cache[140] || (_cache[140] = [
+                                              default: _withCtx(() => _cache[132] || (_cache[132] = [
                                                 _createTextVNode("mdi-earth")
                                               ])),
                                               _: 1
@@ -8127,7 +8435,7 @@ return (_ctx, _cache) => {
                                                 key: 2,
                                                 color: "success"
                                               }, {
-                                                default: _withCtx(() => _cache[141] || (_cache[141] = [
+                                                default: _withCtx(() => _cache[133] || (_cache[133] = [
                                                   _createTextVNode("mdi-file-code-outline")
                                                 ])),
                                                 _: 1
@@ -8137,7 +8445,7 @@ return (_ctx, _cache) => {
                                                 size: "small",
                                                 label: ""
                                               }, {
-                                                default: _withCtx(() => _cache[142] || (_cache[142] = [
+                                                default: _withCtx(() => _cache[134] || (_cache[134] = [
                                                   _createTextVNode("item.source")
                                                 ])),
                                                 _: 1
@@ -8153,7 +8461,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[143] || (_cache[143] = [
+                                            default: _withCtx(() => _cache[135] || (_cache[135] = [
                                               _createTextVNode("mdi-code-json")
                                             ])),
                                             _: 1
@@ -8171,7 +8479,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[144] || (_cache[144] = [
+                                            default: _withCtx(() => _cache[136] || (_cache[136] = [
                                               _createTextVNode("mdi-pencil")
                                             ])),
                                             _: 1
@@ -8189,7 +8497,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[145] || (_cache[145] = [
+                                            default: _withCtx(() => _cache[137] || (_cache[137] = [
                                               _createTextVNode("mdi-delete")
                                             ])),
                                             _: 1
@@ -8228,7 +8536,7 @@ return (_ctx, _cache) => {
                                                           size: "x-small",
                                                           color: "primary"
                                                         }, {
-                                                          default: _withCtx(() => _cache[146] || (_cache[146] = [
+                                                          default: _withCtx(() => _cache[138] || (_cache[138] = [
                                                             _createTextVNode("mdi-feather")
                                                           ])),
                                                           _: 1
@@ -8240,7 +8548,7 @@ return (_ctx, _cache) => {
                                                             size: "x-small",
                                                             color: "info"
                                                           }, {
-                                                            default: _withCtx(() => _cache[147] || (_cache[147] = [
+                                                            default: _withCtx(() => _cache[139] || (_cache[139] = [
                                                               _createTextVNode("mdi-earth")
                                                             ])),
                                                             _: 1
@@ -8252,7 +8560,7 @@ return (_ctx, _cache) => {
                                                               size: "x-small",
                                                               color: "success"
                                                             }, {
-                                                              default: _withCtx(() => _cache[148] || (_cache[148] = [
+                                                              default: _withCtx(() => _cache[140] || (_cache[140] = [
                                                                 _createTextVNode("mdi-file-code-outline")
                                                               ])),
                                                               _: 1
@@ -8262,7 +8570,7 @@ return (_ctx, _cache) => {
                                                               size: "small",
                                                               label: ""
                                                             }, {
-                                                              default: _withCtx(() => _cache[149] || (_cache[149] = [
+                                                              default: _withCtx(() => _cache[141] || (_cache[141] = [
                                                                 _createTextVNode("item.source")
                                                               ])),
                                                               _: 1
@@ -8287,7 +8595,7 @@ return (_ctx, _cache) => {
                                             _createVNode(_component_v_card_text, null, {
                                               default: _withCtx(() => [
                                                 _createElementVNode("div", _hoisted_32, [
-                                                  _cache[150] || (_cache[150] = _createElementVNode("strong", null, "类型：", -1)),
+                                                  _cache[142] || (_cache[142] = _createElementVNode("strong", null, "类型：", -1)),
                                                   _createTextVNode(_toDisplayString(item.type), 1)
                                                 ])
                                               ]),
@@ -8306,7 +8614,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[151] || (_cache[151] = [
+                                                      default: _withCtx(() => _cache[143] || (_cache[143] = [
                                                         _createTextVNode("mdi-pencil")
                                                       ])),
                                                       _: 1
@@ -8324,7 +8632,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[152] || (_cache[152] = [
+                                                      default: _withCtx(() => _cache[144] || (_cache[144] = [
                                                         _createTextVNode("mdi-code-json")
                                                       ])),
                                                       _: 1
@@ -8343,7 +8651,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[153] || (_cache[153] = [
+                                                      default: _withCtx(() => _cache[145] || (_cache[145] = [
                                                         _createTextVNode("mdi-delete")
                                                       ])),
                                                       _: 1
@@ -8502,7 +8810,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[154] || (_cache[154] = [
+                                            default: _withCtx(() => _cache[146] || (_cache[146] = [
                                               _createTextVNode("mdi-import")
                                             ])),
                                             _: 1
@@ -8547,7 +8855,7 @@ return (_ctx, _cache) => {
                                           }, {
                                             default: _withCtx(() => [
                                               _createVNode(_component_v_icon, null, {
-                                                default: _withCtx(() => _cache[155] || (_cache[155] = [
+                                                default: _withCtx(() => _cache[147] || (_cache[147] = [
                                                   _createTextVNode("mdi-link")
                                                 ])),
                                                 _: 1
@@ -8577,7 +8885,7 @@ return (_ctx, _cache) => {
                                             key: 0,
                                             color: "primary"
                                           }, {
-                                            default: _withCtx(() => _cache[156] || (_cache[156] = [
+                                            default: _withCtx(() => _cache[148] || (_cache[148] = [
                                               _createTextVNode("mdi-feather")
                                             ])),
                                             _: 1
@@ -8587,7 +8895,7 @@ return (_ctx, _cache) => {
                                               key: 1,
                                               color: "success"
                                             }, {
-                                              default: _withCtx(() => _cache[157] || (_cache[157] = [
+                                              default: _withCtx(() => _cache[149] || (_cache[149] = [
                                                 _createTextVNode("mdi-file-code-outline")
                                               ])),
                                               _: 1
@@ -8596,7 +8904,7 @@ return (_ctx, _cache) => {
                                               key: 2,
                                               color: "info"
                                             }, {
-                                              default: _withCtx(() => _cache[158] || (_cache[158] = [
+                                              default: _withCtx(() => _cache[150] || (_cache[150] = [
                                                 _createTextVNode("mdi-file-download-outline")
                                               ])),
                                               _: 1
@@ -8612,7 +8920,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[159] || (_cache[159] = [
+                                            default: _withCtx(() => _cache[151] || (_cache[151] = [
                                               _createTextVNode("mdi-code-json")
                                             ])),
                                             _: 1
@@ -8630,13 +8938,13 @@ return (_ctx, _cache) => {
                                         default: _withCtx(() => [
                                           (item.overwritten)
                                             ? (_openBlock(), _createBlock(_component_v_icon, { key: 0 }, {
-                                                default: _withCtx(() => _cache[160] || (_cache[160] = [
+                                                default: _withCtx(() => _cache[152] || (_cache[152] = [
                                                   _createTextVNode("mdi-wrench-check")
                                                 ])),
                                                 _: 1
                                               }))
                                             : (_openBlock(), _createBlock(_component_v_icon, { key: 1 }, {
-                                                default: _withCtx(() => _cache[161] || (_cache[161] = [
+                                                default: _withCtx(() => _cache[153] || (_cache[153] = [
                                                   _createTextVNode("mdi-cog")
                                                 ])),
                                                 _: 1
@@ -8654,7 +8962,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[162] || (_cache[162] = [
+                                            default: _withCtx(() => _cache[154] || (_cache[154] = [
                                               _createTextVNode("mdi-delete")
                                             ])),
                                             _: 1
@@ -8693,7 +9001,7 @@ return (_ctx, _cache) => {
                                                           size: "x-small",
                                                           color: "primary"
                                                         }, {
-                                                          default: _withCtx(() => _cache[163] || (_cache[163] = [
+                                                          default: _withCtx(() => _cache[155] || (_cache[155] = [
                                                             _createTextVNode("mdi-feather")
                                                           ])),
                                                           _: 1
@@ -8705,7 +9013,7 @@ return (_ctx, _cache) => {
                                                             size: "x-small",
                                                             color: "success"
                                                           }, {
-                                                            default: _withCtx(() => _cache[164] || (_cache[164] = [
+                                                            default: _withCtx(() => _cache[156] || (_cache[156] = [
                                                               _createTextVNode("mdi-file-code-outline")
                                                             ])),
                                                             _: 1
@@ -8716,7 +9024,7 @@ return (_ctx, _cache) => {
                                                             size: "x-small",
                                                             color: "info"
                                                           }, {
-                                                            default: _withCtx(() => _cache[165] || (_cache[165] = [
+                                                            default: _withCtx(() => _cache[157] || (_cache[157] = [
                                                               _createTextVNode("mdi-file-download-outline")
                                                             ])),
                                                             _: 1
@@ -8733,7 +9041,7 @@ return (_ctx, _cache) => {
                                                         }, {
                                                           default: _withCtx(() => [
                                                             _createVNode(_component_v_icon, null, {
-                                                              default: _withCtx(() => _cache[166] || (_cache[166] = [
+                                                              default: _withCtx(() => _cache[158] || (_cache[158] = [
                                                                 _createTextVNode("mdi-link")
                                                               ])),
                                                               _: 1
@@ -8761,11 +9069,11 @@ return (_ctx, _cache) => {
                                             _createVNode(_component_v_card_text, null, {
                                               default: _withCtx(() => [
                                                 _createElementVNode("div", _hoisted_39, [
-                                                  _cache[167] || (_cache[167] = _createElementVNode("strong", null, "类型：", -1)),
+                                                  _cache[159] || (_cache[159] = _createElementVNode("strong", null, "类型：", -1)),
                                                   _createTextVNode(_toDisplayString(item.type), 1)
                                                 ]),
                                                 _createElementVNode("div", _hoisted_40, [
-                                                  _cache[168] || (_cache[168] = _createElementVNode("strong", null, "服务器：", -1)),
+                                                  _cache[160] || (_cache[160] = _createElementVNode("strong", null, "服务器：", -1)),
                                                   _createTextVNode(_toDisplayString(item.server), 1)
                                                 ])
                                               ]),
@@ -8784,13 +9092,13 @@ return (_ctx, _cache) => {
                                                   default: _withCtx(() => [
                                                     (item.overwritten)
                                                       ? (_openBlock(), _createBlock(_component_v_icon, { key: 0 }, {
-                                                          default: _withCtx(() => _cache[169] || (_cache[169] = [
+                                                          default: _withCtx(() => _cache[161] || (_cache[161] = [
                                                             _createTextVNode("mdi-wrench-check")
                                                           ])),
                                                           _: 1
                                                         }))
                                                       : (_openBlock(), _createBlock(_component_v_icon, { key: 1 }, {
-                                                          default: _withCtx(() => _cache[170] || (_cache[170] = [
+                                                          default: _withCtx(() => _cache[162] || (_cache[162] = [
                                                             _createTextVNode("mdi-cog")
                                                           ])),
                                                           _: 1
@@ -8808,7 +9116,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[171] || (_cache[171] = [
+                                                      default: _withCtx(() => _cache[163] || (_cache[163] = [
                                                         _createTextVNode("mdi-code-json")
                                                       ])),
                                                       _: 1
@@ -8827,7 +9135,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[172] || (_cache[172] = [
+                                                      default: _withCtx(() => _cache[164] || (_cache[164] = [
                                                         _createTextVNode("mdi-delete")
                                                       ])),
                                                       _: 1
@@ -8986,7 +9294,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[173] || (_cache[173] = [
+                                            default: _withCtx(() => _cache[165] || (_cache[165] = [
                                               _createTextVNode("mdi-plus")
                                             ])),
                                             _: 1
@@ -9039,7 +9347,7 @@ return (_ctx, _cache) => {
                                             key: 0,
                                             color: "primary"
                                           }, {
-                                            default: _withCtx(() => _cache[174] || (_cache[174] = [
+                                            default: _withCtx(() => _cache[166] || (_cache[166] = [
                                               _createTextVNode("mdi-feather")
                                             ])),
                                             _: 1
@@ -9049,7 +9357,7 @@ return (_ctx, _cache) => {
                                               key: 1,
                                               color: "success"
                                             }, {
-                                              default: _withCtx(() => _cache[175] || (_cache[175] = [
+                                              default: _withCtx(() => _cache[167] || (_cache[167] = [
                                                 _createTextVNode("mdi-file-code-outline")
                                               ])),
                                               _: 1
@@ -9058,7 +9366,7 @@ return (_ctx, _cache) => {
                                               key: 2,
                                               color: "info"
                                             }, {
-                                              default: _withCtx(() => _cache[176] || (_cache[176] = [
+                                              default: _withCtx(() => _cache[168] || (_cache[168] = [
                                                 _createTextVNode("mdi-file-download-outline")
                                               ])),
                                               _: 1
@@ -9075,7 +9383,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[177] || (_cache[177] = [
+                                            default: _withCtx(() => _cache[169] || (_cache[169] = [
                                               _createTextVNode("mdi-pencil")
                                             ])),
                                             _: 1
@@ -9093,7 +9401,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[178] || (_cache[178] = [
+                                            default: _withCtx(() => _cache[170] || (_cache[170] = [
                                               _createTextVNode("mdi-delete")
                                             ])),
                                             _: 1
@@ -9107,7 +9415,7 @@ return (_ctx, _cache) => {
                                             activator: "parent",
                                             location: "top"
                                           }, {
-                                            default: _withCtx(() => _cache[179] || (_cache[179] = [
+                                            default: _withCtx(() => _cache[171] || (_cache[171] = [
                                               _createTextVNode(" 非手动添加 ")
                                             ])),
                                             _: 1
@@ -9144,7 +9452,7 @@ return (_ctx, _cache) => {
                                                           size: "x-small",
                                                           color: "primary"
                                                         }, {
-                                                          default: _withCtx(() => _cache[180] || (_cache[180] = [
+                                                          default: _withCtx(() => _cache[172] || (_cache[172] = [
                                                             _createTextVNode("mdi-feather")
                                                           ])),
                                                           _: 1
@@ -9156,7 +9464,7 @@ return (_ctx, _cache) => {
                                                             size: "x-small",
                                                             color: "success"
                                                           }, {
-                                                            default: _withCtx(() => _cache[181] || (_cache[181] = [
+                                                            default: _withCtx(() => _cache[173] || (_cache[173] = [
                                                               _createTextVNode("mdi-file-code-outline")
                                                             ])),
                                                             _: 1
@@ -9167,7 +9475,7 @@ return (_ctx, _cache) => {
                                                             size: "x-small",
                                                             color: "info"
                                                           }, {
-                                                            default: _withCtx(() => _cache[182] || (_cache[182] = [
+                                                            default: _withCtx(() => _cache[174] || (_cache[174] = [
                                                               _createTextVNode("mdi-file-download-outline")
                                                             ])),
                                                             _: 1
@@ -9192,11 +9500,11 @@ return (_ctx, _cache) => {
                                             _createVNode(_component_v_card_text, null, {
                                               default: _withCtx(() => [
                                                 _createElementVNode("div", _hoisted_47, [
-                                                  _cache[183] || (_cache[183] = _createElementVNode("strong", null, "类型：", -1)),
+                                                  _cache[175] || (_cache[175] = _createElementVNode("strong", null, "类型：", -1)),
                                                   _createTextVNode(_toDisplayString(item.type), 1)
                                                 ]),
                                                 _createElementVNode("div", _hoisted_48, [
-                                                  _cache[184] || (_cache[184] = _createElementVNode("strong", null, "内容：", -1)),
+                                                  _cache[176] || (_cache[176] = _createElementVNode("strong", null, "内容：", -1)),
                                                   _createTextVNode(_toDisplayString(item.format), 1)
                                                 ])
                                               ]),
@@ -9215,7 +9523,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[185] || (_cache[185] = [
+                                                      default: _withCtx(() => _cache[177] || (_cache[177] = [
                                                         _createTextVNode("mdi-pencil")
                                                       ])),
                                                       _: 1
@@ -9234,7 +9542,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[186] || (_cache[186] = [
+                                                      default: _withCtx(() => _cache[178] || (_cache[178] = [
                                                         _createTextVNode("mdi-delete")
                                                       ])),
                                                       _: 1
@@ -9393,7 +9701,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[187] || (_cache[187] = [
+                                            default: _withCtx(() => _cache[179] || (_cache[179] = [
                                               _createTextVNode("mdi-plus")
                                             ])),
                                             _: 1
@@ -9461,7 +9769,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[188] || (_cache[188] = [
+                                            default: _withCtx(() => _cache[180] || (_cache[180] = [
                                               _createTextVNode("mdi-pencil")
                                             ])),
                                             _: 1
@@ -9478,7 +9786,7 @@ return (_ctx, _cache) => {
                                       }, {
                                         default: _withCtx(() => [
                                           _createVNode(_component_v_icon, null, {
-                                            default: _withCtx(() => _cache[189] || (_cache[189] = [
+                                            default: _withCtx(() => _cache[181] || (_cache[181] = [
                                               _createTextVNode("mdi-delete")
                                             ])),
                                             _: 1
@@ -9528,7 +9836,7 @@ return (_ctx, _cache) => {
                                             _createVNode(_component_v_card_text, null, {
                                               default: _withCtx(() => [
                                                 _createElementVNode("div", _hoisted_55, [
-                                                  _cache[190] || (_cache[190] = _createElementVNode("strong", null, "IP：", -1)),
+                                                  _cache[182] || (_cache[182] = _createElementVNode("strong", null, "IP：", -1)),
                                                   (_openBlock(true), _createElementBlock(_Fragment, null, _renderList((item.using_cloudflare? bestCloudflareIPs.value : item.value), (ip) => {
                                                     return (_openBlock(), _createBlock(_component_v_chip, {
                                                       key: ip,
@@ -9557,7 +9865,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[191] || (_cache[191] = [
+                                                      default: _withCtx(() => _cache[183] || (_cache[183] = [
                                                         _createTextVNode("mdi-pencil")
                                                       ])),
                                                       _: 1
@@ -9575,7 +9883,7 @@ return (_ctx, _cache) => {
                                                 }, {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[192] || (_cache[192] = [
+                                                      default: _withCtx(() => _cache[184] || (_cache[184] = [
                                                         _createTextVNode("mdi-delete")
                                                       ])),
                                                       _: 1
@@ -9713,13 +10021,13 @@ return (_ctx, _cache) => {
                                               color: "white",
                                               class: "mb-4 bounce"
                                             }, {
-                                              default: _withCtx(() => _cache[193] || (_cache[193] = [
+                                              default: _withCtx(() => _cache[185] || (_cache[185] = [
                                                 _createTextVNode(" mdi-emoticon-happy-outline ")
                                               ])),
                                               _: 1
                                             }),
-                                            _cache[195] || (_cache[195] = _createElementVNode("h2", { class: "text-h6 font-weight-bold white--text mb-2" }, " 还没有订阅呢 🎉 ", -1)),
-                                            _cache[196] || (_cache[196] = _createElementVNode("p", { class: "white--text mb-4" }, " 试试添加一个订阅吧！ ", -1)),
+                                            _cache[187] || (_cache[187] = _createElementVNode("h2", { class: "text-h6 font-weight-bold white--text mb-2" }, " 还没有订阅呢 🎉 ", -1)),
+                                            _cache[188] || (_cache[188] = _createElementVNode("p", { class: "white--text mb-4" }, " 试试添加一个订阅吧！ ", -1)),
                                             _createVNode(_component_v_btn, {
                                               color: "info",
                                               dark: "",
@@ -9727,7 +10035,7 @@ return (_ctx, _cache) => {
                                               elevation: "6",
                                               onClick: notifySwitch
                                             }, {
-                                              default: _withCtx(() => _cache[194] || (_cache[194] = [
+                                              default: _withCtx(() => _cache[186] || (_cache[186] = [
                                                 _createTextVNode(" 去配置 🚀 ")
                                               ])),
                                               _: 1
@@ -9774,12 +10082,12 @@ return (_ctx, _cache) => {
                                                       left: "",
                                                       class: "mr-2"
                                                     }, {
-                                                      default: _withCtx(() => _cache[197] || (_cache[197] = [
+                                                      default: _withCtx(() => _cache[189] || (_cache[189] = [
                                                         _createTextVNode(" mdi-refresh ")
                                                       ])),
                                                       _: 1
                                                     }),
-                                                    _cache[198] || (_cache[198] = _createTextVNode(" 刷新 "))
+                                                    _cache[190] || (_cache[190] = _createTextVNode(" 刷新 "))
                                                   ]),
                                                   _: 2
                                                 }, 1032, ["onClick", "loading"])
@@ -9799,7 +10107,7 @@ return (_ctx, _cache) => {
                                                     }, {
                                                       default: _withCtx(() => [
                                                         _createVNode(_component_v_icon, { class: "mr-2" }, {
-                                                          default: _withCtx(() => _cache[199] || (_cache[199] = [
+                                                          default: _withCtx(() => _cache[191] || (_cache[191] = [
                                                             _createTextVNode(" mdi-server-network ")
                                                           ])),
                                                           _: 1
@@ -9818,7 +10126,7 @@ return (_ctx, _cache) => {
                                                     }, {
                                                       default: _withCtx(() => [
                                                         _createVNode(_component_v_icon, { class: "mr-2" }, {
-                                                          default: _withCtx(() => _cache[200] || (_cache[200] = [
+                                                          default: _withCtx(() => _cache[192] || (_cache[192] = [
                                                             _createTextVNode(" mdi-clock-outline ")
                                                           ])),
                                                           _: 1
@@ -9836,7 +10144,7 @@ return (_ctx, _cache) => {
                                                     }, {
                                                       default: _withCtx(() => [
                                                         _createVNode(_component_v_icon, { class: "mr-2" }, {
-                                                          default: _withCtx(() => _cache[201] || (_cache[201] = [
+                                                          default: _withCtx(() => _cache[193] || (_cache[193] = [
                                                             _createTextVNode(" mdi-calendar-clock ")
                                                           ])),
                                                           _: 1
@@ -9848,11 +10156,11 @@ return (_ctx, _cache) => {
                                                   : _createCommentVNode("", true)
                                               ]),
                                               _createElementVNode("div", _hoisted_60, [
-                                                _cache[202] || (_cache[202] = _createElementVNode("span", null, "已用流量：", -1)),
+                                                _cache[194] || (_cache[194] = _createElementVNode("span", null, "已用流量：", -1)),
                                                 _createElementVNode("strong", null, _toDisplayString(formatBytes(info.download + info.upload)), 1)
                                               ]),
                                               _createElementVNode("div", _hoisted_61, [
-                                                _cache[203] || (_cache[203] = _createElementVNode("span", null, "剩余流量：", -1)),
+                                                _cache[195] || (_cache[195] = _createElementVNode("span", null, "剩余流量：", -1)),
                                                 _createElementVNode("strong", null, _toDisplayString(formatBytes(info.total - info.download)), 1)
                                               ]),
                                               _createVNode(_component_v_progress_linear, {
@@ -9886,7 +10194,7 @@ return (_ctx, _cache) => {
                                                 }), {
                                                   default: _withCtx(() => [
                                                     _createVNode(_component_v_icon, null, {
-                                                      default: _withCtx(() => _cache[204] || (_cache[204] = [
+                                                      default: _withCtx(() => _cache[196] || (_cache[196] = [
                                                         _createTextVNode("mdi-content-copy")
                                                       ])),
                                                       _: 1
@@ -9954,13 +10262,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "primary"
                               }, {
-                                default: _withCtx(() => _cache[205] || (_cache[205] = [
+                                default: _withCtx(() => _cache[197] || (_cache[197] = [
                                   _createTextVNode("mdi-format-list-bulleted")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_65, _toDisplayString(sortedRulesetRules.value.length), 1),
-                              _cache[206] || (_cache[206] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "规则集规则", -1))
+                              _cache[198] || (_cache[198] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "规则集规则", -1))
                             ]),
                             _: 1
                           })
@@ -9981,13 +10289,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "info"
                               }, {
-                                default: _withCtx(() => _cache[207] || (_cache[207] = [
+                                default: _withCtx(() => _cache[199] || (_cache[199] = [
                                   _createTextVNode("mdi-pin")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_66, _toDisplayString(sortedRules.value.length), 1),
-                              _cache[208] || (_cache[208] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "置顶规则", -1))
+                              _cache[200] || (_cache[200] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "置顶规则", -1))
                             ]),
                             _: 1
                           })
@@ -10008,13 +10316,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "success"
                               }, {
-                                default: _withCtx(() => _cache[209] || (_cache[209] = [
+                                default: _withCtx(() => _cache[201] || (_cache[201] = [
                                   _createTextVNode("mdi-source-branch")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_67, _toDisplayString(proxyGroups.value.length), 1),
-                              _cache[210] || (_cache[210] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "代理组", -1))
+                              _cache[202] || (_cache[202] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "代理组", -1))
                             ]),
                             _: 1
                           })
@@ -10035,13 +10343,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "error"
                               }, {
-                                default: _withCtx(() => _cache[211] || (_cache[211] = [
+                                default: _withCtx(() => _cache[203] || (_cache[203] = [
                                   _createTextVNode("mdi-rocket-launch")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_68, _toDisplayString(extraProxies.value.length), 1),
-                              _cache[212] || (_cache[212] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "出站代理", -1))
+                              _cache[204] || (_cache[204] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "出站代理", -1))
                             ]),
                             _: 1
                           })
@@ -10062,13 +10370,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "warning"
                               }, {
-                                default: _withCtx(() => _cache[213] || (_cache[213] = [
+                                default: _withCtx(() => _cache[205] || (_cache[205] = [
                                   _createTextVNode("mdi-folder-multiple")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_69, _toDisplayString(extraRuleProviders.value.length), 1),
-                              _cache[214] || (_cache[214] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "规则集合", -1))
+                              _cache[206] || (_cache[206] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "规则集合", -1))
                             ]),
                             _: 1
                           })
@@ -10089,13 +10397,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "secondary"
                               }, {
-                                default: _withCtx(() => _cache[215] || (_cache[215] = [
+                                default: _withCtx(() => _cache[207] || (_cache[207] = [
                                   _createTextVNode("mdi-lan")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_70, _toDisplayString(hosts.value.length), 1),
-                              _cache[216] || (_cache[216] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "Hosts", -1))
+                              _cache[208] || (_cache[208] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "Hosts", -1))
                             ]),
                             _: 1
                           })
@@ -10116,13 +10424,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "info"
                               }, {
-                                default: _withCtx(() => _cache[217] || (_cache[217] = [
+                                default: _withCtx(() => _cache[209] || (_cache[209] = [
                                   _createTextVNode("mdi-earth")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_71, _toDisplayString(geoRules.value.geosite.length), 1),
-                              _cache[218] || (_cache[218] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "Geosite", -1))
+                              _cache[210] || (_cache[210] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "Geosite", -1))
                             ]),
                             _: 1
                           })
@@ -10143,13 +10451,13 @@ return (_ctx, _cache) => {
                                 size: "40",
                                 color: "success"
                               }, {
-                                default: _withCtx(() => _cache[219] || (_cache[219] = [
+                                default: _withCtx(() => _cache[211] || (_cache[211] = [
                                   _createTextVNode("mdi-clock-time-four-outline")
                                 ])),
                                 _: 1
                               }),
                               _createElementVNode("div", _hoisted_72, _toDisplayString(lastUpdated.value), 1),
-                              _cache[220] || (_cache[220] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "最后更新", -1))
+                              _cache[212] || (_cache[212] = _createElementVNode("div", { class: "text-subtitle-2 grey--text" }, "最后更新", -1))
                             ]),
                             _: 1
                           })
@@ -10173,12 +10481,12 @@ return (_ctx, _cache) => {
             }, {
               default: _withCtx(() => [
                 _createVNode(_component_v_icon, { left: "" }, {
-                  default: _withCtx(() => _cache[221] || (_cache[221] = [
+                  default: _withCtx(() => _cache[213] || (_cache[213] = [
                     _createTextVNode("mdi-refresh")
                   ])),
                   _: 1
                 }),
-                _cache[222] || (_cache[222] = _createTextVNode(" 刷新数据 "))
+                _cache[214] || (_cache[214] = _createTextVNode(" 刷新数据 "))
               ]),
               _: 1
             }, 8, ["loading"]),
@@ -10189,12 +10497,12 @@ return (_ctx, _cache) => {
             }, {
               default: _withCtx(() => [
                 _createVNode(_component_v_icon, { left: "" }, {
-                  default: _withCtx(() => _cache[223] || (_cache[223] = [
+                  default: _withCtx(() => _cache[215] || (_cache[215] = [
                     _createTextVNode("mdi-link-variant")
                   ])),
                   _: 1
                 }),
-                _cache[224] || (_cache[224] = _createTextVNode(" 生成链接 "))
+                _cache[216] || (_cache[216] = _createTextVNode(" 生成链接 "))
               ]),
               _: 1
             }, 8, ["href"]),
@@ -10204,12 +10512,12 @@ return (_ctx, _cache) => {
             }, {
               default: _withCtx(() => [
                 _createVNode(_component_v_icon, { left: "" }, {
-                  default: _withCtx(() => _cache[225] || (_cache[225] = [
+                  default: _withCtx(() => _cache[217] || (_cache[217] = [
                     _createTextVNode("mdi-chart-bar")
                   ])),
                   _: 1
                 }),
-                _cache[226] || (_cache[226] = _createTextVNode(" 统计信息 "))
+                _cache[218] || (_cache[218] = _createTextVNode(" 统计信息 "))
               ]),
               _: 1
             }),
@@ -10220,12 +10528,12 @@ return (_ctx, _cache) => {
             }, {
               default: _withCtx(() => [
                 _createVNode(_component_v_icon, { left: "" }, {
-                  default: _withCtx(() => _cache[227] || (_cache[227] = [
+                  default: _withCtx(() => _cache[219] || (_cache[219] = [
                     _createTextVNode("mdi-cog")
                   ])),
                   _: 1
                 }),
-                _cache[228] || (_cache[228] = _createTextVNode(" 配置 "))
+                _cache[220] || (_cache[220] = _createTextVNode(" 配置 "))
               ]),
               _: 1
             })
@@ -10247,169 +10555,25 @@ return (_ctx, _cache) => {
       ]),
       _: 1
     }),
-    _createVNode(_component_v_dialog, {
-      modelValue: ruleDialog.value,
-      "onUpdate:modelValue": _cache[40] || (_cache[40] = $event => ((ruleDialog).value = $event)),
-      "max-width": "40rem"
-    }, {
-      default: _withCtx(() => [
-        _createVNode(_component_v_form, {
-          ref_key: "ruleForm",
-          ref: ruleForm,
-          onSubmit: _withModifiers(saveRule, ["prevent"])
-        }, {
-          default: _withCtx(() => [
-            _createVNode(_component_v_card, null, {
-              default: _withCtx(() => [
-                _createVNode(_component_v_card_title, null, {
-                  default: _withCtx(() => [
-                    _createTextVNode(_toDisplayString(editingPriority.value === null ? '添加规则' : '编辑规则'), 1)
-                  ]),
-                  _: 1
-                }),
-                _createVNode(_component_v_card_text, null, {
-                  default: _withCtx(() => [
-                    _createVNode(_component_v_select, {
-                      modelValue: newRule.value.type,
-                      "onUpdate:modelValue": _cache[32] || (_cache[32] = $event => ((newRule.value.type) = $event)),
-                      items: ruleTypes.value,
-                      label: "规则类型",
-                      required: "",
-                      class: "mb-4"
-                    }, null, 8, ["modelValue", "items"]),
-                    (newRule.value.type === 'RULE-SET')
-                      ? (_openBlock(), _createBlock(_component_v_select, {
-                          key: 0,
-                          modelValue: newRule.value.payload,
-                          "onUpdate:modelValue": _cache[33] || (_cache[33] = $event => ((newRule.value.payload) = $event)),
-                          items: ruleProviderNames.value,
-                          label: "选择规则集",
-                          required: "",
-                          rules: [(v) => !!v || '请选择一个有效的规则集',],
-                          class: "mb-4"
-                        }, null, 8, ["modelValue", "items", "rules"]))
-                      : (newRule.value.type === 'GEOSITE')
-                        ? (_openBlock(), _createBlock(_component_v_autocomplete, {
-                            key: 1,
-                            modelValue: newRule.value.payload,
-                            "onUpdate:modelValue": _cache[34] || (_cache[34] = $event => ((newRule.value.payload) = $event)),
-                            search: geoSearch.value,
-                            items: filteredGeoItems.value,
-                            loading: geoFilterLoading.value,
-                            "hide-no-data": "",
-                            "hide-selected": "",
-                            label: "内容",
-                            "no-filter": "",
-                            solo: "",
-                            "custom-filter": () => true,
-                            clearable: "",
-                            "onUpdate:search": onGeoSearch,
-                            onBlur: onGeoSiteBlur,
-                            class: "mb-4",
-                            rules: payloadRules.value
-                          }, null, 8, ["modelValue", "search", "items", "loading", "rules"]))
-                        : (newRule.value.type === 'GEOIP')
-                          ? (_openBlock(), _createBlock(_component_v_autocomplete, {
-                              key: 2,
-                              modelValue: newRule.value.payload,
-                              "onUpdate:modelValue": _cache[35] || (_cache[35] = $event => ((newRule.value.payload) = $event)),
-                              search: geoIPSearch.value,
-                              items: filteredGeoItems.value,
-                              loading: geoFilterLoading.value,
-                              "hide-no-data": "",
-                              "hide-selected": "",
-                              label: "内容",
-                              "no-filter": "",
-                              solo: "",
-                              "custom-filter": () => true,
-                              clearable: "",
-                              "onUpdate:search": onGeoIPSearch,
-                              onBlur: onGeoIPBlur,
-                              class: "mb-4",
-                              rules: payloadRules.value
-                            }, null, 8, ["modelValue", "search", "items", "loading", "rules"]))
-                          : (_openBlock(), _createBlock(_component_v_text_field, {
-                              key: 3,
-                              modelValue: newRule.value.payload,
-                              "onUpdate:modelValue": _cache[36] || (_cache[36] = $event => ((newRule.value.payload) = $event)),
-                              label: "内容",
-                              required: "",
-                              rules: payloadRules.value,
-                              class: "mb-4"
-                            }, null, 8, ["modelValue", "rules"])),
-                    _createVNode(_component_v_select, {
-                      modelValue: newRule.value.action,
-                      "onUpdate:modelValue": _cache[37] || (_cache[37] = $event => ((newRule.value.action) = $event)),
-                      items: actions.value,
-                      label: "出站",
-                      required: "",
-                      class: "mb-4"
-                    }, null, 8, ["modelValue", "items"]),
-                    (showAdditionalParams.value)
-                      ? (_openBlock(), _createBlock(_component_v_select, {
-                          key: 4,
-                          modelValue: newRule.value.additional_params,
-                          "onUpdate:modelValue": _cache[38] || (_cache[38] = $event => ((newRule.value.additional_params) = $event)),
-                          label: "附加参数",
-                          items: additionalParamOptions.value,
-                          clearable: "",
-                          hint: "可选参数",
-                          "persistent-hint": "",
-                          class: "mb-4"
-                        }, null, 8, ["modelValue", "items"]))
-                      : _createCommentVNode("", true),
-                    (editingPriority.value !== null)
-                      ? (_openBlock(), _createBlock(_component_v_text_field, {
-                          key: 5,
-                          modelValue: newRule.value.priority,
-                          "onUpdate:modelValue": _cache[39] || (_cache[39] = $event => ((newRule.value.priority) = $event)),
-                          modelModifiers: { number: true },
-                          type: "number",
-                          label: "优先级",
-                          hint: "数字越小优先级越高",
-                          "persistent-hint": ""
-                        }, null, 8, ["modelValue"]))
-                      : _createCommentVNode("", true)
-                  ]),
-                  _: 1
-                }),
-                _createVNode(_component_v_card_actions, null, {
-                  default: _withCtx(() => [
-                    _createVNode(_component_v_spacer),
-                    _createVNode(_component_v_btn, {
-                      color: "secondary",
-                      onClick: closeRuleDialog
-                    }, {
-                      default: _withCtx(() => _cache[229] || (_cache[229] = [
-                        _createTextVNode("取消")
-                      ])),
-                      _: 1
-                    }),
-                    _createVNode(_component_v_btn, {
-                      color: "primary",
-                      type: "submit",
-                      loading: saveRuleLoading.value
-                    }, {
-                      default: _withCtx(() => _cache[230] || (_cache[230] = [
-                        _createTextVNode("保存 ")
-                      ])),
-                      _: 1
-                    }, 8, ["loading"])
-                  ]),
-                  _: 1
-                })
-              ]),
-              _: 1
-            })
-          ]),
-          _: 1
-        }, 512)
-      ]),
-      _: 1
-    }, 8, ["modelValue"]),
+    (ruleDialogVisible.value)
+      ? (_openBlock(), _createBlock(_sfc_main$1, {
+          key: 0,
+          "initial-rule": currentRule.value,
+          loading: saveRuleLoading.value,
+          "is-adding-rule": editingPriority.value === null,
+          "editing-type": editingType.value,
+          "rule-provider-names": ruleProviderNames.value,
+          "geo-ip": geoRules.value.geoip,
+          "geo-site": geoRules.value.geosite,
+          "custom-outbounds": customOutbounds.value,
+          onSave: saveRule,
+          showDialog: ruleDialogVisible.value,
+          "onUpdate:showDialog": _cache[32] || (_cache[32] = $event => ((ruleDialogVisible).value = $event))
+        }, null, 8, ["initial-rule", "loading", "is-adding-rule", "editing-type", "rule-provider-names", "geo-ip", "geo-site", "custom-outbounds", "showDialog"]))
+      : _createCommentVNode("", true),
     _createVNode(_component_v_dialog, {
       modelValue: proxyGroupDialog.value,
-      "onUpdate:modelValue": _cache[67] || (_cache[67] = $event => ((proxyGroupDialog).value = $event)),
+      "onUpdate:modelValue": _cache[59] || (_cache[59] = $event => ((proxyGroupDialog).value = $event)),
       "max-width": "40rem"
     }, {
       default: _withCtx(() => [
@@ -10441,7 +10605,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value.name,
-                              "onUpdate:modelValue": _cache[41] || (_cache[41] = $event => ((newProxyGroup.value.name) = $event)),
+                              "onUpdate:modelValue": _cache[33] || (_cache[33] = $event => ((newProxyGroup.value.name) = $event)),
                               label: "name",
                               required: "",
                               hint: "策略组的名字",
@@ -10458,7 +10622,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_select, {
                               modelValue: newProxyGroup.value.type,
-                              "onUpdate:modelValue": _cache[42] || (_cache[42] = $event => ((newProxyGroup.value.type) = $event)),
+                              "onUpdate:modelValue": _cache[34] || (_cache[34] = $event => ((newProxyGroup.value.type) = $event)),
                               label: "type",
                               items: proxyGroupTypes.value,
                               required: "",
@@ -10473,7 +10637,7 @@ return (_ctx, _cache) => {
                     }),
                     _createVNode(_component_v_select, {
                       modelValue: newProxyGroup.value.proxies,
-                      "onUpdate:modelValue": _cache[43] || (_cache[43] = $event => ((newProxyGroup.value.proxies) = $event)),
+                      "onUpdate:modelValue": _cache[35] || (_cache[35] = $event => ((newProxyGroup.value.proxies) = $event)),
                       label: "proxies",
                       items: actions.value,
                       multiple: "",
@@ -10484,7 +10648,7 @@ return (_ctx, _cache) => {
                     }, null, 8, ["modelValue", "items"]),
                     _createVNode(_component_v_select, {
                       modelValue: newProxyGroup.value.use,
-                      "onUpdate:modelValue": _cache[44] || (_cache[44] = $event => ((newProxyGroup.value.use) = $event)),
+                      "onUpdate:modelValue": _cache[36] || (_cache[36] = $event => ((newProxyGroup.value.use) = $event)),
                       label: "use",
                       items: proxyProviderNames.value,
                       multiple: "",
@@ -10495,7 +10659,7 @@ return (_ctx, _cache) => {
                     }, null, 8, ["modelValue", "items"]),
                     _createVNode(_component_v_text_field, {
                       modelValue: newProxyGroup.value.url,
-                      "onUpdate:modelValue": _cache[45] || (_cache[45] = $event => ((newProxyGroup.value.url) = $event)),
+                      "onUpdate:modelValue": _cache[37] || (_cache[37] = $event => ((newProxyGroup.value.url) = $event)),
                       label: "url",
                       hint: "健康检查测试地址",
                       rules: urlRules,
@@ -10506,7 +10670,7 @@ return (_ctx, _cache) => {
                       ? (_openBlock(), _createBlock(_component_v_text_field, {
                           key: 0,
                           modelValue: newProxyGroup.value.tolerance,
-                          "onUpdate:modelValue": _cache[46] || (_cache[46] = $event => ((newProxyGroup.value.tolerance) = $event)),
+                          "onUpdate:modelValue": _cache[38] || (_cache[38] = $event => ((newProxyGroup.value.tolerance) = $event)),
                           modelModifiers: { number: true },
                           label: "tolerance (ms)",
                           variant: "outlined",
@@ -10521,7 +10685,7 @@ return (_ctx, _cache) => {
                       ? (_openBlock(), _createBlock(_component_v_select, {
                           key: 1,
                           modelValue: newProxyGroup.value.strategy,
-                          "onUpdate:modelValue": _cache[47] || (_cache[47] = $event => ((newProxyGroup.value.strategy) = $event)),
+                          "onUpdate:modelValue": _cache[39] || (_cache[39] = $event => ((newProxyGroup.value.strategy) = $event)),
                           label: "strategy",
                           items: strategyTypes.value,
                           hint: "负载均衡策略",
@@ -10532,7 +10696,7 @@ return (_ctx, _cache) => {
                       ? (_openBlock(), _createBlock(_component_v_select, {
                           key: 2,
                           modelValue: newProxyGroup.value.strategy,
-                          "onUpdate:modelValue": _cache[48] || (_cache[48] = $event => ((newProxyGroup.value.strategy) = $event)),
+                          "onUpdate:modelValue": _cache[40] || (_cache[40] = $event => ((newProxyGroup.value.strategy) = $event)),
                           label: "strategy",
                           items: smartStrategyTypes.value,
                           hint: "负载均衡策略",
@@ -10548,7 +10712,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value['policy-priority'],
-                              "onUpdate:modelValue": _cache[49] || (_cache[49] = $event => ((newProxyGroup.value['policy-priority']) = $event)),
+                              "onUpdate:modelValue": _cache[41] || (_cache[41] = $event => ((newProxyGroup.value['policy-priority']) = $event)),
                               label: "policy-priority",
                               hint: "优先级"
                             }, null, 8, ["modelValue"])
@@ -10562,7 +10726,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value['sample-rate'],
-                              "onUpdate:modelValue": _cache[50] || (_cache[50] = $event => ((newProxyGroup.value['sample-rate']) = $event)),
+                              "onUpdate:modelValue": _cache[42] || (_cache[42] = $event => ((newProxyGroup.value['sample-rate']) = $event)),
                               label: "sample-rate",
                               hint: "数据采集率"
                             }, null, 8, ["modelValue"])
@@ -10581,7 +10745,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value.filter,
-                              "onUpdate:modelValue": _cache[51] || (_cache[51] = $event => ((newProxyGroup.value.filter) = $event)),
+                              "onUpdate:modelValue": _cache[43] || (_cache[43] = $event => ((newProxyGroup.value.filter) = $event)),
                               label: "filter",
                               hint: "筛选满足关键词或正则表达式的节点"
                             }, null, 8, ["modelValue"])
@@ -10595,7 +10759,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value['exclude-filter'],
-                              "onUpdate:modelValue": _cache[52] || (_cache[52] = $event => ((newProxyGroup.value['exclude-filter']) = $event)),
+                              "onUpdate:modelValue": _cache[44] || (_cache[44] = $event => ((newProxyGroup.value['exclude-filter']) = $event)),
                               label: "exclude-filter",
                               hint: "排除满足关键词或正则表达式的节点"
                             }, null, 8, ["modelValue"])
@@ -10609,7 +10773,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value['exclude-type'],
-                              "onUpdate:modelValue": _cache[53] || (_cache[53] = $event => ((newProxyGroup.value['exclude-type']) = $event)),
+                              "onUpdate:modelValue": _cache[45] || (_cache[45] = $event => ((newProxyGroup.value['exclude-type']) = $event)),
                               label: "exclude-type",
                               hint: "不支持正则表达式，通过 | 分割"
                             }, null, 8, ["modelValue"])
@@ -10623,7 +10787,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value['expected-status'],
-                              "onUpdate:modelValue": _cache[54] || (_cache[54] = $event => ((newProxyGroup.value['expected-status']) = $event)),
+                              "onUpdate:modelValue": _cache[46] || (_cache[46] = $event => ((newProxyGroup.value['expected-status']) = $event)),
                               label: "expected-status",
                               hint: "健康检查时期望的 HTTP 响应状态码"
                             }, null, 8, ["modelValue"])
@@ -10642,7 +10806,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value.icon,
-                              "onUpdate:modelValue": _cache[55] || (_cache[55] = $event => ((newProxyGroup.value.icon) = $event)),
+                              "onUpdate:modelValue": _cache[47] || (_cache[47] = $event => ((newProxyGroup.value.icon) = $event)),
                               label: "icon",
                               clearable: "",
                               hint: "在 api 返回icon所输入的字符串"
@@ -10662,7 +10826,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value.interval,
-                              "onUpdate:modelValue": _cache[56] || (_cache[56] = $event => ((newProxyGroup.value.interval) = $event)),
+                              "onUpdate:modelValue": _cache[48] || (_cache[48] = $event => ((newProxyGroup.value.interval) = $event)),
                               modelModifiers: { number: true },
                               label: "interval",
                               variant: "outlined",
@@ -10674,7 +10838,7 @@ return (_ctx, _cache) => {
                             }, {
                               "prepend-inner": _withCtx(() => [
                                 _createVNode(_component_v_icon, { color: "warning" }, {
-                                  default: _withCtx(() => _cache[231] || (_cache[231] = [
+                                  default: _withCtx(() => _cache[221] || (_cache[221] = [
                                     _createTextVNode("mdi-timer")
                                   ])),
                                   _: 1
@@ -10692,7 +10856,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value.timeout,
-                              "onUpdate:modelValue": _cache[57] || (_cache[57] = $event => ((newProxyGroup.value.timeout) = $event)),
+                              "onUpdate:modelValue": _cache[49] || (_cache[49] = $event => ((newProxyGroup.value.timeout) = $event)),
                               modelModifiers: { number: true },
                               label: "timeout",
                               variant: "outlined",
@@ -10704,7 +10868,7 @@ return (_ctx, _cache) => {
                             }, {
                               "prepend-inner": _withCtx(() => [
                                 _createVNode(_component_v_icon, { color: "warning" }, {
-                                  default: _withCtx(() => _cache[232] || (_cache[232] = [
+                                  default: _withCtx(() => _cache[222] || (_cache[222] = [
                                     _createTextVNode("mdi-timer")
                                   ])),
                                   _: 1
@@ -10727,7 +10891,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_text_field, {
                               modelValue: newProxyGroup.value['max-failed-times'],
-                              "onUpdate:modelValue": _cache[58] || (_cache[58] = $event => ((newProxyGroup.value['max-failed-times']) = $event)),
+                              "onUpdate:modelValue": _cache[50] || (_cache[50] = $event => ((newProxyGroup.value['max-failed-times']) = $event)),
                               modelModifiers: { number: true },
                               label: "max-failed-times",
                               variant: "outlined",
@@ -10746,7 +10910,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_switch, {
                               modelValue: newProxyGroup.value['lazy'],
-                              "onUpdate:modelValue": _cache[59] || (_cache[59] = $event => ((newProxyGroup.value['lazy']) = $event)),
+                              "onUpdate:modelValue": _cache[51] || (_cache[51] = $event => ((newProxyGroup.value['lazy']) = $event)),
                               label: "lazy",
                               inset: "",
                               hint: "未选择到当前策略组时，不进行测试",
@@ -10762,7 +10926,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_switch, {
                               modelValue: newProxyGroup.value['disable-udp'],
-                              "onUpdate:modelValue": _cache[60] || (_cache[60] = $event => ((newProxyGroup.value['disable-udp']) = $event)),
+                              "onUpdate:modelValue": _cache[52] || (_cache[52] = $event => ((newProxyGroup.value['disable-udp']) = $event)),
                               label: "disable-udp",
                               inset: "",
                               hint: "禁用该策略组的UDP",
@@ -10778,7 +10942,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_switch, {
                               modelValue: newProxyGroup.value.hidden,
-                              "onUpdate:modelValue": _cache[61] || (_cache[61] = $event => ((newProxyGroup.value.hidden) = $event)),
+                              "onUpdate:modelValue": _cache[53] || (_cache[53] = $event => ((newProxyGroup.value.hidden) = $event)),
                               label: "hidden",
                               inset: "",
                               hint: "在 api 返回hidden状态",
@@ -10799,7 +10963,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_switch, {
                               modelValue: newProxyGroup.value['include-all'],
-                              "onUpdate:modelValue": _cache[62] || (_cache[62] = $event => ((newProxyGroup.value['include-all']) = $event)),
+                              "onUpdate:modelValue": _cache[54] || (_cache[54] = $event => ((newProxyGroup.value['include-all']) = $event)),
                               label: "include-all",
                               inset: "",
                               hint: "引入所有出站代理以及代理集合",
@@ -10815,7 +10979,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_switch, {
                               modelValue: newProxyGroup.value['include-all-proxies'],
-                              "onUpdate:modelValue": _cache[63] || (_cache[63] = $event => ((newProxyGroup.value['include-all-proxies']) = $event)),
+                              "onUpdate:modelValue": _cache[55] || (_cache[55] = $event => ((newProxyGroup.value['include-all-proxies']) = $event)),
                               label: "include-all-proxies",
                               inset: "",
                               hint: "引入所有出站代理",
@@ -10837,7 +11001,7 @@ return (_ctx, _cache) => {
                               default: _withCtx(() => [
                                 _createVNode(_component_v_switch, {
                                   modelValue: newProxyGroup.value['uselightgbm'],
-                                  "onUpdate:modelValue": _cache[64] || (_cache[64] = $event => ((newProxyGroup.value['uselightgbm']) = $event)),
+                                  "onUpdate:modelValue": _cache[56] || (_cache[56] = $event => ((newProxyGroup.value['uselightgbm']) = $event)),
                                   label: "uselightgbm",
                                   inset: "",
                                   hint: "使用LightGBM进行权重预测",
@@ -10853,7 +11017,7 @@ return (_ctx, _cache) => {
                               default: _withCtx(() => [
                                 _createVNode(_component_v_switch, {
                                   modelValue: newProxyGroup.value['collectdata'],
-                                  "onUpdate:modelValue": _cache[65] || (_cache[65] = $event => ((newProxyGroup.value['collectdata']) = $event)),
+                                  "onUpdate:modelValue": _cache[57] || (_cache[57] = $event => ((newProxyGroup.value['collectdata']) = $event)),
                                   label: "collectdata",
                                   inset: "",
                                   hint: "收集数据进行模型训练",
@@ -10874,7 +11038,7 @@ return (_ctx, _cache) => {
                   text: "",
                   variant: "tonal"
                 }, {
-                  default: _withCtx(() => _cache[233] || (_cache[233] = [
+                  default: _withCtx(() => _cache[223] || (_cache[223] = [
                     _createTextVNode(" 参考"),
                     _createElementVNode("a", {
                       href: "https://wiki.metacubex.one/config/proxy-groups/",
@@ -10889,9 +11053,9 @@ return (_ctx, _cache) => {
                     _createVNode(_component_v_spacer),
                     _createVNode(_component_v_btn, {
                       color: "secondary",
-                      onClick: _cache[66] || (_cache[66] = $event => (proxyGroupDialog.value = false))
+                      onClick: _cache[58] || (_cache[58] = $event => (proxyGroupDialog.value = false))
                     }, {
-                      default: _withCtx(() => _cache[234] || (_cache[234] = [
+                      default: _withCtx(() => _cache[224] || (_cache[224] = [
                         _createTextVNode("取消")
                       ])),
                       _: 1
@@ -10901,7 +11065,7 @@ return (_ctx, _cache) => {
                       type: "submit",
                       loading: saveProxyGroupLoading.value
                     }, {
-                      default: _withCtx(() => _cache[235] || (_cache[235] = [
+                      default: _withCtx(() => _cache[225] || (_cache[225] = [
                         _createTextVNode("保存 ")
                       ])),
                       _: 1
@@ -10920,14 +11084,14 @@ return (_ctx, _cache) => {
     }, 8, ["modelValue"]),
     _createVNode(_component_v_dialog, {
       modelValue: yamlDialog.value,
-      "onUpdate:modelValue": _cache[71] || (_cache[71] = $event => ((yamlDialog).value = $event)),
+      "onUpdate:modelValue": _cache[63] || (_cache[63] = $event => ((yamlDialog).value = $event)),
       "max-width": "40rem"
     }, {
       default: _withCtx(() => [
         _createVNode(_component_v_card, null, {
           default: _withCtx(() => [
             _createVNode(_component_v_card_title, { class: "headline" }, {
-              default: _withCtx(() => _cache[236] || (_cache[236] = [
+              default: _withCtx(() => _cache[226] || (_cache[226] = [
                 _createTextVNode("YAML 配置")
               ])),
               _: 1
@@ -10936,7 +11100,7 @@ return (_ctx, _cache) => {
               default: _withCtx(() => [
                 _createVNode(_unref(VAceEditor), {
                   value: displayedYaml.value,
-                  "onUpdate:value": _cache[68] || (_cache[68] = $event => ((displayedYaml).value = $event)),
+                  "onUpdate:value": _cache[60] || (_cache[60] = $event => ((displayedYaml).value = $event)),
                   lang: "yaml",
                   theme: "monokai",
                   options: readOnlyEditorOptions,
@@ -10951,18 +11115,18 @@ return (_ctx, _cache) => {
                 _createVNode(_component_v_spacer),
                 _createVNode(_component_v_btn, {
                   color: "primary",
-                  onClick: _cache[69] || (_cache[69] = $event => (copyToClipboard(displayedYaml.value)))
+                  onClick: _cache[61] || (_cache[61] = $event => (copyToClipboard(displayedYaml.value)))
                 }, {
-                  default: _withCtx(() => _cache[237] || (_cache[237] = [
+                  default: _withCtx(() => _cache[227] || (_cache[227] = [
                     _createTextVNode("复制")
                   ])),
                   _: 1
                 }),
                 _createVNode(_component_v_btn, {
                   color: "primary",
-                  onClick: _cache[70] || (_cache[70] = $event => (yamlDialog.value = false))
+                  onClick: _cache[62] || (_cache[62] = $event => (yamlDialog.value = false))
                 }, {
-                  default: _withCtx(() => _cache[238] || (_cache[238] = [
+                  default: _withCtx(() => _cache[228] || (_cache[228] = [
                     _createTextVNode("关闭")
                   ])),
                   _: 1
@@ -10978,14 +11142,14 @@ return (_ctx, _cache) => {
     }, 8, ["modelValue"]),
     _createVNode(_component_v_dialog, {
       modelValue: importRuleDialog.value,
-      "onUpdate:modelValue": _cache[75] || (_cache[75] = $event => ((importRuleDialog).value = $event)),
+      "onUpdate:modelValue": _cache[67] || (_cache[67] = $event => ((importRuleDialog).value = $event)),
       "max-width": "40rem"
     }, {
       default: _withCtx(() => [
         _createVNode(_component_v_card, null, {
           default: _withCtx(() => [
             _createVNode(_component_v_card_title, null, {
-              default: _withCtx(() => _cache[239] || (_cache[239] = [
+              default: _withCtx(() => _cache[229] || (_cache[229] = [
                 _createTextVNode("导入规则")
               ])),
               _: 1
@@ -10994,7 +11158,7 @@ return (_ctx, _cache) => {
               default: _withCtx(() => [
                 _createVNode(_component_v_select, {
                   modelValue: importRules.value.type,
-                  "onUpdate:modelValue": _cache[72] || (_cache[72] = $event => ((importRules.value.type) = $event)),
+                  "onUpdate:modelValue": _cache[64] || (_cache[64] = $event => ((importRules.value.type) = $event)),
                   items: importRuleTypes,
                   label: "内容格式",
                   required: "",
@@ -11002,7 +11166,7 @@ return (_ctx, _cache) => {
                 }, null, 8, ["modelValue"]),
                 _createVNode(_unref(VAceEditor), {
                   value: importRules.value.payload,
-                  "onUpdate:value": _cache[73] || (_cache[73] = $event => ((importRules.value.payload) = $event)),
+                  "onUpdate:value": _cache[65] || (_cache[65] = $event => ((importRules.value.payload) = $event)),
                   lang: "yaml",
                   theme: "monokai",
                   options: editorOptions,
@@ -11016,7 +11180,7 @@ return (_ctx, _cache) => {
                   class: "mb-4",
                   variant: "tonal"
                 }, {
-                  default: _withCtx(() => _cache[240] || (_cache[240] = [
+                  default: _withCtx(() => _cache[230] || (_cache[230] = [
                     _createTextVNode(" 请输入 Clash 规则中的 "),
                     _createElementVNode("strong", null, "rules", -1),
                     _createTextVNode(" 字段，例如："),
@@ -11037,9 +11201,9 @@ return (_ctx, _cache) => {
                 _createVNode(_component_v_spacer),
                 _createVNode(_component_v_btn, {
                   color: "secondary",
-                  onClick: _cache[74] || (_cache[74] = $event => (importRuleDialog.value = false))
+                  onClick: _cache[66] || (_cache[66] = $event => (importRuleDialog.value = false))
                 }, {
-                  default: _withCtx(() => _cache[241] || (_cache[241] = [
+                  default: _withCtx(() => _cache[231] || (_cache[231] = [
                     _createTextVNode("取消")
                   ])),
                   _: 1
@@ -11049,7 +11213,7 @@ return (_ctx, _cache) => {
                   onClick: importRule,
                   loading: importRuleLoading.value
                 }, {
-                  default: _withCtx(() => _cache[242] || (_cache[242] = [
+                  default: _withCtx(() => _cache[232] || (_cache[232] = [
                     _createTextVNode("导入 ")
                   ])),
                   _: 1
@@ -11065,14 +11229,14 @@ return (_ctx, _cache) => {
     }, 8, ["modelValue"]),
     _createVNode(_component_v_dialog, {
       modelValue: importExtraProxiesDialog.value,
-      "onUpdate:modelValue": _cache[80] || (_cache[80] = $event => ((importExtraProxiesDialog).value = $event)),
+      "onUpdate:modelValue": _cache[72] || (_cache[72] = $event => ((importExtraProxiesDialog).value = $event)),
       "max-width": "40rem"
     }, {
       default: _withCtx(() => [
         _createVNode(_component_v_card, null, {
           default: _withCtx(() => [
             _createVNode(_component_v_card_title, null, {
-              default: _withCtx(() => _cache[243] || (_cache[243] = [
+              default: _withCtx(() => _cache[233] || (_cache[233] = [
                 _createTextVNode("导入节点")
               ])),
               _: 1
@@ -11081,7 +11245,7 @@ return (_ctx, _cache) => {
               default: _withCtx(() => [
                 _createVNode(_component_v_select, {
                   modelValue: importExtraProxies.value.type,
-                  "onUpdate:modelValue": _cache[76] || (_cache[76] = $event => ((importExtraProxies.value.type) = $event)),
+                  "onUpdate:modelValue": _cache[68] || (_cache[68] = $event => ((importExtraProxies.value.type) = $event)),
                   items: importProxiesTypes,
                   label: "内容格式",
                   required: "",
@@ -11091,7 +11255,7 @@ return (_ctx, _cache) => {
                   ? (_openBlock(), _createBlock(_unref(VAceEditor), {
                       key: 0,
                       value: importExtraProxies.value.payload,
-                      "onUpdate:value": _cache[77] || (_cache[77] = $event => ((importExtraProxies.value.payload) = $event)),
+                      "onUpdate:value": _cache[69] || (_cache[69] = $event => ((importExtraProxies.value.payload) = $event)),
                       lang: "yaml",
                       theme: "monokai",
                       options: editorOptions,
@@ -11101,7 +11265,7 @@ return (_ctx, _cache) => {
                   : (_openBlock(), _createBlock(_component_v_textarea, {
                       key: 1,
                       modelValue: importExtraProxies.value.payload,
-                      "onUpdate:modelValue": _cache[78] || (_cache[78] = $event => ((importExtraProxies.value.payload) = $event)),
+                      "onUpdate:modelValue": _cache[70] || (_cache[70] = $event => ((importExtraProxies.value.payload) = $event)),
                       label: "内容",
                       required: "",
                       placeholder: importExtraProxiesPlaceholderText.value,
@@ -11117,7 +11281,7 @@ return (_ctx, _cache) => {
                       text: "",
                       variant: "tonal"
                     }, {
-                      default: _withCtx(() => _cache[244] || (_cache[244] = [
+                      default: _withCtx(() => _cache[234] || (_cache[234] = [
                         _createTextVNode(" 请输入 Clash 规则中的 "),
                         _createElementVNode("strong", null, "proxies", -1),
                         _createTextVNode(" 字段，例如："),
@@ -11138,7 +11302,7 @@ return (_ctx, _cache) => {
                       text: "",
                       variant: "tonal"
                     }, {
-                      default: _withCtx(() => _cache[245] || (_cache[245] = [
+                      default: _withCtx(() => _cache[235] || (_cache[235] = [
                         _createTextVNode(" 请输入 V2RayN 格式的分享链接，例如："),
                         _createElementVNode("br", null, null, -1),
                         _createElementVNode("code", null, "vmess://xxxx", -1),
@@ -11156,9 +11320,9 @@ return (_ctx, _cache) => {
                 _createVNode(_component_v_spacer),
                 _createVNode(_component_v_btn, {
                   color: "secondary",
-                  onClick: _cache[79] || (_cache[79] = $event => (importExtraProxiesDialog.value=false))
+                  onClick: _cache[71] || (_cache[71] = $event => (importExtraProxiesDialog.value=false))
                 }, {
-                  default: _withCtx(() => _cache[246] || (_cache[246] = [
+                  default: _withCtx(() => _cache[236] || (_cache[236] = [
                     _createTextVNode("取消")
                   ])),
                   _: 1
@@ -11168,7 +11332,7 @@ return (_ctx, _cache) => {
                   onClick: importExtraProxiesFun,
                   loading: importProxiesLoading.value
                 }, {
-                  default: _withCtx(() => _cache[247] || (_cache[247] = [
+                  default: _withCtx(() => _cache[237] || (_cache[237] = [
                     _createTextVNode(" 导入 ")
                   ])),
                   _: 1
@@ -11184,7 +11348,7 @@ return (_ctx, _cache) => {
     }, 8, ["modelValue"]),
     _createVNode(_component_v_dialog, {
       modelValue: ruleProviderDialog.value,
-      "onUpdate:modelValue": _cache[91] || (_cache[91] = $event => ((ruleProviderDialog).value = $event)),
+      "onUpdate:modelValue": _cache[83] || (_cache[83] = $event => ((ruleProviderDialog).value = $event)),
       "max-width": "40rem"
     }, {
       default: _withCtx(() => [
@@ -11206,7 +11370,7 @@ return (_ctx, _cache) => {
                   default: _withCtx(() => [
                     _createVNode(_component_v_text_field, {
                       modelValue: newRuleProvider.value.name,
-                      "onUpdate:modelValue": _cache[81] || (_cache[81] = $event => ((newRuleProvider.value.name) = $event)),
+                      "onUpdate:modelValue": _cache[73] || (_cache[73] = $event => ((newRuleProvider.value.name) = $event)),
                       label: "name",
                       required: "",
                       rules: [v => !!v || '名称不能为空'],
@@ -11214,7 +11378,7 @@ return (_ctx, _cache) => {
                     }, null, 8, ["modelValue", "rules"]),
                     _createVNode(_component_v_select, {
                       modelValue: newRuleProvider.value.type,
-                      "onUpdate:modelValue": _cache[82] || (_cache[82] = $event => ((newRuleProvider.value.type) = $event)),
+                      "onUpdate:modelValue": _cache[74] || (_cache[74] = $event => ((newRuleProvider.value.type) = $event)),
                       items: ruleProviderTypes,
                       label: "type",
                       required: "",
@@ -11225,7 +11389,7 @@ return (_ctx, _cache) => {
                       ? (_openBlock(), _createBlock(_component_v_text_field, {
                           key: 0,
                           modelValue: newRuleProvider.value.url,
-                          "onUpdate:modelValue": _cache[83] || (_cache[83] = $event => ((newRuleProvider.value.url) = $event)),
+                          "onUpdate:modelValue": _cache[75] || (_cache[75] = $event => ((newRuleProvider.value.url) = $event)),
                           label: "url",
                           required: "",
                           rules: [(v) => !!v || 'URL 不能为空', (v) => isValidUrl(v) || '请输入有效的 URL',],
@@ -11237,7 +11401,7 @@ return (_ctx, _cache) => {
                       ? (_openBlock(), _createBlock(_component_v_text_field, {
                           key: 1,
                           modelValue: newRuleProvider.value.path,
-                          "onUpdate:modelValue": _cache[84] || (_cache[84] = $event => ((newRuleProvider.value.path) = $event)),
+                          "onUpdate:modelValue": _cache[76] || (_cache[76] = $event => ((newRuleProvider.value.path) = $event)),
                           label: "path",
                           required: "",
                           rules: [v => !!v || '当类型为文件时，路径不能为空'],
@@ -11247,7 +11411,7 @@ return (_ctx, _cache) => {
                       : _createCommentVNode("", true),
                     _createVNode(_component_v_text_field, {
                       modelValue: newRuleProvider.value.interval,
-                      "onUpdate:modelValue": _cache[85] || (_cache[85] = $event => ((newRuleProvider.value.interval) = $event)),
+                      "onUpdate:modelValue": _cache[77] || (_cache[77] = $event => ((newRuleProvider.value.interval) = $event)),
                       modelModifiers: { number: true },
                       label: "interval",
                       class: "mb-4",
@@ -11259,7 +11423,7 @@ return (_ctx, _cache) => {
                     }, null, 8, ["modelValue", "rules"]),
                     _createVNode(_component_v_select, {
                       modelValue: newRuleProvider.value.behavior,
-                      "onUpdate:modelValue": _cache[86] || (_cache[86] = $event => ((newRuleProvider.value.behavior) = $event)),
+                      "onUpdate:modelValue": _cache[78] || (_cache[78] = $event => ((newRuleProvider.value.behavior) = $event)),
                       items: ruleProviderBehaviorTypes,
                       label: "behavior",
                       class: "mb-4",
@@ -11267,7 +11431,7 @@ return (_ctx, _cache) => {
                     }, null, 8, ["modelValue"]),
                     _createVNode(_component_v_select, {
                       modelValue: newRuleProvider.value.format,
-                      "onUpdate:modelValue": _cache[87] || (_cache[87] = $event => ((newRuleProvider.value.format) = $event)),
+                      "onUpdate:modelValue": _cache[79] || (_cache[79] = $event => ((newRuleProvider.value.format) = $event)),
                       items: ruleProviderFormatTypes,
                       label: "format",
                       class: "mb-4",
@@ -11275,7 +11439,7 @@ return (_ctx, _cache) => {
                     }, null, 8, ["modelValue"]),
                     _createVNode(_component_v_text_field, {
                       modelValue: newRuleProvider.value['size-limit'],
-                      "onUpdate:modelValue": _cache[88] || (_cache[88] = $event => ((newRuleProvider.value['size-limit']) = $event)),
+                      "onUpdate:modelValue": _cache[80] || (_cache[80] = $event => ((newRuleProvider.value['size-limit']) = $event)),
                       modelModifiers: { number: true },
                       label: "size-limit",
                       class: "mb-4",
@@ -11289,7 +11453,7 @@ return (_ctx, _cache) => {
                       ? (_openBlock(), _createBlock(_component_v_combobox, {
                           key: 2,
                           modelValue: newRuleProvider.value.payload,
-                          "onUpdate:modelValue": _cache[89] || (_cache[89] = $event => ((newRuleProvider.value.payload) = $event)),
+                          "onUpdate:modelValue": _cache[81] || (_cache[81] = $event => ((newRuleProvider.value.payload) = $event)),
                           multiple: "",
                           chips: "",
                           "closable-chips": "",
@@ -11323,9 +11487,9 @@ return (_ctx, _cache) => {
                     _createVNode(_component_v_spacer),
                     _createVNode(_component_v_btn, {
                       color: "secondary",
-                      onClick: _cache[90] || (_cache[90] = $event => (ruleProviderDialog.value = false))
+                      onClick: _cache[82] || (_cache[82] = $event => (ruleProviderDialog.value = false))
                     }, {
-                      default: _withCtx(() => _cache[248] || (_cache[248] = [
+                      default: _withCtx(() => _cache[238] || (_cache[238] = [
                         _createTextVNode("取消")
                       ])),
                       _: 1
@@ -11335,7 +11499,7 @@ return (_ctx, _cache) => {
                       type: "submit",
                       loading: saveRuleProviderLoading.value
                     }, {
-                      default: _withCtx(() => _cache[249] || (_cache[249] = [
+                      default: _withCtx(() => _cache[239] || (_cache[239] = [
                         _createTextVNode("保存 ")
                       ])),
                       _: 1
@@ -11354,7 +11518,7 @@ return (_ctx, _cache) => {
     }, 8, ["modelValue"]),
     _createVNode(_component_v_dialog, {
       modelValue: hostDialog.value,
-      "onUpdate:modelValue": _cache[96] || (_cache[96] = $event => ((hostDialog).value = $event)),
+      "onUpdate:modelValue": _cache[88] || (_cache[88] = $event => ((hostDialog).value = $event)),
       "max-width": "40rem"
     }, {
       default: _withCtx(() => [
@@ -11376,7 +11540,7 @@ return (_ctx, _cache) => {
                   default: _withCtx(() => [
                     _createVNode(_component_v_text_field, {
                       modelValue: newHost.value.domain,
-                      "onUpdate:modelValue": _cache[92] || (_cache[92] = $event => ((newHost.value.domain) = $event)),
+                      "onUpdate:modelValue": _cache[84] || (_cache[84] = $event => ((newHost.value.domain) = $event)),
                       label: "域名",
                       required: "",
                       rules: [v => !!v || '域名不能为空'],
@@ -11386,7 +11550,7 @@ return (_ctx, _cache) => {
                       ? (_openBlock(), _createBlock(_component_v_combobox, {
                           key: 0,
                           modelValue: newHost.value.value,
-                          "onUpdate:modelValue": _cache[93] || (_cache[93] = $event => ((newHost.value.value) = $event)),
+                          "onUpdate:modelValue": _cache[85] || (_cache[85] = $event => ((newHost.value.value) = $event)),
                           multiple: "",
                           chips: "",
                           "closable-chips": "",
@@ -11420,7 +11584,7 @@ return (_ctx, _cache) => {
                           default: _withCtx(() => [
                             _createVNode(_component_v_switch, {
                               modelValue: newHost.value.using_cloudflare,
-                              "onUpdate:modelValue": _cache[94] || (_cache[94] = $event => ((newHost.value.using_cloudflare) = $event)),
+                              "onUpdate:modelValue": _cache[86] || (_cache[86] = $event => ((newHost.value.using_cloudflare) = $event)),
                               label: "使用 Cloudflare CDN",
                               inset: "",
                               hint: "设置为 CF 优选 IPs",
@@ -11443,7 +11607,7 @@ return (_ctx, _cache) => {
                       variant: "outlined",
                       class: "mb-2"
                     }, {
-                      default: _withCtx(() => _cache[250] || (_cache[250] = [
+                      default: _withCtx(() => _cache[240] || (_cache[240] = [
                         _createTextVNode(" 请在「高级选项」配置 Cloudflare CDN 优选 IPs ")
                       ])),
                       _: 1
@@ -11454,7 +11618,7 @@ return (_ctx, _cache) => {
                   text: "",
                   variant: "tonal"
                 }, {
-                  default: _withCtx(() => _cache[251] || (_cache[251] = [
+                  default: _withCtx(() => _cache[241] || (_cache[241] = [
                     _createTextVNode(" 支持"),
                     _createElementVNode("a", {
                       href: "https://wiki.metacubex.one/handbook/syntax/#_8",
@@ -11468,9 +11632,9 @@ return (_ctx, _cache) => {
                     _createVNode(_component_v_spacer),
                     _createVNode(_component_v_btn, {
                       color: "secondary",
-                      onClick: _cache[95] || (_cache[95] = $event => (hostDialog.value = false))
+                      onClick: _cache[87] || (_cache[87] = $event => (hostDialog.value = false))
                     }, {
-                      default: _withCtx(() => _cache[252] || (_cache[252] = [
+                      default: _withCtx(() => _cache[242] || (_cache[242] = [
                         _createTextVNode("取消")
                       ])),
                       _: 1
@@ -11480,7 +11644,7 @@ return (_ctx, _cache) => {
                       type: "submit",
                       loading: saveHostLoading.value
                     }, {
-                      default: _withCtx(() => _cache[253] || (_cache[253] = [
+                      default: _withCtx(() => _cache[243] || (_cache[243] = [
                         _createTextVNode("保存 ")
                       ])),
                       _: 1
@@ -11499,9 +11663,9 @@ return (_ctx, _cache) => {
     }, 8, ["modelValue"]),
     (proxiesDialogVisible.value)
       ? (_openBlock(), _createBlock(ProxiesDialog, {
-          key: 0,
+          key: 1,
           modelValue: proxiesDialogVisible.value,
-          "onUpdate:modelValue": _cache[97] || (_cache[97] = $event => ((proxiesDialogVisible).value = $event)),
+          "onUpdate:modelValue": _cache[89] || (_cache[89] = $event => ((proxiesDialogVisible).value = $event)),
           "proxy-data": editingProxy.value,
           loading: saveProxyLoading.value,
           onSave: saveProxy
@@ -11512,6 +11676,6 @@ return (_ctx, _cache) => {
 }
 
 };
-const PageComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-e6b3c57e"]]);
+const PageComponent = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-7a29c1ce"]]);
 
 export { PageComponent as default };

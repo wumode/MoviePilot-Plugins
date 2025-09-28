@@ -18,12 +18,12 @@ from app.schemas.types import NotificationType
 from app.utils.http import AsyncRequestUtils
 
 from .base import _ClashRuleProviderBase
-from .helper.clashruleparser import ClashRuleParser, RuleType, Action
+from .helper.clashruleparser import ClashRuleParser, RoutingRuleType, Action
 from .helper.clashrulemanager import RuleItem
 from .helper.configconverter import Converter
 from .helper.utilsprovider import UtilsProvider
 from .models import ProxyBase, TLSMixin, NetworkMixin, ProxyGroup, Proxy
-from .models.api import RuleData, ClashApi, RuleProviderData, SubscriptionInfo, HostRequest
+from .models.api import RuleData, ClashApi, RuleProviderData, SubscriptionInfo, HostData
 
 
 class ClashRuleProviderService:
@@ -76,12 +76,12 @@ class ClashRuleProviderService:
         manager = self.plugin.state.top_rules_manager
 
         manager.remove_rules_by_lambda(
-            lambda r: r.rule.rule_type == RuleType.RULE_SET and
+            lambda r: r.rule.rule_type == RoutingRuleType.RULE_SET and
                       r.remark == 'Auto' and
                       r.rule.payload != f"{self.plugin.config.ruleset_prefix}{ClashRuleParser.action_string(r.rule.action)}"
         )
         rules_existed = manager.filter_rules_by_condition(
-            lambda r: r.remark == 'Auto' and r.rule.rule_type == RuleType.RULE_SET
+            lambda r: r.remark == 'Auto' and r.rule.rule_type == RoutingRuleType.RULE_SET
         )
         actions_existed = {ClashRuleParser.action_string(r.rule.action) for r in rules_existed}
 
@@ -92,7 +92,7 @@ class ClashRuleProviderService:
                 new_outbounds.add(action_str)
 
         manager.remove_rules_by_lambda(
-            lambda r: r.rule.rule_type == RuleType.RULE_SET and
+            lambda r: r.rule.rule_type == RoutingRuleType.RULE_SET and
                       r.remark == 'Auto' and
                       (ClashRuleParser.action_string(r.rule.action) not in outbounds)
         )
@@ -216,7 +216,7 @@ class ClashRuleProviderService:
             self.overwrite_proxy(proxy_dict)
         except Exception as e:
             logger.error(f"Failed to overwrite proxy: {repr(e)}")
-            return False, f"覆写代理失败"
+            return False, "覆写代理失败"
         return True, ''
 
     @staticmethod
@@ -564,10 +564,11 @@ class ClashRuleProviderService:
         # 添加规则
         for r in self.plugin.state.top_rules_manager:
             rule = r.rule
-            if not isinstance(rule.action, Action) and rule.action not in outbound_names:
+            if (not isinstance(rule.action, Action) and rule.action not in outbound_names and
+                    rule.rule_type != RoutingRuleType.SUB_RULE):
                 logger.warn(f"出站 {rule.action} 不存在, 跳过 {rule.raw_rule}")
                 continue
-            if rule.rule_type == RuleType.RULE_SET:
+            if rule.rule_type == RoutingRuleType.RULE_SET:
                 # 添加ACL4SSR Rules
                 if rule.payload in self.plugin.state.acl4ssr_providers:
                     config['rule-providers'][rule.payload] = self.plugin.state.acl4ssr_providers[rule.payload]
@@ -580,7 +581,9 @@ class ClashRuleProviderService:
             if not rule:
                 logger.warn(f"无效的规则 {raw_rule!r}, 跳过")
                 continue
-            if not isinstance(rule.action, Action) and rule.action not in outbound_names:
+
+            if (not isinstance(rule.action, Action) and rule.action not in outbound_names and
+                    rule.rule_type != RoutingRuleType.SUB_RULE):
                 logger.warn(f"出站 {rule.action!r} 不存在, 跳过 {rule.raw_rule!r}")
                 continue
             top_rules.append(rule.raw_rule)
@@ -644,7 +647,7 @@ class ClashRuleProviderService:
             proxy_group = ProxyGroup.parse_obj(item)
         except Exception as e:
             logger.error(f"Failed to parse proxy group: {repr(e)}")
-            return False, f"Failed to parse proxy group"
+            return False, "Failed to parse proxy group"
         self.plugin.state.proxy_groups.append(proxy_group.dict(by_alias=True, exclude_none=True))
         self.plugin.save_data('proxy_groups', self.plugin.state.proxy_groups)
         return True, "Proxy group added successfully."
@@ -736,7 +739,7 @@ class ClashRuleProviderService:
                 self.plugin.state.top_rules_manager.reorder_rules(moved_priority, target_priority)
         except Exception as e:
             logger.info(f"Failed to reorder rules: {repr(e)}")
-            return False, f"规则移动失败"
+            return False, "规则移动失败"
         self.organize_and_save_rules()
         return True, ""
 
@@ -807,7 +810,7 @@ class ClashRuleProviderService:
                 rules = imported_rules.get("rules", [])
             except yaml.YAMLError as err:
                 logger.error(f"Failed to import rules: {repr(err)}")
-                return False, f'YAML 格式错误'
+                return False, 'YAML 格式错误'
         self.append_top_rules(rules)
         return True, ""
 
@@ -822,9 +825,9 @@ class ClashRuleProviderService:
     def get_hosts(self) -> List[Dict[str, Any]]:
         return self.plugin.state.hosts
 
-    def update_hosts(self, param: HostRequest) -> Tuple[bool, str]:
+    def update_hosts(self, param: HostData) -> Tuple[bool, str]:
         if not param.value:
-            return False, f"无效的参数"
+            return False, "无效的参数"
         value = param.value.dict(exclude_none=True)
         for i, host in enumerate(self.plugin.state.hosts):
             if host.get('domain') == param.domain:
@@ -836,7 +839,7 @@ class ClashRuleProviderService:
         self.plugin.save_data('hosts', self.plugin.state.hosts)
         return True, ""
 
-    def delete_host(self, param: HostRequest) -> Tuple[bool, str]:
+    def delete_host(self, param: HostData) -> Tuple[bool, str]:
         original_len = len(self.plugin.state.hosts)
         self.plugin.state.hosts = [host for host in self.plugin.state.hosts if host.get('domain') != param.domain]
         self.plugin.save_data('hosts', self.plugin.state.hosts)
@@ -895,7 +898,7 @@ class ClashRuleProviderService:
             if isinstance(rs, str):
                 proxies = Converter().convert_v2ray(content)
                 if not proxies:
-                    raise ValueError(f"Unknown content type")
+                    raise ValueError("Unknown content type")
                 rs = {'proxies': proxies,
                       'proxy-groups': [{'name': "All Proxies", 'type': 'select', 'include-all-proxies': True}]}
 

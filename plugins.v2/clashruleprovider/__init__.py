@@ -17,8 +17,9 @@ from app.schemas.types import EventType
 from .api import ClashRuleProviderApi, apis
 from .base import _ClashRuleProviderBase
 from .config import PluginConfig
+from .helper.clashrulemanager import ClashRuleManager
 from .helper.configconverter import Converter
-from .helper.clashruleparser import ClashRuleParser, Action, RuleType, ClashRule
+from .helper.clashruleparser import ClashRuleParser, RoutingRuleType, ClashRule
 from .helper.utilsprovider import UtilsProvider
 from .state import PluginState
 from .services import ClashRuleProviderService
@@ -32,7 +33,7 @@ class ClashRuleProvider(_ClashRuleProviderBase):
     # 插件图标
     plugin_icon = "Mihomo_Meta_A.png"
     # 插件版本
-    plugin_version = "2.0.4"
+    plugin_version = "2.0.5"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -229,9 +230,9 @@ class ClashRuleProvider(_ClashRuleProviderBase):
         self.save_data('proxies', proxies)
 
     def load_rules(self):
-        def process_rules(raw_rules, manager, key):
+        def process_rules(raw_rules: List[str], manager: ClashRuleManager, key: str):
             raw_rules = raw_rules or []
-            rules = [self.__upgrade_rule(r) if isinstance(r, str) else r for r in raw_rules]
+            rules = [self._upgrade_rule(r) if isinstance(r, str) else r for r in raw_rules]
             manager.import_rules(rules)
             if any((isinstance(r, str) or 'time_modified' not in r) for r in raw_rules):
                 self.save_data(key, manager.export_rules())
@@ -243,10 +244,10 @@ class ClashRuleProvider(_ClashRuleProviderBase):
         self.save_data('top_rules', self.state.top_rules_manager.export_rules())
         self.save_data('ruleset_rules', self.state.ruleset_rules_manager.export_rules())
 
-    def __upgrade_rule(self, rule_string: str) -> Dict[str, str]:
+    def _upgrade_rule(self, rule_string: str) -> Dict[str, str]:
         rule = ClashRuleParser.parse_rule_line(rule_string)
         remark = 'Manual'
-        if isinstance(rule, ClashRule) and rule.rule_type == RuleType.RULE_SET and rule.payload.startswith(
+        if isinstance(rule, ClashRule) and rule.rule_type == RoutingRuleType.RULE_SET and rule.payload.startswith(
                 self.config.ruleset_prefix):
             remark = 'Auto'
         return {'rule': rule_string, 'remark': remark, 'time_modified': time.time()}

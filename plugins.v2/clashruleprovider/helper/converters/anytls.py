@@ -1,7 +1,6 @@
 from typing import Dict, Any, Optional
 from urllib.parse import urlparse, parse_qsl, unquote
 
-from app.utils.string import StringUtils
 from . import BaseConverter
 
 

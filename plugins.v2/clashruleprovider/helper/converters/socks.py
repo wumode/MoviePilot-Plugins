@@ -1,6 +1,6 @@
 import binascii
 from typing import Dict, Any, Optional
-from urllib.parse import urlparse, parse_qsl, unquote
+from urllib.parse import urlparse, unquote
 
 from . import BaseConverter
 
@@ -13,8 +13,8 @@ class SocksConverter(BaseConverter):
             port = parsed.port
             name = self.unique_name(names, unquote(parsed.fragment or f"{server}:{port}"))
 
-            username = ""
-            password = ""
+            username = None
+            password = None
             if parsed.username:
                 try:
                     # The userinfo part might be base64 encoded

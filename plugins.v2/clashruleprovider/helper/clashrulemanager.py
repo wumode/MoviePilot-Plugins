@@ -1,9 +1,11 @@
 import time
 
 from dataclasses import dataclass, field
-from typing import Callable, Dict, List, Optional, Union, Iterator
+from typing import Any, Callable, Dict, List, Optional, Union, Iterator
 
-from .clashruleparser import Action, ClashRuleParser, ClashRule, LogicRule, MatchRule, RuleType
+from .clashruleparser import ClashRuleParser
+from ..models.rule import Action, RoutingRuleType, MatchRule, ClashRule, LogicRule
+
 
 @dataclass
 class RuleItem:
@@ -84,7 +86,7 @@ class ClashRuleManager:
         """Filter rules by condition"""
         return [clash_rule for clash_rule in self.rules if condition(clash_rule)]
 
-    def filter_rules_by_type(self, rule_type: RuleType) -> List[RuleItem]:
+    def filter_rules_by_type(self, rule_type: RoutingRuleType) -> List[RuleItem]:
         """Filter rules by type"""
         return [clash_rule for clash_rule in self.rules
                 if isinstance(clash_rule.rule, ClashRule) and clash_rule.rule.rule_type == rule_type]
@@ -97,7 +99,7 @@ class ClashRuleManager:
         """Check if there is an identical rule"""
         for r in self.rules:
             rule = r.rule
-            if rule.rule_type != RuleType.MATCH:
+            if rule.rule_type != RoutingRuleType.MATCH:
                 if rule.rule_type == clash_rule.rule_type and rule.action == clash_rule.action \
                         and rule.payload == clash_rule.payload:
                     return True
@@ -111,7 +113,7 @@ class ClashRuleManager:
             if clash_rule.remark != r.remark:
                 continue
             rule = r.rule
-            if rule.rule_type != RuleType.MATCH:
+            if rule.rule_type != RoutingRuleType.MATCH:
                 if rule.rule_type == clash_rule.rule.rule_type and rule.action == clash_rule.rule.action \
                         and rule.payload == clash_rule.rule.payload:
                     return True
@@ -130,7 +132,7 @@ class ClashRuleManager:
         self.rules.insert(target_priority, rule)
         return rule
 
-    def to_list(self) -> List[Dict[str, str]]:
+    def to_list(self) -> List[Dict[str, Any]]:
         """Convert parsed rules to a list"""
         result = []
         for priority, rule_item in enumerate(self.rules):

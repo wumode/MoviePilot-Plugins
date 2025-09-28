@@ -1,185 +1,66 @@
 import re
-from dataclasses import dataclass, field
-from enum import Enum
 from typing import List, Dict, Any, Optional, Union
 
+from pydantic import ValidationError
 
-class AdditionalParam(Enum):
-    NO_RESOLVE = 'no-resolve'
-    SRC = 'src'
-
-
-class RuleType(Enum):
-    """Enumeration of all supported Clash rule types"""
-    DOMAIN = "DOMAIN"
-    DOMAIN_SUFFIX = "DOMAIN-SUFFIX"
-    DOMAIN_KEYWORD = "DOMAIN-KEYWORD"
-    DOMAIN_REGEX = "DOMAIN-REGEX"
-    DOMAIN_WILDCARD = "DOMAIN-WILDCARD"
-
-    GEOSITE = "GEOSITE"
-    GEOIP = "GEOIP"
-
-    IP_CIDR = "IP-CIDR"
-    IP_CIDR6 = "IP-CIDR6"
-    IP_SUFFIX = "IP-SUFFIX"
-    IP_ASN = "IP-ASN"
-
-
-    SRC_GEOIP = "SRC-GEOIP"
-    SRC_IP_ASN = "SRC-IP-ASN"
-    SRC_IP_CIDR = "SRC-IP-CIDR"
-    SRC_IP_SUFFIX = "SRC-IP-SUFFIX"
-
-    DST_PORT = "DST-PORT"
-    SRC_PORT = "SRC-PORT"
-
-    IN_PORT = "IN-PORT"
-    IN_TYPE = "IN-TYPE"
-    IN_USER = "IN-USER"
-    IN_NAME = "IN-NAME"
-
-    PROCESS_PATH = "PROCESS-PATH"
-    PROCESS_PATH_REGEX = "PROCESS-PATH-REGEX"
-    PROCESS_NAME = "PROCESS-NAME"
-    PROCESS_NAME_REGEX = "PROCESS-NAME-REGEX"
-
-    UID = "UID"
-    NETWORK = "NETWORK"
-    DSCP = "DSCP"
-
-    RULE_SET = "RULE-SET"
-    AND = "AND"
-    OR = "OR"
-    NOT = "NOT"
-    SUB_RULE = "SUB-RULE"
-
-    MATCH = "MATCH"
-
-
-class Action(Enum):
-    """Enumeration of rule actions"""
-    DIRECT = "DIRECT"
-    REJECT = "REJECT"
-    REJECT_DROP = "REJECT-DROP"
-    PASS = "PASS"
-    COMPATIBLE = "COMPATIBLE"
-
-
-@dataclass
-class ClashRule:
-    """Represents a parsed Clash routing rule"""
-    rule_type: RuleType
-    payload: str
-    action: Union[Action, str]  # Can be Action enum or custom proxy group name
-    additional_params: Optional[AdditionalParam] = None
-    raw_rule: str = field(default="")
-
-    def condition_string(self) -> str:
-        return f"{self.rule_type.value},{self.payload}"
-
-    def to_dict(self) -> Dict[str, str]:
-        return {
-            'type': self.rule_type.value,
-            'payload': self.payload,
-            'action': self.action.value if isinstance(self.action, Action) else self.action,
-            'additional_params': self.additional_params,
-            'raw': self.raw_rule
-        }
-
-
-@dataclass
-class LogicRule:
-    """Represents a logic rule (AND, OR, NOT)"""
-    logic_type: RuleType
-    conditions: List[Union[ClashRule, 'LogicRule']]
-    action: Union[Action, str]
-    raw_rule: str = field(default="")
-
-    def condition_string(self) -> str:
-        conditions_str = ','.join([f"({c.condition_string()})" for c in self.conditions])
-        return f"{self.logic_type.value},({conditions_str})"
-
-    def to_dict(self) -> Dict[str, str]:
-        conditions_dict = []
-        for condition in self.conditions:
-            if isinstance(condition, ClashRule):
-                conditions_dict.append({
-                    'type': condition.rule_type.value,
-                    'payload': condition.payload
-                })
-
-        return {
-            'type': self.logic_type.value,
-            'conditions': conditions_dict,
-            'action': self.action.value if isinstance(self.action, Action) else self.action,
-            'raw': self.raw_rule
-        }
-
-
-@dataclass
-class MatchRule:
-    """Represents a match rule"""
-    action: Union[Action, str]
-    raw_rule: str = field(default="")
-    rule_type: RuleType = RuleType.MATCH
-
-    @staticmethod
-    def condition_string() -> str:
-        return "MATCH"
-
-    def to_dict(self) -> Dict[str, str]:
-        return {
-            'type': 'MATCH',
-            'action': self.action.value if isinstance(self.action, Action) else self.action,
-            'raw': self.raw_rule
-        }
+from ..models.rule import RuleType, Action, RoutingRuleType, MatchRule, ClashRule, LogicRule, SubRule
 
 
 class ClashRuleParser:
     """Parser for Clash routing rules"""
 
     @staticmethod
-    def parse_rule_line(line: str) -> Optional[Union[ClashRule, LogicRule, MatchRule]]:
+    def parse_rule_line(line: str) -> Optional[RuleType]:
         """Parse a single rule line"""
         line = line.strip()
         try:
             # Handle logic rules (AND, OR, NOT)
-
             if line.startswith(('AND,', 'OR,', 'NOT,')):
                 return ClashRuleParser._parse_logic_rule(line)
             elif line.startswith('MATCH'):
                 return ClashRuleParser._parse_match_rule(line)
+            elif line.startswith('SUB-RULE'):
+                return ClashRuleParser._parse_sub_rule(line)
             # Handle regular rules
             return ClashRuleParser._parse_regular_rule(line)
 
-        except Exception as e:
+        except (ValidationError, TypeError, ValueError):
             return None
 
     @staticmethod
-    def parse_rule_dict(clash_rule: Dict[str, Any]) -> Optional[Union[ClashRule, LogicRule, MatchRule]]:
+    def parse_rule_dict(clash_rule: Dict[str, Any]) -> Optional[RuleType]:
         if not clash_rule:
             return None
-        if clash_rule.get("type") in ('AND', 'OR', 'NOT'):
-            conditions = clash_rule.get("conditions")
-            if not conditions:
-                return None
-            conditions_str = ''
-            for condition in conditions:
-                conditions_str += f'({condition.get("type")},{condition.get("payload")})'
-            conditions_str = f"({conditions_str})"
-            raw_rule = f"{clash_rule.get('type')},{conditions_str},{clash_rule.get('action')}"
-            rule = ClashRuleParser._parse_logic_rule(raw_rule)
-        elif clash_rule.get("type") == 'MATCH':
-            raw_rule = f"{clash_rule.get('type')},{clash_rule.get('action')}"
-            rule = ClashRuleParser._parse_match_rule(raw_rule)
-        else:
-            raw_rule = f"{clash_rule.get('type')},{clash_rule.get('payload')},{clash_rule.get('action')}"
-            if clash_rule.get('additional_params'):
-                raw_rule += f',{clash_rule.get('additional_params')}'
-            rule = ClashRuleParser._parse_regular_rule(raw_rule)
-        if rule and 'priority' in clash_rule:
-            rule.priority = clash_rule['priority']
+        try:
+            if clash_rule.get("type") in ('AND', 'OR', 'NOT'):
+                conditions = clash_rule.get("conditions")
+                if not conditions:
+                    return None
+                conditions = [ClashRuleParser._remove_parenthesis(f"({c})") for c in conditions]
+                conditions_str = ','.join(conditions)
+                conditions_str = f"({conditions_str})"
+                raw_rule = f"{clash_rule.get('type')},{conditions_str},{clash_rule.get('action')}"
+                rule = ClashRuleParser._parse_logic_rule(raw_rule)
+            elif clash_rule.get("type") == 'MATCH':
+                raw_rule = f"{clash_rule.get('type')},{clash_rule.get('action')}"
+                rule = ClashRuleParser._parse_match_rule(raw_rule)
+            elif clash_rule.get("type") == 'SUB-RULE':
+                condition = clash_rule.get("condition")
+                if not condition:
+                    return None
+                condition_str = f"({condition})"
+                condition_str = ClashRuleParser._remove_parenthesis(condition_str)
+                raw_rule = f"{clash_rule.get('type')},{condition_str},{clash_rule.get('action')}"
+                rule = ClashRuleParser._parse_sub_rule(raw_rule)
+            else:
+                raw_rule = f"{clash_rule.get('type')},{clash_rule.get('payload')},{clash_rule.get('action')}"
+                if clash_rule.get('additional_params'):
+                    raw_rule += f',{clash_rule.get('additional_params')}'
+                rule = ClashRuleParser._parse_regular_rule(raw_rule)
+
+        except (ValidationError, TypeError, ValueError):
+            return None
+
         return rule
 
     @staticmethod
@@ -219,7 +100,7 @@ class ClashRuleParser:
 
         # Validate rule type
         try:
-            rule_type = RuleType(rule_type_str)
+            rule_type = RoutingRuleType(rule_type_str)
         except ValueError:
             raise ValueError(f"Unknown rule type: {rule_type_str}")
 
@@ -239,55 +120,170 @@ class ClashRuleParser:
         )
 
     @staticmethod
+    def _parenthesis_balance(s: str) -> int:
+        """Calculate balance of parenthesis"""
+        balance = 0
+        for i, char in enumerate(s):
+            if char == '(':
+                balance += 1
+            elif char == ')':
+                balance -= 1
+        return balance
+
+    @staticmethod
     def _parse_logic_rule(line: str) -> LogicRule:
         """Parse a logic rule (AND, OR, NOT)"""
         # Extract logic type
-        logic_rule_match = re.match(r'^(AND|OR|NOT),\((.+)\),([^,]+)$', line)
-        if not logic_rule_match:
-            raise ValueError(f"Cannot extract action from logic rule: {line}")
-        logic_type_str = logic_rule_match.group(1).upper().strip()
-        logic_type = RuleType(logic_type_str)
-        action = logic_rule_match.group(3).strip()
+        logic_type_str, rest = line.split(',', 1)
+        logic_type = RoutingRuleType(logic_type_str.upper().strip())
+        last_comma_index = rest.rfind(',')
+        if last_comma_index == -1:
+            raise ValueError(f"Invalid logic rule format: {line}")
+        action_str = rest[last_comma_index + 1:]
+        conditions_str = rest[:last_comma_index]
+
+        # Find the matching parenthesis for the conditions block to separate conditions from action
+        balance = ClashRuleParser._parenthesis_balance(conditions_str)
+        if balance != 0:
+            raise ValueError(f"Mismatched parentheses in logic rule: {line}")
+
+        action = action_str.strip()
         # Try to convert action to enum
         try:
             action_enum = Action(action.upper())
             final_action = action_enum
         except ValueError:
             final_action = action
-        conditions_str = logic_rule_match.group(2)
+
         conditions = ClashRuleParser._parse_logic_conditions(conditions_str)
 
         return LogicRule(
-            logic_type=logic_type,
+            rule_type=logic_type,
             conditions=conditions,
             action=final_action,
             raw_rule=line
         )
 
     @staticmethod
-    def _parse_logic_conditions(conditions_str: str) -> List[ClashRule]:
-        """Parse conditions within logic rules"""
+    def _parse_sub_rule(line: str) -> SubRule:
+        """Parse a sub-rule"""
+        rule_type_str, rest = line.split(',', 1)
+        rule_type = RoutingRuleType(rule_type_str.upper().strip())
+        if rule_type != RoutingRuleType.SUB_RULE:
+            raise ValueError(f"{rule_type.value} is not a sub-rule")
+        last_comma_index = rest.rfind(',')
+        if last_comma_index == -1:
+            raise ValueError(f"Invalid sub-rule format: {line}")
+        condition_str = rest[:last_comma_index]
+        action_str = rest[last_comma_index + 1:]
+
+        balance = ClashRuleParser._parenthesis_balance(condition_str)
+        if balance != 0:
+            raise ValueError(f"Mismatched parentheses in sub-rule: {line}")
+
+        conditions = ClashRuleParser._parse_logic_conditions(condition_str)
+        if len(conditions) != 1:
+            raise ValueError(f"Invalid sub-rule condition: {condition_str}")
+
+        return SubRule(
+            condition=conditions[0],
+            action=action_str,
+            raw_rule=line
+        )
+
+    @staticmethod
+    def _remove_parenthesis(_con_str: str):
+        balance = 0
+        filed_list = []
+        field = ''
+        for i, char in enumerate(_con_str):
+            if char == '(':
+                balance += 1
+            elif char == ')':
+                balance -= 1
+            elif char == ',':
+                if balance == 1:
+                    filed_list.append(field)
+            else:
+                if balance == 1 and char:
+                    field = field + char
+        if not any(filed_list):
+            return ClashRuleParser._remove_parenthesis(_con_str[1:-1])
+        else:
+            return _con_str
+
+    @staticmethod
+    def _parse_logic_conditions(conditions_str: str) -> List[Union[ClashRule, LogicRule]]:
+        """
+        Parse conditions within logic rules, supporting nested logic.
+        examples of conditions_str:
+            (DOMAIN,baidu.com)
+            (AND,(DOMAIN,baidu.com),(NETWORK,TCP))
+        """
+
+        def __extract_condition_strings(_con_str: str) -> List[str]:
+            # Split conditions string by top-level commas
+            _con_str = _con_str.replace(' ', '')
+            _con_str = ClashRuleParser._remove_parenthesis(_con_str)
+            _condition_strings = []
+            balance = 0
+            start = 0
+
+            for i, char in enumerate(_con_str):
+                if char == '(':
+                    if balance == 0:
+                        start = i
+                    balance += 1
+                elif char == ')':
+                    balance -= 1
+                    if balance == 0:
+                        _condition_strings.append(_con_str[start:i + 1])
+            return _condition_strings
+
         conditions = []
 
-        # Simple parser for conditions like (DOMAIN,baidu.com),(NETWORK,UDP)
-        # This is a basic implementation - more complex nested logic would need a proper parser
-        condition_pattern = r'\(([^,]+),([^)]+)\)'
-        matches = re.findall(condition_pattern, conditions_str)
+        if not conditions_str:
+            return conditions
+        condition_strings = __extract_condition_strings(conditions_str)
+        for cond_str in condition_strings:
+            cond_str = cond_str.strip()
+            if not cond_str.startswith('(') or not cond_str.endswith(')'):
+                raise ValueError(f"Invalid nested logic rule format: {cond_str}")
+            content = cond_str[1:-1]  # remove parentheses
+            if content.upper().startswith(('AND,', 'OR,', 'NOT,')):
+                # This is a nested logic rule.
+                parts = content.split(',', 1)
+                logic_type_str = parts[0].strip().upper()
+                logic_type = RoutingRuleType(logic_type_str)
 
-        for rule_type_str, payload in matches:
-            try:
-                rule_type = RuleType(rule_type_str.upper())
-                condition = ClashRule(
-                    rule_type=rule_type,
-                    payload=payload,
-                    action="",  # Logic conditions don't have actions
-                    raw_rule=f"{rule_type_str},{payload}"
+                nested_conditions_str = parts[1]
+                nested_conditions = ClashRuleParser._parse_logic_conditions(f'({nested_conditions_str})')
+
+                condition = LogicRule(
+                    rule_type=logic_type,
+                    conditions=nested_conditions,
+                    action=Action.COMPATIBLE,  # No action for conditions
+                    raw_rule=content
                 )
                 conditions.append(condition)
-            except ValueError:
-                continue
-
+            else:
+                # Simple rule
+                parts = content.split(',', 1)
+                if len(parts) == 2:
+                    rule_type_str, payload = parts
+                    try:
+                        rule_type = RoutingRuleType(rule_type_str.upper().strip())
+                        condition = ClashRule(
+                            rule_type=rule_type,
+                            payload=payload.strip(),
+                            action=Action.COMPATIBLE,  # Logic conditions don't have actions
+                            raw_rule=content
+                        )
+                        conditions.append(condition)
+                    except ValueError:
+                        continue
         return conditions
+
 
     @staticmethod
     def action_string(action: Union[Action, str]) -> str:
@@ -311,19 +307,19 @@ class ClashRuleParser:
         """Validate a parsed rule"""
         try:
             # Basic validation based on rule type
-            if rule.rule_type in [RuleType.IP_CIDR, RuleType.IP_CIDR6]:
+            if rule.rule_type in [RoutingRuleType.IP_CIDR, RoutingRuleType.IP_CIDR6]:
                 # Validate CIDR format
                 return '/' in rule.payload
 
-            elif rule.rule_type == RuleType.DST_PORT or rule.rule_type == RuleType.SRC_PORT:
+            elif rule.rule_type == RoutingRuleType.DST_PORT or rule.rule_type == RoutingRuleType.SRC_PORT:
                 # Validate port number/range
                 return rule.payload.isdigit() or '-' in rule.payload
 
-            elif rule.rule_type == RuleType.NETWORK:
+            elif rule.rule_type == RoutingRuleType.NETWORK:
                 # Validate network type
                 return rule.payload.lower() in ['tcp', 'udp']
 
-            elif rule.rule_type == RuleType.DOMAIN_REGEX or rule.rule_type == RuleType.PROCESS_PATH_REGEX:
+            elif rule.rule_type == RoutingRuleType.DOMAIN_REGEX or rule.rule_type == RoutingRuleType.PROCESS_PATH_REGEX:
                 # Try to compile regex
                 re.compile(rule.payload)
                 return True

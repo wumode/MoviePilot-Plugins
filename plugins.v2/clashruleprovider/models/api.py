@@ -2,15 +2,17 @@ from typing import List, Optional, Union, Literal
 
 from pydantic import BaseModel, Field
 
+from .rule import RoutingRuleType, Action, AdditionalParam
 from .ruleproviders import RuleProvider
-from ..helper.clashruleparser import RuleType, Action, AdditionalParam
 
 class RuleData(BaseModel):
     priority: int
-    type: RuleType
-    payload: str
+    type: RoutingRuleType
+    payload: Optional[str] = None
     action: Union[Action, str]
     additional_params: Optional[AdditionalParam] = None
+    conditions: Optional[List[str]] = None
+    condition: Optional[str] = None
 
     class Config:
         use_enum_values = True
@@ -35,11 +37,11 @@ class SubscriptionInfo(BaseModel):
     field: Literal['name', 'enabled']
     value: str
 
-class HostData(BaseModel):
+class Host(BaseModel):
     domain: str
     value: List[str]
     using_cloudflare: bool
 
-class HostRequest(BaseModel):
+class HostData(BaseModel):
     domain: str
-    value: Optional[HostData] = None
+    value: Optional[Host] = None

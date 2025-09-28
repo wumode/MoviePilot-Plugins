@@ -15,7 +15,7 @@ from app.log import logger
 
 from .base import _ClashRuleProviderBase
 from .models import ProxyGroup
-from .models.api import RuleData, Connectivity, Subscription, RuleProviderData, SubscriptionInfo, HostRequest
+from .models.api import RuleData, Connectivity, Subscription, RuleProviderData, SubscriptionInfo, HostData
 from .services import ClashRuleProviderService
 
 
@@ -190,12 +190,12 @@ class ClashRuleProviderApi:
         return schemas.Response(success=True, data={'hosts': self.services.get_hosts()})
 
     @apis.register(path="/hosts", methods=["POST"], auth="bear", summary="更新 Hosts")
-    def update_hosts(self, host: HostRequest):
+    def update_hosts(self, host: HostData):
         success, message = self.services.update_hosts(host)
         return schemas.Response(success=success, message=message)
 
     @apis.register(path="/hosts", methods=["DELETE"], auth="bear", summary="删除 Hosts")
-    def delete_host(self, host: HostRequest):
+    def delete_host(self, host: HostData):
         success, message = self.services.delete_host(host)
         return schemas.Response(success=success, message=message)
 

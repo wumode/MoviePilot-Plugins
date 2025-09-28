@@ -1,4 +1,4 @@
-from pydantic import validator, Field
+from pydantic import Field
 from typing import Optional, Literal
 
 from .proxybase import ProxyBase

@@ -1,6 +1,6 @@
 import binascii
 from typing import Dict, Any, Optional
-from urllib.parse import urlparse, parse_qsl
+from urllib.parse import parse_qsl
 
 from . import BaseConverter
 

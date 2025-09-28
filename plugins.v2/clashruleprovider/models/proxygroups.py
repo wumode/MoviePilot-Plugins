@@ -111,11 +111,11 @@ class SmartGroup(ProxyGroupBase):
 
 
 # Discriminated Union
-ProxyGroupUnion = Union[SelectGroup, RelayGroup, FallbackGroup, UrlTestGroup, LoadBalanceGroup, SmartGroup]
+ProxyGroupType = Union[SelectGroup, RelayGroup, FallbackGroup, UrlTestGroup, LoadBalanceGroup, SmartGroup]
 
 
 class ProxyGroup(BaseModel):
-    __root__: ProxyGroupUnion = Field(..., discriminator='type')
+    __root__: ProxyGroupType = Field(..., discriminator='type')
 
     def dict(self, **kwargs):
         return self.__root__.dict(**kwargs)
