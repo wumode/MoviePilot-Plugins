@@ -32,7 +32,7 @@ class ClashRuleManager:
     def export_rules(self) -> List[Dict[str, str]]:
         rules_list = []
         for rule in self.rules:
-            rules_list.append({'rule': rule.rule.raw_rule, 'remark': rule.remark, 'time_modified': rule.time_modified})
+            rules_list.append({'rule': str(rule.rule.raw_rule), 'remark': rule.remark, 'time_modified': rule.time_modified})
         return rules_list
 
     def append_rules(self, clash_rules: List[RuleItem]):
@@ -112,14 +112,8 @@ class ClashRuleManager:
         for r in self.rules:
             if clash_rule.remark != r.remark:
                 continue
-            rule = r.rule
-            if rule.rule_type != RoutingRuleType.MATCH:
-                if rule.rule_type == clash_rule.rule.rule_type and rule.action == clash_rule.rule.action \
-                        and rule.payload == clash_rule.rule.payload:
-                    return True
-            else:
-                if rule.rule_type == clash_rule.rule.rule_type and rule.action == clash_rule.rule.action:
-                    return True
+            if r.rule == clash_rule.rule:
+                return True
         return False
 
     def reorder_rules(self, moved_priority: int, target_priority: int) -> RuleItem:
