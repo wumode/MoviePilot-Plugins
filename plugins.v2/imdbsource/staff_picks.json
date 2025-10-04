@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-05 00:49:52",
+  "updated_at": "2025-10-05 06:33:41",
   "entries": [
     {
       "name": "Monster: The Ed Gein Story",
@@ -464,6 +464,15 @@
               "node": {
                 "text": "Monster",
                 "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Monster",
+                "country": {
                   "id": "PH",
                   "text": "Philippines"
                 },
@@ -787,15 +796,6 @@
                 "country": {
                   "id": "NO",
                   "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Monstres",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
                 }
               }
             }
@@ -1592,7 +1592,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.5
+          "aggregateRating": 6.4
         }
       },
       {
@@ -3787,7 +3787,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.9
+          "aggregateRating": 7.7
         }
       },
       {
