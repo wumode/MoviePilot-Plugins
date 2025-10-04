@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-04 14:47:40",
+  "updated_at": "2025-10-04 16:33:36",
   "entries": [
     {
       "name": "Monster: The Ed Gein Story",
@@ -1452,7 +1452,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.0
+          "aggregateRating": 7.1
         }
       },
       {
@@ -2031,7 +2031,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.2
+          "aggregateRating": 6.1
         }
       },
       {
@@ -3367,6 +3367,15 @@
               "node": {
                 "text": "Black Phone 2",
                 "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
                   "id": "CA",
                   "text": "Canada"
                 },
@@ -3548,6 +3557,33 @@
             },
             {
               "node": {
+                "text": "\u010cern\u00fd telefon 2",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "\u010cierny telef\u00f3n 2",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "\u010crni telefon 2",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Czarny telefon 2",
                 "country": {
                   "id": "PL",
@@ -3570,6 +3606,24 @@
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Juodas telefonas 2",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Melnais telefons 2",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
                 }
               }
             },
@@ -3642,6 +3696,15 @@
                 "country": {
                   "id": "GR",
                   "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "\u0427\u0435\u0440\u043d\u044b\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d 2",
+                "country": {
+                  "id": "BY",
+                  "text": "Belarus"
                 }
               }
             },
@@ -4110,7 +4173,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.6
+          "aggregateRating": 5.7
         }
       },
       {
