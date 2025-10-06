@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-05 06:33:41",
+  "updated_at": "2025-10-06 12:33:21",
   "entries": [
     {
       "name": "Monster: The Ed Gein Story",
@@ -813,11 +813,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 33,
+          "currentRank": 1,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 3
+            "changeDirection": "UP",
+            "difference": 32
           }
         },
         "ratingsSummary": {
@@ -1196,15 +1196,15 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 8,
+          "currentRank": 5,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 14
+            "difference": 3
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 7.0
         }
       },
       {
@@ -1444,11 +1444,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 43,
+          "currentRank": 2,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 12
+            "difference": 41
           }
         },
         "ratingsSummary": {
@@ -1584,15 +1584,15 @@
           "height": 2500
         },
         "meterRanking": {
-          "currentRank": 708,
+          "currentRank": 21,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 1521
+            "difference": 687
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.4
+          "aggregateRating": 6.2
         }
       },
       {
@@ -1865,15 +1865,15 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 129,
+          "currentRank": 16,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 34
+            "difference": 113
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.7
+          "aggregateRating": 6.8
         }
       },
       {
@@ -2023,15 +2023,15 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 87,
+          "currentRank": 26,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 46
+            "difference": 61
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.1
+          "aggregateRating": 6.0
         }
       },
       {
@@ -2489,11 +2489,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 46,
+          "currentRank": 19,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 6
+            "difference": 27
           }
         },
         "ratingsSummary": {}
@@ -2801,11 +2801,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 107,
+          "currentRank": 50,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 31
+            "difference": 57
           }
         },
         "ratingsSummary": {
@@ -3022,11 +3022,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 431,
+          "currentRank": 150,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 73
+            "difference": 281
           }
         },
         "ratingsSummary": {
@@ -3117,11 +3117,11 @@
           "height": 1200
         },
         "meterRanking": {
-          "currentRank": 609,
+          "currentRank": 473,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 158
+            "changeDirection": "UP",
+            "difference": 136
           }
         },
         "ratingsSummary": {}
@@ -3366,15 +3366,15 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 1073,
+          "currentRank": 820,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 114
+            "difference": 253
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.0
+          "aggregateRating": 5.9
         }
       },
       {
@@ -3779,15 +3779,15 @@
           "height": 5000
         },
         "meterRanking": {
-          "currentRank": 131,
+          "currentRank": 32,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 118
+            "difference": 99
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.7
+          "aggregateRating": 7.9
         }
       },
       {
@@ -3883,11 +3883,11 @@
           "height": 1610
         },
         "meterRanking": {
-          "currentRank": 93,
+          "currentRank": 284,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 10510
+            "changeDirection": "DOWN",
+            "difference": 191
           }
         },
         "ratingsSummary": {}
@@ -4192,15 +4192,15 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 117,
+          "currentRank": 48,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 46
+            "changeDirection": "UP",
+            "difference": 69
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.6
+          "aggregateRating": 5.7
         }
       },
       {
@@ -4512,15 +4512,15 @@
           "height": 630
         },
         "meterRanking": {
-          "currentRank": 61,
+          "currentRank": 58,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 149
+            "difference": 3
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.0
+          "aggregateRating": 7.1
         }
       },
       {
@@ -4733,11 +4733,11 @@
           "height": 2866
         },
         "meterRanking": {
-          "currentRank": 620,
+          "currentRank": 433,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 113
+            "changeDirection": "UP",
+            "difference": 187
           }
         },
         "ratingsSummary": {
@@ -4841,6 +4841,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
@@ -5067,15 +5076,15 @@
           "height": 9000
         },
         "meterRanking": {
-          "currentRank": 144,
+          "currentRank": 66,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 18
+            "changeDirection": "UP",
+            "difference": 78
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 8.6
+          "aggregateRating": 8.5
         }
       },
       {
@@ -5267,11 +5276,11 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 68,
+          "currentRank": 85,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 245
+            "changeDirection": "DOWN",
+            "difference": 17
           }
         },
         "ratingsSummary": {}
@@ -5321,11 +5330,11 @@
           "height": 2761
         },
         "meterRanking": {
-          "currentRank": 551,
+          "currentRank": 408,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 66
+            "difference": 143
           }
         },
         "ratingsSummary": {}
@@ -5846,11 +5855,11 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 77,
+          "currentRank": 86,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 44
+            "difference": 9
           }
         },
         "ratingsSummary": {
@@ -6132,15 +6141,15 @@
           "height": 11811
         },
         "meterRanking": {
-          "currentRank": 134,
+          "currentRank": 81,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 25
+            "difference": 53
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 7.2
         }
       }
     ],
