@@ -1,11 +1,10 @@
-import pytz
 import re
 import urllib.parse
-from datetime import datetime, timedelta
+from datetime import datetime
 from typing import Any, Callable, Coroutine, Dict, Optional, List, Tuple
 
 import zhconv
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
+from apscheduler.triggers.cron import CronTrigger
 
 from app import schemas
 from app.chain import ChainBase
@@ -13,7 +12,6 @@ from app.core.config import settings
 from app.core.context import MediaInfo
 from app.core.event import eventmanager, Event
 from app.core.meta import MetaBase
-from app.scheduler import Scheduler
 from app.plugins import _PluginBase
 from app.plugins.imdbsource.imdbhelper import ImdbHelper
 from app.plugins.imdbsource.officialapi import INTERESTS_ID
@@ -32,7 +30,7 @@ class ImdbSource(_PluginBase):
     # 插件图标
     plugin_icon = "IMDb_IOS-OSX_App.png"
     # 插件版本
-    plugin_version = "1.6.0"
+    plugin_version = "1.6.1"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -58,7 +56,6 @@ class ImdbSource(_PluginBase):
     # 私有属性
     _imdb_helper: Optional[ImdbHelper] = None
     _img_proxy_prefix: str = ''
-    _scheduler: Optional[AsyncIOScheduler] = None
     _original_method: Optional[Callable] = None
     _original_async_method: Optional[Callable[..., Coroutine[Any, Any, Optional[MediaInfo]]]] = None
     _staff_picks_cache: Optional[StaffPickApiResponse] = None
@@ -136,10 +133,7 @@ class ImdbSource(_PluginBase):
         if "media-imdb.com" not in settings.SECURITY_IMAGE_DOMAINS:
             settings.SECURITY_IMAGE_DOMAINS.append("media-imdb.com")
         if self._enabled:
-            self._scheduler = AsyncIOScheduler(timezone=settings.TZ, event_loop=Scheduler().loop)
-            self._scheduler.start()
-            self._scheduler.add_job(self.async_fetch_staff_picks, trigger='date', run_date=None,
-                                    misfire_grace_time=120, args=(self._chinese_component,))
+
             if self._recognize_media and self._recognition_mode == 'auxiliary':
                 # 替换 ChainBase.recognize_media
                 if not (getattr(ChainBase.recognize_media, "_patched_by", object()) == id(self)):
@@ -158,6 +152,26 @@ class ImdbSource(_PluginBase):
                     ChainBase.async_recognize_media = self._original_async_method
         else:
             self.stop_service()
+
+    def get_service(self) -> List[Dict[str, Any]]:
+        if self.get_state() and self._staff_picks:
+            return [
+                {
+                    "id": "ImdbSource",
+                    "name": "刷新主屏幕组件",
+                    "trigger": CronTrigger.from_crontab('0 */6 * * *'),
+                    "func": self.async_fetch_staff_picks,
+                    "kwargs": {}
+                },
+                {
+                    "id": "ImdbSource.StaffPicks.Now",
+                    "name": "刷新主屏幕组件",
+                    "trigger": 'date',
+                    "func": self.async_fetch_staff_picks,
+                    "kwargs": {}
+                }
+            ]
+        return []
 
     def get_state(self) -> bool:
         return self._enabled
@@ -515,11 +529,6 @@ class ImdbSource(_PluginBase):
                     }
                 ]
             }]
-        self._scheduler.add_job(self.async_fetch_staff_picks, trigger='date',
-                                run_date=datetime.now(tz=pytz.timezone(settings.TZ)) +
-                                         timedelta(seconds=60),
-                                misfire_grace_time=60, args=(self._chinese_component,),
-                                id=f'fetch_staff_picks', replace_existing=True)
         return cols, attrs, elements
 
     @staticmethod
@@ -890,14 +899,6 @@ class ImdbSource(_PluginBase):
         if (getattr(ChainBase.async_recognize_media, "_patched_by", object()) == id(self) and
                 self._original_async_method):
             ChainBase.async_recognize_media = self._original_async_method
-        if self._scheduler:
-            try:
-                self._scheduler.remove_all_jobs()
-                if self._scheduler.running:
-                    self._scheduler.shutdown()
-                self._scheduler = None
-            except Exception as e:
-                logger.error(f"退出插件失败：{e}")
 
     def get_module(self) -> Dict[str, Any]:
         """
@@ -1813,8 +1814,8 @@ class ImdbSource(_PluginBase):
             return mediainfo
         return None
 
-    async def async_fetch_staff_picks(self, zh: bool = False):
-        data = await self._imdb_helper.async_fetch_staff_picks(zh)
+    async def async_fetch_staff_picks(self):
+        data = await self._imdb_helper.async_fetch_staff_picks(self._chinese_component)
         if data:
             self._staff_picks_cache = data
 
