@@ -1,3 +1,4 @@
+import asyncio
 import copy
 import pytz
 import yaml
@@ -10,7 +11,6 @@ from apscheduler.triggers.cron import CronTrigger
 from app.core.config import settings
 from app.core.event import eventmanager, Event
 from app.log import logger
-from app.scheduler import Scheduler
 from app.schemas.types import EventType, NotificationType
 
 from .api import ClashRuleProviderApi, apis
@@ -30,7 +30,7 @@ class ClashRuleProvider(_ClashRuleProviderBase):
     # 插件图标
     plugin_icon = "Mihomo_Meta_A.png"
     # 插件版本
-    plugin_version = "2.0.7"
+    plugin_version = "2.0.8"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -41,6 +41,8 @@ class ClashRuleProvider(_ClashRuleProviderBase):
     plugin_order = 99
     # 可使用的用户级别
     auth_level = 1
+    # 主线程事件循环
+    event_loop: Optional[asyncio.AbstractEventLoop] = None
 
     def __init__(self):
         # Configuration attributes
@@ -81,7 +83,12 @@ class ClashRuleProvider(_ClashRuleProviderBase):
         self.state.proxies_manager.clear()
         self.state.top_rules_manager.clear()
         self.state.ruleset_rules_manager.clear()
-        self.scheduler = AsyncIOScheduler(timezone=settings.TZ, event_loop=Scheduler().loop)
+        if ClashRuleProvider.event_loop:
+            loop = ClashRuleProvider.event_loop
+        else:
+            ClashRuleProvider.event_loop = asyncio.get_running_loop()
+            loop = ClashRuleProvider.event_loop
+        self.scheduler = AsyncIOScheduler(timezone=settings.TZ, event_loop=loop)
         self.services = ClashRuleProviderService(self.__class__.__name__, self.config, self.state, self.store,
                                                  self.scheduler)
         self.api = ClashRuleProviderApi(self.services, self.config)
