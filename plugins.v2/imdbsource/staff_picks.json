@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-06 12:33:21",
+  "updated_at": "2025-10-08 11:44:27",
   "entries": [
     {
       "name": "Monster: The Ed Gein Story",
@@ -822,6 +822,44 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.8
+        },
+        "releaseDate": {
+          "year": 2022,
+          "month": 9,
+          "day": 21
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "originalTitleText": {
+          "text": "Monster"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -1205,6 +1243,49 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.0
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sport"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "The Smashing Machine"
+        },
+        "runtime": {
+          "seconds": 7380
         }
       },
       {
@@ -1453,6 +1534,44 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.0
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "The Lost Bus"
+        },
+        "runtime": {
+          "seconds": 7740
         }
       },
       {
@@ -1569,6 +1688,15 @@
                   "text": "Brazil"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "З/Л/О: Хэллоуин",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
             }
           ]
         },
@@ -1592,7 +1720,27 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.2
+          "aggregateRating": 6.1
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "originalTitleText": {
+          "text": "V/H/S/Halloween"
+        },
+        "runtime": {
+          "seconds": 6900
         }
       },
       {
@@ -1873,7 +2021,40 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.8
+          "aggregateRating": 6.7
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "originalTitleText": {
+          "text": "Good Boy"
+        },
+        "runtime": {
+          "seconds": 4320
         }
       },
       {
@@ -2031,7 +2212,30 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.0
+          "aggregateRating": 5.9
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Anemone"
+        },
+        "runtime": {
+          "seconds": 7260
         }
       },
       {
@@ -2496,7 +2700,40 @@
             "difference": 27
           }
         },
-        "ratingsSummary": {}
+        "ratingsSummary": {},
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 10
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "originalTitleText": {
+          "text": "Tron: Ares"
+        },
+        "runtime": {
+          "seconds": 7140
+        }
       },
       {
         "id": "tt4627382",
@@ -2809,7 +3046,55 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 7.2
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 10
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "Music"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Roofman"
+        },
+        "runtime": {
+          "seconds": 7560
         }
       },
       {
@@ -3031,6 +3316,39 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.3
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 10
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "If I Had Legs I'd Kick You"
+        },
+        "runtime": {
+          "seconds": 6780
         }
       },
       {
@@ -3124,7 +3442,24 @@
             "difference": 136
           }
         },
-        "ratingsSummary": {}
+        "ratingsSummary": {},
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 12
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            }
+          ]
+        },
+        "originalTitleText": {
+          "text": "The Chair Company"
+        }
       },
       {
         "id": "tt32063098",
@@ -3374,7 +3709,45 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.9
+          "aggregateRating": 6.0
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 29
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Ballad of a Small Player"
+        },
+        "runtime": {
+          "seconds": 6060
         }
       },
       {
@@ -3788,6 +4161,29 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.9
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 17
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Black Phone 2"
+        },
+        "runtime": {
+          "seconds": 6840
         }
       },
       {
@@ -3890,7 +4286,29 @@
             "difference": 191
           }
         },
-        "ratingsSummary": {}
+        "ratingsSummary": {},
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 22
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "originalTitleText": {
+          "text": "The Hand That Rocks the Cradle"
+        }
       },
       {
         "id": "tt31923069",
@@ -4117,6 +4535,15 @@
             },
             {
               "node": {
+                "text": "Springsteen: Izbavi me iz ništavila",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Springsteen: Liberami dal Nulla",
                 "country": {
                   "id": "IT",
@@ -4162,6 +4589,15 @@
             },
             {
               "node": {
+                "text": "Springsteen: Vysvoboď mě z neznáma",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Springsteen. Išvaduok mane iš nežinios",
                 "country": {
                   "id": "LT",
@@ -4171,10 +4607,40 @@
             },
             {
               "node": {
+                "text": "Springstīns: Glāb mani no nekurienes",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Спрингстийн: Избави ме от нищото",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Спрингстин. Избавь меня от небытия",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Спрингстин. Мені жоқтан құтқар",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
                 }
               }
             }
@@ -4201,6 +4667,39 @@
         },
         "ratingsSummary": {
           "aggregateRating": 5.7
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 24
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Music"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "originalTitleText": {
+          "text": "Springsteen: Deliver Me from Nowhere"
+        },
+        "runtime": {
+          "seconds": 7200
         }
       },
       {
@@ -4506,10 +5005,10 @@
           }
         },
         "primaryImage": {
-          "id": "rm3663377410",
-          "url": "https://m.media-amazon.com/images/M/MV5BN2M3ODMzZDEtZDJiNi00ZDI4LTljYzItZjg3OWU5YjQxOWFkXkEyXkFqcGc@._V1_.jpg",
-          "width": 450,
-          "height": 630
+          "id": "rm2650515458",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjAzMjQ4YTUtOGI1Yy00YTFkLTlkMDQtMDEwOWNjYmE3MTU1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1050,
+          "height": 1551
         },
         "meterRanking": {
           "currentRank": 58,
@@ -4521,6 +5020,34 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.1
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 24
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "A House of Dynamite"
+        },
+        "runtime": {
+          "seconds": 6720
         }
       },
       {
@@ -4703,6 +5230,18 @@
             },
             {
               "node": {
+                "text": "Blue Moon",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Голубая луна",
                 "country": {
                   "id": "RU",
@@ -4742,6 +5281,54 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.3
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 24
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "Music"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Blue Moon"
+        },
+        "runtime": {
+          "seconds": 6000
         }
       },
       {
@@ -5085,6 +5672,64 @@
         },
         "ratingsSummary": {
           "aggregateRating": 8.5
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 24
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Animation"
+              }
+            },
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Gekijô-ban Chensô Man Reze-hen"
+        },
+        "runtime": {
+          "seconds": 6000
         }
       },
       {
@@ -5283,7 +5928,27 @@
             "difference": 17
           }
         },
-        "ratingsSummary": {}
+        "ratingsSummary": {},
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 26
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "originalTitleText": {
+          "text": "IT: Welcome to Derry"
+        }
       },
       {
         "id": "tt32596156",
@@ -5337,7 +6002,29 @@
             "difference": 143
           }
         },
-        "ratingsSummary": {}
+        "ratingsSummary": {},
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 26
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "originalTitleText": {
+          "text": "Anne Rice's Talamasca: The Secret Order"
+        }
       },
       {
         "id": "tt5180504",
@@ -5864,6 +6551,49 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.9
+        },
+        "releaseDate": {
+          "year": 2019,
+          "month": 12,
+          "day": 20
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "originalTitleText": {
+          "text": "The Witcher"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -5879,6 +6609,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Bugonia",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Bugonia",
@@ -6150,6 +6889,39 @@
         },
         "ratingsSummary": {
           "aggregateRating": 7.2
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 31
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Bugonia"
+        },
+        "runtime": {
+          "seconds": 7200
         }
       }
     ],
