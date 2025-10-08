@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-08 11:44:27",
+  "updated_at": "2025-10-08 18:33:25",
   "entries": [
     {
       "name": "Monster: The Ed Gein Story",
@@ -1720,7 +1720,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.1
+          "aggregateRating": 6.0
         },
         "releaseDate": {
           "year": 2025,
@@ -1862,15 +1862,6 @@
               "node": {
                 "text": "Good Boy",
                 "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -1969,6 +1960,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy: Confía En Tu Instinto",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -2773,6 +2773,24 @@
               "node": {
                 "text": "Roofman",
                 "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Roofman",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Roofman",
+                "country": {
                   "id": "EG",
                   "text": "Egypt"
                 },
@@ -3028,7 +3046,7 @@
         },
         "plot": {
           "plotText": {
-            "plainText": "A charismatic criminal, while on the run from the police, hides on the roof of a toy store. There, he adopts a new identity and becomes involved with an employee, beginning a relationship as unlikely as it is risky."
+            "plainText": "A charismatic criminal, while on the run from the police, hides in a hidden space of a toy store. There, he adopts a new identity and becomes involved with an employee, beginning a relationship as unlikely as it is risky."
           }
         },
         "primaryImage": {
@@ -3046,7 +3064,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.2
+          "aggregateRating": 7.1
         },
         "releaseDate": {
           "year": 2025,
@@ -3553,15 +3571,6 @@
               "node": {
                 "text": "Ballad of a Small Player",
                 "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
                   "id": "SE",
                   "text": "Sweden"
                 }
@@ -3585,6 +3594,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -3680,6 +3701,15 @@
             },
             {
               "node": {
+                "text": "La ballata di un piccolo giocatore",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Баллада о маленьком игроке",
                 "country": {
                   "id": "RU",
@@ -3695,8 +3725,8 @@
           }
         },
         "primaryImage": {
-          "id": "rm4241864194",
-          "url": "https://m.media-amazon.com/images/M/MV5BYThkZjBjMjEtMjEwNS00N2Q1LTk3ODQtM2I4YzFkY2Y3YWRkXkEyXkFqcGc@._V1_.jpg",
+          "id": "rm1279764738",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWZhYzE5ODctNTUwYi00ZGE3LTliNTgtZTNkYjcxZWMxMWJjXkEyXkFqcGc@._V1_.jpg",
           "width": 1500,
           "height": 2222
         },
@@ -3709,7 +3739,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.0
+          "aggregateRating": 5.9
         },
         "releaseDate": {
           "year": 2025,
@@ -3797,6 +3827,15 @@
               "node": {
                 "text": "Black Phone 2",
                 "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -3875,15 +3914,6 @@
               "node": {
                 "text": "The Black Phone 2",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Black Phone 2",
-                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -3931,6 +3961,24 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -4059,15 +4107,6 @@
             },
             {
               "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Teléfono Negro 2",
                 "country": {
                   "id": "US",
@@ -4119,6 +4158,15 @@
             },
             {
               "node": {
+                "text": "ブラックフォン 2",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "接駁靈聲2",
                 "country": {
                   "id": "HK",
@@ -4160,7 +4208,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.9
+          "aggregateRating": 7.7
         },
         "releaseDate": {
           "year": 2025,
@@ -4217,6 +4265,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
                 }
               }
             },
@@ -4523,6 +4580,18 @@
             },
             {
               "node": {
+                "text": "Springsteen: Délivrez-Moi De Nulle Part",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Springsteen: Hiçlikten Kurtar Beni",
                 "country": {
                   "id": "TR",
@@ -4643,6 +4712,15 @@
                   "text": "Kazakhstan"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "史普林斯汀：走出虛無",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
             }
           ]
         },
@@ -4666,7 +4744,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.7
+          "aggregateRating": 5.8
         },
         "releaseDate": {
           "year": 2025,
@@ -5019,7 +5097,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 7.2
         },
         "releaseDate": {
           "year": 2025,
@@ -5571,6 +5649,15 @@
             },
             {
               "node": {
+                "text": "Chainsaw Man filmas: Reze arka",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Chainsaw Man: The Movie: Reze Arc",
                 "country": {
                   "id": "CA",
@@ -5911,7 +5998,7 @@
         },
         "plot": {
           "plotText": {
-            "plainText": "It will follow the events in the 1960s, the time leading up to the events of the first film in the Stephen King It series."
+            "plainText": "It will follow the events in 1962 , the time leading up to the events of the first film based in 1989 of the Stephen King \" It \" series."
           }
         },
         "primaryImage": {
@@ -5963,6 +6050,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Anne Rice's Talamasca: The Secret Order",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Anne Rice's Talamasca: The Secret Order",
@@ -6888,7 +6984,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.2
+          "aggregateRating": 7.1
         },
         "releaseDate": {
           "year": 2025,
