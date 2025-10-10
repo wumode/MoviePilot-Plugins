@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-08 18:33:25",
+  "updated_at": "2025-10-10 12:33:45",
   "entries": [
     {
       "name": "Monster: The Ed Gein Story",
@@ -1242,7 +1242,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.0
+          "aggregateRating": 6.9
         },
         "releaseDate": {
           "year": 2025,
@@ -1612,6 +1612,15 @@
               "node": {
                 "text": "V/H/S/Halloween",
                 "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -1735,6 +1744,9 @@
               }
             }
           ]
+        },
+        "certificate": {
+          "rating": "Not Rated"
         },
         "originalTitleText": {
           "text": "V/H/S/Halloween"
@@ -1939,6 +1951,15 @@
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chó Cưng Đừng Sợ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
                 }
               }
             },
@@ -2235,7 +2256,7 @@
           "text": "Anemone"
         },
         "runtime": {
-          "seconds": 7260
+          "seconds": 7500
         }
       },
       {
@@ -2374,6 +2395,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -2700,7 +2730,9 @@
             "difference": 27
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 6.4
+        },
         "releaseDate": {
           "year": 2025,
           "month": 10,
@@ -2939,6 +2971,24 @@
             },
             {
               "node": {
+                "text": "Un buen ladrón",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Un buen ladrón",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Çatıda Biri Var",
                 "country": {
                   "id": "TR",
@@ -2946,6 +2996,15 @@
                 },
                 "language": {
                   "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jumtu bandīts",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
                 }
               }
             },
@@ -2996,7 +3055,25 @@
             },
             {
               "node": {
-                "text": "Roofman: Un ladrón diferente",
+                "text": "Roofman - Kattokeikkailija",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Roofman: Hoțul de pe acoperiș",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Roofman: Un ladrón en el tejado",
                 "country": {
                   "id": "ES",
                   "text": "Spain"
@@ -3014,10 +3091,10 @@
             },
             {
               "node": {
-                "text": "Un buen ladrón",
+                "text": "Um Ladrão no Telhado",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
+                  "id": "PT",
+                  "text": "Portugal"
                 }
               }
             },
@@ -3035,10 +3112,37 @@
             },
             {
               "node": {
+                "text": "Vagišius",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Грабитель с крыши",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Грабіжник за покликанням",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Шатырдағы ұры",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
                 }
               }
             }
@@ -4086,6 +4190,15 @@
             },
             {
               "node": {
+                "text": "O Telefone Negro 2",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "O Telefone Preto 2",
                 "country": {
                   "id": "BR",
@@ -4208,7 +4321,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.7
+          "aggregateRating": 7.4
         },
         "releaseDate": {
           "year": 2025,
@@ -4292,6 +4405,15 @@
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Die Hand an der Wiege",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
                 }
               }
             },
@@ -4715,6 +4837,18 @@
             },
             {
               "node": {
+                "text": "スプリングスティーン　孤独のハイウェイ",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "史普林斯汀：走出虛無",
                 "country": {
                   "id": "TW",
@@ -4744,7 +4878,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.8
+          "aggregateRating": 5.6
         },
         "releaseDate": {
           "year": 2025,
@@ -6035,6 +6169,9 @@
         },
         "originalTitleText": {
           "text": "IT: Welcome to Derry"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -6893,6 +7030,18 @@
             },
             {
               "node": {
+                "text": "Bugonia",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Bugonia Bugonia",
                 "country": {
                   "id": "MX",
@@ -6984,7 +7133,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 7.2
         },
         "releaseDate": {
           "year": 2025,
