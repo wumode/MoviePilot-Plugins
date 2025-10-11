@@ -1,86 +1,6 @@
 {
-  "updated_at": "2025-10-10 12:33:45",
+  "updated_at": "2025-10-11 18:33:28",
   "entries": [
-    {
-      "name": "Monster: The Ed Gein Story",
-      "ttconst": "tt13207736",
-      "rmconst": "rm1620748802",
-      "detail": "Season 3 streaming on Netflix",
-      "description": "Ryan Murphy’s true crime anthology is back to tell the tale of one of the most influential serial killers of all time, Ed Gein. Starring Charlie Hunnam, the eight-episode season will explore the murderer’s journey from mother-obsessed recluse to gruesome killer. Gein’s perverse crimes have served as inspiration for legendary horror films — including <i>Psycho</i>, <i>The Texas Chain Saw Massacre</i>, and <i>The Silence of the Lambs</i> — and those influences will appear as visual echoes throughout the series. From human-skin masks and coveted corpses to roaring chainsaws and disturbing delusions, this season of “Monster” is not for the faint of heart. <i>— Adrienne C.</i>",
-      "relatedconst": [
-        "nm0402271",
-        "nm0582418",
-        "nm10847160",
-        "nm2590465",
-        "nm10604776",
-        "nm0931404"
-      ],
-      "viconst": "vi202426393"
-    },
-    {
-      "name": "The Smashing Machine",
-      "ttconst": "tt11214558",
-      "rmconst": "rm347582722",
-      "detail": "In theaters",
-      "description": "Benny Safdie’s solo directorial debut pulls no punches with its warts-and-all retelling of real-life MMA fighter Mark Kerr’s struggles in and out of the ring. Dwayne The Rock Johnson taps into his own unique experience as a professional wrestler to deliver a career-altering dramatic performance — one that’s already receiving significant Oscar buzz. <i>— Sean B.</i>",
-      "relatedconst": [
-        "nm0425005",
-        "nm1289434"
-      ],
-      "viconst": "vi985647129"
-    },
-    {
-      "name": "The Lost Bus",
-      "ttconst": "tt21103218",
-      "rmconst": "rm3225006594",
-      "detail": "Streaming on Apple TV+",
-      "description": "<i>Speed</i> + <i>Volcano</i>, with the watertight direction of Paul Greengrass (<i>United 93</i>, <i>Captain Phillips</i>), and a pair of outstanding performances from a hard-luck Matthew McConaughey and a determined America Ferrera, <i>The Lost Bus</i> maneuvers past the ‘90s disaster-thriller genre to which the film is so clearly indebted, mainly with stunning visual effects that will make you believe that Greengrass actually recreated hell on earth ... then drove a busload of kids through the middle of it! Based on the true account of a school bus driver and an elementary teacher’s race to rescue 22 children from the 2018 Camp Fire in Northern California, this ride is best on a big screen, but I suspect most everyone will idle their engines until it hits streaming on Oct 3. <i>— Alex L.</i>",
-      "relatedconst": [
-        "nm0000190",
-        "nm1065229"
-      ],
-      "viconst": "vi382126105"
-    },
-    {
-      "name": "V/H/S Halloween",
-      "ttconst": "tt37676033",
-      "rmconst": "rm3793922818",
-      "detail": "Streaming on Shudder",
-      "description": "The <i>V/H/S</i> franchise just keeps going, and why shouldn't it? The marriage of two great horror sub-genres (found footage + anthology) has resulted in an endless trove of video delights, and this eighth installment might be the best in the series. Seriously. And if you’re <i>really</i> into the sub-genre, take a look at this Watchlist hand-picked by the directors of <i>V/H/S/Halloween</i>. <i>— James G.</i>",
-      "relatedconst": [
-        "nm2956456",
-        "nm15877301",
-        "nm16159171",
-        "nm3234402"
-      ],
-      "viconst": "vi271108121"
-    },
-    {
-      "name": "Good Boy",
-      "ttconst": "tt35521922",
-      "rmconst": "rm3951595778",
-      "detail": "In theaters",
-      "description": "If you’ve ever wondered why your dog stares at walls or barks at empty corners of the house, Ben Leonberg’s slow-burn horror thriller is for you. Told entirely from the perspective of Indy the dog, the humans in <i>Good Boy</i> are mostly relegated to the background as our canine hero bravely protects his owner from malevolent spirits lurking in a spooky cabin in the woods. Fun fact: Indy was raised and trained for the film, which required 400+ shooting days over three years. <i>— James G.</i>",
-      "relatedconst": [
-        "nm13000055",
-        "nm2007906",
-        "nm0275244"
-      ],
-      "viconst": "vi2923218969"
-    },
-    {
-      "name": "Anemone",
-      "ttconst": "tt33549447",
-      "rmconst": "rm1580184578",
-      "detail": "In theaters",
-      "description": "Daniel Day-Lewis comes out of retirement for his son, Ronan, who makes his directorial feature debut with this film about a hermit who has retreated to a life in the woods. The father-son duo co-wrote the screenplay, which sees DD-L's recluse visited by his estranged brother from a bruised past. In a rare occurrence, Sean Bean co-stars in a story where his character might actually live through the end credits. <i>— Arno K.</i>",
-      "relatedconst": [
-        "nm0000358",
-        "nm0000293",
-        "nm0608090"
-      ],
-      "viconst": "vi16828441"
-    },
     {
       "name": "Tron: Ares",
       "ttconst": "tt6604188",
@@ -96,6 +16,22 @@
         "nm3853652"
       ],
       "viconst": "vi383371289"
+    },
+    {
+      "name": "Monster: The Ed Gein Story",
+      "ttconst": "tt13207736",
+      "rmconst": "rm1620748802",
+      "detail": "Season 3 streaming on Netflix",
+      "description": "Ryan Murphy’s true crime anthology is back to tell the tale of one of the most influential serial killers of all time, Ed Gein. Starring Charlie Hunnam, the eight-episode season will explore the murderer’s journey from mother-obsessed recluse to gruesome killer. Gein’s perverse crimes have served as inspiration for legendary horror films — including <i>Psycho</i>, <i>The Texas Chain Saw Massacre</i>, and <i>The Silence of the Lambs</i> — and those influences will appear as visual echoes throughout the series. From human-skin masks and coveted corpses to roaring chainsaws and disturbing delusions, this season of “Monster” is not for the faint of heart. <i>— Adrienne C.</i>",
+      "relatedconst": [
+        "nm0402271",
+        "nm0582418",
+        "nm10847160",
+        "nm2590465",
+        "nm10604776",
+        "nm0931404"
+      ],
+      "viconst": "vi202426393"
     },
     {
       "name": "Roofman",
@@ -169,6 +105,70 @@
         "nm12346880"
       ],
       "viconst": "vi4287023129"
+    },
+    {
+      "name": "The Smashing Machine",
+      "ttconst": "tt11214558",
+      "rmconst": "rm347582722",
+      "detail": "In theaters",
+      "description": "Benny Safdie’s solo directorial debut pulls no punches with its warts-and-all retelling of real-life MMA fighter Mark Kerr’s struggles in and out of the ring. Dwayne The Rock Johnson taps into his own unique experience as a professional wrestler to deliver a career-altering dramatic performance — one that’s already receiving significant Oscar buzz. <i>— Sean B.</i>",
+      "relatedconst": [
+        "nm0425005",
+        "nm1289434"
+      ],
+      "viconst": "vi985647129"
+    },
+    {
+      "name": "The Lost Bus",
+      "ttconst": "tt21103218",
+      "rmconst": "rm3225006594",
+      "detail": "Streaming on Apple TV+",
+      "description": "<i>Speed</i> + <i>Volcano</i>, with the watertight direction of Paul Greengrass (<i>United 93</i>, <i>Captain Phillips</i>), and a pair of outstanding performances from a hard-luck Matthew McConaughey and a determined America Ferrera, <i>The Lost Bus</i> maneuvers past the ‘90s disaster-thriller genre to which the film is so clearly indebted, mainly with stunning visual effects that will make you believe that Greengrass actually recreated hell on earth ... then drove a busload of kids through the middle of it! Based on the true account of a school bus driver and an elementary teacher’s race to rescue 22 children from the 2018 Camp Fire in Northern California, this ride is best on a big screen, but I suspect most everyone will idle their engines until it hits streaming on Oct 3. <i>— Alex L.</i>",
+      "relatedconst": [
+        "nm0000190",
+        "nm1065229"
+      ],
+      "viconst": "vi382126105"
+    },
+    {
+      "name": "V/H/S Halloween",
+      "ttconst": "tt37676033",
+      "rmconst": "rm3793922818",
+      "detail": "Streaming on Shudder",
+      "description": "The <i>V/H/S</i> franchise just keeps going, and why shouldn't it? The marriage of two great horror sub-genres (found footage + anthology) has resulted in an endless trove of video delights, and this eighth installment might be the best in the series. Seriously. And if you’re <i>really</i> into the sub-genre, take a look at this Watchlist hand-picked by the directors of <i>V/H/S/Halloween</i>. <i>— James G.</i>",
+      "relatedconst": [
+        "nm2956456",
+        "nm15877301",
+        "nm16159171",
+        "nm3234402"
+      ],
+      "viconst": "vi271108121"
+    },
+    {
+      "name": "Good Boy",
+      "ttconst": "tt35521922",
+      "rmconst": "rm3951595778",
+      "detail": "In theaters",
+      "description": "If you’ve ever wondered why your dog stares at walls or barks at empty corners of the house, Ben Leonberg’s slow-burn horror thriller is for you. Told entirely from the perspective of Indy the dog, the humans in <i>Good Boy</i> are mostly relegated to the background as our canine hero bravely protects his owner from malevolent spirits lurking in a spooky cabin in the woods. Fun fact: Indy was raised and trained for the film, which required 400+ shooting days over three years. <i>— James G.</i>",
+      "relatedconst": [
+        "nm13000055",
+        "nm2007906",
+        "nm0275244"
+      ],
+      "viconst": "vi2923218969"
+    },
+    {
+      "name": "Anemone",
+      "ttconst": "tt33549447",
+      "rmconst": "rm1580184578",
+      "detail": "In theaters",
+      "description": "Daniel Day-Lewis comes out of retirement for his son, Ronan, who makes his directorial feature debut with this film about a hermit who has retreated to a life in the woods. The father-son duo co-wrote the screenplay, which sees DD-L's recluse visited by his estranged brother from a bruised past. In a rare occurrence, Sean Bean co-stars in a story where his character might actually live through the end credits. <i>— Arno K.</i>",
+      "relatedconst": [
+        "nm0000358",
+        "nm0000293",
+        "nm0608090"
+      ],
+      "viconst": "vi16828441"
     },
     {
       "name": "The Hand That Rocks the Cradle",
@@ -297,6 +297,526 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt6604188",
+        "titleText": {
+          "text": "Tron: Ares"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "AZ",
+                  "text": "Azerbaijan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron 3",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron 3",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron 3",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron 3",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron 3",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron 3",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron 3",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Трон: Арес",
+                "country": {
+                  "id": "BY",
+                  "text": "Belarus"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Трон: Арес",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Трон: Арес",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Трон: Арес",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron"
+              }
+            },
+            {
+              "node": {
+                "text": "Tron",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Trò Chơi Ảo Giác: Ares",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tronas: Arėjas",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Trons: Arejs",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ट्रोन 3",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "トロン：アレス",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "创：战神",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "創：戰神",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "創戰紀：戰神降臨",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "A highly sophisticated Program, Ares, is sent from the digital world into the real world on a dangerous mission."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1844034818",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2025,
+          "height": 3000
+        },
+        "meterRanking": {
+          "currentRank": 19,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 27
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.6
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 10
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "originalTitleText": {
+          "text": "Tron: Ares"
+        },
+        "runtime": {
+          "seconds": 7140
+        }
+      },
       {
         "id": "tt13207736",
         "titleText": {
@@ -863,1911 +1383,6 @@
         }
       },
       {
-        "id": "tt11214558",
-        "titleText": {
-          "text": "The Smashing Machine"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine: Corazón de luchador",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine: Corazón de luchador",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coração de Lutador - The Smashing Machine",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La máquina: The Smashing Machine",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Máquina: The Smashing Machine",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Le combattant",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Löögimasin",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mlátička",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Smashing Machine",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Smashing Machine: Življenje v ringu",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Smashing Machine: Coração de Lutador",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The smashing machine: Η καρδιά ενός μαχητή",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Triecienmašīna",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Triuškinanti mašina",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Zúzógép",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Крушащая машина",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Незламний",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "重擊人生",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "The story of mixed-martial arts and UFC champion, Mark Kerr."
-          }
-        },
-        "primaryImage": {
-          "id": "rm1423212802",
-          "url": "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1923,
-          "height": 3000
-        },
-        "meterRanking": {
-          "currentRank": 5,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 3
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 6.9
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 3
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Biography"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "History"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sport"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "The Smashing Machine"
-        },
-        "runtime": {
-          "seconds": 7380
-        }
-      },
-      {
-        "id": "tt21103218",
-        "titleText": {
-          "text": "The Lost Bus"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A través del fuego",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A través del fuego",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Laberinto en llamas",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Ônibus Perdido",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Lost Bus - Au cœur des flammes",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Zaginiony autokar",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Школьный автобус",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "火燒天堂鎮",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "A wayward school bus driver and a dedicated school teacher battle to save 22 children from a terrifying inferno."
-          }
-        },
-        "primaryImage": {
-          "id": "rm2704912898",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meterRanking": {
-          "currentRank": 2,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 41
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 7.0
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 3
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Biography"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "History"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "The Lost Bus"
-        },
-        "runtime": {
-          "seconds": 7740
-        }
-      },
-      {
-        "id": "tt37676033",
-        "titleText": {
-          "text": "V/H/S/Halloween"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Halloween",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S: Halloween",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "З/Л/О: Хэллоуин",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival."
-          }
-        },
-        "primaryImage": {
-          "id": "rm2669783810",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDYxMjFiMzMtZjRkMS00MmM4LTkyYzItMjNjMjM3ZDUzYTY1XkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 2500
-        },
-        "meterRanking": {
-          "currentRank": 21,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 687
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 6.0
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 3
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "Not Rated"
-        },
-        "originalTitleText": {
-          "text": "V/H/S/Halloween"
-        },
-        "runtime": {
-          "seconds": 6900
-        }
-      },
-      {
-        "id": "tt35521922",
-        "titleText": {
-          "text": "Good Boy"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Глазами пса",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Глазами пса",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bom Menino",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chó Cưng Đừng Sợ",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good boy",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy - Trust his instincts",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Good Boy: Confía En Tu Instinto",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hea kutsu",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Хороший хлопчик",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "乖狗狗",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "A loyal dog moves to a rural family home with his owner, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most."
-          }
-        },
-        "primaryImage": {
-          "id": "rm3633360898",
-          "url": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_.jpg",
-          "width": 1382,
-          "height": 2048
-        },
-        "meterRanking": {
-          "currentRank": 16,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 113
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 6.7
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 3
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "originalTitleText": {
-          "text": "Good Boy"
-        },
-        "runtime": {
-          "seconds": 4320
-        }
-      },
-      {
-        "id": "tt33549447",
-        "titleText": {
-          "text": "Anemone"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anemone",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ανεμώνη",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "In Northern England, a man heads out on a journey into the woods to reconnect with the estranged hermit brother with whom he shared a complicated past that was altered by life-changing events decades ago."
-          }
-        },
-        "primaryImage": {
-          "id": "rm828290050",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2UyNzdjZTQtN2IzNy00Yjc5LTgyMzUtN2UxMjdjYTQzMTkzXkEyXkFqcGc@._V1_.jpg",
-          "width": 1013,
-          "height": 1500
-        },
-        "meterRanking": {
-          "currentRank": 26,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 61
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 5.9
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 3
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "Anemone"
-        },
-        "runtime": {
-          "seconds": 7500
-        }
-      },
-      {
-        "id": "tt6604188",
-        "titleText": {
-          "text": "Tron: Ares"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "AZ",
-                  "text": "Azerbaijan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "UZ",
-                  "text": "Uzbekistan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron: Ares",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Трон: Арес",
-                "country": {
-                  "id": "BY",
-                  "text": "Belarus"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Трон: Арес",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Трон: Арес",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Трон: Арес",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron"
-              }
-            },
-            {
-              "node": {
-                "text": "Tron",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Trò Chơi Ảo Giác: Ares",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tronas: Arėjas",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Trons: Arejs",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ट्रोन 3",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "トロン：アレス",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "创：战神",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "創：戰神",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "創戰紀：戰神降臨",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "A highly sophisticated Program, Ares, is sent from the digital world into the real world on a dangerous mission."
-          }
-        },
-        "primaryImage": {
-          "id": "rm1844034818",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_.jpg",
-          "width": 2025,
-          "height": 3000
-        },
-        "meterRanking": {
-          "currentRank": 19,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 27
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 6.4
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 10
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "originalTitleText": {
-          "text": "Tron: Ares"
-        },
-        "runtime": {
-          "seconds": 7140
-        }
-      },
-      {
         "id": "tt4627382",
         "titleText": {
           "text": "Roofman"
@@ -2867,6 +1482,18 @@
                 "country": {
                   "id": "IE",
                   "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Roofman",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
                 },
                 "language": {
                   "text": "English"
@@ -3168,7 +1795,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 7.2
         },
         "releaseDate": {
           "year": 2025,
@@ -3308,6 +1935,18 @@
               "node": {
                 "text": "If I Had Legs I'd Kick You",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "If I Had Legs I'd Kick You",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -3350,6 +1989,15 @@
               "node": {
                 "text": "If I Had Legs I'd Kick You",
                 "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "If I Had Legs I'd Kick You",
+                "country": {
                   "id": "TH",
                   "text": "Thailand"
                 },
@@ -3385,6 +2033,15 @@
                 "country": {
                   "id": "PL",
                   "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ha tudnék, beléd rúgnék",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
@@ -3663,6 +2320,18 @@
               "node": {
                 "text": "Ballad of a Small Player",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -3843,7 +2512,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.9
+          "aggregateRating": 6.0
         },
         "releaseDate": {
           "year": 2025,
@@ -3940,6 +2609,18 @@
               "node": {
                 "text": "Black Phone 2",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -3960,6 +2641,18 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4074,6 +2767,15 @@
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
                 }
               }
             },
@@ -4321,7 +3023,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.4
+          "aggregateRating": 7.3
         },
         "releaseDate": {
           "year": 2025,
@@ -4345,6 +3047,1532 @@
         },
         "runtime": {
           "seconds": 6840
+        }
+      },
+      {
+        "id": "tt11214558",
+        "titleText": {
+          "text": "The Smashing Machine"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La máquina: The Smashing Machine",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La máquina: The Smashing Machine",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La máquina: The Smashing Machine",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coração de Lutador - The Smashing Machine",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Máquina: The Smashing Machine",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Le combattant",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Löögimasin",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mlátička",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Smashing Machine",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Smashing Machine: Življenje v ringu",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine: Coração de Lutador",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Smashing Machine: Corazón de luchador",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The smashing machine: Η καρδιά ενός μαχητή",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Triecienmašīna",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Triuškinanti mašina",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zúzógép",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Крушащая машина",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Незламний",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "重擊人生",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "The story of mixed-martial arts and UFC champion, Mark Kerr."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1423212802",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1923,
+          "height": 3000
+        },
+        "meterRanking": {
+          "currentRank": 5,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 3
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.8
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sport"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "The Smashing Machine"
+        },
+        "runtime": {
+          "seconds": 7380
+        }
+      },
+      {
+        "id": "tt21103218",
+        "titleText": {
+          "text": "The Lost Bus"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A través del fuego",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A través del fuego",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Laberinto en llamas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Ônibus Perdido",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Lost Bus - Au cœur des flammes",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zaginiony autokar",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Автобус у вогні",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Школьный автобус",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "火燒天堂鎮",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "A wayward school bus driver and a dedicated school teacher battle to save 22 children from a terrifying inferno."
+          }
+        },
+        "primaryImage": {
+          "id": "rm2704912898",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTIzNmQzYzUtNTdlNi00NmY5LThmNTYtMGFmZjUxMTgzOGNmXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meterRanking": {
+          "currentRank": 2,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 41
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.9
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "The Lost Bus"
+        },
+        "runtime": {
+          "seconds": 7740
+        }
+      },
+      {
+        "id": "tt37676033",
+        "titleText": {
+          "text": "V/H/S/Halloween"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S: Halloween",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "З/Л/О: Хэллоуин",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival."
+          }
+        },
+        "primaryImage": {
+          "id": "rm2669783810",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDYxMjFiMzMtZjRkMS00MmM4LTkyYzItMjNjMjM3ZDUzYTY1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 2500
+        },
+        "meterRanking": {
+          "currentRank": 21,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 687
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 5.9
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "Not Rated"
+        },
+        "originalTitleText": {
+          "text": "V/H/S/Halloween"
+        },
+        "runtime": {
+          "seconds": 6900
+        }
+      },
+      {
+        "id": "tt35521922",
+        "titleText": {
+          "text": "Good Boy"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Глазами пса",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Глазами пса",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bom Menino",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chó Cưng Đừng Sợ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good boy",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy - Trust his instincts",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy Confia en su Instinto",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy: Confía En Tu Instinto",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hea kutsu",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Labs suns",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Хороший хлопчик",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "乖狗狗",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "A loyal dog moves to a rural family home with his owner, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most."
+          }
+        },
+        "primaryImage": {
+          "id": "rm3633360898",
+          "url": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_.jpg",
+          "width": 1382,
+          "height": 2048
+        },
+        "meterRanking": {
+          "currentRank": 16,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 113
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.6
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "originalTitleText": {
+          "text": "Good Boy"
+        },
+        "runtime": {
+          "seconds": 4320
+        }
+      },
+      {
+        "id": "tt33549447",
+        "titleText": {
+          "text": "Anemone"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ανεμώνη",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "In Northern England, a man heads out on a journey into the woods to reconnect with the estranged hermit brother with whom he shared a complicated past that was altered by life-changing events decades ago."
+          }
+        },
+        "primaryImage": {
+          "id": "rm828290050",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2UyNzdjZTQtN2IzNy00Yjc5LTgyMzUtN2UxMjdjYTQzMTkzXkEyXkFqcGc@._V1_.jpg",
+          "width": 1013,
+          "height": 1500
+        },
+        "meterRanking": {
+          "currentRank": 26,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 61
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 5.9
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 3
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Anemone"
+        },
+        "runtime": {
+          "seconds": 7500
         }
       },
       {
@@ -4536,6 +4764,15 @@
               "node": {
                 "text": "Springsteen: Deliver Me from Nowhere",
                 "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Springsteen: Deliver Me from Nowhere",
+                "country": {
                   "id": "EG",
                   "text": "Egypt"
                 },
@@ -4589,6 +4826,18 @@
                 "country": {
                   "id": "IE",
                   "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Springsteen: Deliver Me from Nowhere",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
                 },
                 "language": {
                   "text": "English"
@@ -5024,6 +5273,18 @@
               "node": {
                 "text": "A House of Dynamite",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -5106,6 +5367,24 @@
             },
             {
               "node": {
+                "text": "Una casa de dinamita",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Una casa de dinamita",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Casa de Dinamite",
                 "country": {
                   "id": "BR",
@@ -5137,24 +5416,6 @@
                 "country": {
                   "id": "RO",
                   "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Una casa de dinamita",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Una Casa de Dinamita",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
                 }
               }
             },
@@ -5231,7 +5492,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.2
+          "aggregateRating": 7.4
         },
         "releaseDate": {
           "year": 2025,
@@ -5369,6 +5630,18 @@
               "node": {
                 "text": "Blue Moon",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Blue Moon",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -5404,6 +5677,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Blue Moon",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
                 }
               }
             },
@@ -6912,6 +7194,18 @@
               "node": {
                 "text": "Bugonia",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bugonia",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -6962,6 +7256,18 @@
                 "country": {
                   "id": "IE",
                   "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bugonia",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
                 },
                 "language": {
                   "text": "English"
@@ -7172,246 +7478,6 @@
     ],
     "names": [
       {
-        "id": "nm0402271",
-        "nameText": {
-          "text": "Charlie Hunnam"
-        },
-        "primaryImage": {
-          "id": "rm3578969088",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjE5NjE5Mzk2MV5BMl5BanBnXkFtZTcwODI5MDE1Ng@@._V1_.jpg",
-          "width": 284,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0582418",
-        "nameText": {
-          "text": "Laurie Metcalf"
-        },
-        "primaryImage": {
-          "id": "rm278238976",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTc1NDA1NDA5N15BMl5BanBnXkFtZTcwODAyNTU3MQ@@._V1_.jpg",
-          "width": 266,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm10847160",
-        "nameText": {
-          "text": "Suzanna Son"
-        },
-        "primaryImage": {
-          "id": "rm216560129",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzEwM2Q1NjktZjEwMy00NmM1LTk5ODUtOTZhYmYwNTc1MDgwXkEyXkFqcGc@._V1_.jpg",
-          "width": 3264,
-          "height": 4905
-        }
-      },
-      {
-        "id": "nm2590465",
-        "nameText": {
-          "text": "Tyler Jacob Moore"
-        },
-        "primaryImage": {
-          "id": "rm1543005697",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjk5YTQ0OWQtYzg0Zi00YjExLWIwZTgtNzFmOTkwZWQ2M2Y3XkEyXkFqcGc@._V1_.jpg",
-          "width": 3984,
-          "height": 5976
-        }
-      },
-      {
-        "id": "nm10604776",
-        "nameText": {
-          "text": "Charlie Hall"
-        },
-        "primaryImage": {
-          "id": "rm4159561985",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGY0YTI5OTYtYmVkOC00Y2YwLTljNGItN2UzMmQ4NWM3ZGYyXkEyXkFqcGc@._V1_.jpg",
-          "width": 3648,
-          "height": 5472
-        }
-      },
-      {
-        "id": "nm0931404",
-        "nameText": {
-          "text": "Olivia Williams"
-        },
-        "primaryImage": {
-          "id": "rm2763702528",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzIyOTEwMjYyNl5BMl5BanBnXkFtZTgwNTc3NDU0MjE@._V1_.jpg",
-          "width": 2000,
-          "height": 1464
-        }
-      },
-      {
-        "id": "nm0425005",
-        "nameText": {
-          "text": "Dwayne Johnson"
-        },
-        "primaryImage": {
-          "id": "rm3445314305",
-          "url": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg",
-          "width": 5464,
-          "height": 8192
-        }
-      },
-      {
-        "id": "nm1289434",
-        "nameText": {
-          "text": "Emily Blunt"
-        },
-        "primaryImage": {
-          "id": "rm3068181760",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
-          "width": 1272,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000190",
-        "nameText": {
-          "text": "Matthew McConaughey"
-        },
-        "primaryImage": {
-          "id": "rm477213952",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_.jpg",
-          "width": 1256,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm1065229",
-        "nameText": {
-          "text": "America Ferrera"
-        },
-        "primaryImage": {
-          "id": "rm2991040768",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQyMDUzOTkxNF5BMl5BanBnXkFtZTcwNjMwNjk0OA@@._V1_.jpg",
-          "width": 1413,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm2956456",
-        "nameText": {
-          "text": "David Haydn"
-        },
-        "primaryImage": {
-          "id": "rm2193772544",
-          "url": "https://m.media-amazon.com/images/M/MV5BODA4NzQyZjAtNzFiNS00OGZjLTg0ZTEtMTY5NWFhYzg5MmYzXkEyXkFqcGc@._V1_.jpg",
-          "width": 2909,
-          "height": 3637
-        }
-      },
-      {
-        "id": "nm15877301",
-        "nameText": {
-          "text": "Samantha Cochran"
-        },
-        "primaryImage": {
-          "id": "rm1360027905",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjA5YjU1MTAtOWFiNy00NjcyLWE4YTktZGU0ZjIyZjYxMTAxXkEyXkFqcGc@._V1_.jpg",
-          "width": 4201,
-          "height": 6549
-        }
-      },
-      {
-        "id": "nm16159171",
-        "nameText": {
-          "text": "Natalia Montgomery Fernandez"
-        },
-        "primaryImage": {
-          "id": "rm3911477761",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjU2YmM1MGYtZmE2Yi00ZGQ0LWIxZWMtOWEyN2Q0OTJkMzBmXkEyXkFqcGc@._V1_CR287,0,2592,3888_.jpg",
-          "width": 2592,
-          "height": 3888
-        }
-      },
-      {
-        "id": "nm3234402",
-        "nameText": {
-          "text": "Jeff Harms"
-        },
-        "primaryImage": {
-          "id": "rm3791818497",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWIwYTgzZjctYjFkZS00Njc4LWFmZWUtMjMxOGUyYzk2NDQ2XkEyXkFqcGc@._V1_.jpg",
-          "width": 542,
-          "height": 696
-        }
-      },
-      {
-        "id": "nm13000055",
-        "nameText": {
-          "text": "Indy"
-        },
-        "primaryImage": {
-          "id": "rm2250811906",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmE3ZmFiZWYtNWY1NS00M2UxLWFiNzMtZDI5MjRhNDlkNGJjXkEyXkFqcGc@._V1_.jpg",
-          "width": 4000,
-          "height": 3000
-        }
-      },
-      {
-        "id": "nm2007906",
-        "nameText": {
-          "text": "Shane Jensen"
-        },
-        "primaryImage": {
-          "id": "rm2950119681",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTllZWQ1ZTgtNzY0Mi00N2E2LWI0ZjUtODA2ZDdjYjExZTc2XkEyXkFqcGc@._V1_.jpg",
-          "width": 3704,
-          "height": 5556
-        }
-      },
-      {
-        "id": "nm0275244",
-        "nameText": {
-          "text": "Larry Fessenden"
-        },
-        "primaryImage": {
-          "id": "rm663723264",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY5NjQxMDY2N15BMl5BanBnXkFtZTcwNTE4MDcyMQ@@._V1_.jpg",
-          "width": 217,
-          "height": 293
-        }
-      },
-      {
-        "id": "nm0000358",
-        "nameText": {
-          "text": "Daniel Day-Lewis"
-        },
-        "primaryImage": {
-          "id": "rm2294522624",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjE2NDY2NDc1Ml5BMl5BanBnXkFtZTcwNjAyMjkwOQ@@._V1_.jpg",
-          "width": 1556,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000293",
-        "nameText": {
-          "text": "Sean Bean"
-        },
-        "primaryImage": {
-          "id": "rm1477227264",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzc4MDk5OF5BMl5BanBnXkFtZTcwODg3MjUxNw@@._V1_.jpg",
-          "width": 1488,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0608090",
-        "nameText": {
-          "text": "Samantha Morton"
-        },
-        "primaryImage": {
-          "id": "rm2964100864",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjc2MTg3N15BMl5BanBnXkFtZTcwOTQzODI3MQ@@._V1_.jpg",
-          "width": 293,
-          "height": 400
-        }
-      },
-      {
         "id": "nm0001467",
         "nameText": {
           "text": "Jared Leto"
@@ -7481,6 +7547,78 @@
           "url": "https://m.media-amazon.com/images/M/MV5BOGMxMThmMWMtOGQ3YS00ZDkwLWIwZjItYjBkOWRjYTc2MWZkXkEyXkFqcGc@._V1_.jpg",
           "width": 720,
           "height": 1080
+        }
+      },
+      {
+        "id": "nm0402271",
+        "nameText": {
+          "text": "Charlie Hunnam"
+        },
+        "primaryImage": {
+          "id": "rm3578969088",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE5NjE5Mzk2MV5BMl5BanBnXkFtZTcwODI5MDE1Ng@@._V1_.jpg",
+          "width": 284,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0582418",
+        "nameText": {
+          "text": "Laurie Metcalf"
+        },
+        "primaryImage": {
+          "id": "rm278238976",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc1NDA1NDA5N15BMl5BanBnXkFtZTcwODAyNTU3MQ@@._V1_.jpg",
+          "width": 266,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm10847160",
+        "nameText": {
+          "text": "Suzanna Son"
+        },
+        "primaryImage": {
+          "id": "rm216560129",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzEwM2Q1NjktZjEwMy00NmM1LTk5ODUtOTZhYmYwNTc1MDgwXkEyXkFqcGc@._V1_.jpg",
+          "width": 3264,
+          "height": 4905
+        }
+      },
+      {
+        "id": "nm2590465",
+        "nameText": {
+          "text": "Tyler Jacob Moore"
+        },
+        "primaryImage": {
+          "id": "rm1543005697",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjk5YTQ0OWQtYzg0Zi00YjExLWIwZTgtNzFmOTkwZWQ2M2Y3XkEyXkFqcGc@._V1_.jpg",
+          "width": 3984,
+          "height": 5976
+        }
+      },
+      {
+        "id": "nm10604776",
+        "nameText": {
+          "text": "Charlie Hall"
+        },
+        "primaryImage": {
+          "id": "rm4159561985",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGY0YTI5OTYtYmVkOC00Y2YwLTljNGItN2UzMmQ4NWM3ZGYyXkEyXkFqcGc@._V1_.jpg",
+          "width": 3648,
+          "height": 5472
+        }
+      },
+      {
+        "id": "nm0931404",
+        "nameText": {
+          "text": "Olivia Williams"
+        },
+        "primaryImage": {
+          "id": "rm2763702528",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzIyOTEwMjYyNl5BMl5BanBnXkFtZTgwNTc3NDU0MjE@._V1_.jpg",
+          "width": 2000,
+          "height": 1464
         }
       },
       {
@@ -7757,6 +7895,174 @@
           "url": "https://m.media-amazon.com/images/M/MV5BNTMzZTdiZWYtZTJlZi00MjkwLWJjNDQtZjlkMmU3ZjA4Y2RmXkEyXkFqcGc@._V1_CR0,47,1897,2846_.jpg",
           "width": 1897,
           "height": 2846
+        }
+      },
+      {
+        "id": "nm0425005",
+        "nameText": {
+          "text": "Dwayne Johnson"
+        },
+        "primaryImage": {
+          "id": "rm3445314305",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg",
+          "width": 5464,
+          "height": 8192
+        }
+      },
+      {
+        "id": "nm1289434",
+        "nameText": {
+          "text": "Emily Blunt"
+        },
+        "primaryImage": {
+          "id": "rm3068181760",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
+          "width": 1272,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000190",
+        "nameText": {
+          "text": "Matthew McConaughey"
+        },
+        "primaryImage": {
+          "id": "rm477213952",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_.jpg",
+          "width": 1256,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm1065229",
+        "nameText": {
+          "text": "America Ferrera"
+        },
+        "primaryImage": {
+          "id": "rm2991040768",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQyMDUzOTkxNF5BMl5BanBnXkFtZTcwNjMwNjk0OA@@._V1_.jpg",
+          "width": 1413,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm2956456",
+        "nameText": {
+          "text": "David Haydn"
+        },
+        "primaryImage": {
+          "id": "rm2193772544",
+          "url": "https://m.media-amazon.com/images/M/MV5BODA4NzQyZjAtNzFiNS00OGZjLTg0ZTEtMTY5NWFhYzg5MmYzXkEyXkFqcGc@._V1_.jpg",
+          "width": 2909,
+          "height": 3637
+        }
+      },
+      {
+        "id": "nm15877301",
+        "nameText": {
+          "text": "Samantha Cochran"
+        },
+        "primaryImage": {
+          "id": "rm1360027905",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjA5YjU1MTAtOWFiNy00NjcyLWE4YTktZGU0ZjIyZjYxMTAxXkEyXkFqcGc@._V1_.jpg",
+          "width": 4201,
+          "height": 6549
+        }
+      },
+      {
+        "id": "nm16159171",
+        "nameText": {
+          "text": "Natalia Montgomery Fernandez"
+        },
+        "primaryImage": {
+          "id": "rm3911477761",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjU2YmM1MGYtZmE2Yi00ZGQ0LWIxZWMtOWEyN2Q0OTJkMzBmXkEyXkFqcGc@._V1_CR287,0,2592,3888_.jpg",
+          "width": 2592,
+          "height": 3888
+        }
+      },
+      {
+        "id": "nm3234402",
+        "nameText": {
+          "text": "Jeff Harms"
+        },
+        "primaryImage": {
+          "id": "rm3791818497",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWIwYTgzZjctYjFkZS00Njc4LWFmZWUtMjMxOGUyYzk2NDQ2XkEyXkFqcGc@._V1_.jpg",
+          "width": 542,
+          "height": 696
+        }
+      },
+      {
+        "id": "nm13000055",
+        "nameText": {
+          "text": "Indy"
+        },
+        "primaryImage": {
+          "id": "rm2250811906",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmE3ZmFiZWYtNWY1NS00M2UxLWFiNzMtZDI5MjRhNDlkNGJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 4000,
+          "height": 3000
+        }
+      },
+      {
+        "id": "nm2007906",
+        "nameText": {
+          "text": "Shane Jensen"
+        },
+        "primaryImage": {
+          "id": "rm2950119681",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTllZWQ1ZTgtNzY0Mi00N2E2LWI0ZjUtODA2ZDdjYjExZTc2XkEyXkFqcGc@._V1_.jpg",
+          "width": 3704,
+          "height": 5556
+        }
+      },
+      {
+        "id": "nm0275244",
+        "nameText": {
+          "text": "Larry Fessenden"
+        },
+        "primaryImage": {
+          "id": "rm663723264",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY5NjQxMDY2N15BMl5BanBnXkFtZTcwNTE4MDcyMQ@@._V1_.jpg",
+          "width": 217,
+          "height": 293
+        }
+      },
+      {
+        "id": "nm0000358",
+        "nameText": {
+          "text": "Daniel Day-Lewis"
+        },
+        "primaryImage": {
+          "id": "rm2294522624",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE2NDY2NDc1Ml5BMl5BanBnXkFtZTcwNjAyMjkwOQ@@._V1_.jpg",
+          "width": 1556,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000293",
+        "nameText": {
+          "text": "Sean Bean"
+        },
+        "primaryImage": {
+          "id": "rm1477227264",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzc4MDk5OF5BMl5BanBnXkFtZTcwODg3MjUxNw@@._V1_.jpg",
+          "width": 1488,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0608090",
+        "nameText": {
+          "text": "Samantha Morton"
+        },
+        "primaryImage": {
+          "id": "rm2964100864",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUwNjc2MTg3N15BMl5BanBnXkFtZTcwOTQzODI3MQ@@._V1_.jpg",
+          "width": 293,
+          "height": 400
         }
       },
       {
@@ -8183,46 +8489,16 @@
     "videos": [],
     "images": [
       {
-        "id": "rm1620748802",
-        "url": "https://m.media-amazon.com/images/M/MV5BZTljYWY1MzUtNzI1Ny00ZTIyLWJiY2EtNWU5MDlmNDRlODQzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 1532
-      },
-      {
-        "id": "rm347582722",
-        "url": "https://m.media-amazon.com/images/M/MV5BMTRlNGE0NDEtNmIyMi00YWU1LWEzZjUtYWY2M2E0Y2EyYmViXkEyXkFqcGc@._V1_.jpg",
-        "width": 6479,
-        "height": 4319
-      },
-      {
-        "id": "rm3225006594",
-        "url": "https://m.media-amazon.com/images/M/MV5BN2FmMTViZDUtYjFhZS00NmIxLWE2NzItMjJkYzdiM2VlNGNiXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 2160
-      },
-      {
-        "id": "rm3793922818",
-        "url": "https://m.media-amazon.com/images/M/MV5BZGY4ZTcyYzUtZmQxYS00YTc5LTg3ZDctZTU0ZWQ3MTlkNTYzXkEyXkFqcGc@._V1_.jpg",
-        "width": 1010,
-        "height": 665
-      },
-      {
-        "id": "rm3951595778",
-        "url": "https://m.media-amazon.com/images/M/MV5BZmViOWQ3OTctNjFlMi00ZDg3LTg4ODEtZDI4NWM0YmVlNWFlXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 2160
-      },
-      {
-        "id": "rm1580184578",
-        "url": "https://m.media-amazon.com/images/M/MV5BODJlOTFjYTktNTg5ZC00Y2UyLThjNWQtYzM5NDFkNmJmMjMzXkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 1716
-      },
-      {
         "id": "rm1911143682",
         "url": "https://m.media-amazon.com/images/M/MV5BZWU2MWRiNjYtMWNlZi00YjM5LThkOWItODc4OTc2YTAyMDQ0XkEyXkFqcGc@._V1_.jpg",
         "width": 4096,
         "height": 2400
+      },
+      {
+        "id": "rm1620748802",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTljYWY1MzUtNzI1Ny00ZTIyLWJiY2EtNWU5MDlmNDRlODQzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 1532
       },
       {
         "id": "rm1782429954",
@@ -8253,6 +8529,36 @@
         "url": "https://m.media-amazon.com/images/M/MV5BOTljOTA2MzMtMmM3Yy00YWQzLTliNDgtZmZlZTBkYmNlNTdiXkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
         "height": 802
+      },
+      {
+        "id": "rm347582722",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTRlNGE0NDEtNmIyMi00YWU1LWEzZjUtYWY2M2E0Y2EyYmViXkEyXkFqcGc@._V1_.jpg",
+        "width": 6479,
+        "height": 4319
+      },
+      {
+        "id": "rm3225006594",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FmMTViZDUtYjFhZS00NmIxLWE2NzItMjJkYzdiM2VlNGNiXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "id": "rm3793922818",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGY4ZTcyYzUtZmQxYS00YTc5LTg3ZDctZTU0ZWQ3MTlkNTYzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1010,
+        "height": 665
+      },
+      {
+        "id": "rm3951595778",
+        "url": "https://m.media-amazon.com/images/M/MV5BZmViOWQ3OTctNjFlMi00ZDg3LTg4ODEtZDI4NWM0YmVlNWFlXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 2160
+      },
+      {
+        "id": "rm1580184578",
+        "url": "https://m.media-amazon.com/images/M/MV5BODJlOTFjYTktNTg5ZC00Y2UyLThjNWQtYzM5NDFkNmJmMjMzXkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 1716
       },
       {
         "id": "rm1212852994",
