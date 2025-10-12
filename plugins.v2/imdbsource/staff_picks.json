@@ -1,11 +1,11 @@
 {
-  "updated_at": "2025-10-13 00:33:21",
+  "updated_at": "2025-10-13 06:33:17",
   "entries": [
     {
       "name": "Tron: Ares",
       "ttconst": "tt6604188",
       "rmconst": "rm1911143682",
-      "detail": "In theaters Oct. 10",
+      "detail": "In theaters",
       "description": "The third installment in this slick cyberpunk franchise plays on modern fears with an A.I. villain named Ares who slips into the real world on a dangerous mission. Jeff Bridges reprises his role as Kevin Flynn alongside a whole new cast, including Evan Peters, Greta Lee, Gillian Anderson, Jodie Turner-Smith, and Jared Leto as Ares. Speaking of Tron’s latest villain, we’re interested to see what this antagonistic A.I. is really up to, especially after hearing director Joachim Rønning describe the character as “a bit like Pinocchio.” <i>— Adrienne C.</i>",
       "relatedconst": [
         "nm0001467",
@@ -16,6 +16,21 @@
         "nm3853652"
       ],
       "viconst": "vi383371289"
+    },
+    {
+      "name": "The Woman in Cabin 10",
+      "ttconst": "tt7130300",
+      "rmconst": "rm3851916802",
+      "detail": "Streaming on Netflix",
+      "description": "Fan reviews of Kiera Knightley's thriller have been harsh and thoroughly fun to read. Expectations were high for the adaptation of Ruth Ware’s novel about a travel writer who witnesses a passenger go overboard while on assignment on a luxury yacht, which was partially inspired by the 1998 disappearance of Amy Lynn Bradley. Recent developments with the real-world mystery, and knowing the movie diverges from the book, make it seem like Kiera and crew might want to stay at sea for a while.",
+      "relatedconst": [
+        "nm0461136",
+        "nm0001602",
+        "nm2916966",
+        "nm1821446",
+        "nm0607375"
+      ],
+      "viconst": "vi2602944537"
     },
     {
       "name": "Monster: The Ed Gein Story",
@@ -37,7 +52,7 @@
       "name": "Roofman",
       "ttconst": "tt4627382",
       "rmconst": "rm1782429954",
-      "detail": "In theaters Oct. 10",
+      "detail": "In theaters",
       "description": "<i>Blue Valentine</i> and <i>The Place Beyond the Pines</i> are the kind of movies that people warn you about — do not watch without tissues, an emotional support animal, and a clear conscience for your romantic history, because otherwise, writer/director Derek Cianfrance will make your soul hurt. But, what if that masterful manipulator set his sights on ... charming an audience? And then, he hired the winsome pair of Channing Tatum and Kirsten Dunst to play his star-crossed lovers? Plus, he filled out the cast, even the small roles, with ringers like Peter Dinklage, Juno Temple, LaKeith Stanfield, Uzo Aduba, and Ben Mendelsohn? You’d only have to ask, “When can I see this absolute delight that mixes <i>Mrs. Doubtfire</i> (no, really, Cianfrance told me it was the biggest inspiration for <i>Roofman</i> during our interview) and <i>Raising Arizona</i>, but places them in a real-world, true-crime yarn that feels a bit too strange to be true?” Well, meet me Oct 10 at your local cinema, friend! I’ll buy the popcorn, you bring the therapy animal. You won’t need the support for <i>Roofman</i>, unless someone starts talking about that part in <i>Blue Valentine</i> when Gosling ... oh no, here come the waterworks! <i>— Alex L.</i>",
       "relatedconst": [
         "nm1475594",
@@ -52,7 +67,7 @@
       "name": "If I Had Legs I'd Kick You",
       "ttconst": "tt18382850",
       "rmconst": "rm2117901826",
-      "detail": "In theaters Oct. 10",
+      "detail": "In theaters",
       "description": "Go ahead and prepare yourself for the jaw massage you’re going to need after this two-hour panic attack from writer-director Mary Bronstein. Rose Byrne stars as a woman whose life is hanging by a thread as she struggles to balance the needs of her chronically ill child, her therapy patients, and the reconstruction of her apartment ceiling after a dramatic cave in. What makes Bronstein's film so resonant (and so stressful) is that there are no single answers to the issues Byrne’s character is facing. “Tell me what to do!” she shouts repeatedly at her therapist (played by Conan O’Brien in full character), but the truth is no one knows what to do as the problems begin to compound and escalate day after day. And while everyone will be talking about Byrne and O’Brien’s acting, keep an eye out for A$AP Rocky, whose easy-going performance helps keep the blood pressure down in this year’s <i>Uncut Gems</i> for moms. <i>— Adrienne C.</i>",
       "relatedconst": [
         "nm0126284",
@@ -815,6 +830,296 @@
         },
         "runtime": {
           "seconds": 7140
+        }
+      },
+      {
+        "id": "tt7130300",
+        "titleText": {
+          "text": "The Woman in Cabin 10"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "10號艙房的女人",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "10號艙房的女人",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mujer del camarote 10",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mujer del camarote 10",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "10 号舱房的女人",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Mulher na Cabine 10",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A nő a tízes kabinból",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kobieta z kabiny dziesiątej",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kvinden i kahyt nr. 10",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kvinnan i hytt 10",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kvinnen i lugar 10",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La disparue de la cabine 10",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La donna della cabina numero 10",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Η γυναίκα στην καμπίνα 10",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Девушка из каюты No 10",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Жінка з каюти 10",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "A travel writer stumbles upon a gruesome secret while traveling aboard a luxury cruise ship."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1957409538",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDY0YmEyNDMtNTQ0Yi00MWVmLWFiYjMtODM5NmUzZWQ5MDMxXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meterRanking": {
+          "currentRank": 171,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 146
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.0
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 10
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "The Woman in Cabin 10"
+        },
+        "runtime": {
+          "seconds": 5520
         }
       },
       {
@@ -2197,6 +2502,15 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Szék alatt a világ",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             }
@@ -7553,6 +7867,66 @@
         }
       },
       {
+        "id": "nm0461136",
+        "nameText": {
+          "text": "Keira Knightley"
+        },
+        "primaryImage": {
+          "id": "rm1394323200",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTYwNDM0NDA3M15BMl5BanBnXkFtZTcwNTkzMjQ3OA@@._V1_.jpg",
+          "width": 1458,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0001602",
+        "nameText": {
+          "text": "Guy Pearce"
+        },
+        "primaryImage": {
+          "id": "rm4202613760",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTgyNzc2NzY3Nl5BMl5BanBnXkFtZTgwNTMzMzAwMjE@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm2916966",
+        "nameText": {
+          "text": "David Ajala"
+        },
+        "primaryImage": {
+          "id": "rm2292190977",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWI1ZWViMmItNTAzZS00YTA5LTk1Y2UtZDk2ZTc1NDg1MTUwXkEyXkFqcGc@._V1_.jpg",
+          "width": 600,
+          "height": 900
+        }
+      },
+      {
+        "id": "nm1821446",
+        "nameText": {
+          "text": "Hannah Waddingham"
+        },
+        "primaryImage": {
+          "id": "rm3597922304",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjk5ODc5MTU3MF5BMl5BanBnXkFtZTgwOTk2MjI5NDE@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0607375",
+        "nameText": {
+          "text": "David Morrissey"
+        },
+        "primaryImage": {
+          "id": "rm917254144",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU4NTM4NjQzMV5BMl5BanBnXkFtZTgwOTk3MTY3MTI@._V1_.jpg",
+          "width": 349,
+          "height": 466
+        }
+      },
+      {
         "id": "nm0402271",
         "nameText": {
           "text": "Charlie Hunnam"
@@ -8496,6 +8870,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZWU2MWRiNjYtMWNlZi00YjM5LThkOWItODc4OTc2YTAyMDQ0XkEyXkFqcGc@._V1_.jpg",
         "width": 4096,
         "height": 2400
+      },
+      {
+        "id": "rm3851916802",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTA1ZmJmYWMtZmVkMy00YzUxLWE0MWEtMzVjMGFhNDQyMTk2XkEyXkFqcGc@._V1_.jpg",
+        "width": 9000,
+        "height": 6085
       },
       {
         "id": "rm1620748802",
