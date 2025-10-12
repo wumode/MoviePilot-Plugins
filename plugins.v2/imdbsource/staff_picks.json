@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-11 18:33:28",
+  "updated_at": "2025-10-13 00:33:21",
   "entries": [
     {
       "name": "Tron: Ares",
@@ -323,6 +323,15 @@
               "node": {
                 "text": "Tron: Ares",
                 "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
                   "id": "AZ",
                   "text": "Azerbaijan"
                 }
@@ -569,15 +578,6 @@
               "node": {
                 "text": "Tron 3",
                 "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tron 3",
-                "country": {
                   "id": "CA",
                   "text": "Canada"
                 },
@@ -781,7 +781,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.6
+          "aggregateRating": 6.7
         },
         "releaseDate": {
           "year": 2025,
@@ -2235,6 +2235,9 @@
               }
             }
           ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
         },
         "originalTitleText": {
           "text": "The Chair Company"
@@ -3982,7 +3985,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.9
+          "aggregateRating": 5.8
         },
         "releaseDate": {
           "year": 2025,
@@ -5113,10 +5116,10 @@
           }
         },
         "primaryImage": {
-          "id": "rm2168436738",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjNmN2FiNjQtYWZhNC00Mjc3LTg4MTAtOTJhMjU5Nzk3NjI4XkEyXkFqcGc@._V1_.jpg",
-          "width": 2025,
-          "height": 3000
+          "id": "rm240887810",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGE4NzJiNTUtNWQ3Mi00ZGE5LWI3NmUtMjQwNWIxMWMyZDA2XkEyXkFqcGc@._V1_.jpg",
+          "width": 1086,
+          "height": 1609
         },
         "meterRanking": {
           "currentRank": 48,
@@ -5127,7 +5130,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.6
+          "aggregateRating": 5.5
         },
         "releaseDate": {
           "year": 2025,
@@ -7439,7 +7442,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.2
+          "aggregateRating": 7.3
         },
         "releaseDate": {
           "year": 2025,
