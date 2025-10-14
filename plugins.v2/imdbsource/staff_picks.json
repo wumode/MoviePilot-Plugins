@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-13 06:33:17",
+  "updated_at": "2025-10-14 12:33:27",
   "entries": [
     {
       "name": "Tron: Ares",
@@ -788,11 +788,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 19,
+          "currentRank": 3,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 27
+            "difference": 16
           }
         },
         "ratingsSummary": {
@@ -890,6 +890,15 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
                 }
               }
             },
@@ -1078,11 +1087,11 @@
           "height": 1350
         },
         "meterRanking": {
-          "currentRank": 171,
+          "currentRank": 1,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 146
+            "difference": 170
           }
         },
         "ratingsSummary": {
@@ -1641,8 +1650,8 @@
           "currentRank": 1,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 32
+            "changeDirection": "FLAT",
+            "difference": 0
           }
         },
         "ratingsSummary": {
@@ -2092,11 +2101,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 50,
+          "currentRank": 13,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 57
+            "difference": 37
           }
         },
         "ratingsSummary": {
@@ -2391,11 +2400,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 150,
+          "currentRank": 118,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 281
+            "difference": 32
           }
         },
         "ratingsSummary": {
@@ -2513,6 +2522,15 @@
                   "text": "Hungary"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Між крісел",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
             }
           ]
         },
@@ -2528,14 +2546,16 @@
           "height": 1200
         },
         "meterRanking": {
-          "currentRank": 473,
+          "currentRank": 132,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 136
+            "difference": 341
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 7.7
+        },
         "releaseDate": {
           "year": 2025,
           "month": 10,
@@ -2821,11 +2841,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 820,
+          "currentRank": 321,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 253
+            "difference": 499
           }
         },
         "ratingsSummary": {
@@ -2883,6 +2903,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Black Phone 2",
@@ -3332,15 +3361,15 @@
           "height": 5000
         },
         "meterRanking": {
-          "currentRank": 32,
+          "currentRank": 33,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 99
+            "changeDirection": "DOWN",
+            "difference": 1
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.3
+          "aggregateRating": 7.1
         },
         "releaseDate": {
           "year": 2025,
@@ -3759,11 +3788,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 5,
+          "currentRank": 9,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 3
+            "changeDirection": "DOWN",
+            "difference": 4
           }
         },
         "ratingsSummary": {
@@ -4071,11 +4100,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 2,
+          "currentRank": 4,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 41
+            "changeDirection": "DOWN",
+            "difference": 2
           }
         },
         "ratingsSummary": {
@@ -4291,11 +4320,11 @@
           "height": 2500
         },
         "meterRanking": {
-          "currentRank": 21,
+          "currentRank": 63,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 687
+            "changeDirection": "DOWN",
+            "difference": 42
           }
         },
         "ratingsSummary": {
@@ -4634,15 +4663,15 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 16,
+          "currentRank": 17,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 113
+            "changeDirection": "DOWN",
+            "difference": 1
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.6
+          "aggregateRating": 6.5
         },
         "releaseDate": {
           "year": 2025,
@@ -4858,11 +4887,11 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 26,
+          "currentRank": 93,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 61
+            "changeDirection": "DOWN",
+            "difference": 67
           }
         },
         "ratingsSummary": {
@@ -5003,11 +5032,11 @@
           "height": 1610
         },
         "meterRanking": {
-          "currentRank": 284,
+          "currentRank": 699,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 191
+            "difference": 415
           }
         },
         "ratingsSummary": {},
@@ -5047,6 +5076,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Springsteen: Deliver Me from Nowhere",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Springsteen: Deliver Me from Nowhere",
@@ -5436,15 +5474,15 @@
           "height": 1609
         },
         "meterRanking": {
-          "currentRank": 48,
+          "currentRank": 74,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 69
+            "changeDirection": "DOWN",
+            "difference": 26
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.5
+          "aggregateRating": 5.4
         },
         "releaseDate": {
           "year": 2025,
@@ -5801,11 +5839,11 @@
           "height": 1551
         },
         "meterRanking": {
-          "currentRank": 58,
+          "currentRank": 38,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 3
+            "difference": 20
           }
         },
         "ratingsSummary": {
@@ -6083,11 +6121,11 @@
           "height": 2866
         },
         "meterRanking": {
-          "currentRank": 433,
+          "currentRank": 454,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 187
+            "changeDirection": "DOWN",
+            "difference": 21
           }
         },
         "ratingsSummary": {
@@ -6483,11 +6521,11 @@
           "height": 9000
         },
         "meterRanking": {
-          "currentRank": 66,
+          "currentRank": 120,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 78
+            "changeDirection": "DOWN",
+            "difference": 54
           }
         },
         "ratingsSummary": {
@@ -6741,11 +6779,11 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 85,
+          "currentRank": 73,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 17
+            "changeDirection": "UP",
+            "difference": 12
           }
         },
         "ratingsSummary": {},
@@ -6827,11 +6865,11 @@
           "height": 2761
         },
         "meterRanking": {
-          "currentRank": 408,
+          "currentRank": 334,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 143
+            "difference": 74
           }
         },
         "ratingsSummary": {},
@@ -7374,11 +7412,11 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 86,
+          "currentRank": 36,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 9
+            "changeDirection": "UP",
+            "difference": 50
           }
         },
         "ratingsSummary": {
@@ -7748,15 +7786,15 @@
           "height": 11811
         },
         "meterRanking": {
-          "currentRank": 81,
+          "currentRank": 59,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 53
+            "difference": 22
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.3
+          "aggregateRating": 7.4
         },
         "releaseDate": {
           "year": 2025,
