@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-14 12:33:27",
+  "updated_at": "2025-10-15 12:33:25",
   "entries": [
     {
       "name": "Tron: Ares",
@@ -888,6 +888,18 @@
               "node": {
                 "text": "The Woman in Cabin 10",
                 "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
                   "id": "MX",
                   "text": "Mexico"
                 }
@@ -971,6 +983,15 @@
                 },
                 "language": {
                   "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Mulher do Camarote 10",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
                 }
               }
             },
@@ -1095,7 +1116,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.0
+          "aggregateRating": 5.9
         },
         "releaseDate": {
           "year": 2025,
@@ -2500,6 +2521,15 @@
               "node": {
                 "text": "The Chair Company",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -2509,8 +2539,38 @@
               "node": {
                 "text": "The Chair Company",
                 "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La silla",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -2554,7 +2614,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.7
+          "aggregateRating": 7.8
         },
         "releaseDate": {
           "year": 2025,
@@ -2849,7 +2909,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.0
+          "aggregateRating": 6.1
         },
         "releaseDate": {
           "year": 2025,
@@ -3369,7 +3429,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 7.0
         },
         "releaseDate": {
           "year": 2025,
@@ -5767,6 +5827,15 @@
             },
             {
               "node": {
+                "text": "Ngôi Nhà Thuốc Nổ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "O casă din dinamită",
                 "country": {
                   "id": "RO",
@@ -6129,7 +6198,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.3
+          "aggregateRating": 7.2
         },
         "releaseDate": {
           "year": 2025,
@@ -6217,6 +6286,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
@@ -7794,7 +7872,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.4
+          "aggregateRating": 7.3
         },
         "releaseDate": {
           "year": 2025,
