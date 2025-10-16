@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-15 12:33:25",
+  "updated_at": "2025-10-16 18:33:22",
   "entries": [
     {
       "name": "Tron: Ares",
@@ -413,6 +413,18 @@
               "node": {
                 "text": "Tron: Ares",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -778,7 +790,7 @@
         },
         "plot": {
           "plotText": {
-            "plainText": "A highly sophisticated Program, Ares, is sent from the digital world into the real world on a dangerous mission."
+            "plainText": "A highly sophisticated program, Ares, is sent from the digital world into the real world on a dangerous mission."
           }
         },
         "primaryImage": {
@@ -879,6 +891,18 @@
               "node": {
                 "text": "The Woman in Cabin 10",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -893,15 +917,6 @@
                 },
                 "language": {
                   "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Woman in Cabin 10",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
                 }
               }
             },
@@ -925,7 +940,34 @@
             },
             {
               "node": {
-                "text": "The Woman in Cabin 10",
+                "text": "La mujer del camarote 10",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mujer del camarote 10",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mujer del camarote 10",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mujer del camarote 10",
                 "country": {
                   "id": "US",
                   "text": "United States"
@@ -958,19 +1000,22 @@
             },
             {
               "node": {
-                "text": "La mujer del camarote 10",
+                "text": "La disparue de la cabine 10",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
             {
               "node": {
-                "text": "La mujer del camarote 10",
+                "text": "La disparue de la cabine 10",
                 "country": {
-                  "id": "ES",
-                  "text": "Spain"
+                  "id": "FR",
+                  "text": "France"
                 }
               }
             },
@@ -1046,15 +1091,6 @@
                 "country": {
                   "id": "NO",
                   "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La disparue de la cabine 10",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
                 }
               }
             },
@@ -2512,6 +2548,18 @@
               "node": {
                 "text": "The Chair Company",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -2585,6 +2633,15 @@
             },
             {
               "node": {
+                "text": "Компания боссов",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Між крісел",
                 "country": {
                   "id": "UA",
@@ -2614,7 +2671,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.8
+          "aggregateRating": 7.9
         },
         "releaseDate": {
           "year": 2025,
@@ -3340,6 +3397,15 @@
             },
             {
               "node": {
+                "text": "Telefonul Negru 2",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Téléphone Noir 2",
                 "country": {
                   "id": "CA",
@@ -3429,7 +3495,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.0
+          "aggregateRating": 6.8
         },
         "releaseDate": {
           "year": 2025,
@@ -5119,6 +5185,9 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "R"
+        },
         "originalTitleText": {
           "text": "The Hand That Rocks the Cradle"
         }
@@ -5542,7 +5611,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.4
+          "aggregateRating": 5.6
         },
         "releaseDate": {
           "year": 2025,
@@ -6791,10 +6860,10 @@
             },
             {
               "node": {
-                "text": "IT: Bem-Vindos a Derry",
+                "text": "It: Bienvenidos a Derry",
                 "country": {
-                  "id": "BR",
-                  "text": "Brazil"
+                  "id": "AR",
+                  "text": "Argentina"
                 }
               }
             },
@@ -6804,6 +6873,15 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Bem-Vindos a Derry",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
                 }
               }
             },
@@ -6892,7 +6970,7 @@
       {
         "id": "tt32596156",
         "titleText": {
-          "text": "Anne Rice's Talamasca: The Secret Order"
+          "text": "Talamasca: The Secret Order"
         },
         "titleType": {
           "id": "tvSeries"
@@ -6904,7 +6982,7 @@
           "edges": [
             {
               "node": {
-                "text": "Anne Rice's Talamasca: The Secret Order",
+                "text": "Talamasca: The Secret Order",
                 "country": {
                   "id": "AU",
                   "text": "Australia"
@@ -6913,7 +6991,7 @@
             },
             {
               "node": {
-                "text": "Anne Rice's Talamasca: The Secret Order",
+                "text": "Talamasca: The Secret Order",
                 "country": {
                   "id": "DE",
                   "text": "Germany"
@@ -6922,7 +7000,7 @@
             },
             {
               "node": {
-                "text": "Anne Rice's Talamasca: The Secret Order",
+                "text": "Talamasca: The Secret Order",
                 "country": {
                   "id": "US",
                   "text": "United States"
@@ -6971,7 +7049,7 @@
           ]
         },
         "originalTitleText": {
-          "text": "Anne Rice's Talamasca: The Secret Order"
+          "text": "Talamasca: The Secret Order"
         }
       },
       {
@@ -7872,7 +7950,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.3
+          "aggregateRating": 7.4
         },
         "releaseDate": {
           "year": 2025,
