@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-18 06:33:21",
+  "updated_at": "2025-10-18 12:33:55",
   "entries": [
     {
       "name": "Black Phone 2",
@@ -28,6 +28,21 @@
         "nm2140860"
       ],
       "viconst": "vi1829095449"
+    },
+    {
+      "name": "Nobody Wants This",
+      "ttconst": "tt26933824",
+      "rmconst": "rm2568792834",
+      "detail": "Season 2 premieres Oct. 23 on Netflix",
+      "description": "Put down your ice cream — the wait for Season 2 is over. Following an irresistible 10-episode debut featuring undeniable onscreen chemistry between leads Adam Brody and Kristen Bell, fans clamored for more, and creator Erin Foster is delivering. We're screaming at the news that Jackie Tohn has been promoted to series regular, and that we're getting a roster of guest stars, including Broday's real-life wife Leighton Meester (as Joanne's middle school nemesis, Abby), plus appearances from Miles Fowler, Arian Moayed, Alex Karpovsky, Seth Rogen, and Kate Berlant. What truly keeps me coming back? The perfect soundtrack, which promises to kill it again with featured artists including Selena Gomez, Role Model, Royel Otis, and more. <i>— Hannah P.</i>",
+      "relatedconst": [
+        "nm0068338",
+        "nm0111013",
+        "nm4419771",
+        "nm3985937",
+        "nm0865626"
+      ],
+      "viconst": "vi3624388633"
     },
     {
       "name": "Springsteen: Deliver Me from Nowhere",
@@ -160,7 +175,7 @@
       "name": "Ballad of a Small Player",
       "ttconst": "tt32063098",
       "rmconst": "rm2249374978",
-      "detail": "In select theaters Oct. 16; premieres Oct. 29 on Netflix",
+      "detail": "In select theaters; premieres Oct. 29 on Netflix",
       "description": "Director Edward Berger's lightweight follow-up to papal thriller <i>Conclave</i> attempts to channel Wong Kar-wai and Bi Gan for a neon-soaked lost weekend in the lush hotels and dark alleys of Macau’s gambling paradise/purgatory. Colin Farrell was made to smooth a John Waters-style pencil-thin mustache as a degenerate card shark, and Tilda Swinton is in her comfort zone as the mysterious kook trailing Farrell. But this trip is only about the sightseeing, and fails to dig below the grime and blood-soaked streets. I still recommend the virtual visit to Macau and pretty much anything with Farrell playing a dirtbag. <i>— Alex L.</i>",
       "relatedconst": [
         "nm0268199",
@@ -990,6 +1005,386 @@
         }
       },
       {
+        "id": "tt26933824",
+        "titleText": {
+          "text": "Nobody Wants This"
+        },
+        "titleType": {
+          "id": "tvSeries"
+        },
+        "releaseYear": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nadie quiere esto",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nadie quiere esto",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Kristen Bell Netflix Series",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Kristen Bell Netflix Series",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bármit, csak ezt ne",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nikt tego nie chce",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ninguém Quer",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ninguém Quer Isto",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nitko ovo ne želi",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Personne ne veut ça",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Shiksa",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Нико ово не жели",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Никто этого не хочет",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ніхто цього не хоче",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "天作不合的我們",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "天作不和的我们",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "An agnostic sex podcaster and a newly single rabbi fall in love; discovering if their relationship can survive their wildly different lives and meddling families."
+          }
+        },
+        "primaryImage": {
+          "id": "rm2350689026",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGEyNWU3M2EtY2QzNy00NmFmLWI0MDQtMWQzNzdlZjE4MWRiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meterRanking": {
+          "currentRank": 233,
+          "meterType": "TV_METER",
+          "rankChange": {
+            "changeDirection": "DOWN",
+            "difference": 54
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 7.8
+        },
+        "releaseDate": {
+          "year": 2024,
+          "month": 9,
+          "day": 26
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "originalTitleText": {
+          "text": "Nobody Wants This"
+        },
+        "runtime": {
+          "seconds": 1800
+        }
+      },
+      {
         "id": "tt31923069",
         "titleText": {
           "text": "Springsteen: Deliver Me from Nowhere"
@@ -1785,7 +2180,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.4
+          "aggregateRating": 7.3
         },
         "releaseDate": {
           "year": 2025,
@@ -4662,7 +5057,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.0
+          "aggregateRating": 6.1
         },
         "releaseDate": {
           "year": 2025,
@@ -8191,6 +8586,66 @@
         }
       },
       {
+        "id": "nm0068338",
+        "nameText": {
+          "text": "Kristen Bell"
+        },
+        "primaryImage": {
+          "id": "rm1669421824",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA1Njc0MTUzN15BMl5BanBnXkFtZTgwNTg1MjEwNDI@._V1_.jpg",
+          "width": 1354,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0111013",
+        "nameText": {
+          "text": "Adam Brody"
+        },
+        "primaryImage": {
+          "id": "rm3195898112",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTY3NzMzMjgyMl5BMl5BanBnXkFtZTcwNjc2OTM4Mg@@._V1_.jpg",
+          "width": 279,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm4419771",
+        "nameText": {
+          "text": "Justine Lupe"
+        },
+        "primaryImage": {
+          "id": "rm3900921345",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWZiMjllYzgtNzM4ZC00MmVmLWFhMGEtZjkwZDJjNWYwYWFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1366,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm3985937",
+        "nameText": {
+          "text": "Timothy Simons"
+        },
+        "primaryImage": {
+          "id": "rm1757323009",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDJmMjgwYzItNGQyMi00ZDg2LWJiNzEtZmYwZTNmNjNmMzg2XkEyXkFqcGc@._V1_.jpg",
+          "width": 894,
+          "height": 922
+        }
+      },
+      {
+        "id": "nm0865626",
+        "nameText": {
+          "text": "Jackie Tohn"
+        },
+        "primaryImage": {
+          "id": "rm2905448705",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDJiMjI5MDItNTI3ZC00ODdiLWI4OGQtYTJlNzBiNzVlZDI4XkEyXkFqcGc@._V1_.jpg",
+          "width": 5616,
+          "height": 3744
+        }
+      },
+      {
         "id": "nm2087739",
         "nameText": {
           "text": "Jeremy Allen White"
@@ -9176,6 +9631,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BOTMzZDlmZmUtY2IxYS00ZmQ0LTg4NTUtODUxMWI5ZjU4ODQ1XkEyXkFqcGc@._V1_.jpg",
         "width": 3840,
         "height": 2074
+      },
+      {
+        "id": "rm2568792834",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDRhNTViYTMtYmViMy00NjFhLWJlYzktOTlhOWVhY2VlZDVmXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 2400
       },
       {
         "id": "rm2201991170",
