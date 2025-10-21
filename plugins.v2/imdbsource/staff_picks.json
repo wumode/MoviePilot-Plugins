@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-18 12:33:55",
+  "updated_at": "2025-10-22 06:33:13",
   "entries": [
     {
       "name": "Black Phone 2",
@@ -34,7 +34,7 @@
       "ttconst": "tt26933824",
       "rmconst": "rm2568792834",
       "detail": "Season 2 premieres Oct. 23 on Netflix",
-      "description": "Put down your ice cream — the wait for Season 2 is over. Following an irresistible 10-episode debut featuring undeniable onscreen chemistry between leads Adam Brody and Kristen Bell, fans clamored for more, and creator Erin Foster is delivering. We're screaming at the news that Jackie Tohn has been promoted to series regular, and that we're getting a roster of guest stars, including Broday's real-life wife Leighton Meester (as Joanne's middle school nemesis, Abby), plus appearances from Miles Fowler, Arian Moayed, Alex Karpovsky, Seth Rogen, and Kate Berlant. What truly keeps me coming back? The perfect soundtrack, which promises to kill it again with featured artists including Selena Gomez, Role Model, Royel Otis, and more. <i>— Hannah P.</i>",
+      "description": "Put down your ice cream — the wait for Season 2 is over. Following an irresistible 10-episode debut featuring undeniable onscreen chemistry between leads Adam Brody and Kristen Bell, fans clamored for more, and creator Erin Foster is delivering. I'm thrilled by the news that Jackie Tohn has been promoted to series regular, and excited by the announced roster of guest stars, including Brody's real-life wife Leighton Meester (as Joanne's middle school nemesis, Abby), plus Miles Fowler, Arian Moayed, Alex Karpovsky, Seth Rogen, and Kate Berlant. What truly hooked me about Season 1? The perfect soundtrack, which promises to kill it again with featured artists including Selena Gomez, Role Model, Royel Otis, and more providing the music for Season 2. <i>— Hannah P.</i>",
       "relatedconst": [
         "nm0068338",
         "nm0111013",
@@ -492,6 +492,51 @@
             },
             {
               "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "The Black Phone 2",
                 "country": {
                   "id": "AU",
@@ -541,42 +586,6 @@
                 },
                 "language": {
                   "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
                 }
               }
             },
@@ -825,11 +834,11 @@
           "height": 5000
         },
         "meterRanking": {
-          "currentRank": 33,
+          "currentRank": 3,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 1
+            "changeDirection": "UP",
+            "difference": 30
           }
         },
         "ratingsSummary": {
@@ -931,6 +940,15 @@
             },
             {
               "node": {
+                "text": "Handen som gungar vaggan",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "La mano que mece la cuna",
                 "country": {
                   "id": "ES",
@@ -970,11 +988,11 @@
           "height": 1610
         },
         "meterRanking": {
-          "currentRank": 699,
+          "currentRank": 85,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 415
+            "changeDirection": "UP",
+            "difference": 614
           }
         },
         "ratingsSummary": {},
@@ -1340,11 +1358,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 233,
+          "currentRank": 97,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 54
+            "changeDirection": "UP",
+            "difference": 136
           }
         },
         "ratingsSummary": {
@@ -1798,11 +1816,11 @@
           "height": 1609
         },
         "meterRanking": {
-          "currentRank": 74,
+          "currentRank": 23,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 26
+            "changeDirection": "UP",
+            "difference": 51
           }
         },
         "ratingsSummary": {
@@ -2172,11 +2190,11 @@
           "height": 1551
         },
         "meterRanking": {
-          "currentRank": 38,
+          "currentRank": 29,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 20
+            "difference": 9
           }
         },
         "ratingsSummary": {
@@ -2561,15 +2579,15 @@
           "height": 11811
         },
         "meterRanking": {
-          "currentRank": 59,
+          "currentRank": 28,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 22
+            "difference": 31
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.4
+          "aggregateRating": 7.5
         },
         "releaseDate": {
           "year": 2025,
@@ -2848,11 +2866,11 @@
           "height": 2866
         },
         "meterRanking": {
-          "currentRank": 454,
+          "currentRank": 139,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 21
+            "changeDirection": "UP",
+            "difference": 315
           }
         },
         "ratingsSummary": {
@@ -2935,6 +2953,18 @@
                 "country": {
                   "id": "AU",
                   "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
@@ -3266,11 +3296,11 @@
           "height": 9000
         },
         "meterRanking": {
-          "currentRank": 120,
+          "currentRank": 112,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 54
+            "changeDirection": "UP",
+            "difference": 8
           }
         },
         "ratingsSummary": {
@@ -3338,7 +3368,7 @@
       {
         "id": "tt19244304",
         "titleText": {
-          "text": "IT: Welcome to Derry"
+          "text": "It: Welcome to Derry"
         },
         "titleType": {
           "id": "tvSeries"
@@ -3348,18 +3378,6 @@
         },
         "akas": {
           "edges": [
-            {
-              "node": {
-                "text": "Welcome to Derry",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
             {
               "node": {
                 "text": "Welcome to Derry",
@@ -3375,15 +3393,6 @@
                 "country": {
                   "id": "EC",
                   "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Welcome to Derry",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
                 }
               }
             },
@@ -3419,7 +3428,7 @@
             },
             {
               "node": {
-                "text": "IT: Welcome to Derry",
+                "text": "It: Welcome to Derry",
                 "country": {
                   "id": "AU",
                   "text": "Australia"
@@ -3428,19 +3437,10 @@
             },
             {
               "node": {
-                "text": "IT: Welcome to Derry",
+                "text": "It: Welcome to Derry",
                 "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
+                  "id": "CA",
+                  "text": "Canada"
                 },
                 "language": {
                   "text": "English"
@@ -3449,7 +3449,16 @@
             },
             {
               "node": {
-                "text": "IT: Welcome to Derry",
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
                 "country": {
                   "id": "US",
                   "text": "United States"
@@ -3476,10 +3485,31 @@
             },
             {
               "node": {
-                "text": "IT: Bem-Vindos a Derry",
+                "text": "Ça: Bienvenue à Derry",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Bem-Vindos a Derry",
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -3533,11 +3563,11 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 73,
+          "currentRank": 29,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 12
+            "difference": 44
           }
         },
         "ratingsSummary": {},
@@ -3559,7 +3589,7 @@
           "rating": "TV-MA"
         },
         "originalTitleText": {
-          "text": "IT: Welcome to Derry"
+          "text": "It: Welcome to Derry"
         },
         "runtime": {
           "seconds": 3600
@@ -3619,11 +3649,11 @@
           "height": 2761
         },
         "meterRanking": {
-          "currentRank": 334,
+          "currentRank": 259,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 74
+            "difference": 75
           }
         },
         "ratingsSummary": {},
@@ -4166,11 +4196,11 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 36,
+          "currentRank": 50,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 50
+            "changeDirection": "DOWN",
+            "difference": 14
           }
         },
         "ratingsSummary": {
@@ -5049,11 +5079,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 321,
+          "currentRank": 241,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 499
+            "difference": 80
           }
         },
         "ratingsSummary": {
@@ -5413,8 +5443,8 @@
           "currentRank": 1,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 170
+            "changeDirection": "FLAT",
+            "difference": 0
           }
         },
         "ratingsSummary": {
@@ -5708,6 +5738,18 @@
               "node": {
                 "text": "Tron: Ares",
                 "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tron: Ares",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -5816,15 +5858,6 @@
               "node": {
                 "text": "Трон: Арес",
                 "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Трон: Арес",
-                "country": {
                   "id": "UA",
                   "text": "Ukraine"
                 }
@@ -5863,6 +5896,15 @@
                 "country": {
                   "id": "LV",
                   "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Трон. Арес",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             },
@@ -5937,11 +5979,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 3,
+          "currentRank": 4,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 16
+            "changeDirection": "DOWN",
+            "difference": 1
           }
         },
         "ratingsSummary": {
@@ -6359,6 +6401,15 @@
             },
             {
               "node": {
+                "text": "Urodzony rabuś",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Vagišius",
                 "country": {
                   "id": "LT",
@@ -6389,11 +6440,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 13,
+          "currentRank": 8,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 37
+            "difference": 5
           }
         },
         "ratingsSummary": {
@@ -6631,15 +6682,6 @@
             },
             {
               "node": {
-                "text": "Gdybym miała nogi, kopnęłabym cię",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Ha tudnék, beléd rúgnék",
                 "country": {
                   "id": "HU",
@@ -6653,6 +6695,15 @@
                 "country": {
                   "id": "LV",
                   "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kopnęłabym cię, gdybym mogła",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
@@ -6697,15 +6748,15 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 118,
+          "currentRank": 143,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 32
+            "changeDirection": "DOWN",
+            "difference": 25
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.3
+          "aggregateRating": 7.4
         },
         "releaseDate": {
           "year": 2025,
@@ -6848,8 +6899,38 @@
               "node": {
                 "text": "The Chair Company",
                 "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Cadeira",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Krzesła",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
@@ -6903,15 +6984,15 @@
           "height": 1200
         },
         "meterRanking": {
-          "currentRank": 132,
+          "currentRank": 19,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 341
+            "difference": 113
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.9
+          "aggregateRating": 7.8
         },
         "releaseDate": {
           "year": 2025,
@@ -7174,10 +7255,31 @@
             },
             {
               "node": {
+                "text": "La máquina: The Smashing Machine",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Coração de Lutador - The Smashing Machine",
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dövüş Efsanesi",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
                 }
               }
             },
@@ -7345,11 +7447,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 9,
+          "currentRank": 31,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 4
+            "difference": 22
           }
         },
         "ratingsSummary": {
@@ -7657,11 +7759,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 4,
+          "currentRank": 11,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 2
+            "difference": 7
           }
         },
         "ratingsSummary": {
@@ -7828,6 +7930,18 @@
               "node": {
                 "text": "V/H/S/Halloween",
                 "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Halloween",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -7877,11 +7991,11 @@
           "height": 2500
         },
         "meterRanking": {
-          "currentRank": 63,
+          "currentRank": 121,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 42
+            "difference": 58
           }
         },
         "ratingsSummary": {
@@ -8229,11 +8343,11 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 17,
+          "currentRank": 35,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 1
+            "difference": 18
           }
         },
         "ratingsSummary": {
@@ -8341,6 +8455,15 @@
               "node": {
                 "text": "Anemone",
                 "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
                   "id": "FR",
                   "text": "France"
                 }
@@ -8413,6 +8536,18 @@
               "node": {
                 "text": "Anemone",
                 "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -8453,11 +8588,11 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 93,
+          "currentRank": 204,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 67
+            "difference": 111
           }
         },
         "ratingsSummary": {
