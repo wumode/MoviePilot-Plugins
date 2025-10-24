@@ -1,39 +1,11 @@
 {
-  "updated_at": "2025-10-22 06:33:13",
+  "updated_at": "2025-10-25 06:33:52",
   "entries": [
-    {
-      "name": "Black Phone 2",
-      "ttconst": "tt29644189",
-      "rmconst": "rm2508503554",
-      "detail": "In theaters",
-      "description": "Part <i>Dream Warriors</i>-era Freddy Krueger, part ‘80s sleepaway camp slasher, <i>Black Phone 2</i> is meaner, gorier, and gives Madeleine McGraw a larger role fighting The Grabber (Ethan Hawke) alongside teen-angsty brother Mason Thames. Author Joe Hill (who wrote the original short story) pitched the sequel to director Scott Derrickson, which retcons some Grabber lore and fuels a new mystery for the plucky heroes to solve. The result is looser and more expansive, giving the cast and creators a bit more space to have some fun. <i>— James G.</i>",
-      "relatedconst": [
-        "nm9296746",
-        "nm0000160",
-        "nm6421259",
-        "nm0065007",
-        "nm12346880"
-      ],
-      "viconst": "vi4287023129"
-    },
-    {
-      "name": "The Hand That Rocks the Cradle",
-      "ttconst": "tt33502160",
-      "rmconst": "rm1212852994",
-      "detail": "Premieres Oct. 22 on Hulu",
-      "description": "Verifiable scream queen Maika Monroe is taking a turn to the dark side in this remake of a wild early ‘90s thriller. Mary Elizabeth Winstead and Raúl Castillo star as a couple whose new nanny may have ulterior motives. But who is the villain and who is the victim in this domestic horror story? Don’t expect a straight remake of the original. Director Michelle Garza Cervera (<i>Huesera: The Bone Woman</i>) claims she’s built “a whole different kind of thriller.” <i>— Adrienne C.</i>",
-      "relatedconst": [
-        "nm0935541",
-        "nm1950004",
-        "nm2140860"
-      ],
-      "viconst": "vi1829095449"
-    },
     {
       "name": "Nobody Wants This",
       "ttconst": "tt26933824",
       "rmconst": "rm2568792834",
-      "detail": "Season 2 premieres Oct. 23 on Netflix",
+      "detail": "Season 2 streaming on Netflix",
       "description": "Put down your ice cream — the wait for Season 2 is over. Following an irresistible 10-episode debut featuring undeniable onscreen chemistry between leads Adam Brody and Kristen Bell, fans clamored for more, and creator Erin Foster is delivering. I'm thrilled by the news that Jackie Tohn has been promoted to series regular, and excited by the announced roster of guest stars, including Brody's real-life wife Leighton Meester (as Joanne's middle school nemesis, Abby), plus Miles Fowler, Arian Moayed, Alex Karpovsky, Seth Rogen, and Kate Berlant. What truly hooked me about Season 1? The perfect soundtrack, which promises to kill it again with featured artists including Selena Gomez, Role Model, Royel Otis, and more providing the music for Season 2. <i>— Hannah P.</i>",
       "relatedconst": [
         "nm0068338",
@@ -43,21 +15,6 @@
         "nm0865626"
       ],
       "viconst": "vi3624388633"
-    },
-    {
-      "name": "Springsteen: Deliver Me from Nowhere",
-      "ttconst": "tt31923069",
-      "rmconst": "rm2201991170",
-      "detail": "In theaters Oct. 24",
-      "description": "A Brooklyn boy plays Jersey's #1 son in a biopic tuned to turn Jeremy Allen White into a movie star. JAW sings and plays guitar in the story of how Bruce Springsteen made his pivotal <i>Nebraska</i> record. I love that <i>Crazy Hearts</i> director Scott Cooper returns to the subgenre that started his career. Don't necessarily love knowing Odessa Young isn't playing an actual person; instead, she's an amalgamation of women in Bruce Springsteen's life. That's show business. <i>— Arno K.</i>",
-      "relatedconst": [
-        "nm2087739",
-        "nm0834989",
-        "nm3747611",
-        "nm3236159",
-        "nm0549505"
-      ],
-      "viconst": "vi1125894169"
     },
     {
       "name": "A House of Dynamite",
@@ -74,6 +31,30 @@
         "nm0504832"
       ],
       "viconst": "vi3204958233"
+    },
+    {
+      "name": "Chainsaw Man - The Movie: Reze Arc",
+      "ttconst": "tt30472557",
+      "rmconst": "rm3828069634",
+      "detail": "In theaters Oct. 24",
+      "description": "Chainsaw Man is tearing up the big screen for the first time this month with a new adventure that will test Denji’s skills as a demon hunter and the strength of his heart. In the film, Denji may have finally met his match when the mysterious Reze steps into his world — and we all know how cool, calm, and collected the young demon hunter is around pretty girls, right? Directed by Tatsuya Yoshihara (“Black Clover”), this highly anticipated movie is a direct sequel to the anime’s hit first season, which concluded its 12-episode run in 2022. <i>— Adrienne C.</i>",
+      "relatedconst": [],
+      "viconst": "vi2652293145"
+    },
+    {
+      "name": "Springsteen: Deliver Me from Nowhere",
+      "ttconst": "tt31923069",
+      "rmconst": "rm2201991170",
+      "detail": "In theaters Oct. 24",
+      "description": "A Brooklyn boy plays Jersey's #1 son in a biopic tuned to turn Jeremy Allen White into a movie star. JAW sings and plays guitar in the story of how Bruce Springsteen made his pivotal <i>Nebraska</i> record. I love that <i>Crazy Hearts</i> director Scott Cooper returns to the subgenre that started his career. Don't necessarily love knowing Odessa Young isn't playing an actual person; instead, she's an amalgamation of women in Bruce Springsteen's life. That's show business. <i>— Arno K.</i>",
+      "relatedconst": [
+        "nm2087739",
+        "nm0834989",
+        "nm3747611",
+        "nm3236159",
+        "nm0549505"
+      ],
+      "viconst": "vi1125894169"
     },
     {
       "name": "Bugonia",
@@ -104,15 +85,6 @@
       "viconst": "vi147245081"
     },
     {
-      "name": "Chainsaw Man - The Movie: Reze Arc",
-      "ttconst": "tt30472557",
-      "rmconst": "rm3828069634",
-      "detail": "In theaters Oct. 24",
-      "description": "Chainsaw Man is tearing up the big screen for the first time this month with a new adventure that will test Denji’s skills as a demon hunter and the strength of his heart. In the film, Denji may have finally met his match when the mysterious Reze steps into his world — and we all know how cool, calm, and collected the young demon hunter is around pretty girls, right? Directed by Tatsuya Yoshihara (“Black Clover”), this highly anticipated movie is a direct sequel to the anime’s hit first season, which concluded its 12-episode run in 2022. <i>— Adrienne C.</i>",
-      "relatedconst": [],
-      "viconst": "vi2652293145"
-    },
-    {
       "name": "It: Welcome to Derry",
       "ttconst": "tt19244304",
       "rmconst": "rm2992800770",
@@ -141,6 +113,21 @@
       "viconst": "vi655411225"
     },
     {
+      "name": "Ballad of a Small Player",
+      "ttconst": "tt32063098",
+      "rmconst": "rm2249374978",
+      "detail": "In select theaters; premieres Oct. 29 on Netflix",
+      "description": "Director Edward Berger's lightweight follow-up to papal thriller <i>Conclave</i> attempts to channel Wong Kar-wai and Bi Gan for a neon-soaked lost weekend in the lush hotels and dark alleys of Macau’s gambling paradise/purgatory. Colin Farrell was made to smooth a John Waters-style pencil-thin mustache as a degenerate card shark, and Tilda Swinton is in her comfort zone as the mysterious kook trailing Farrell. But this trip is only about the sightseeing, and fails to dig below the grime and blood-soaked streets. I still recommend the virtual visit to Macau and pretty much anything with Farrell playing a dirtbag. <i>— Alex L.</i>",
+      "relatedconst": [
+        "nm0268199",
+        "nm2371196",
+        "nm0842770",
+        "nm0409677",
+        "nm0421105"
+      ],
+      "viconst": "vi356435993"
+    },
+    {
       "name": "The Witcher",
       "ttconst": "tt5180504",
       "rmconst": "rm740010754",
@@ -154,6 +141,34 @@
         "nm0000401"
       ],
       "viconst": "vi69060633"
+    },
+    {
+      "name": "Black Phone 2",
+      "ttconst": "tt29644189",
+      "rmconst": "rm2508503554",
+      "detail": "In theaters",
+      "description": "Part <i>Dream Warriors</i>-era Freddy Krueger, part ‘80s sleepaway camp slasher, <i>Black Phone 2</i> is meaner, gorier, and gives Madeleine McGraw a larger role fighting The Grabber (Ethan Hawke) alongside teen-angsty brother Mason Thames. Author Joe Hill (who wrote the original short story) pitched the sequel to director Scott Derrickson, which retcons some Grabber lore and fuels a new mystery for the plucky heroes to solve. The result is looser and more expansive, giving the cast and creators a bit more space to have some fun. <i>— James G.</i>",
+      "relatedconst": [
+        "nm9296746",
+        "nm0000160",
+        "nm6421259",
+        "nm0065007",
+        "nm12346880"
+      ],
+      "viconst": "vi4287023129"
+    },
+    {
+      "name": "The Hand That Rocks the Cradle",
+      "ttconst": "tt33502160",
+      "rmconst": "rm1212852994",
+      "detail": "Streaming on Hulu",
+      "description": "Verifiable scream queen Maika Monroe is taking a turn to the dark side in this remake of a wild early ‘90s thriller. Mary Elizabeth Winstead and Raúl Castillo star as a couple whose new nanny may have ulterior motives. But who is the villain and who is the victim in this domestic horror story? Don’t expect a straight remake of the original. Director Michelle Garza Cervera (<i>Huesera: The Bone Woman</i>) claims she’s built “a whole different kind of thriller.” <i>— Adrienne C.</i>",
+      "relatedconst": [
+        "nm0935541",
+        "nm1950004",
+        "nm2140860"
+      ],
+      "viconst": "vi1829095449"
     },
     {
       "name": "Monster: The Ed Gein Story",
@@ -170,21 +185,6 @@
         "nm0931404"
       ],
       "viconst": "vi202426393"
-    },
-    {
-      "name": "Ballad of a Small Player",
-      "ttconst": "tt32063098",
-      "rmconst": "rm2249374978",
-      "detail": "In select theaters; premieres Oct. 29 on Netflix",
-      "description": "Director Edward Berger's lightweight follow-up to papal thriller <i>Conclave</i> attempts to channel Wong Kar-wai and Bi Gan for a neon-soaked lost weekend in the lush hotels and dark alleys of Macau’s gambling paradise/purgatory. Colin Farrell was made to smooth a John Waters-style pencil-thin mustache as a degenerate card shark, and Tilda Swinton is in her comfort zone as the mysterious kook trailing Farrell. But this trip is only about the sightseeing, and fails to dig below the grime and blood-soaked streets. I still recommend the virtual visit to Macau and pretty much anything with Farrell playing a dirtbag. <i>— Alex L.</i>",
-      "relatedconst": [
-        "nm0268199",
-        "nm2371196",
-        "nm0842770",
-        "nm0409677",
-        "nm0421105"
-      ],
-      "viconst": "vi356435993"
     },
     {
       "name": "The Woman in Cabin 10",
@@ -327,701 +327,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt29644189",
-        "titleText": {
-          "text": "Black Phone 2"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "BE",
-                  "text": "Belgium"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Phone 2",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono negro 2",
-                "country": {
-                  "id": "VE",
-                  "text": "Venezuela"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Black Phone 2",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Black Phone 2",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Black Phone 2",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Black Phone 2",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Black Phone 2",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Чёрный телефон 2",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Чёрный телефон 2",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Černý telefon 2",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Čierny telefón 2",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Crni telefon 2",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Črni telefon 2",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Czarny telefon 2",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Điện Thoại Đen 2",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Fekete telefon 2.",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Juodas telefonas 2",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Melnais telefons 2",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Must telefon 2",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Telefone Negro 2",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Telefone Preto 2",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Siyah Telefon 2",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Teléfono Negro 2",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Telefonul Negru 2",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Téléphone Noir 2",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Νεκρό τηλέφωνο 2",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Черный телефон 2",
-                "country": {
-                  "id": "BY",
-                  "text": "Belarus"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Чорний телефон 2",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ブラックフォン 2",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "接駁靈聲2",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "闇黑電話2",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake."
-          }
-        },
-        "primaryImage": {
-          "id": "rm2491726338",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_.jpg",
-          "width": 3158,
-          "height": 5000
-        },
-        "meterRanking": {
-          "currentRank": 3,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 30
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 6.7
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 17
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "Black Phone 2"
-        },
-        "runtime": {
-          "seconds": 6840
-        }
-      },
-      {
-        "id": "tt33502160",
-        "titleText": {
-          "text": "The Hand That Rocks the Cradle"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Hand That Rocks the Cradle",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hand That Rocks the Cradle",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hand That Rocks the Cradle",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hand That Rocks the Cradle",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Mão que Balança o Berço",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Die Hand an der Wiege",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Handen som gungar vaggan",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La mano que mece la cuna",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La mano sulla culla",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ręka nad kołyską",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "An upscale suburban mom brings a new nanny, Polly Murphy, into her home, only to discover she is not the person she claims to be."
-          }
-        },
-        "primaryImage": {
-          "id": "rm1783343874",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWRhYzA1NDUtY2ExZC00MTQzLWE4MjYtMGJlODJkNTYwNzI5XkEyXkFqcGc@._V1_.jpg",
-          "width": 1086,
-          "height": 1610
-        },
-        "meterRanking": {
-          "currentRank": 85,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 614
-          }
-        },
-        "ratingsSummary": {},
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 22
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "The Hand That Rocks the Cradle"
-        }
-      },
       {
         "id": "tt26933824",
         "titleText": {
@@ -1403,6 +708,845 @@
         }
       },
       {
+        "id": "tt32376165",
+        "titleText": {
+          "text": "A House of Dynamite"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "BS",
+                  "text": "Bahamas"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Una casa de dinamita",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Una casa de dinamita",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "炸藥屋",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "炸藥屋",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Casa de Dinamite",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dom pełen dynamitu",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Feszült helyzet",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ngôi Nhà Thuốc Nổ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O casă din dinamită",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Prestes a Explodir",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Una casa llena de dinamita",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Будинок з динаміту",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дом динамита",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ハウス・オブ・ダイナマイト",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "炸药屋",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond."
+          }
+        },
+        "primaryImage": {
+          "id": "rm2650515458",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjAzMjQ4YTUtOGI1Yy00YTFkLTlkMDQtMDEwOWNjYmE3MTU1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1050,
+          "height": 1551
+        },
+        "meterRanking": {
+          "currentRank": 29,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 9
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 7.1
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 24
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "A House of Dynamite"
+        },
+        "runtime": {
+          "seconds": 6720
+        }
+      },
+      {
+        "id": "tt30472557",
+        "titleText": {
+          "text": "Chainsaw Man - The Movie: Reze Arc"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man La Película - Arco De Reze",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man La Película - Arco De Reze",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man La Película - Arco De Reze",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: The Movie - Reze Arc",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: The Movie - Reze Arc",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - Il film: La storia di Reze",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - la película: Arco de Reze",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - Le Film: L'arc de Reze",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - O Filme: Arco da Reze",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - O Filme: Reze Arc",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Chương Reze",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man filmas: Reze arka",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: The Movie: Reze Arc",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chensô Man Reze-hen"
+              }
+            },
+            {
+              "node": {
+                "text": "El arco de Reze",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Человек-бензопила. Фильм: История Резе",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "चेनसॉ मैन - दी मूवी: रेज़े आर्क",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "劇場版『チェンソーマン レゼ篇』",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "劇場版『鏈鋸人 蕾潔篇』",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "鏈鋸人 - 劇場版：蕾潔篇",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "Denji encounters a new romantic interest, Reze, who works at a coffee café."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1285138946",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_.jpg",
+          "width": 6072,
+          "height": 9000
+        },
+        "meterRanking": {
+          "currentRank": 112,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 8
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 8.6
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 24
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Animation"
+              }
+            },
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Gekijô-ban Chensô Man Reze-hen"
+        },
+        "runtime": {
+          "seconds": 6000
+        }
+      },
+      {
         "id": "tt31923069",
         "titleText": {
           "text": "Springsteen: Deliver Me from Nowhere"
@@ -1645,6 +1789,15 @@
             },
             {
               "node": {
+                "text": "Springsteen: Música de ninguna parte",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Спрингстин. Избавь меня от небытия",
                 "country": {
                   "id": "KZ",
@@ -1824,7 +1977,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.6
+          "aggregateRating": 6.4
         },
         "releaseDate": {
           "year": 2025,
@@ -1858,375 +2011,6 @@
         },
         "runtime": {
           "seconds": 7200
-        }
-      },
-      {
-        "id": "tt32376165",
-        "titleText": {
-          "text": "A House of Dynamite"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "BS",
-                  "text": "Bahamas"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A House of Dynamite",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Una casa de dinamita",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Una casa de dinamita",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Casa de Dinamite",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Dom pełen dynamitu",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Feszült helyzet",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ngôi Nhà Thuốc Nổ",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O casă din dinamită",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Una casa llena de dinamita",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Дом динамита",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ハウス・オブ・ダイナマイト",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "炸药屋",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "炸藥屋",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond."
-          }
-        },
-        "primaryImage": {
-          "id": "rm2650515458",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjAzMjQ4YTUtOGI1Yy00YTFkLTlkMDQtMDEwOWNjYmE3MTU1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1050,
-          "height": 1551
-        },
-        "meterRanking": {
-          "currentRank": 29,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 9
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 7.3
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 24
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "A House of Dynamite"
-        },
-        "runtime": {
-          "seconds": 6720
         }
       },
       {
@@ -2517,6 +2301,27 @@
             },
             {
               "node": {
+                "text": "暴蜂尼亞",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "暴蜂尼亞",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Bugonija",
                 "country": {
                   "id": "LV",
@@ -2553,15 +2358,6 @@
                 "country": {
                   "id": "UA",
                   "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "暴蜂尼亞",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
                 }
               }
             }
@@ -2926,446 +2722,6 @@
         }
       },
       {
-        "id": "tt30472557",
-        "titleText": {
-          "text": "Chainsaw Man - The Movie: Reze Arc"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: The Movie - Reze Arc",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: The Movie - Reze Arc",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - Il film: La storia di Reze",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - la película: Arco de Reze",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - Le Film: L'arc de Reze",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - O Filme: Arco da Reze",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Chương Reze",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man filmas: Reze arka",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: The Movie: Reze Arc",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chensô Man Reze-hen"
-              }
-            },
-            {
-              "node": {
-                "text": "El arco de Reze",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gekijouban Chainsaw Man: Reze-hen",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Человек-бензопила. Фильм: История Резе",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "चेनसॉ मैन - दी मूवी: रेज़े आर्क",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "劇場版『チェンソーマン レゼ篇』",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "劇場版『鏈鋸人 蕾潔篇』",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "鏈鋸人 - 劇場版：蕾潔篇",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "Denji encounters a new romantic interest, Reze, who works at a coffee café."
-          }
-        },
-        "primaryImage": {
-          "id": "rm1285138946",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_.jpg",
-          "width": 6072,
-          "height": 9000
-        },
-        "meterRanking": {
-          "currentRank": 112,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 8
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 8.5
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 24
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Animation"
-              }
-            },
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "Gekijô-ban Chensô Man Reze-hen"
-        },
-        "runtime": {
-          "seconds": 6000
-        }
-      },
-      {
         "id": "tt19244304",
         "titleText": {
           "text": "It: Welcome to Derry"
@@ -3553,7 +2909,7 @@
         },
         "plot": {
           "plotText": {
-            "plainText": "It will follow the events in 1962 , the time leading up to the events of the first film based in 1989 of the Stephen King \" It \" series."
+            "plainText": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town."
           }
         },
         "primaryImage": {
@@ -3666,6 +3022,11 @@
           "genres": [
             {
               "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
                 "text": "Fantasy"
               }
             },
@@ -3673,11 +3034,329 @@
               "genre": {
                 "text": "Sci-Fi"
               }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
             }
           ]
         },
         "originalTitleText": {
           "text": "Talamasca: The Secret Order"
+        }
+      },
+      {
+        "id": "tt32063098",
+        "titleText": {
+          "text": "Ballad of a Small Player"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of a Small Player",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of A Small Player",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of A Small Player",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballad of A Small Player",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Maldita suerte",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Maldita suerte",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "小人物之歌",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "小人物之歌",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Balada de Um Jogador",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ballada o drobnym karciarzu",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La ballata di un piccolo giocatore",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Баллада о маленьком игроке",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "When his past and his debts start to catch up with him, a high-stakes gambler laying low in Macau encounters a kindred spirit who might just hold the key to his salvation."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1279764738",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWZhYzE5ODctNTUwYi00ZGE3LTliNTgtZTNkYjcxZWMxMWJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meterRanking": {
+          "currentRank": 241,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 80
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.1
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 29
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Ballad of a Small Player"
+        },
+        "runtime": {
+          "seconds": 6060
         }
       },
       {
@@ -4251,6 +3930,751 @@
         }
       },
       {
+        "id": "tt29644189",
+        "titleText": {
+          "text": "Black Phone 2"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono negro 2",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Black Phone 2",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Black Phone 2",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Black Phone 2",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Black Phone 2",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Black Phone 2",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Чёрный телефон 2",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Чёрный телефон 2",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Černý telefon 2",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Čierny telefón 2",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Crni telefon 2",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Črni telefon 2",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Czarny telefon 2",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Điện Thoại Đen 2",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fekete telefon 2.",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Juodas telefonas 2",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Melnais telefons 2",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Must telefon 2",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Telefone Negro 2",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Telefone Preto 2",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Siyah Telefon 2",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Teléfono Negro 2",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Telefonul Negru 2",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Téléphone Noir 2",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Νεκρό τηλέφωνο 2",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Черный телефон 2",
+                "country": {
+                  "id": "BY",
+                  "text": "Belarus"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Чорний телефон 2",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ブラックフォン 2",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "接駁靈聲2",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "闇黑電話2",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake."
+          }
+        },
+        "primaryImage": {
+          "id": "rm2491726338",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_.jpg",
+          "width": 3158,
+          "height": 5000
+        },
+        "meterRanking": {
+          "currentRank": 3,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 30
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.6
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 17
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Black Phone 2"
+        },
+        "runtime": {
+          "seconds": 6840
+        }
+      },
+      {
+        "id": "tt33502160",
+        "titleText": {
+          "text": "The Hand That Rocks the Cradle"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mano que mece la cuna",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mano que mece la cuna",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mano que mece la cuna",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Mão que Balança o Berço",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Die Hand an der Wiege",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Handen som gungar vaggan",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Main sur le berceau",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mano sulla culla",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ręka nad kołyską",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Рука, качающая колыбель",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "An upscale suburban mom brings a new nanny, Polly Murphy, into her home, only to discover she is not the person she claims to be."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1783343874",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWRhYzA1NDUtY2ExZC00MTQzLWE4MjYtMGJlODJkNTYwNzI5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1086,
+          "height": 1610
+        },
+        "meterRanking": {
+          "currentRank": 85,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 614
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 5.3
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 22
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "The Hand That Rocks the Cradle"
+        },
+        "runtime": {
+          "seconds": 6300
+        }
+      },
+      {
         "id": "tt13207736",
         "titleText": {
           "text": "Monster"
@@ -4816,319 +5240,6 @@
         }
       },
       {
-        "id": "tt32063098",
-        "titleText": {
-          "text": "Ballad of a Small Player"
-        },
-        "titleType": {
-          "id": "movie"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of a Small Player",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of A Small Player",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of A Small Player",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballad of A Small Player",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Maldita suerte",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Maldita suerte",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "小人物之歌",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "小人物之歌",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Balada de Um Jogador",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ballada o drobnym karciarzu",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La ballata di un piccolo giocatore",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Баллада о маленьком игроке",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "When his past and his debts start to catch up with him, a high-stakes gambler laying low in Macau encounters a kindred spirit who might just hold the key to his salvation."
-          }
-        },
-        "primaryImage": {
-          "id": "rm1279764738",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWZhYzE5ODctNTUwYi00ZGE3LTliNTgtZTNkYjcxZWMxMWJjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meterRanking": {
-          "currentRank": 241,
-          "meterType": "MOVIE_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 80
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 6.1
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 29
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "originalTitleText": {
-          "text": "Ballad of a Small Player"
-        },
-        "runtime": {
-          "seconds": 6060
-        }
-      },
-      {
         "id": "tt7130300",
         "titleText": {
           "text": "The Woman in Cabin 10"
@@ -5196,6 +5307,18 @@
               "node": {
                 "text": "The Woman in Cabin 10",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -5231,6 +5354,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Woman in Cabin 10",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -6425,6 +6560,15 @@
                   "text": "Ukraine"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "屋頂人",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
             }
           ]
         },
@@ -6878,6 +7022,30 @@
               "node": {
                 "text": "The Chair Company",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -6913,6 +7081,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Chair Company",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -7455,7 +7635,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.8
+          "aggregateRating": 6.7
         },
         "releaseDate": {
           "year": 2025,
@@ -7805,7 +7985,7 @@
           "text": "The Lost Bus"
         },
         "runtime": {
-          "seconds": 7740
+          "seconds": 7800
         }
       },
       {
@@ -8198,11 +8378,38 @@
               "node": {
                 "text": "Good Boy",
                 "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
                   "id": "ZA",
                   "text": "South Africa"
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy Confia en su Instinto",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy Confia en su Instinto",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
                 }
               }
             },
@@ -8247,6 +8454,15 @@
             },
             {
               "node": {
+                "text": "Geras berniukas",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Good boy",
                 "country": {
                   "id": "CA",
@@ -8277,19 +8493,19 @@
             },
             {
               "node": {
-                "text": "Good Boy Confia en su Instinto",
+                "text": "Good Boy: Confía En Tu Instinto",
                 "country": {
-                  "id": "CO",
-                  "text": "Colombia"
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
             {
               "node": {
-                "text": "Good Boy: Confía En Tu Instinto",
+                "text": "Good Boy: Loial până la capăt",
                 "country": {
-                  "id": "MX",
-                  "text": "Mexico"
+                  "id": "RO",
+                  "text": "Romania"
                 }
               }
             },
@@ -8351,7 +8567,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.5
+          "aggregateRating": 6.4
         },
         "releaseDate": {
           "year": 2025,
@@ -8360,11 +8576,6 @@
         },
         "titleGenres": {
           "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
             {
               "genre": {
                 "text": "Horror"
@@ -8494,6 +8705,18 @@
               "node": {
                 "text": "Anemone",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anemone",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -8596,7 +8819,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.9
+          "aggregateRating": 5.8
         },
         "releaseDate": {
           "year": 2025,
@@ -8624,102 +8847,6 @@
       }
     ],
     "names": [
-      {
-        "id": "nm9296746",
-        "nameText": {
-          "text": "Mason Thames"
-        },
-        "primaryImage": {
-          "id": "rm2298129154",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTUzZmEyNjgtYjMzNi00NzA2LWFkZGEtYTczNDgxM2U5YmRiXkEyXkFqcGc@._V1_CR1216,324,3333,5000_.jpg",
-          "width": 3333,
-          "height": 5000
-        }
-      },
-      {
-        "id": "nm0000160",
-        "nameText": {
-          "text": "Ethan Hawke"
-        },
-        "primaryImage": {
-          "id": "rm1841994496",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTk4NDMxMTI0MF5BMl5BanBnXkFtZTYwMjE3ODE0._V1_.jpg",
-          "width": 283,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm6421259",
-        "nameText": {
-          "text": "Madeleine McGraw"
-        },
-        "primaryImage": {
-          "id": "rm2059116290",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTMyODg2ZjgtYWIzZi00NDg4LTk5YjYtMDFkNjZkMmYwYTM1XkEyXkFqcGc@._V1_CR0,1,2399,3599_.jpg",
-          "width": 2399,
-          "height": 3599
-        }
-      },
-      {
-        "id": "nm0065007",
-        "nameText": {
-          "text": "Demián Bichir"
-        },
-        "primaryImage": {
-          "id": "rm3836990720",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg",
-          "width": 451,
-          "height": 594
-        }
-      },
-      {
-        "id": "nm12346880",
-        "nameText": {
-          "text": "Miguel Mora"
-        },
-        "primaryImage": {
-          "id": "rm2763557378",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTMzZTdiZWYtZTJlZi00MjkwLWJjNDQtZjlkMmU3ZjA4Y2RmXkEyXkFqcGc@._V1_CR0,47,1897,2846_.jpg",
-          "width": 1897,
-          "height": 2846
-        }
-      },
-      {
-        "id": "nm0935541",
-        "nameText": {
-          "text": "Mary Elizabeth Winstead"
-        },
-        "primaryImage": {
-          "id": "rm2405273089",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDQxMGNmN2QtNTljYS00NDMyLTkwZDktMjQyNWI4ZDVmNWFjXkEyXkFqcGc@._V1_.jpg",
-          "width": 2912,
-          "height": 4240
-        }
-      },
-      {
-        "id": "nm1950004",
-        "nameText": {
-          "text": "Raúl Castillo"
-        },
-        "primaryImage": {
-          "id": "rm383201281",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDI4NzdlNmMtYTcxNi00YThlLTg4MWMtOWU5ZGZjY2ViNzZhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1585,
-          "height": 1983
-        }
-      },
-      {
-        "id": "nm2140860",
-        "nameText": {
-          "text": "Maika Monroe"
-        },
-        "primaryImage": {
-          "id": "rm2035579136",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTYxNzA1MjcwMF5BMl5BanBnXkFtZTgwMDQwNjgyNjM@._V1_.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      },
       {
         "id": "nm0068338",
         "nameText": {
@@ -8778,66 +8905,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMDJiMjI5MDItNTI3ZC00ODdiLWI4OGQtYTJlNzBiNzVlZDI4XkEyXkFqcGc@._V1_.jpg",
           "width": 5616,
           "height": 3744
-        }
-      },
-      {
-        "id": "nm2087739",
-        "nameText": {
-          "text": "Jeremy Allen White"
-        },
-        "primaryImage": {
-          "id": "rm4164957953",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDU3OTU5MTQtNTY1My00OWViLTg2OTktNjM3NjhjZjgzNWE0XkEyXkFqcGc@._V1_.jpg",
-          "width": 2942,
-          "height": 2305
-        }
-      },
-      {
-        "id": "nm0834989",
-        "nameText": {
-          "text": "Jeremy Strong"
-        },
-        "primaryImage": {
-          "id": "rm830155777",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTY4MDQxNmMtYTcyMC00YzYyLWJmNGMtNmIzMTI1ODgxZWM3XkEyXkFqcGc@._V1_.jpg",
-          "width": 2656,
-          "height": 3984
-        }
-      },
-      {
-        "id": "nm3747611",
-        "nameText": {
-          "text": "Odessa Young"
-        },
-        "primaryImage": {
-          "id": "rm776152065",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDZiNTYwYjEtOWVkOS00OWYwLThiNWUtYTRkOWM4MDVkMzI3XkEyXkFqcGc@._V1_.jpg",
-          "width": 4016,
-          "height": 3225
-        }
-      },
-      {
-        "id": "nm3236159",
-        "nameText": {
-          "text": "Paul Walter Hauser"
-        },
-        "primaryImage": {
-          "id": "rm1719379201",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGJiODAyM2UtZTIwNi00NTUwLThlM2ItOWNlMjBkNmY4ZGVkXkEyXkFqcGc@._V1_.jpg",
-          "width": 1000,
-          "height": 814
-        }
-      },
-      {
-        "id": "nm0549505",
-        "nameText": {
-          "text": "Marc Maron"
-        },
-        "primaryImage": {
-          "id": "rm1094354432",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTUwMjkxMTI5Ml5BMl5BanBnXkFtZTcwNTU0NDAwNA@@._V1_.jpg",
-          "width": 2100,
-          "height": 3150
         }
       },
       {
@@ -8910,6 +8977,66 @@
           "url": "https://m.media-amazon.com/images/M/MV5BNzQ4Mjc1NTU0OV5BMl5BanBnXkFtZTgwMTUxMjg0NzE@._V1_.jpg",
           "width": 2400,
           "height": 3000
+        }
+      },
+      {
+        "id": "nm2087739",
+        "nameText": {
+          "text": "Jeremy Allen White"
+        },
+        "primaryImage": {
+          "id": "rm4164957953",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDU3OTU5MTQtNTY1My00OWViLTg2OTktNjM3NjhjZjgzNWE0XkEyXkFqcGc@._V1_.jpg",
+          "width": 2942,
+          "height": 2305
+        }
+      },
+      {
+        "id": "nm0834989",
+        "nameText": {
+          "text": "Jeremy Strong"
+        },
+        "primaryImage": {
+          "id": "rm830155777",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTY4MDQxNmMtYTcyMC00YzYyLWJmNGMtNmIzMTI1ODgxZWM3XkEyXkFqcGc@._V1_.jpg",
+          "width": 2656,
+          "height": 3984
+        }
+      },
+      {
+        "id": "nm3747611",
+        "nameText": {
+          "text": "Odessa Young"
+        },
+        "primaryImage": {
+          "id": "rm776152065",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDZiNTYwYjEtOWVkOS00OWYwLThiNWUtYTRkOWM4MDVkMzI3XkEyXkFqcGc@._V1_.jpg",
+          "width": 4016,
+          "height": 3225
+        }
+      },
+      {
+        "id": "nm3236159",
+        "nameText": {
+          "text": "Paul Walter Hauser"
+        },
+        "primaryImage": {
+          "id": "rm1719379201",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGJiODAyM2UtZTIwNi00NTUwLThlM2ItOWNlMjBkNmY4ZGVkXkEyXkFqcGc@._V1_.jpg",
+          "width": 1000,
+          "height": 814
+        }
+      },
+      {
+        "id": "nm0549505",
+        "nameText": {
+          "text": "Marc Maron"
+        },
+        "primaryImage": {
+          "id": "rm1094354432",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUwMjkxMTI5Ml5BMl5BanBnXkFtZTcwNTU0NDAwNA@@._V1_.jpg",
+          "width": 2100,
+          "height": 3150
         }
       },
       {
@@ -9105,6 +9232,66 @@
         }
       },
       {
+        "id": "nm0268199",
+        "nameText": {
+          "text": "Colin Farrell"
+        },
+        "primaryImage": {
+          "id": "rm2282337024",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_.jpg",
+          "width": 1429,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm2371196",
+        "nameText": {
+          "text": "Fala Chen"
+        },
+        "primaryImage": {
+          "id": "rm3340890113",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmIxYWQxNWItYTc3ZC00ZTJmLWI1ZTItMGQ0NGIwNzA1NTA4XkEyXkFqcGc@._V1_.jpg",
+          "width": 538,
+          "height": 717
+        }
+      },
+      {
+        "id": "nm0842770",
+        "nameText": {
+          "text": "Tilda Swinton"
+        },
+        "primaryImage": {
+          "id": "rm1875739392",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_.jpg",
+          "width": 319,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0409677",
+        "nameText": {
+          "text": "Deanie lp"
+        },
+        "primaryImage": {
+          "id": "rm3786448128",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTA4ODk2M15BMl5BanBnXkFtZTcwMzE0NTYyMQ@@._V1_.jpg",
+          "width": 300,
+          "height": 420
+        }
+      },
+      {
+        "id": "nm0421105",
+        "nameText": {
+          "text": "Alex Jennings"
+        },
+        "primaryImage": {
+          "id": "rm2865474304",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTgzMjQyNTE1Ml5BMl5BanBnXkFtZTcwMzQ1MzExOA@@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
         "id": "nm2955013",
         "nameText": {
           "text": "Liam Hemsworth"
@@ -9162,6 +9349,102 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMTc0NjczNDc1MV5BMl5BanBnXkFtZTYwMDU0Mjg1._V1_.jpg",
           "width": 267,
           "height": 400
+        }
+      },
+      {
+        "id": "nm9296746",
+        "nameText": {
+          "text": "Mason Thames"
+        },
+        "primaryImage": {
+          "id": "rm2298129154",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTUzZmEyNjgtYjMzNi00NzA2LWFkZGEtYTczNDgxM2U5YmRiXkEyXkFqcGc@._V1_CR1216,324,3333,5000_.jpg",
+          "width": 3333,
+          "height": 5000
+        }
+      },
+      {
+        "id": "nm0000160",
+        "nameText": {
+          "text": "Ethan Hawke"
+        },
+        "primaryImage": {
+          "id": "rm1841994496",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTk4NDMxMTI0MF5BMl5BanBnXkFtZTYwMjE3ODE0._V1_.jpg",
+          "width": 283,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm6421259",
+        "nameText": {
+          "text": "Madeleine McGraw"
+        },
+        "primaryImage": {
+          "id": "rm2059116290",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTMyODg2ZjgtYWIzZi00NDg4LTk5YjYtMDFkNjZkMmYwYTM1XkEyXkFqcGc@._V1_CR0,1,2399,3599_.jpg",
+          "width": 2399,
+          "height": 3599
+        }
+      },
+      {
+        "id": "nm0065007",
+        "nameText": {
+          "text": "Demián Bichir"
+        },
+        "primaryImage": {
+          "id": "rm3836990720",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIzNDMwMzI3OV5BMl5BanBnXkFtZTgwNTk2NzMyMTE@._V1_.jpg",
+          "width": 451,
+          "height": 594
+        }
+      },
+      {
+        "id": "nm12346880",
+        "nameText": {
+          "text": "Miguel Mora"
+        },
+        "primaryImage": {
+          "id": "rm2763557378",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTMzZTdiZWYtZTJlZi00MjkwLWJjNDQtZjlkMmU3ZjA4Y2RmXkEyXkFqcGc@._V1_CR0,47,1897,2846_.jpg",
+          "width": 1897,
+          "height": 2846
+        }
+      },
+      {
+        "id": "nm0935541",
+        "nameText": {
+          "text": "Mary Elizabeth Winstead"
+        },
+        "primaryImage": {
+          "id": "rm2405273089",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDQxMGNmN2QtNTljYS00NDMyLTkwZDktMjQyNWI4ZDVmNWFjXkEyXkFqcGc@._V1_.jpg",
+          "width": 2912,
+          "height": 4240
+        }
+      },
+      {
+        "id": "nm1950004",
+        "nameText": {
+          "text": "Raúl Castillo"
+        },
+        "primaryImage": {
+          "id": "rm383201281",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDI4NzdlNmMtYTcxNi00YThlLTg4MWMtOWU5ZGZjY2ViNzZhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1585,
+          "height": 1983
+        }
+      },
+      {
+        "id": "nm2140860",
+        "nameText": {
+          "text": "Maika Monroe"
+        },
+        "primaryImage": {
+          "id": "rm2035579136",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTYxNzA1MjcwMF5BMl5BanBnXkFtZTgwMDQwNjgyNjM@._V1_.jpg",
+          "width": 2048,
+          "height": 1365
         }
       },
       {
@@ -9234,66 +9517,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMzIyOTEwMjYyNl5BMl5BanBnXkFtZTgwNTc3NDU0MjE@._V1_.jpg",
           "width": 2000,
           "height": 1464
-        }
-      },
-      {
-        "id": "nm0268199",
-        "nameText": {
-          "text": "Colin Farrell"
-        },
-        "primaryImage": {
-          "id": "rm2282337024",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg4NzM5NDk0MV5BMl5BanBnXkFtZTcwNzAzMTUxNw@@._V1_.jpg",
-          "width": 1429,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm2371196",
-        "nameText": {
-          "text": "Fala Chen"
-        },
-        "primaryImage": {
-          "id": "rm3340890113",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmIxYWQxNWItYTc3ZC00ZTJmLWI1ZTItMGQ0NGIwNzA1NTA4XkEyXkFqcGc@._V1_.jpg",
-          "width": 538,
-          "height": 717
-        }
-      },
-      {
-        "id": "nm0842770",
-        "nameText": {
-          "text": "Tilda Swinton"
-        },
-        "primaryImage": {
-          "id": "rm1875739392",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTM4NzMzMTkwNV5BMl5BanBnXkFtZTcwMzU4MDg1Mw@@._V1_.jpg",
-          "width": 319,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0409677",
-        "nameText": {
-          "text": "Deanie lp"
-        },
-        "primaryImage": {
-          "id": "rm3786448128",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTYyOTA4ODk2M15BMl5BanBnXkFtZTcwMzE0NTYyMQ@@._V1_.jpg",
-          "width": 300,
-          "height": 420
-        }
-      },
-      {
-        "id": "nm0421105",
-        "nameText": {
-          "text": "Alex Jennings"
-        },
-        "primaryImage": {
-          "id": "rm2865474304",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTgzMjQyNTE1Ml5BMl5BanBnXkFtZTcwMzQ1MzExOA@@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
         }
       },
       {
@@ -9756,34 +9979,28 @@
     "videos": [],
     "images": [
       {
-        "id": "rm2508503554",
-        "url": "https://m.media-amazon.com/images/M/MV5BOTljOTA2MzMtMmM3Yy00YWQzLTliNDgtZmZlZTBkYmNlNTdiXkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 802
-      },
-      {
-        "id": "rm1212852994",
-        "url": "https://m.media-amazon.com/images/M/MV5BOTMzZDlmZmUtY2IxYS00ZmQ0LTg4NTUtODUxMWI5ZjU4ODQ1XkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 2074
-      },
-      {
         "id": "rm2568792834",
         "url": "https://m.media-amazon.com/images/M/MV5BMDRhNTViYTMtYmViMy00NjFhLWJlYzktOTlhOWVhY2VlZDVmXkEyXkFqcGc@._V1_.jpg",
         "width": 3600,
         "height": 2400
       },
       {
-        "id": "rm2201991170",
-        "url": "https://m.media-amazon.com/images/M/MV5BMDAxZjFmYWYtNmJkNC00NzIxLWE2M2EtYmI4ZmZhODlkMzYxXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1606
-      },
-      {
         "id": "rm643544066",
         "url": "https://m.media-amazon.com/images/M/MV5BNTdmZWQyZmYtZjZjNS00NThlLWJkOWYtNGQwNTIxMzJhYjliXkEyXkFqcGc@._V1_.jpg",
         "width": 7130,
         "height": 4748
+      },
+      {
+        "id": "rm3828069634",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjRiM2ZiMzctZGZlYS00NzA1LWE3ZTItNWJiZDFkZDRkMDE5XkEyXkFqcGc@._V1_.jpg",
+        "width": 960,
+        "height": 540
+      },
+      {
+        "id": "rm2201991170",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDAxZjFmYWYtNmJkNC00NzIxLWE2M2EtYmI4ZmZhODlkMzYxXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1606
       },
       {
         "id": "rm69777154",
@@ -9798,12 +10015,6 @@
         "height": 1187
       },
       {
-        "id": "rm3828069634",
-        "url": "https://m.media-amazon.com/images/M/MV5BYjRiM2ZiMzctZGZlYS00NzA1LWE3ZTItNWJiZDFkZDRkMDE5XkEyXkFqcGc@._V1_.jpg",
-        "width": 960,
-        "height": 540
-      },
-      {
         "id": "rm2992800770",
         "url": "https://m.media-amazon.com/images/M/MV5BZWRkN2Y5NjEtN2FjOC00YzE0LTkzZGQtODRhNzU3YTk2MWMzXkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
@@ -9816,22 +10027,34 @@
         "height": 3364
       },
       {
+        "id": "rm2249374978",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmNjNDRjODMtNjRkYi00M2EyLWI4MzItOTlkNDU3Y2U5NzNjXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1815
+      },
+      {
         "id": "rm740010754",
         "url": "https://m.media-amazon.com/images/M/MV5BZTdjNGQ2NjktMGRmZi00YWM2LWE4NzgtZGJiYzY2Y2ViNWQ4XkEyXkFqcGc@._V1_.jpg",
         "width": 3290,
         "height": 2160
       },
       {
+        "id": "rm2508503554",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTljOTA2MzMtMmM3Yy00YWQzLTliNDgtZmZlZTBkYmNlNTdiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 802
+      },
+      {
+        "id": "rm1212852994",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTMzZDlmZmUtY2IxYS00ZmQ0LTg4NTUtODUxMWI5ZjU4ODQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 2074
+      },
+      {
         "id": "rm1620748802",
         "url": "https://m.media-amazon.com/images/M/MV5BZTljYWY1MzUtNzI1Ny00ZTIyLWJiY2EtNWU5MDlmNDRlODQzXkEyXkFqcGc@._V1_.jpg",
         "width": 3600,
         "height": 1532
-      },
-      {
-        "id": "rm2249374978",
-        "url": "https://m.media-amazon.com/images/M/MV5BYmNjNDRjODMtNjRkYi00M2EyLWI4MzItOTlkNDU3Y2U5NzNjXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1815
       },
       {
         "id": "rm3851916802",
