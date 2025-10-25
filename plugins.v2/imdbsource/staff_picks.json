@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-25 06:33:52",
+  "updated_at": "2025-10-26 06:34:09",
   "entries": [
     {
       "name": "Nobody Wants This",
@@ -1075,7 +1075,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.1
+          "aggregateRating": 6.8
         },
         "releaseDate": {
           "year": 2025,
@@ -1313,6 +1313,27 @@
             },
             {
               "node": {
+                "text": "Человек-бензопила. Фильм: История Резе",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Человек-бензопила. Фильм: История Резе",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Chainsaw Man",
                 "country": {
                   "id": "NO",
@@ -1406,15 +1427,6 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Человек-бензопила. Фильм: История Резе",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
                 }
               }
             },
@@ -1977,7 +1989,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.4
+          "aggregateRating": 6.8
         },
         "releaseDate": {
           "year": 2025,
@@ -2416,7 +2428,7 @@
           "text": "Bugonia"
         },
         "runtime": {
-          "seconds": 7200
+          "seconds": 7080
         }
       },
       {
@@ -2459,6 +2471,18 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Blue Moon",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
@@ -3955,6 +3979,15 @@
               "node": {
                 "text": "Black Phone 2",
                 "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Phone 2",
+                "country": {
                   "id": "BE",
                   "text": "Belgium"
                 }
@@ -4143,15 +4176,6 @@
                 "country": {
                   "id": "VE",
                   "text": "Venezuela"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Black Phone 2",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
                 }
               }
             },
@@ -4517,8 +4541,32 @@
               "node": {
                 "text": "The Hand That Rocks the Cradle",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4643,7 +4691,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.3
+          "aggregateRating": 5.2
         },
         "releaseDate": {
           "year": 2025,
@@ -6875,6 +6923,15 @@
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "媽的踹爆你",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
                 }
               }
             }
