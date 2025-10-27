@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-26 06:34:09",
+  "updated_at": "2025-10-27 18:33:58",
   "entries": [
     {
       "name": "Nobody Wants This",
@@ -663,11 +663,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 97,
+          "currentRank": 2,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 136
+            "difference": 95
           }
         },
         "ratingsSummary": {
@@ -756,6 +756,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A House of Dynamite",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -1067,15 +1076,15 @@
           "height": 1551
         },
         "meterRanking": {
-          "currentRank": 29,
+          "currentRank": 1,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 9
+            "difference": 28
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.8
+          "aggregateRating": 6.6
         },
         "releaseDate": {
           "year": 2025,
@@ -1270,15 +1279,6 @@
               "node": {
                 "text": "Chainsaw Man La Película - Arco De Reze",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
                   "id": "CL",
                   "text": "Chile"
                 }
@@ -1406,6 +1406,15 @@
             },
             {
               "node": {
+                "text": "Chainsaw Man: La Película - Arco de Reze",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Chainsaw Man: The Movie: Reze Arc",
                 "country": {
                   "id": "CA",
@@ -1489,11 +1498,11 @@
           "height": 9000
         },
         "meterRanking": {
-          "currentRank": 112,
+          "currentRank": 18,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 8
+            "difference": 94
           }
         },
         "ratingsSummary": {
@@ -1843,6 +1852,15 @@
             },
             {
               "node": {
+                "text": "Springsteen: Eliberează-mă de nicăieri",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Springsteen: Hiçlikten Kurtar Beni",
                 "country": {
                   "id": "TR",
@@ -1891,6 +1909,15 @@
             },
             {
               "node": {
+                "text": "Springsteen: Reši me od nikoder",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Springsteen: Salve-me do Desconhecido",
                 "country": {
                   "id": "BR",
@@ -1913,6 +1940,15 @@
                 "country": {
                   "id": "CZ",
                   "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Springsteen: Vyveď ma z ničoty",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
                 }
               }
             },
@@ -1943,6 +1979,15 @@
                 },
                 "language": {
                   "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Спрінґстін: Врятуй мене від невідомого",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             },
@@ -1981,15 +2026,15 @@
           "height": 1609
         },
         "meterRanking": {
-          "currentRank": 23,
+          "currentRank": 8,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 51
+            "difference": 15
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.8
+          "aggregateRating": 6.9
         },
         "releaseDate": {
           "year": 2025,
@@ -2092,6 +2137,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bugonia",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -2387,15 +2441,15 @@
           "height": 11811
         },
         "meterRanking": {
-          "currentRank": 28,
+          "currentRank": 12,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 31
+            "difference": 16
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.5
+          "aggregateRating": 7.6
         },
         "releaseDate": {
           "year": 2025,
@@ -2686,11 +2740,11 @@
           "height": 2866
         },
         "meterRanking": {
-          "currentRank": 139,
+          "currentRank": 73,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 315
+            "difference": 66
           }
         },
         "ratingsSummary": {
@@ -2865,6 +2919,27 @@
             },
             {
               "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Ça: Bienvenue à Derry",
                 "country": {
                   "id": "FR",
@@ -2878,18 +2953,6 @@
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -2943,14 +3006,16 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 29,
+          "currentRank": 11,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 44
+            "difference": 18
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 8.3
+        },
         "releaseDate": {
           "year": 2025,
           "month": 10,
@@ -3029,14 +3094,16 @@
           "height": 2761
         },
         "meterRanking": {
-          "currentRank": 259,
+          "currentRank": 76,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 75
+            "difference": 183
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 6.5
+        },
         "releaseDate": {
           "year": 2025,
           "month": 10,
@@ -3334,11 +3401,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 241,
+          "currentRank": 270,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 80
+            "changeDirection": "DOWN",
+            "difference": 29
           }
         },
         "ratingsSummary": {
@@ -3899,11 +3966,11 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 50,
+          "currentRank": 37,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 14
+            "changeDirection": "UP",
+            "difference": 13
           }
         },
         "ratingsSummary": {
@@ -4469,11 +4536,11 @@
           "height": 5000
         },
         "meterRanking": {
-          "currentRank": 3,
+          "currentRank": 7,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 30
+            "changeDirection": "DOWN",
+            "difference": 4
           }
         },
         "ratingsSummary": {
@@ -4564,6 +4631,18 @@
                 "country": {
                   "id": "IN",
                   "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
                 },
                 "language": {
                   "text": "English"
@@ -4683,15 +4762,15 @@
           "height": 1610
         },
         "meterRanking": {
-          "currentRank": 85,
+          "currentRank": 10,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 614
+            "difference": 75
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.2
+          "aggregateRating": 5.3
         },
         "releaseDate": {
           "year": 2025,
@@ -5238,11 +5317,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 1,
+          "currentRank": 3,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "FLAT",
-            "difference": 0
+            "changeDirection": "DOWN",
+            "difference": 2
           }
         },
         "ratingsSummary": {
@@ -5623,11 +5702,11 @@
           "height": 1350
         },
         "meterRanking": {
-          "currentRank": 1,
+          "currentRank": 5,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "FLAT",
-            "difference": 0
+            "changeDirection": "DOWN",
+            "difference": 4
           }
         },
         "ratingsSummary": {
@@ -6162,15 +6241,15 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 4,
+          "currentRank": 14,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 1
+            "difference": 10
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.7
+          "aggregateRating": 6.6
         },
         "releaseDate": {
           "year": 2025,
@@ -6632,11 +6711,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 8,
+          "currentRank": 21,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 5
+            "changeDirection": "DOWN",
+            "difference": 13
           }
         },
         "ratingsSummary": {
@@ -6949,15 +7028,15 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 143,
+          "currentRank": 112,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 25
+            "changeDirection": "UP",
+            "difference": 31
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.4
+          "aggregateRating": 7.3
         },
         "releaseDate": {
           "year": 2025,
@@ -7221,11 +7300,11 @@
           "height": 1200
         },
         "meterRanking": {
-          "currentRank": 19,
+          "currentRank": 27,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 113
+            "changeDirection": "DOWN",
+            "difference": 8
           }
         },
         "ratingsSummary": {
@@ -7684,11 +7763,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 31,
+          "currentRank": 80,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 22
+            "difference": 49
           }
         },
         "ratingsSummary": {
@@ -7996,11 +8075,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 11,
+          "currentRank": 33,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 7
+            "difference": 22
           }
         },
         "ratingsSummary": {
@@ -8228,11 +8307,11 @@
           "height": 2500
         },
         "meterRanking": {
-          "currentRank": 121,
+          "currentRank": 171,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 58
+            "difference": 50
           }
         },
         "ratingsSummary": {
@@ -8290,6 +8369,18 @@
                 "country": {
                   "id": "AU",
                   "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -8520,18 +8611,6 @@
             },
             {
               "node": {
-                "text": "Good boy",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Good Boy - Trust his instincts",
                 "country": {
                   "id": "DE",
@@ -8550,7 +8629,7 @@
             },
             {
               "node": {
-                "text": "Good Boy: Confía En Tu Instinto",
+                "text": "Good Boy: confía en su instinto",
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
@@ -8616,15 +8695,15 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 35,
+          "currentRank": 16,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 18
+            "changeDirection": "UP",
+            "difference": 19
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.4
+          "aggregateRating": 6.3
         },
         "releaseDate": {
           "year": 2025,
@@ -8868,11 +8947,11 @@
           "height": 1500
         },
         "meterRanking": {
-          "currentRank": 204,
+          "currentRank": 64,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 111
+            "changeDirection": "UP",
+            "difference": 140
           }
         },
         "ratingsSummary": {
