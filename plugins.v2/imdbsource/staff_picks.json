@@ -1,6 +1,35 @@
 {
-  "updated_at": "2025-10-27 18:33:58",
+  "updated_at": "2025-10-28 06:34:01",
   "entries": [
+    {
+      "name": "A House of Dynamite",
+      "ttconst": "tt32376165",
+      "rmconst": "rm643544066",
+      "detail": "Streaming on Netflix",
+      "description": "<i> House of Dynamite</i> is a contemporary disaster movie where the only moment’s peace is the thought of Idris Elba as the US president just shooting hoops with after-school program kids. Kathryn Bigelow’s first film in eight years yanks us from that dream back into a nuclear doomsday scenario, one that screenwriter Noah Oppenheim segmented into 18-minute loops where the clock resets in a series of political and military situation rooms. The feasibility factor here makes the film a rough sit, watching expressions of helplessness and shock pass over the faces of people who have dedicated their lives to responding to domestic threats. I didn’t know how to sit in my chair, or what to do as the credits rolled, my popcorn there, barely eaten. <i>— Arno K.</i>",
+      "relatedconst": [
+        "nm0272581",
+        "nm0364813",
+        "nm6588867",
+        "nm0252961",
+        "nm2773059",
+        "nm0504832"
+      ],
+      "viconst": "vi3204958233"
+    },
+    {
+      "name": "It: Welcome to Derry",
+      "ttconst": "tt19244304",
+      "rmconst": "rm2992800770",
+      "detail": "Season 1 streaming on HBO Max",
+      "description": "Something bad is coming for the residents of Derry in this prequel series to Andy Muschietti’s <i>IT</i> films that may uncover the origins of Pennywise the dancing clown. Jovan Adepo (“Three Body Problem”) and Taylour Paige (<i>Zola</i>) star as a couple whose recent move to the small Maine town is complicated when a young boy goes missing. Developed for TV by Muschietti, alongside his creative partner and sister Barbara, “IT: Welcome to Derry” is based on the interlude chapters from Stephen King’s novel, which reveal the town’s sordid history and Pennywise’s 27-year cycle of terror. <i>— Adrienne C.</i>",
+      "relatedconst": [
+        "nm5381254",
+        "nm3666749",
+        "nm0803889"
+      ],
+      "viconst": "vi1627768857"
+    },
     {
       "name": "Nobody Wants This",
       "ttconst": "tt26933824",
@@ -17,35 +46,10 @@
       "viconst": "vi3624388633"
     },
     {
-      "name": "A House of Dynamite",
-      "ttconst": "tt32376165",
-      "rmconst": "rm643544066",
-      "detail": "Premieres Oct. 24 on Netflix",
-      "description": "<i> House of Dynamite</i> is a contemporary disaster movie where the only moment’s peace is the thought of Idris Elba as the US president just shooting hoops with after-school program kids. Kathryn Bigelow’s first film in eight years yanks us from that dream back into a nuclear doomsday scenario, one that screenwriter Noah Oppenheim segmented into 18-minute loops where the clock resets in a series of political and military situation rooms. The feasibility factor here makes the film a rough sit, watching expressions of helplessness and shock pass over the faces of people who have dedicated their lives to responding to domestic threats. I didn’t know how to sit in my chair, or what to do as the credits rolled, my popcorn there, barely eaten. <i>— Arno K.</i>",
-      "relatedconst": [
-        "nm0272581",
-        "nm0364813",
-        "nm6588867",
-        "nm0252961",
-        "nm2773059",
-        "nm0504832"
-      ],
-      "viconst": "vi3204958233"
-    },
-    {
-      "name": "Chainsaw Man - The Movie: Reze Arc",
-      "ttconst": "tt30472557",
-      "rmconst": "rm3828069634",
-      "detail": "In theaters Oct. 24",
-      "description": "Chainsaw Man is tearing up the big screen for the first time this month with a new adventure that will test Denji’s skills as a demon hunter and the strength of his heart. In the film, Denji may have finally met his match when the mysterious Reze steps into his world — and we all know how cool, calm, and collected the young demon hunter is around pretty girls, right? Directed by Tatsuya Yoshihara (“Black Clover”), this highly anticipated movie is a direct sequel to the anime’s hit first season, which concluded its 12-episode run in 2022. <i>— Adrienne C.</i>",
-      "relatedconst": [],
-      "viconst": "vi2652293145"
-    },
-    {
       "name": "Springsteen: Deliver Me from Nowhere",
       "ttconst": "tt31923069",
       "rmconst": "rm2201991170",
-      "detail": "In theaters Oct. 24",
+      "detail": "In theaters",
       "description": "A Brooklyn boy plays Jersey's #1 son in a biopic tuned to turn Jeremy Allen White into a movie star. JAW sings and plays guitar in the story of how Bruce Springsteen made his pivotal <i>Nebraska</i> record. I love that <i>Crazy Hearts</i> director Scott Cooper returns to the subgenre that started his career. Don't necessarily love knowing Odessa Young isn't playing an actual person; instead, she's an amalgamation of women in Bruce Springsteen's life. That's show business. <i>— Arno K.</i>",
       "relatedconst": [
         "nm2087739",
@@ -57,10 +61,34 @@
       "viconst": "vi1125894169"
     },
     {
+      "name": "Chainsaw Man - The Movie: Reze Arc",
+      "ttconst": "tt30472557",
+      "rmconst": "rm3828069634",
+      "detail": "In theaters",
+      "description": "Chainsaw Man is tearing up the big screen for the first time this month with a new adventure that will test Denji’s skills as a demon hunter and the strength of his heart. In the film, Denji may have finally met his match when the mysterious Reze steps into his world — and we all know how cool, calm, and collected the young demon hunter is around pretty girls, right? Directed by Tatsuya Yoshihara (“Black Clover”), this highly anticipated movie is a direct sequel to the anime’s hit first season, which concluded its 12-episode run in 2022. <i>— Adrienne C.</i>",
+      "relatedconst": [],
+      "viconst": "vi2652293145"
+    },
+    {
+      "name": "Talamasca: The Secret Order",
+      "ttconst": "tt32596156",
+      "rmconst": "rm1327016706",
+      "detail": "Streaming on AMC+",
+      "description": "Anne Rice's Immortal Universe continues to expand (much like the actual universe) with The Talamasca, a new series that explores an ancient and secret order tasked with monitoring and investigating supernatural beings that exist in this realm. They've popped up a few times across the two series, both trading information from Daniel Molloy in Interview with the Vampire and monitoring and manipulating prophecies in The Mayfair Witches. Now we get to see the order from the inside through the eyes of Guy Anatole (Nicholas Denton), a fledgling agent (who does not appear in the books) and who may have some supernatural abilities of his own. With the growing number of vampires and witches appearing in the world, it makes sense why they're recruiting. <i>— Vanessa W.</i>",
+      "relatedconst": [
+        "nm5485987",
+        "nm0001527",
+        "nm0005403",
+        "nm0091899",
+        "nm5114966"
+      ],
+      "viconst": "vi655411225"
+    },
+    {
       "name": "Bugonia",
       "ttconst": "tt12300742",
       "rmconst": "rm69777154",
-      "detail": "In select theaters Oct. 24",
+      "detail": "In select theaters",
       "description": "Emma Stone and Jesse Plemons are predictably superb in the latest collab with Yorgos Lanthimos’ remake of Jang Joon-hwan’s <i>Save the Green Planet!</i> The director’s use of bleak humor, violence, and plot curveballs won’t be everyone’s cup of tea. But the performances are top-notch, including an adorably sweet performance from Aidan Delbis, who adds a welcome heart to the pitch black satire. <i>— James G.</i>",
       "relatedconst": [
         "nm1297015",
@@ -73,7 +101,7 @@
       "name": "Blue Moon",
       "ttconst": "tt32536315",
       "rmconst": "rm467702018",
-      "detail": "In theaters Oct. 24",
+      "detail": "In theaters",
       "description": "Who wouldn’t want to sit at a bar and listen to Ethan Hawke deliver some of the most delicious monologues in contemporary times? Richard Linklater’s assured direction makes <i>Blue Moon</i>, a single-character story about the last months of famed lyricist Lorenz Hart’s life, into something that should be watched by more than just the Broadway set. Or people, like me, who feel Hawke still is, somehow, a profoundly underrated actor. Buy a shot for Bobby Cannavale and overtip him as the bartender at Sardi’s. Margaret Qualley transcends the source material – she, like Odessa Young in <i>Springsteen: Deliver Me from Nowhere</i>, is an amalgamation of women in Hart’s life. Andrew Scott walks off with the movie as Richard Rodgers, Hart’s longtime creative partner who is quickly transitioning into his Rodgers and Hammerstein era. <i>— Arno K.</i>",
       "relatedconst": [
         "nm0000160",
@@ -83,34 +111,6 @@
         "nm1171145"
       ],
       "viconst": "vi147245081"
-    },
-    {
-      "name": "It: Welcome to Derry",
-      "ttconst": "tt19244304",
-      "rmconst": "rm2992800770",
-      "detail": "Premieres Oct. 26 on HBO Max",
-      "description": "Something bad is coming for the residents of Derry in this prequel series to Andy Muschietti’s <i>IT</i> films that may uncover the origins of Pennywise the dancing clown. Jovan Adepo (“Three Body Problem”) and Taylour Paige (<i>Zola</i>) star as a couple whose recent move to the small Maine town is complicated when a young boy goes missing. Developed for TV by Muschietti, alongside his creative partner and sister Barbara, “IT: Welcome to Derry” is based on the interlude chapters from Stephen King’s novel, which reveal the town’s sordid history and Pennywise’s 27-year cycle of terror. <i>— Adrienne C.</i>",
-      "relatedconst": [
-        "nm5381254",
-        "nm3666749",
-        "nm0803889"
-      ],
-      "viconst": "vi1627768857"
-    },
-    {
-      "name": "Talamasca: The Secret Order",
-      "ttconst": "tt32596156",
-      "rmconst": "rm1327016706",
-      "detail": "Premieres Oct. 26 on AMC+",
-      "description": "Anne Rice's Immortal Universe continues to expand (much like the actual universe) with The Talamasca, a new series that explores an ancient and secret order tasked with monitoring and investigating supernatural beings that exist in this realm. They've popped up a few times across the two series, both trading information from Daniel Molloy in Interview with the Vampire and monitoring and manipulating prophecies in The Mayfair Witches. Now we get to see the order from the inside through the eyes of Guy Anatole (Nicholas Denton), a fledgling agent (who does not appear in the books) and who may have some supernatural abilities of his own. With the growing number of vampires and witches appearing in the world, it makes sense why they're recruiting. <i>— Vanessa W.</i>",
-      "relatedconst": [
-        "nm5485987",
-        "nm0001527",
-        "nm0005403",
-        "nm0091899",
-        "nm5114966"
-      ],
-      "viconst": "vi655411225"
     },
     {
       "name": "Ballad of a Small Player",
@@ -327,386 +327,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt26933824",
-        "titleText": {
-          "text": "Nobody Wants This"
-        },
-        "titleType": {
-          "id": "tvSeries"
-        },
-        "releaseYear": {
-          "year": 2024
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nobody Wants This",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nadie quiere esto",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nadie quiere esto",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Untitled Kristen Bell Netflix Series",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Untitled Kristen Bell Netflix Series",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bármit, csak ezt ne",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nikt tego nie chce",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ninguém Quer",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ninguém Quer Isto",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nitko ovo ne želi",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Personne ne veut ça",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Shiksa",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Нико ово не жели",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Никто этого не хочет",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ніхто цього не хоче",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "天作不合的我們",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "天作不和的我们",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "An agnostic sex podcaster and a newly single rabbi fall in love; discovering if their relationship can survive their wildly different lives and meddling families."
-          }
-        },
-        "primaryImage": {
-          "id": "rm2350689026",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGEyNWU3M2EtY2QzNy00NmFmLWI0MDQtMWQzNzdlZjE4MWRiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meterRanking": {
-          "currentRank": 2,
-          "meterType": "TV_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 95
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 7.8
-        },
-        "releaseDate": {
-          "year": 2024,
-          "month": 9,
-          "day": 26
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "originalTitleText": {
-          "text": "Nobody Wants This"
-        },
-        "runtime": {
-          "seconds": 1800
-        }
-      },
       {
         "id": "tt32376165",
         "titleText": {
@@ -1116,12 +736,12 @@
         }
       },
       {
-        "id": "tt30472557",
+        "id": "tt19244304",
         "titleText": {
-          "text": "Chainsaw Man - The Movie: Reze Arc"
+          "text": "It: Welcome to Derry"
         },
         "titleType": {
-          "id": "movie"
+          "id": "tvSeries"
         },
         "releaseYear": {
           "year": 2025
@@ -1130,37 +750,7 @@
           "edges": [
             {
               "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "text": "Welcome to Derry",
                 "country": {
                   "id": "DE",
                   "text": "Germany"
@@ -1169,181 +759,16 @@
             },
             {
               "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "text": "Welcome to Derry",
                 "country": {
-                  "id": "HU",
-                  "text": "Hungary"
+                  "id": "EC",
+                  "text": "Ecuador"
                 }
               }
             },
             {
               "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Reze Arc",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: The Movie - Reze Arc",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: The Movie - Reze Arc",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Человек-бензопила. Фильм: История Резе",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Человек-бензопила. Фильм: История Резе",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - Il film: La storia di Reze",
+                "text": "Welcome to Derry",
                 "country": {
                   "id": "IT",
                   "text": "Italy"
@@ -1352,108 +777,7 @@
             },
             {
               "node": {
-                "text": "Chainsaw Man - la película: Arco de Reze",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - Le Film: L'arc de Reze",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - O Filme: Arco da Reze",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - O Filme: Reze Arc",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man - The Movie: Chương Reze",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man filmas: Reze arka",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: La Película - Arco de Reze",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: The Movie: Reze Arc",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chensô Man Reze-hen"
-              }
-            },
-            {
-              "node": {
-                "text": "El arco de Reze",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "चेनसॉ मैन - दी मूवी: रेज़े आर्क",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "劇場版『チェンソーマン レゼ篇』",
+                "text": "Welcome to Derry",
                 "country": {
                   "id": "JP",
                   "text": "Japan"
@@ -1465,7 +789,497 @@
             },
             {
               "node": {
-                "text": "劇場版『鏈鋸人 蕾潔篇』",
+                "text": "Welcome to Derry",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Bienvenidos a Derry",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Bienvenidos a Derry",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ça: Bienvenue à Derry",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Bem-Vindos a Derry",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "To: Witajcie w Derry",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Воно: Ласкаво просимо до Деррі",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Добро пожаловать в Дерри",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "牠：歡迎來到德利鎮",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1526053890",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWE0ZWM1MjUtNmYzYS00NzU3LTkxYmQtNmI3NTc0ZTY1NmVlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1638,
+          "height": 2048
+        },
+        "meterRanking": {
+          "currentRank": 11,
+          "meterType": "TV_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 18
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 8.2
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 26
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "originalTitleText": {
+          "text": "It: Welcome to Derry"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt26933824",
+        "titleText": {
+          "text": "Nobody Wants This"
+        },
+        "titleType": {
+          "id": "tvSeries"
+        },
+        "releaseYear": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nobody Wants This",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nadie quiere esto",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nadie quiere esto",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Kristen Bell Netflix Series",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Kristen Bell Netflix Series",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bármit, csak ezt ne",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nikt tego nie chce",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ninguém Quer",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ninguém Quer Isto",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nitko ovo ne želi",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Personne ne veut ça",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Shiksa",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Нико ово не жели",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Никто этого не хочет",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ніхто цього не хоче",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "天作不合的我們",
                 "country": {
                   "id": "TW",
                   "text": "Taiwan"
@@ -1474,13 +1288,13 @@
             },
             {
               "node": {
-                "text": "鏈鋸人 - 劇場版：蕾潔篇",
+                "text": "天作不和的我们",
                 "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
+                  "id": "CN",
+                  "text": "China"
                 },
                 "language": {
-                  "text": "Cantonese"
+                  "text": "Mandarin"
                 }
               }
             }
@@ -1488,48 +1302,33 @@
         },
         "plot": {
           "plotText": {
-            "plainText": "Denji encounters a new romantic interest, Reze, who works at a coffee café."
+            "plainText": "An agnostic sex podcaster and a newly single rabbi fall in love; discovering if their relationship can survive their wildly different lives and meddling families."
           }
         },
         "primaryImage": {
-          "id": "rm1285138946",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_.jpg",
-          "width": 6072,
-          "height": 9000
+          "id": "rm2350689026",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGEyNWU3M2EtY2QzNy00NmFmLWI0MDQtMWQzNzdlZjE4MWRiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
         },
         "meterRanking": {
-          "currentRank": 18,
-          "meterType": "MOVIE_METER",
+          "currentRank": 2,
+          "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 94
+            "difference": 95
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 8.6
+          "aggregateRating": 7.8
         },
         "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 24
+          "year": 2024,
+          "month": 9,
+          "day": 26
         },
         "titleGenres": {
           "genres": [
-            {
-              "genre": {
-                "text": "Animation"
-              }
-            },
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
             {
               "genre": {
                 "text": "Comedy"
@@ -1537,34 +1336,24 @@
             },
             {
               "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
+                "text": "Drama"
               }
             },
             {
               "genre": {
                 "text": "Romance"
               }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
             }
           ]
         },
         "certificate": {
-          "rating": "R"
+          "rating": "TV-MA"
         },
         "originalTitleText": {
-          "text": "Gekijô-ban Chensô Man Reze-hen"
+          "text": "Nobody Wants This"
         },
         "runtime": {
-          "seconds": 6000
+          "seconds": 1800
         }
       },
       {
@@ -2068,6 +1857,564 @@
         },
         "runtime": {
           "seconds": 7200
+        }
+      },
+      {
+        "id": "tt30472557",
+        "titleText": {
+          "text": "Chainsaw Man - The Movie: Reze Arc"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man La Película - Arco De Reze",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man La Película - Arco De Reze",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: La Película - Arco de Reze",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: La Película - Arco de Reze",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: The Movie - Reze Arc",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: The Movie - Reze Arc",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Человек-бензопила. Фильм: История Резе",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Человек-бензопила. Фильм: История Резе",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - Il film: La storia di Reze",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - la película: Arco de Reze",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - Le Film: L'arc de Reze",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - O Filme: Arco da Reze",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - O Filme: Reze Arc",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Chương Reze",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man filmas: Reze arka",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: The Movie: Reze Arc",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chensô Man Reze-hen"
+              }
+            },
+            {
+              "node": {
+                "text": "El arco de Reze",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "चेनसॉ मैन - दी मूवी: रेज़े आर्क",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "劇場版『チェンソーマン レゼ篇』",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "劇場版『鏈鋸人 蕾潔篇』",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "鏈鋸人 - 劇場版：蕾潔篇",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "Denji encounters a new romantic interest, Reze, who works at a coffee café."
+          }
+        },
+        "primaryImage": {
+          "id": "rm1285138946",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_.jpg",
+          "width": 6072,
+          "height": 9000
+        },
+        "meterRanking": {
+          "currentRank": 18,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 94
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 8.6
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 24
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Animation"
+              }
+            },
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "originalTitleText": {
+          "text": "Gekijô-ban Chensô Man Reze-hen"
+        },
+        "runtime": {
+          "seconds": 6000
+        }
+      },
+      {
+        "id": "tt32596156",
+        "titleText": {
+          "text": "Talamasca: The Secret Order"
+        },
+        "titleType": {
+          "id": "tvSeries"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "Follows a secretive society which tracks supernatural beings like witches, vampires, and werewolves."
+          }
+        },
+        "primaryImage": {
+          "id": "rm2680601090",
+          "url": "https://m.media-amazon.com/images/M/MV5BN2NiMGI3ZDEtNWU3ZC00ZmFhLWJiNDgtOTNmM2FkNDFkMDljXkEyXkFqcGc@._V1_.jpg",
+          "width": 1841,
+          "height": 2761
+        },
+        "meterRanking": {
+          "currentRank": 76,
+          "meterType": "TV_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 183
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.5
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 10,
+          "day": 26
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "originalTitleText": {
+          "text": "Talamasca: The Secret Order"
         }
       },
       {
@@ -2797,344 +3144,6 @@
         },
         "runtime": {
           "seconds": 6000
-        }
-      },
-      {
-        "id": "tt19244304",
-        "titleText": {
-          "text": "It: Welcome to Derry"
-        },
-        "titleType": {
-          "id": "tvSeries"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Welcome to Derry",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Welcome to Derry",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Welcome to Derry",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Welcome to Derry",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Welcome to Derry",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Bienvenidos a Derry",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Bienvenidos a Derry",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ça: Bienvenue à Derry",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Bem-Vindos a Derry",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "To: Witajcie w Derry",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Воно: Ласкаво просимо до Деррі",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Добро пожаловать в Дерри",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "牠：歡迎來到德利鎮",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town."
-          }
-        },
-        "primaryImage": {
-          "id": "rm1526053890",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWE0ZWM1MjUtNmYzYS00NzU3LTkxYmQtNmI3NTc0ZTY1NmVlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1638,
-          "height": 2048
-        },
-        "meterRanking": {
-          "currentRank": 11,
-          "meterType": "TV_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 18
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 8.3
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 26
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "originalTitleText": {
-          "text": "It: Welcome to Derry"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt32596156",
-        "titleText": {
-          "text": "Talamasca: The Secret Order"
-        },
-        "titleType": {
-          "id": "tvSeries"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Talamasca: The Secret Order",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Talamasca: The Secret Order",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Talamasca: The Secret Order",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "Follows a secretive society which tracks supernatural beings like witches, vampires, and werewolves."
-          }
-        },
-        "primaryImage": {
-          "id": "rm2680601090",
-          "url": "https://m.media-amazon.com/images/M/MV5BN2NiMGI3ZDEtNWU3ZC00ZmFhLWJiNDgtOTNmM2FkNDFkMDljXkEyXkFqcGc@._V1_.jpg",
-          "width": 1841,
-          "height": 2761
-        },
-        "meterRanking": {
-          "currentRank": 76,
-          "meterType": "TV_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 183
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 6.5
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 10,
-          "day": 26
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "originalTitleText": {
-          "text": "Talamasca: The Secret Order"
         }
       },
       {
@@ -4770,7 +4779,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.3
+          "aggregateRating": 5.2
         },
         "releaseDate": {
           "year": 2025,
@@ -7036,7 +7045,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.3
+          "aggregateRating": 7.4
         },
         "releaseDate": {
           "year": 2025,
@@ -7308,7 +7317,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.8
+          "aggregateRating": 7.7
         },
         "releaseDate": {
           "year": 2025,
@@ -8955,7 +8964,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.8
+          "aggregateRating": 5.7
         },
         "releaseDate": {
           "year": 2025,
@@ -8983,66 +8992,6 @@
       }
     ],
     "names": [
-      {
-        "id": "nm0068338",
-        "nameText": {
-          "text": "Kristen Bell"
-        },
-        "primaryImage": {
-          "id": "rm1669421824",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjA1Njc0MTUzN15BMl5BanBnXkFtZTgwNTg1MjEwNDI@._V1_.jpg",
-          "width": 1354,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0111013",
-        "nameText": {
-          "text": "Adam Brody"
-        },
-        "primaryImage": {
-          "id": "rm3195898112",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTY3NzMzMjgyMl5BMl5BanBnXkFtZTcwNjc2OTM4Mg@@._V1_.jpg",
-          "width": 279,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm4419771",
-        "nameText": {
-          "text": "Justine Lupe"
-        },
-        "primaryImage": {
-          "id": "rm3900921345",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWZiMjllYzgtNzM4ZC00MmVmLWFhMGEtZjkwZDJjNWYwYWFhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1366,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm3985937",
-        "nameText": {
-          "text": "Timothy Simons"
-        },
-        "primaryImage": {
-          "id": "rm1757323009",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDJmMjgwYzItNGQyMi00ZDg2LWJiNzEtZmYwZTNmNjNmMzg2XkEyXkFqcGc@._V1_.jpg",
-          "width": 894,
-          "height": 922
-        }
-      },
-      {
-        "id": "nm0865626",
-        "nameText": {
-          "text": "Jackie Tohn"
-        },
-        "primaryImage": {
-          "id": "rm2905448705",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDJiMjI5MDItNTI3ZC00ODdiLWI4OGQtYTJlNzBiNzVlZDI4XkEyXkFqcGc@._V1_.jpg",
-          "width": 5616,
-          "height": 3744
-        }
-      },
       {
         "id": "nm0272581",
         "nameText": {
@@ -9116,6 +9065,102 @@
         }
       },
       {
+        "id": "nm5381254",
+        "nameText": {
+          "text": "Jovan Adepo"
+        },
+        "primaryImage": {
+          "id": "rm3091081473",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDJkYzY2NDAtYWJmNy00OGQzLWEzMTAtZGMxMGFiYWZlMjVmXkEyXkFqcGc@._V1_.jpg",
+          "width": 581,
+          "height": 852
+        }
+      },
+      {
+        "id": "nm3666749",
+        "nameText": {
+          "text": "Taylour Paige"
+        },
+        "primaryImage": {
+          "id": "rm4070712833",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGRhMmI3N2MtODMzOC00NGJlLTkxMzEtZDMzMDZkYWIyMjgyXkEyXkFqcGc@._V1_.jpg",
+          "width": 3000,
+          "height": 2000
+        }
+      },
+      {
+        "id": "nm0803889",
+        "nameText": {
+          "text": "Bill Skarsgård"
+        },
+        "primaryImage": {
+          "id": "rm1304069121",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmNhMDQ1YjktYTg1Ny00Mjg0LWFmZTgtMmE0OTkxYmQzYzVlXkEyXkFqcGc@._V1_.jpg",
+          "width": 4638,
+          "height": 3236
+        }
+      },
+      {
+        "id": "nm0068338",
+        "nameText": {
+          "text": "Kristen Bell"
+        },
+        "primaryImage": {
+          "id": "rm1669421824",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA1Njc0MTUzN15BMl5BanBnXkFtZTgwNTg1MjEwNDI@._V1_.jpg",
+          "width": 1354,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0111013",
+        "nameText": {
+          "text": "Adam Brody"
+        },
+        "primaryImage": {
+          "id": "rm3195898112",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTY3NzMzMjgyMl5BMl5BanBnXkFtZTcwNjc2OTM4Mg@@._V1_.jpg",
+          "width": 279,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm4419771",
+        "nameText": {
+          "text": "Justine Lupe"
+        },
+        "primaryImage": {
+          "id": "rm3900921345",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWZiMjllYzgtNzM4ZC00MmVmLWFhMGEtZjkwZDJjNWYwYWFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1366,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm3985937",
+        "nameText": {
+          "text": "Timothy Simons"
+        },
+        "primaryImage": {
+          "id": "rm1757323009",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDJmMjgwYzItNGQyMi00ZDg2LWJiNzEtZmYwZTNmNjNmMzg2XkEyXkFqcGc@._V1_.jpg",
+          "width": 894,
+          "height": 922
+        }
+      },
+      {
+        "id": "nm0865626",
+        "nameText": {
+          "text": "Jackie Tohn"
+        },
+        "primaryImage": {
+          "id": "rm2905448705",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDJiMjI5MDItNTI3ZC00ODdiLWI4OGQtYTJlNzBiNzVlZDI4XkEyXkFqcGc@._V1_.jpg",
+          "width": 5616,
+          "height": 3744
+        }
+      },
+      {
         "id": "nm2087739",
         "nameText": {
           "text": "Jeremy Allen White"
@@ -9173,6 +9218,66 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMTUwMjkxMTI5Ml5BMl5BanBnXkFtZTcwNTU0NDAwNA@@._V1_.jpg",
           "width": 2100,
           "height": 3150
+        }
+      },
+      {
+        "id": "nm5485987",
+        "nameText": {
+          "text": "Nicholas Denton"
+        },
+        "primaryImage": {
+          "id": "rm544221953",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MjgxNTAtNzU0Yi00MTRiLWFjZTAtNTE1ZTAzMzIzZTlkXkEyXkFqcGc@._V1_.jpg",
+          "width": 3996,
+          "height": 4996
+        }
+      },
+      {
+        "id": "nm0001527",
+        "nameText": {
+          "text": "Elizabeth McGovern"
+        },
+        "primaryImage": {
+          "id": "rm1075494144",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjI3MzM5ODYyNF5BMl5BanBnXkFtZTcwODIwNzk4Ng@@._V1_.jpg",
+          "width": 900,
+          "height": 1352
+        }
+      },
+      {
+        "id": "nm0005403",
+        "nameText": {
+          "text": "Jason Schwartzman"
+        },
+        "primaryImage": {
+          "id": "rm2603505665",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTIwZDg3NjctNTJiOC00YjgzLThmOTAtNmQxYTY0N2ZkODNiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1240,
+          "height": 775
+        }
+      },
+      {
+        "id": "nm0091899",
+        "nameText": {
+          "text": "Eric Bogosian"
+        },
+        "primaryImage": {
+          "id": "rm3310484224",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDUyODIxMDc1OF5BMl5BanBnXkFtZTgwNzYwMDcxMzE@._V1_.jpg",
+          "width": 3162,
+          "height": 2100
+        }
+      },
+      {
+        "id": "nm5114966",
+        "nameText": {
+          "text": "Maisie Richardson-Sellers"
+        },
+        "primaryImage": {
+          "id": "rm290961410",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGM0NjIyNTUtYWNhZC00ZTA4LWEwZTktMGI1NjNhODhlYzljXkEyXkFqcGc@._V1_CR115,1,945,1417_.jpg",
+          "width": 945,
+          "height": 1417
         }
       },
       {
@@ -9269,102 +9374,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BY2I1OGZmNWQtNjMzZC00NWViLWE0M2UtMmE4MWQ5MmY5NWQ3XkEyXkFqcGc@._V1_.jpg",
           "width": 729,
           "height": 534
-        }
-      },
-      {
-        "id": "nm5381254",
-        "nameText": {
-          "text": "Jovan Adepo"
-        },
-        "primaryImage": {
-          "id": "rm3091081473",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDJkYzY2NDAtYWJmNy00OGQzLWEzMTAtZGMxMGFiYWZlMjVmXkEyXkFqcGc@._V1_.jpg",
-          "width": 581,
-          "height": 852
-        }
-      },
-      {
-        "id": "nm3666749",
-        "nameText": {
-          "text": "Taylour Paige"
-        },
-        "primaryImage": {
-          "id": "rm4070712833",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGRhMmI3N2MtODMzOC00NGJlLTkxMzEtZDMzMDZkYWIyMjgyXkEyXkFqcGc@._V1_.jpg",
-          "width": 3000,
-          "height": 2000
-        }
-      },
-      {
-        "id": "nm0803889",
-        "nameText": {
-          "text": "Bill Skarsgård"
-        },
-        "primaryImage": {
-          "id": "rm1304069121",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmNhMDQ1YjktYTg1Ny00Mjg0LWFmZTgtMmE0OTkxYmQzYzVlXkEyXkFqcGc@._V1_.jpg",
-          "width": 4638,
-          "height": 3236
-        }
-      },
-      {
-        "id": "nm5485987",
-        "nameText": {
-          "text": "Nicholas Denton"
-        },
-        "primaryImage": {
-          "id": "rm544221953",
-          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MjgxNTAtNzU0Yi00MTRiLWFjZTAtNTE1ZTAzMzIzZTlkXkEyXkFqcGc@._V1_.jpg",
-          "width": 3996,
-          "height": 4996
-        }
-      },
-      {
-        "id": "nm0001527",
-        "nameText": {
-          "text": "Elizabeth McGovern"
-        },
-        "primaryImage": {
-          "id": "rm1075494144",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjI3MzM5ODYyNF5BMl5BanBnXkFtZTcwODIwNzk4Ng@@._V1_.jpg",
-          "width": 900,
-          "height": 1352
-        }
-      },
-      {
-        "id": "nm0005403",
-        "nameText": {
-          "text": "Jason Schwartzman"
-        },
-        "primaryImage": {
-          "id": "rm2603505665",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTIwZDg3NjctNTJiOC00YjgzLThmOTAtNmQxYTY0N2ZkODNiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1240,
-          "height": 775
-        }
-      },
-      {
-        "id": "nm0091899",
-        "nameText": {
-          "text": "Eric Bogosian"
-        },
-        "primaryImage": {
-          "id": "rm3310484224",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDUyODIxMDc1OF5BMl5BanBnXkFtZTgwNzYwMDcxMzE@._V1_.jpg",
-          "width": 3162,
-          "height": 2100
-        }
-      },
-      {
-        "id": "nm5114966",
-        "nameText": {
-          "text": "Maisie Richardson-Sellers"
-        },
-        "primaryImage": {
-          "id": "rm290961410",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGM0NjIyNTUtYWNhZC00ZTA4LWEwZTktMGI1NjNhODhlYzljXkEyXkFqcGc@._V1_CR115,1,945,1417_.jpg",
-          "width": 945,
-          "height": 1417
         }
       },
       {
@@ -10115,16 +10124,28 @@
     "videos": [],
     "images": [
       {
+        "id": "rm643544066",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTdmZWQyZmYtZjZjNS00NThlLWJkOWYtNGQwNTIxMzJhYjliXkEyXkFqcGc@._V1_.jpg",
+        "width": 7130,
+        "height": 4748
+      },
+      {
+        "id": "rm2992800770",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWRkN2Y5NjEtN2FjOC00YzE0LTkzZGQtODRhNzU3YTk2MWMzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      {
         "id": "rm2568792834",
         "url": "https://m.media-amazon.com/images/M/MV5BMDRhNTViYTMtYmViMy00NjFhLWJlYzktOTlhOWVhY2VlZDVmXkEyXkFqcGc@._V1_.jpg",
         "width": 3600,
         "height": 2400
       },
       {
-        "id": "rm643544066",
-        "url": "https://m.media-amazon.com/images/M/MV5BNTdmZWQyZmYtZjZjNS00NThlLWJkOWYtNGQwNTIxMzJhYjliXkEyXkFqcGc@._V1_.jpg",
-        "width": 7130,
-        "height": 4748
+        "id": "rm2201991170",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDAxZjFmYWYtNmJkNC00NzIxLWE2M2EtYmI4ZmZhODlkMzYxXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1606
       },
       {
         "id": "rm3828069634",
@@ -10133,10 +10154,10 @@
         "height": 540
       },
       {
-        "id": "rm2201991170",
-        "url": "https://m.media-amazon.com/images/M/MV5BMDAxZjFmYWYtNmJkNC00NzIxLWE2M2EtYmI4ZmZhODlkMzYxXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1606
+        "id": "rm1327016706",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDJjYjc4OTgtYmRhMS00MmVjLTg0ZjctZjZkNjVlZDk5NTA2XkEyXkFqcGc@._V1_.jpg",
+        "width": 5046,
+        "height": 3364
       },
       {
         "id": "rm69777154",
@@ -10149,18 +10170,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BYzgwYjQ3MjYtNWEzMC00MDY0LTljZjctODFmZDJhZjBjOTE5XkEyXkFqcGc@._V1_.jpg",
         "width": 1780,
         "height": 1187
-      },
-      {
-        "id": "rm2992800770",
-        "url": "https://m.media-amazon.com/images/M/MV5BZWRkN2Y5NjEtN2FjOC00YzE0LTkzZGQtODRhNzU3YTk2MWMzXkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1080
-      },
-      {
-        "id": "rm1327016706",
-        "url": "https://m.media-amazon.com/images/M/MV5BMDJjYjc4OTgtYmRhMS00MmVjLTg0ZjctZjZkNjVlZDk5NTA2XkEyXkFqcGc@._V1_.jpg",
-        "width": 5046,
-        "height": 3364
       },
       {
         "id": "rm2249374978",
