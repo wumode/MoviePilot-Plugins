@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-28 06:34:01",
+  "updated_at": "2025-10-30 18:33:27",
   "entries": [
     {
       "name": "A House of Dynamite",
@@ -588,6 +588,18 @@
             },
             {
               "node": {
+                "text": "Dinamit Evi",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Dom pełen dynamitu",
                 "country": {
                   "id": "PL",
@@ -637,6 +649,18 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Une situation explosive",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
@@ -704,7 +728,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.6
+          "aggregateRating": 6.5
         },
         "releaseDate": {
           "year": 2025,
@@ -750,6 +774,69 @@
           "edges": [
             {
               "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Welcome to Derry",
                 "country": {
                   "id": "DE",
@@ -793,45 +880,6 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
                 }
               }
             },
@@ -894,6 +942,15 @@
             },
             {
               "node": {
+                "text": "Tas: Laipni lūgti Derijā",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "To: Witajcie w Derry",
                 "country": {
                   "id": "PL",
@@ -912,7 +969,7 @@
             },
             {
               "node": {
-                "text": "Добро пожаловать в Дерри",
+                "text": "Оно: Добро пожаловать в Дерри",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
@@ -950,7 +1007,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 8.2
+          "aggregateRating": 8.0
         },
         "releaseDate": {
           "year": 2025,
@@ -970,7 +1027,7 @@
           "rating": "TV-MA"
         },
         "originalTitleText": {
-          "text": "It: Welcome to Derry"
+          "text": "IT: Welcome to Derry"
         },
         "runtime": {
           "seconds": 3600
@@ -1608,6 +1665,24 @@
             },
             {
               "node": {
+                "text": "Springsteen: Música de Ninguna Parte",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Springsteen: Música de Ninguna Parte",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Спрингстин. Избавь меня от небытия",
                 "country": {
                   "id": "KZ",
@@ -1856,7 +1931,7 @@
           "text": "Springsteen: Deliver Me from Nowhere"
         },
         "runtime": {
-          "seconds": 7200
+          "seconds": 7140
         }
       },
       {
@@ -1898,6 +1973,18 @@
                   "text": "Canada"
                 },
                 "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
                   "text": "French"
                 }
               }
@@ -1908,6 +1995,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
                 }
               }
             },
@@ -2002,6 +2098,15 @@
               "node": {
                 "text": "Chainsaw Man - The Movie: Reze Arc",
                 "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -2021,25 +2126,7 @@
             },
             {
               "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man La Película - Arco De Reze",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: La Película - Arco de Reze",
+                "text": "Chainsaw Man - La Película: Arco de Reze",
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
@@ -2048,28 +2135,19 @@
             },
             {
               "node": {
-                "text": "Chainsaw Man: La Película - Arco de Reze",
+                "text": "Chainsaw Man - La Película: Arco de Reze",
                 "country": {
-                  "id": "PE",
-                  "text": "Peru"
+                  "id": "CL",
+                  "text": "Chile"
                 }
               }
             },
             {
               "node": {
-                "text": "Chainsaw Man: The Movie - Reze Arc",
+                "text": "Chainsaw Man - La Película: Arco de Reze",
                 "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chainsaw Man: The Movie - Reze Arc",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
+                  "id": "CO",
+                  "text": "Colombia"
                 }
               }
             },
@@ -2096,10 +2174,19 @@
             },
             {
               "node": {
-                "text": "Chainsaw Man",
+                "text": "Chainsaw Man - Film: Rezina priča",
                 "country": {
-                  "id": "NO",
-                  "text": "Norway"
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - filma: Reze stāsts",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
                 }
               }
             },
@@ -2118,6 +2205,15 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - La película: El arco de Reze",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
                 }
               }
             },
@@ -2168,28 +2264,25 @@
             },
             {
               "node": {
-                "text": "Chainsaw Man: The Movie: Reze Arc",
+                "text": "Chainsaw Man: La Película - Arco de Reze",
                 "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man: The Movie - Reze Arc",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
                 }
               }
             },
             {
               "node": {
                 "text": "Chensô Man Reze-hen"
-              }
-            },
-            {
-              "node": {
-                "text": "El arco de Reze",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
               }
             },
             {
@@ -2355,8 +2448,83 @@
               "node": {
                 "text": "Talamasca: The Secret Order",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: La Orden Secreta, de Anne Rice",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Talamasca: The Secret Order",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
                 }
               }
             }
@@ -2382,7 +2550,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.5
+          "aggregateRating": 6.6
         },
         "releaseDate": {
           "year": 2025,
@@ -2951,6 +3119,18 @@
               "node": {
                 "text": "Blue Moon",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Blue Moon",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -3325,6 +3505,15 @@
               "node": {
                 "text": "Maldita suerte",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Maldita suerte",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -3380,10 +3569,28 @@
             },
             {
               "node": {
+                "text": "Egy szerencsejátékos vallomása",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "La ballata di un piccolo giocatore",
                 "country": {
                   "id": "IT",
                   "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Балада про дрібного гравця",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             },
@@ -3418,7 +3625,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.1
+          "aggregateRating": 5.9
         },
         "releaseDate": {
           "year": 2025,
@@ -4638,6 +4845,18 @@
               "node": {
                 "text": "The Hand That Rocks the Cradle",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -4664,6 +4883,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hand That Rocks the Cradle",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4756,6 +4987,15 @@
                   "text": "Russia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "推動搖籃的手",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
             }
           ]
         },
@@ -4779,7 +5019,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.2
+          "aggregateRating": 5.3
         },
         "releaseDate": {
           "year": 2025,
@@ -5316,7 +5556,7 @@
         },
         "plot": {
           "plotText": {
-            "plainText": "An anthology series about high-profile crimes or killers that captured public attention and notoriety."
+            "plainText": "Chronicles the real life stories of infamous serial killers, presenting several different perspectives of their cases."
           }
         },
         "primaryImage": {
@@ -5719,7 +5959,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.9
+          "aggregateRating": 5.8
         },
         "releaseDate": {
           "year": 2025,
@@ -6510,6 +6750,24 @@
             },
             {
               "node": {
+                "text": "Lopov s krova",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lopov s krova",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Un buen ladrón",
                 "country": {
                   "id": "AR",
@@ -6574,15 +6832,6 @@
                 "country": {
                   "id": "EE",
                   "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lopov s krova",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
                 }
               }
             },
@@ -7045,7 +7294,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.4
+          "aggregateRating": 7.3
         },
         "releaseDate": {
           "year": 2025,
@@ -7635,6 +7884,18 @@
                 "country": {
                   "id": "EE",
                   "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mekhonat Ha'Makhatz",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
                 }
               }
             },
@@ -8324,7 +8585,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.8
+          "aggregateRating": 5.7
         },
         "releaseDate": {
           "year": 2025,
@@ -8615,6 +8876,15 @@
                 "country": {
                   "id": "LT",
                   "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Good Boy - Fiel Até à Morte",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
                 }
               }
             },
@@ -8939,6 +9209,15 @@
                 "country": {
                   "id": "GR",
                   "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Анемона",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             }
@@ -9334,10 +9613,10 @@
           "text": "Margaret Qualley"
         },
         "primaryImage": {
-          "id": "rm2157481986",
-          "url": "https://m.media-amazon.com/images/M/MV5BN2Q4MjgyNGMtNzY5Ni00Mjc1LTk5OWUtNjgzYTYzOWM5MzMyXkEyXkFqcGc@._V1_CR285,0,449,674_.jpg",
-          "width": 449,
-          "height": 674
+          "id": "rm4179274754",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDZmNGE1ZjQtNjhiZi00MWNkLWJiZjctOGQyZjFjM2E5MmUwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1170,
+          "height": 1474
         }
       },
       {
@@ -9415,7 +9694,7 @@
       {
         "id": "nm0409677",
         "nameText": {
-          "text": "Deanie lp"
+          "text": "Deanie Ip"
         },
         "primaryImage": {
           "id": "rm3786448128",
