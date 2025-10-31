@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-30 18:33:27",
+  "updated_at": "2025-10-31 18:33:45",
   "entries": [
     {
       "name": "A House of Dynamite",
@@ -797,15 +797,6 @@
               "node": {
                 "text": "It: Welcome to Derry",
                 "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
                   "id": "HK",
                   "text": "Hong Kong"
                 },
@@ -885,19 +876,10 @@
             },
             {
               "node": {
-                "text": "It: Bienvenidos a Derry",
+                "text": "IT: Welcome to Derry",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Bienvenidos a Derry",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
+                  "id": "GB",
+                  "text": "United Kingdom"
                 }
               }
             },
@@ -919,6 +901,36 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Bienvenidos a Derry",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Bienvenidos a Derry",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
                 }
               }
             },
@@ -1646,6 +1658,15 @@
               "node": {
                 "text": "Springsteen: Música de ninguna parte",
                 "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Springsteen: Música de ninguna parte",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 },
@@ -1660,6 +1681,15 @@
                 "country": {
                   "id": "UY",
                   "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Springsteen: Música de ninguna parte",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
                 }
               }
             },
@@ -1827,10 +1857,28 @@
             },
             {
               "node": {
+                "text": "Springstin: Meni yo'qlikdan qutqar",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Springstīns: Glāb mani no nekurienes",
                 "country": {
                   "id": "LV",
                   "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sprinqstin: Məni yoxluqdan qurtar",
+                "country": {
+                  "id": "AZ",
+                  "text": "Azerbaijan"
                 }
               }
             },
@@ -2107,6 +2155,18 @@
               "node": {
                 "text": "Chainsaw Man - The Movie: Reze Arc",
                 "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chainsaw Man - The Movie: Reze Arc",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -2169,6 +2229,15 @@
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Arra odam. Film: Rezening hikoyasi",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
                 }
               }
             },
@@ -2283,6 +2352,15 @@
             {
               "node": {
                 "text": "Chensô Man Reze-hen"
+              }
+            },
+            {
+              "node": {
+                "text": "Mişar Adam. Film: Rezenin hekayəsi",
+                "country": {
+                  "id": "AZ",
+                  "text": "Azerbaijan"
+                }
               }
             },
             {
@@ -2439,8 +2517,29 @@
               "node": {
                 "text": "Talamasca: The Secret Order",
                 "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Talamasca: The Secret Order",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
                 }
               }
             },
@@ -2824,8 +2923,29 @@
               "node": {
                 "text": "Bugonia",
                 "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bugonia",
+                "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bugonia",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
                 }
               }
             },
@@ -2964,7 +3084,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.6
+          "aggregateRating": 7.7
         },
         "releaseDate": {
           "year": 2025,
@@ -4638,6 +4758,24 @@
             },
             {
               "node": {
+                "text": "Qara telefon 2",
+                "country": {
+                  "id": "AZ",
+                  "text": "Azerbaijan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Qora telefon 2",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Siyah Telefon 2",
                 "country": {
                   "id": "TR",
@@ -4714,27 +4852,6 @@
                 "country": {
                   "id": "JP",
                   "text": "Japan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "接駁靈聲2",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "闇黑電話2",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
                 }
               }
             }
@@ -5823,6 +5940,18 @@
                 "country": {
                   "id": "FR",
                   "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "10 Numaralı Kamara",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
                 }
               }
             },
@@ -9409,10 +9538,10 @@
           "text": "Justine Lupe"
         },
         "primaryImage": {
-          "id": "rm3900921345",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWZiMjllYzgtNzM4ZC00MmVmLWFhMGEtZjkwZDJjNWYwYWFhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1366,
-          "height": 2048
+          "id": "rm1154198786",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjFlNGY2OTctYzAyOS00NzQ0LWE0MDQtNDA4ZDQ4ZThlNzY0XkEyXkFqcGc@._V1_CR1132,84,2736,4103_.jpg",
+          "width": 2736,
+          "height": 4103
         }
       },
       {
@@ -9613,10 +9742,10 @@
           "text": "Margaret Qualley"
         },
         "primaryImage": {
-          "id": "rm4179274754",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDZmNGE1ZjQtNjhiZi00MWNkLWJiZjctOGQyZjFjM2E5MmUwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1170,
-          "height": 1474
+          "id": "rm65252610",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2E2ZThiYzYtYjc4MS00YTY0LTg0ODctNWNlYzZkOWE2MWYwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1145,
+          "height": 1443
         }
       },
       {
