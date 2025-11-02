@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-01 18:33:51",
+  "updated_at": "2025-11-03 00:33:22",
   "entries": [
     {
       "name": "I Love LA",
@@ -911,6 +911,18 @@
               "node": {
                 "text": "Predator: Badlands",
                 "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Predator: Badlands",
+                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -956,8 +968,32 @@
               "node": {
                 "text": "Predator: Badlands",
                 "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Predator: Badlands",
+                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Predator: Badlands",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
                 },
                 "language": {
                   "text": "English"
@@ -2465,6 +2501,18 @@
               "node": {
                 "text": "Christy",
                 "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Christy",
+                "country": {
                   "id": "RO",
                   "text": "Romania"
                 }
@@ -3155,7 +3203,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.3
+          "aggregateRating": 6.1
         },
         "releaseDate": {
           "year": 2025,
@@ -3385,6 +3433,24 @@
             },
             {
               "node": {
+                "text": "El sobreviviente",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El sobreviviente",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "A menekülő ember",
                 "country": {
                   "id": "HU",
@@ -3398,15 +3464,6 @@
                 "country": {
                   "id": "LT",
                   "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El sobreviviente",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
                 }
               }
             },
@@ -3476,6 +3533,15 @@
                 "country": {
                   "id": "VN",
                   "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Uciekinier",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
@@ -3934,6 +4000,18 @@
               "node": {
                 "text": "The Carpenter's Son",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Carpenter's Son",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -4024,7 +4102,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.5
+          "aggregateRating": 4.2
         },
         "releaseDate": {
           "year": 2025,
@@ -5959,6 +6037,18 @@
               "node": {
                 "text": "Zootopia 2",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zootopia 2",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -6746,6 +6836,60 @@
             },
             {
               "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Welcome to Derry",
                 "country": {
                   "id": "DE",
@@ -6789,48 +6933,6 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "IT: Welcome to Derry",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -6937,7 +7039,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 8.0
+          "aggregateRating": 7.9
         },
         "releaseDate": {
           "year": 2025,
