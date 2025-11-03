@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-03 00:33:22",
+  "updated_at": "2025-11-04 06:33:35",
   "entries": [
     {
       "name": "I Love LA",
@@ -341,8 +341,35 @@
               "node": {
                 "text": "I Love LA",
                 "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -361,6 +388,15 @@
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kocham LA",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
@@ -387,14 +423,16 @@
           "height": 1200
         },
         "meterRanking": {
-          "currentRank": 740,
+          "currentRank": 98,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 152
+            "difference": 642
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 6.2
+        },
         "releaseDate": {
           "year": 2025,
           "month": 11,
@@ -794,8 +832,8 @@
           "currentRank": 6,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 9
+            "changeDirection": "FLAT",
+            "difference": 0
           }
         },
         "ratingsSummary": {
@@ -1362,11 +1400,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 44,
+          "currentRank": 16,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 17
+            "difference": 28
           }
         },
         "ratingsSummary": {},
@@ -1589,11 +1627,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 23,
+          "currentRank": 22,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 221
+            "difference": 1
           }
         },
         "ratingsSummary": {},
@@ -1950,11 +1988,11 @@
           "height": 4000
         },
         "meterRanking": {
-          "currentRank": 75,
+          "currentRank": 46,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 8
+            "changeDirection": "UP",
+            "difference": 29
           }
         },
         "ratingsSummary": {
@@ -2295,15 +2333,15 @@
           "height": 2866
         },
         "meterRanking": {
-          "currentRank": 68,
+          "currentRank": 40,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 67
+            "difference": 28
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.6
+          "aggregateRating": 7.5
         },
         "releaseDate": {
           "year": 2025,
@@ -2592,11 +2630,11 @@
           "height": 1350
         },
         "meterRanking": {
-          "currentRank": 317,
+          "currentRank": 151,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 130
+            "difference": 166
           }
         },
         "ratingsSummary": {
@@ -2919,11 +2957,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 469,
+          "currentRank": 498,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "DOWN",
-            "difference": 269
+            "difference": 29
           }
         },
         "ratingsSummary": {
@@ -3195,15 +3233,15 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 1522,
+          "currentRank": 90,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 392
+            "difference": 1432
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.1
+          "aggregateRating": 5.8
         },
         "releaseDate": {
           "year": 2025,
@@ -3469,6 +3507,15 @@
             },
             {
               "node": {
+                "text": "Běžící muž",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Le jeu du défi",
                 "country": {
                   "id": "CA",
@@ -3476,6 +3523,15 @@
                 },
                 "language": {
                   "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Muž na úteku",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
                 }
               }
             },
@@ -3524,6 +3580,24 @@
                 "country": {
                   "id": "LV",
                   "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tekač",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Trkač",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
                 }
               }
             },
@@ -3585,7 +3659,7 @@
         },
         "plot": {
           "plotText": {
-            "plainText": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them."
+            "plainText": "A man joins a game show in which contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them."
           }
         },
         "primaryImage": {
@@ -3595,11 +3669,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 55,
+          "currentRank": 21,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 16
+            "difference": 34
           }
         },
         "ratingsSummary": {},
@@ -3912,11 +3986,11 @@
           "height": 4444
         },
         "meterRanking": {
-          "currentRank": 174,
+          "currentRank": 155,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 108
+            "changeDirection": "UP",
+            "difference": 19
           }
         },
         "ratingsSummary": {},
@@ -3991,6 +4065,18 @@
               "node": {
                 "text": "The Carpenter's Son",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Carpenter's Son",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -4054,6 +4140,18 @@
               "node": {
                 "text": "The Carpenter's Son",
                 "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Carpenter's Son",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -4094,15 +4192,15 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 860,
+          "currentRank": 500,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 402
+            "difference": 360
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 4.2
+          "aggregateRating": 3.9
         },
         "releaseDate": {
           "year": 2025,
@@ -4386,11 +4484,11 @@
           "height": 4000
         },
         "meterRanking": {
-          "currentRank": 66,
+          "currentRank": 48,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 11
+            "difference": 18
           }
         },
         "ratingsSummary": {
@@ -4561,11 +4659,11 @@
           "height": 1920
         },
         "meterRanking": {
-          "currentRank": 951,
+          "currentRank": 460,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 221
+            "changeDirection": "UP",
+            "difference": 491
           }
         },
         "ratingsSummary": {},
@@ -5024,11 +5122,11 @@
           "height": 2500
         },
         "meterRanking": {
-          "currentRank": 137,
+          "currentRank": 93,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 36
+            "changeDirection": "UP",
+            "difference": 44
           }
         },
         "ratingsSummary": {},
@@ -5314,11 +5412,11 @@
           "height": 9000
         },
         "meterRanking": {
-          "currentRank": 340,
+          "currentRank": 245,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 228
+            "difference": 95
           }
         },
         "ratingsSummary": {
@@ -5877,11 +5975,11 @@
           "height": 1350
         },
         "meterRanking": {
-          "currentRank": 6,
+          "currentRank": 3,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 6
+            "difference": 3
           }
         },
         "ratingsSummary": {
@@ -6072,6 +6170,18 @@
                 "country": {
                   "id": "NZ",
                   "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zootopia 2",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
                 },
                 "language": {
                   "text": "English"
@@ -6389,11 +6499,11 @@
           "height": 1610
         },
         "meterRanking": {
-          "currentRank": 241,
+          "currentRank": 80,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 6
+            "changeDirection": "UP",
+            "difference": 161
           }
         },
         "ratingsSummary": {},
@@ -6718,11 +6828,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 454,
+          "currentRank": 218,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 122
+            "changeDirection": "UP",
+            "difference": 236
           }
         },
         "ratingsSummary": {
@@ -6770,7 +6880,7 @@
       {
         "id": "tt19244304",
         "titleText": {
-          "text": "It: Welcome to Derry"
+          "text": "IT: Welcome to Derry"
         },
         "titleType": {
           "id": "tvSeries"
@@ -6782,55 +6892,13 @@
           "edges": [
             {
               "node": {
-                "text": "It: Welcome to Derry",
+                "text": "IT: Welcome to Derry",
                 "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
+                  "id": "EG",
+                  "text": "Egypt"
                 },
                 "language": {
                   "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "It: Welcome to Derry",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
                 }
               }
             },
@@ -6873,6 +6941,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "IT: Welcome to Derry",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
                 }
               }
             },
@@ -6933,6 +7010,51 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "It: Welcome to Derry",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -7031,11 +7153,11 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 11,
+          "currentRank": 1,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 18
+            "difference": 10
           }
         },
         "ratingsSummary": {
@@ -7401,11 +7523,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 2,
+          "currentRank": 4,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 95
+            "changeDirection": "DOWN",
+            "difference": 2
           }
         },
         "ratingsSummary": {
@@ -7458,6 +7580,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Bugonia",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Bugonia",
@@ -7837,11 +7968,11 @@
           "height": 11811
         },
         "meterRanking": {
-          "currentRank": 12,
+          "currentRank": 3,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 16
+            "difference": 9
           }
         },
         "ratingsSummary": {
