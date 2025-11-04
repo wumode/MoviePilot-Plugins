@@ -78,7 +78,7 @@ class ImdbHelper:
             return None
         try:
             hash_data = json.loads(res)
-            data = ImdbApiHash.parse_obj(hash_data)
+            data = ImdbApiHash.model_validate(hash_data)
         except (JSONDecodeError, ValidationError):
             return None
         return data
@@ -99,7 +99,7 @@ class ImdbHelper:
             logger.error("Error getting staff picks")
             return None
         try:
-            data = StaffPickApiResponse.parse_obj(json.loads(res))
+            data = StaffPickApiResponse.model_validate(json.loads(res))
         except (JSONDecodeError, ValidationError):
             return None
         return data
@@ -566,4 +566,3 @@ class ImdbHelper:
             mediainfo.release_date = ImdbHelper.release_date_string(info.release_date)
 
         return mediainfo
-

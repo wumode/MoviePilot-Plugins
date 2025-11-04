@@ -79,7 +79,7 @@ class ImdbApiClient:
             r = self._free_imdb_api(path=path, params=params)
             if r is None:
                 return None
-            ret = ImdbApiSearchTitlesResponse.parse_obj(r)
+            ret = ImdbApiSearchTitlesResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while searching for titles: {e}")
             return None
@@ -95,7 +95,7 @@ class ImdbApiClient:
             r = await self._async_free_imdb_api(path=endpoint, params=params)
             if r is None:
                 return None
-            ret = ImdbApiSearchTitlesResponse.parse_obj(r)
+            ret = ImdbApiSearchTitlesResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while searching for titles: {e}")
             return None
@@ -254,7 +254,7 @@ class ImdbApiClient:
             params['pageToken'] = page_token
 
         try:
-            return ImdbApiListTitlesResponse.parse_obj(self._free_imdb_api(path=path, params=params))
+            return ImdbApiListTitlesResponse.model_validate(self._free_imdb_api(path=path, params=params))
         except Exception as e:
             logger.debug(f"An error occurred while listing titles: {e}")
             return None
@@ -312,7 +312,7 @@ class ImdbApiClient:
             r = await self._async_free_imdb_api(path=path, params=params)
             if r is None:
                 return None
-            return ImdbApiListTitlesResponse.parse_obj(r)
+            return ImdbApiListTitlesResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while listing titles: {e}")
             return None
@@ -415,7 +415,7 @@ class ImdbApiClient:
         path = '/titles/%s'
         try:
             r = self._free_imdb_api(path=path % title_id)
-            ret = ImdbApiTitle.parse_obj(r)
+            ret = ImdbApiTitle.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving details: {e}")
             return None
@@ -427,7 +427,7 @@ class ImdbApiClient:
             r = await self._async_free_imdb_api(path=path % title_id)
             if r is None:
                 return None
-            ret = ImdbApiTitle.parse_obj(r)
+            ret = ImdbApiTitle.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving details: {e}")
             return None
@@ -457,7 +457,7 @@ class ImdbApiClient:
             param['pageToken'] = page_token
         try:
             r = self._free_imdb_api(path=path % title_id, params=param)
-            ret = ImdbApiListTitleEpisodesResponse.parse_obj(r)
+            ret = ImdbApiListTitleEpisodesResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving episodes: {e}")
             return None
@@ -479,7 +479,7 @@ class ImdbApiClient:
             r = await self._async_free_imdb_api(path=path % title_id, params=param)
             if r is None:
                 return None
-            ret = ImdbApiListTitleEpisodesResponse.parse_obj(r)
+            ret = ImdbApiListTitleEpisodesResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving episodes: {e}")
             return None
@@ -533,7 +533,7 @@ class ImdbApiClient:
         path = '/titles/%s/seasons'
         try:
             r = self._free_imdb_api(path=path % title_id)
-            ret = ImdbApiListTitleSeasonsResponse.parse_obj(r)
+            ret = ImdbApiListTitleSeasonsResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving seasons: {e}")
             return None
@@ -545,7 +545,7 @@ class ImdbApiClient:
             r = await self._async_free_imdb_api(path=path % title_id)
             if r is None:
                 return None
-            ret = ImdbApiListTitleSeasonsResponse.parse_obj(r)
+            ret = ImdbApiListTitleSeasonsResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving seasons: {e}")
             return None
@@ -575,7 +575,7 @@ class ImdbApiClient:
             param['pageToken'] = page_token
         try:
             r = self._free_imdb_api(path=path % title_id, params=param)
-            ret = ImdbApiListTitleCreditsResponse.parse_obj(r)
+            ret = ImdbApiListTitleCreditsResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving credits: {e}")
             return None
@@ -597,7 +597,7 @@ class ImdbApiClient:
             r = await self._async_free_imdb_api(path=path % title_id, params=param)
             if r is None:
                 return None
-            ret = ImdbApiListTitleCreditsResponse.parse_obj(r)
+            ret = ImdbApiListTitleCreditsResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving credits: {e}")
             return None
@@ -652,7 +652,7 @@ class ImdbApiClient:
         path = '/titles/%s/akas'
         try:
             r = self._free_imdb_api(path=path % title_id)
-            ret = ImdbapiListTitleAKAsResponse.parse_obj(r)
+            ret = ImdbapiListTitleAKAsResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving alternative titles: {e}")
             return None
@@ -666,7 +666,7 @@ class ImdbApiClient:
             r = await self._async_free_imdb_api(path=path % title_id)
             if r is None:
                 return None
-            ret = ImdbapiListTitleAKAsResponse.parse_obj(r)
+            ret = ImdbapiListTitleAKAsResponse.model_validate(r)
         except Exception as e:
             logger.debug(f"An error occurred while retrieving alternative titles: {e}")
             return None

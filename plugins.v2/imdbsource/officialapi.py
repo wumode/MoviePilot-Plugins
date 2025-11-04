@@ -402,7 +402,7 @@ class OfficialApiClient:
                 if error:
                     logger.error(f"Error querying VerticalListPageItems: {error}")
                 return None
-            ret = VerticalList.parse_obj(data)
+            ret = VerticalList.model_validate(data)
         except Exception as e:
             logger.debug(f"An error occurred while querying VerticalListPageItems: {e}")
             return None
@@ -430,7 +430,7 @@ class OfficialApiClient:
                 if error:
                     logger.error(f"Error querying VerticalListPageItems: {error}")
                 return None
-            ret = VerticalList.parse_obj(data)
+            ret = VerticalList.model_validate(data)
         except Exception as e:
             logger.debug(f"An error occurred while querying VerticalListPageItems: {e}")
             return None
@@ -514,7 +514,7 @@ class OfficialApiClient:
                     raise PersistedQueryNotFound(error['message'])
             return None
         try:
-            ret = AdvancedTitleSearchResponse.parse_obj(data)
+            ret = AdvancedTitleSearchResponse.model_validate(data)
         except ValidationError as err:
             logger.error(f"{err}")
             return None

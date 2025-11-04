@@ -30,7 +30,7 @@ class ImdbSource(_PluginBase):
     # 插件图标
     plugin_icon = "IMDb_IOS-OSX_App.png"
     # 插件版本
-    plugin_version = "1.6.2"
+    plugin_version = "1.6.3"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -1805,7 +1805,7 @@ class ImdbSource(_PluginBase):
             mediainfo = ImdbHelper.convert_mediainfo(info)
             mediainfo.tmdb_id = self.imdb_to_tmdb(info.id, mediainfo)
             cat = ImdbHelper.get_category(ImdbHelper.type_to_mtype(info.type.value),
-                                          info.dict(by_alias=True, exclude_none=True))
+                                          info.model_dump(by_alias=True, exclude_none=True))
             mediainfo.set_category(cat)
             logger.info(f"{meta.name} IMDb 识别结果：{mediainfo.type.value} "
                         f"{mediainfo.title_year} "
@@ -1875,7 +1875,7 @@ class ImdbSource(_PluginBase):
             mediainfo = ImdbHelper.convert_mediainfo(info)
             mediainfo.tmdb_id = await self.async_imdb_to_tmdb(info.id, mediainfo)
             cat = ImdbHelper.get_category(ImdbHelper.type_to_mtype(info.type.value),
-                                          info.dict(by_alias=True, exclude_none=True))
+                                          info.model_dump(by_alias=True, exclude_none=True))
             mediainfo.set_category(cat)
             logger.info(f"{meta.name} IMDb 识别结果：{mediainfo.type.value} "
                         f"{mediainfo.title_year} "

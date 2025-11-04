@@ -8,12 +8,11 @@ import sys
 import time
 import threading
 import uuid
-import venv
 from collections import Counter
 from datetime import datetime
 from enum import Enum
 from pathlib import Path
-from typing import Any, Dict, List, Tuple, Optional, Union, Type, TypeVar
+from typing import Any, Dict, List, Tuple, Optional
 
 import pysubs2
 import pymediainfo
@@ -26,17 +25,16 @@ from app.log import logger
 from app.plugins import _PluginBase
 from app.core.cache import cached
 from app.core.event import eventmanager, Event
-from app.utils.system import SystemUtils
 from app.schemas.types import NotificationType
 from app.utils.http import RequestUtils
 from app.utils.string import StringUtils
 from app.schemas import TransferInfo
 from app.schemas.types import EventType
 from app.core.context import MediaInfo
-from app.plugins.lexiannot.query_gemini import DialogueTranslationTask, VocabularyTranslationTask, Vocabulary, Context
+from app.plugins.lexiannot.query_gemini import (
+    DialogueTranslationTask, VocabularyTranslationTask, Vocabulary, Context, TranslationTasks, translate, T
+)
 from app.plugins.lexiannot.spacyworker import SpacyWorker
-
-T = TypeVar('T', VocabularyTranslationTask, DialogueTranslationTask)
 
 
 class TaskStatus(Enum):
@@ -85,7 +83,7 @@ class LexiAnnot(_PluginBase):
     # 插件图标
     plugin_icon = "LexiAnnot.png"
     # 插件版本
-    plugin_version = "1.1.2"
+    plugin_version = "1.1.3"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -206,7 +204,8 @@ class LexiAnnot(_PluginBase):
 
             if self._onlyonce:
                 for file_path in self._custom_files.split("\n"):
-                    if not file_path:
+                    file_path = file_path.strip()
+                    if not file_path or file_path.startswith("#"):
                         continue
                     self.add_media_file(file_path)
                 self._onlyonce = False
@@ -1110,33 +1109,36 @@ class LexiAnnot(_PluginBase):
 
     def __update_config(self):
         with self._config_updating_lock:
-            self.update_config({'enabled': self._enabled,
-                                'annot_level': self._annot_level,
-                                'send_notify': self._send_notify,
-                                'onlyonce': self._onlyonce,
-                                'show_vocabulary_detail': self._show_vocabulary_detail,
-                                'sentence_translation': self._sentence_translation,
-                                'in_place': self._in_place,
-                                'enable_gemini': self._enable_gemini,
-                                'gemini_model': self._gemini_model,
-                                'gemini_apikey': self._gemini_apikey,
-                                'context_window': self._context_window,
-                                'max_retries': self._max_retries,
-                                'request_interval': self._request_interval,
-                                'ffmpeg_path': self._ffmpeg_path,
-                                'english_only': self._english_only,
-                                'when_file_trans': self._when_file_trans,
-                                'model_temperature': self._model_temperature,
-                                'show_phonetics': self._show_phonetics,
-                                'custom_files': self._custom_files,
-                                'accent_color': self._accent_color,
-                                'font_scaling': self._font_scaling,
-                                'opacity': self._opacity,
-                                'spacy_model': self._spacy_model,
-                                'exam_tags': self._exam_tags,
-                                'delete_data': self._delete_data,
-                                'libraries': self._libraries
-                                })
+            self.update_config(
+                {
+                    'enabled': self._enabled,
+                    'annot_level': self._annot_level,
+                    'send_notify': self._send_notify,
+                    'onlyonce': self._onlyonce,
+                    'show_vocabulary_detail': self._show_vocabulary_detail,
+                    'sentence_translation': self._sentence_translation,
+                    'in_place': self._in_place,
+                    'enable_gemini': self._enable_gemini,
+                    'gemini_model': self._gemini_model,
+                    'gemini_apikey': self._gemini_apikey,
+                    'context_window': self._context_window,
+                    'max_retries': self._max_retries,
+                    'request_interval': self._request_interval,
+                    'ffmpeg_path': self._ffmpeg_path,
+                    'english_only': self._english_only,
+                    'when_file_trans': self._when_file_trans,
+                    'model_temperature': self._model_temperature,
+                    'show_phonetics': self._show_phonetics,
+                    'custom_files': self._custom_files,
+                    'accent_color': self._accent_color,
+                    'font_scaling': self._font_scaling,
+                    'opacity': self._opacity,
+                    'spacy_model': self._spacy_model,
+                    'exam_tags': self._exam_tags,
+                    'delete_data': self._delete_data,
+                    'libraries': self._libraries
+                }
+            )
 
     def __process_tasks(self):
         """
@@ -1153,9 +1155,6 @@ class LexiAnnot(_PluginBase):
             return
         if self._enable_gemini:
             self._gemini_available = True
-            res = self.init_venv()
-            if not res:
-                self._gemini_available = False
             if not self._gemini_apikey:
                 logger.warn(f"未提供GEMINI APIKEY")
                 self._gemini_available = False
@@ -1211,6 +1210,8 @@ class LexiAnnot(_PluginBase):
                               text=f"{message}")
         ffmpeg_path = self._ffmpeg_path if self._ffmpeg_path else 'ffmpeg'
         embedded_subtitles = LexiAnnot.__extract_subtitles_by_lang(path, 'en', ffmpeg_path)
+        if not embedded_subtitles:
+            return TaskStatus.COMPLETED
         embedded_subtitles = sorted(embedded_subtitles, key=lambda track: 'SDH' in track['title'])
         ret_message = ''
         if embedded_subtitles:
@@ -1731,74 +1732,29 @@ class LexiAnnot(_PluginBase):
             logger.error(f"使用 MediaInfo 提取字幕时发生错误：{e}")
             return None
 
-    def init_venv(self) -> bool:
-        venv_dir = os.path.join(self.get_data_path(), "venv_genai")
-        python_path = os.path.join(venv_dir, "bin", "python") if os.name != "nt" else os.path.join(venv_dir, "Scripts",
-                                                                                                   "python.exe")
-        # 创建虚拟环境
-        try:
-            if not os.path.exists(venv_dir):
-                logger.info(f"为 google-genai 初始化虚拟环境: {venv_dir}")
-                venv.create(venv_dir, with_pip=True, symlinks=True, clear=True)
-                logger.info(f"虚拟环境创建成功: {venv_dir}")
-            SystemUtils.execute_with_subprocess([python_path, "-m", "pip", "install", 'google-genai'])
-        except subprocess.CalledProcessError as e:
-            logger.warn(f"虚拟环境创建失败: {e}")
-            shutil.rmtree(venv_dir)
-            return False
-        self._venv_python = python_path
-
-        return True
-
     def __query_gemini(
             self,
-            tasks: List[T],
-            task_type: Type[T],
+            tasks: TranslationTasks,
             api_key: str,
             system_instruction: str,
             model: str,
             temperature: float
     ) -> List[T]:
-        input_dict = {
-            'tasks': [task.dict() for task in tasks],
-            'params': {
-                'api_key': api_key,
-                'system_instruction': system_instruction,
-                'schema': task_type.__name__,
-                'model': model,
-                'temperature': temperature,
-                'max_retries': self._max_retries
-            }
-        }
+        response = translate(
+            api_key=api_key,
+            translation_tasks=tasks,
+            system_instruction=system_instruction,
+            gemini_model=model,
+            temperature=temperature,
+            max_retries=self._max_retries
+        )
 
-        try:
-            result = subprocess.run(
-                [self._venv_python, self._query_gemini_script],
-                input=json.dumps(input_dict),
-                capture_output=True,
-                text=True,
-                check=True
-            )
-        except subprocess.CalledProcessError as e:
-            logger.warning(f"Subprocess failed: {str(e)}")
-            return tasks
+        if not response.success:
+            logger.warning(f"Error in subprocess response: {response.message}")
+            return tasks.tasks
 
-        try:
-            response = json.loads(result.stdout)
-        except json.JSONDecodeError:
-            logger.warning(f"Invalid JSON from subprocess:\n{result.stdout}")
-            return tasks
-
-        if not response.get("success"):
-            logger.warning(f"Error in subprocess response: {response.get('message')}")
-            return tasks
-
-        try:
-            self._total_token_count += response['data']['total_token_count'] or 0
-            return [task_type(**task_data) for task_data in response["data"]["tasks"]]
-        except Exception as e:
-            logger.warning(f"Failed to reconstruct tasks: {str(e)}")
-            return tasks
+        self._total_token_count += response.total_token_count
+        return response.tasks
 
     def __process_by_ai(self, lines_to_process: List[Dict[str, Any]],
                         cefr_lexicon: Dict[str, Any],
@@ -1881,7 +1837,7 @@ class LexiAnnot(_PluginBase):
                                   'pos_defs': pos_defs, 'exam_tags': exam_tags})
             line_data['new_vocab'] = new_vocab
         # 查询词汇翻译
-        task_bulk: List[Union[VocabularyTranslationTask | DialogueTranslationTask]] = []
+        task_bulk: List[VocabularyTranslationTask] = []
         i = 0
         if self._gemini_available:
             logger.info(f"查询词汇翻译...")
@@ -1903,12 +1859,13 @@ class LexiAnnot(_PluginBase):
                 logger.info(f"processing dialogues: "
                             f"{LexiAnnot.format_duration(lines_to_process[task_bulk[0].index]['time_code'][0])} -> "
                             f"{LexiAnnot.format_duration(lines_to_process[i - 1]['time_code'][1])}")
-                answer: Optional[List[VocabularyTranslationTask]] = self.__query_gemini(task_bulk,
-                                                                                        VocabularyTranslationTask,
-                                                                                        self._gemini_apikey,
-                                                                                        vocabulary_trans_instruction,
-                                                                                        self._gemini_model,
-                                                                                        model_temperature)
+                answer: List[VocabularyTranslationTask] = self.__query_gemini(
+                    TranslationTasks[VocabularyTranslationTask](tasks=task_bulk),
+                    self._gemini_apikey,
+                    vocabulary_trans_instruction,
+                    self._gemini_model,
+                    model_temperature
+                )
                 if not answer:
                     continue
                 time.sleep(self._request_interval)
@@ -1952,12 +1909,13 @@ class LexiAnnot(_PluginBase):
             logger.info(f"processing dialogues: "
                         f"{LexiAnnot.format_duration(lines_to_process[i]['time_code'][0])} -> "
                         f"{LexiAnnot.format_duration(lines_to_process[min(len(translation_tasks), i + self._context_window) - 1]['time_code'][1])}")
-            answer: List[DialogueTranslationTask] = self.__query_gemini(task_bulk,
-                                                                        DialogueTranslationTask,
-                                                                        self._gemini_apikey,
-                                                                        dialog_trans_instruction,
-                                                                        self._gemini_model,
-                                                                        model_temperature)
+            answer: List[DialogueTranslationTask] = self.__query_gemini(
+                TranslationTasks[DialogueTranslationTask](tasks=task_bulk),
+                self._gemini_apikey,
+                dialog_trans_instruction,
+                self._gemini_model,
+                model_temperature
+            )
             time.sleep(self._request_interval)
             for answer_line in answer:
                 if answer_line.index not in range(i, i + self._context_window):

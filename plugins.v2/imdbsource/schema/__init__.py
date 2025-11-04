@@ -1,7 +1,7 @@
 from enum import Enum
 from typing import Optional, List, Tuple, Union
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ConfigDict
 
 from .imdbapi import ImdbApiTitle, ImdbApiEpisode, ImdbApiCredit
 from .imdbtypes import ImdbTitle, ImdbName, ImdbImage, ImdbVideo, AkasNode, TitleEdge
@@ -41,7 +41,7 @@ class ImdbMediaInfo(ImdbApiTitle):
 
     @classmethod
     def from_title(cls, parent: ImdbApiTitle, **kwargs):
-        return cls(**parent.dict(by_alias=True), **kwargs)
+        return cls(**parent.model_dump(by_alias=True), **kwargs)
 
 
 class ImdbApiHash(BaseModel):
@@ -92,9 +92,10 @@ class SearchParams(BaseModel):
     ranked: Optional[Tuple[str, ...]] = None
     interests: Optional[Tuple[str, ...]] = None
 
-    class Config:
-        frozen = True
-        allow_mutation = False
+    model_config = ConfigDict(
+        frozen=True,
+        validate_assignment=False
+    )
 
 
 class ErrorExtension(BaseModel):

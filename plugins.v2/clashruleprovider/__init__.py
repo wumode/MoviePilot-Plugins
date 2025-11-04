@@ -32,7 +32,7 @@ class ClashRuleProvider(_ClashRuleProviderBase):
     # 插件图标
     plugin_icon = "Mihomo_Meta_A.png"
     # 插件版本
-    plugin_version = "2.0.8"
+    plugin_version = "2.0.9"
     # 插件作者
     plugin_author = "wumode"
     # 作者主页
@@ -77,7 +77,7 @@ class ClashRuleProvider(_ClashRuleProviderBase):
         if conf:
             try:
                 raw_conf = PluginConfig.upgrade_conf(conf)
-                self.config = PluginConfig.parse_obj(raw_conf)
+                self.config = PluginConfig.model_validate(raw_conf)
             except ValidationError as e:
                 logger.error(f"解析配置出错: {e}")
                 return
@@ -246,7 +246,7 @@ class ClashRuleProvider(_ClashRuleProviderBase):
                               )
 
     def _update_config(self):
-        conf = self.config.dict(by_alias=True)
+        conf = self.config.model_dump(by_alias=True)
         self.update_config(conf)
 
     def update_best_cf_ip(self, ips: List[str]):
