@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-04 06:33:35",
+  "updated_at": "2025-11-06 01:05:11",
   "entries": [
     {
       "name": "I Love LA",
@@ -341,6 +341,15 @@
               "node": {
                 "text": "I Love LA",
                 "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
                   "id": "BR",
                   "text": "Brazil"
                 }
@@ -350,8 +359,41 @@
               "node": {
                 "text": "I Love LA",
                 "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -431,7 +473,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.2
+          "aggregateRating": 5.9
         },
         "releaseDate": {
           "year": 2025,
@@ -1931,6 +1973,15 @@
             },
             {
               "node": {
+                "text": "Muérete amor",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Sure mu arm",
                 "country": {
                   "id": "EE",
@@ -3338,6 +3389,15 @@
               "node": {
                 "text": "The Running Man",
                 "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Running Man",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -3349,6 +3409,18 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Running Man",
+                "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -3401,6 +3473,18 @@
               "node": {
                 "text": "The Running Man",
                 "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Running Man",
+                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -3415,6 +3499,18 @@
                 "country": {
                   "id": "SE",
                   "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Running Man",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -3648,6 +3744,18 @@
             },
             {
               "node": {
+                "text": "猎杀游戏",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "逃亡遊戲",
                 "country": {
                   "id": "TW",
@@ -3706,6 +3814,9 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "R"
+        },
         "originalTitleText": {
           "text": "The Running Man"
         },
@@ -3760,6 +3871,15 @@
               "node": {
                 "text": "Keeper",
                 "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Keeper",
+                "country": {
                   "id": "EG",
                   "text": "Egypt"
                 },
@@ -3792,6 +3912,18 @@
                 "country": {
                   "id": "HK",
                   "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Keeper",
+                "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
                 },
                 "language": {
                   "text": "English"
@@ -3840,6 +3972,18 @@
                 "country": {
                   "id": "IT",
                   "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Keeper",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4086,6 +4230,18 @@
               "node": {
                 "text": "The Carpenter's Son",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Carpenter's Son",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -4103,6 +4259,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Carpenter's Son",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
                 }
               }
             },
@@ -4200,7 +4365,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 3.9
+          "aggregateRating": 3.8
         },
         "releaseDate": {
           "year": 2025,
@@ -5440,6 +5605,9 @@
               }
             }
           ]
+        },
+        "certificate": {
+          "rating": "R"
         },
         "originalTitleText": {
           "text": "Sisu 2"
@@ -7161,7 +7329,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.9
+          "aggregateRating": 7.8
         },
         "releaseDate": {
           "year": 2025,
@@ -7170,6 +7338,11 @@
         },
         "titleGenres": {
           "genres": [
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
             {
               "genre": {
                 "text": "Horror"
