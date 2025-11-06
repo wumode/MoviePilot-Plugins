@@ -1,21 +1,6 @@
 {
-  "updated_at": "2025-11-06 01:05:11",
+  "updated_at": "2025-11-06 17:15:30",
   "entries": [
-    {
-      "name": "I Love LA",
-      "ttconst": "tt33362589",
-      "rmconst": "rm978824962",
-      "detail": "Premieres Nov. 2 on HBO Max",
-      "description": "Funny woman Rachel Sennott is bringing her wonderfully warped sense of humor to HBO Max with a weekly scripted comedy series about an ambitious LA friend group. Created, written, and starring Sennott, the eight-episode season appears to lampoon (and maybe celebrate a little?) Los Angeles’ perpetual hustle culture as its main cast attempts to navigate life and love in La La Land. Not only does the show have an iconic core cast (Odessa A'zion and Josh Hutcherson, <i>hello</i>), it also boasts an impressive roster of guests like Leighton Meester, Quenlin Blackwell, Elijah Wood, and Froy Gutierrez, among others. <i>— Adrienne</i>",
-      "relatedconst": [
-        "nm6976735",
-        "nm1242688",
-        "nm5570560",
-        "nm2363472",
-        "nm4885930"
-      ],
-      "viconst": "vi74893337"
-    },
     {
       "name": "Frankenstein",
       "ttconst": "tt1312221",
@@ -99,6 +84,21 @@
         "nm0004936"
       ],
       "viconst": "vi2870462489"
+    },
+    {
+      "name": "I Love LA",
+      "ttconst": "tt33362589",
+      "rmconst": "rm978824962",
+      "detail": "Streaming on HBO Max",
+      "description": "Funny woman Rachel Sennott is bringing her wonderfully warped sense of humor to HBO Max with a weekly scripted comedy series about an ambitious LA friend group. Created, written, and starring Sennott, the eight-episode season appears to lampoon (and maybe celebrate a little?) Los Angeles’ perpetual hustle culture as its main cast attempts to navigate life and love in La La Land. Not only does the show have an iconic core cast (Odessa A'zion and Josh Hutcherson, <i>hello</i>), it also boasts an impressive roster of guests like Leighton Meester, Quenlin Blackwell, Elijah Wood, and Froy Gutierrez, among others. <i>— Adrienne</i>",
+      "relatedconst": [
+        "nm6976735",
+        "nm1242688",
+        "nm5570560",
+        "nm2363472",
+        "nm4885930"
+      ],
+      "viconst": "vi74893337"
     },
     {
       "name": "Palm Royale",
@@ -324,178 +324,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt33362589",
-        "titleText": {
-          "text": "I Love LA"
-        },
-        "titleType": {
-          "id": "tvSeries"
-        },
-        "releaseYear": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Love LA",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Imádom Los Angelest",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kocham LA",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Me encanta Los Ángeles",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plotText": {
-            "plainText": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
-          }
-        },
-        "primaryImage": {
-          "id": "rm120760578",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzNiMWZhYTAtODMzYS00YTg2LTk3ZWQtYzcwZmRmMDYzMjg4XkEyXkFqcGc@._V1_.jpg",
-          "width": 810,
-          "height": 1200
-        },
-        "meterRanking": {
-          "currentRank": 98,
-          "meterType": "TV_METER",
-          "rankChange": {
-            "changeDirection": "UP",
-            "difference": 642
-          }
-        },
-        "ratingsSummary": {
-          "aggregateRating": 5.9
-        },
-        "releaseDate": {
-          "year": 2025,
-          "month": 11,
-          "day": 2
-        },
-        "titleGenres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "originalTitleText": {
-          "text": "I Love LA"
-        }
-      },
       {
         "id": "tt1312221",
         "titleText": {
@@ -2731,6 +2559,190 @@
         }
       },
       {
+        "id": "tt33362589",
+        "titleText": {
+          "text": "I Love LA"
+        },
+        "titleType": {
+          "id": "tvSeries"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Imádom Los Angelest",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kocham LA",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Me encanta Los Ángeles",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
+          }
+        },
+        "primaryImage": {
+          "id": "rm120760578",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzNiMWZhYTAtODMzYS00YTg2LTk3ZWQtYzcwZmRmMDYzMjg4XkEyXkFqcGc@._V1_.jpg",
+          "width": 810,
+          "height": 1200
+        },
+        "meterRanking": {
+          "currentRank": 98,
+          "meterType": "TV_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 642
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 5.8
+        },
+        "releaseDate": {
+          "year": 2025,
+          "month": 11,
+          "day": 2
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "originalTitleText": {
+          "text": "I Love LA"
+        }
+      },
+      {
         "id": "tt8888540",
         "titleText": {
           "text": "Palm Royale"
@@ -4319,6 +4331,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Carpenter's Son",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -8188,66 +8212,6 @@
     ],
     "names": [
       {
-        "id": "nm6976735",
-        "nameText": {
-          "text": "Rachel Sennott"
-        },
-        "primaryImage": {
-          "id": "rm792263169",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjRmZTYzODYtNmJkMi00YWRmLWI3ZDAtODg1OGViZjJlYWU1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1100,
-          "height": 733
-        }
-      },
-      {
-        "id": "nm1242688",
-        "nameText": {
-          "text": "Josh Hutcherson"
-        },
-        "primaryImage": {
-          "id": "rm404400642",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzRjMjU3NjUtOTc3Zi00M2I5LThmZWEtZGUwZTA0Njc4Mzk2XkEyXkFqcGc@._V1_.jpg",
-          "width": 426,
-          "height": 640
-        }
-      },
-      {
-        "id": "nm5570560",
-        "nameText": {
-          "text": "Odessa A'zion"
-        },
-        "primaryImage": {
-          "id": "rm4003792641",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzU2YjEzZjQtYzY0Ni00YjE2LTg4ZTMtYjBmOThkNjI3YzY3XkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 1333
-        }
-      },
-      {
-        "id": "nm2363472",
-        "nameText": {
-          "text": "True Whitaker"
-        },
-        "primaryImage": {
-          "id": "rm984168960",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkzNzQ0NTMyN15BMl5BanBnXkFtZTgwNjI3NTY4MDI@._V1_.jpg",
-          "width": 1363,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm4885930",
-        "nameText": {
-          "text": "Jordan Firstman"
-        },
-        "primaryImage": {
-          "id": "rm1454000641",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjgzNDEyNjAtMzY3NC00NjQ4LTg3NDEtYzcxYjI4ODQ2N2RiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1179,
-          "height": 2070
-        }
-      },
-      {
         "id": "nm1209966",
         "nameText": {
           "text": "Oscar Isaac"
@@ -8533,6 +8497,66 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMjQ0MzI2MTExMl5BMl5BanBnXkFtZTgwNjM4NjI0NjM@._V1_.jpg",
           "width": 527,
           "height": 697
+        }
+      },
+      {
+        "id": "nm6976735",
+        "nameText": {
+          "text": "Rachel Sennott"
+        },
+        "primaryImage": {
+          "id": "rm792263169",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjRmZTYzODYtNmJkMi00YWRmLWI3ZDAtODg1OGViZjJlYWU1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1100,
+          "height": 733
+        }
+      },
+      {
+        "id": "nm1242688",
+        "nameText": {
+          "text": "Josh Hutcherson"
+        },
+        "primaryImage": {
+          "id": "rm404400642",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzRjMjU3NjUtOTc3Zi00M2I5LThmZWEtZGUwZTA0Njc4Mzk2XkEyXkFqcGc@._V1_.jpg",
+          "width": 426,
+          "height": 640
+        }
+      },
+      {
+        "id": "nm5570560",
+        "nameText": {
+          "text": "Odessa A'zion"
+        },
+        "primaryImage": {
+          "id": "rm4003792641",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzU2YjEzZjQtYzY0Ni00YjE2LTg4ZTMtYjBmOThkNjI3YzY3XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 1333
+        }
+      },
+      {
+        "id": "nm2363472",
+        "nameText": {
+          "text": "True Whitaker"
+        },
+        "primaryImage": {
+          "id": "rm984168960",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkzNzQ0NTMyN15BMl5BanBnXkFtZTgwNjI3NTY4MDI@._V1_.jpg",
+          "width": 1363,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm4885930",
+        "nameText": {
+          "text": "Jordan Firstman"
+        },
+        "primaryImage": {
+          "id": "rm1454000641",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjgzNDEyNjAtMzY3NC00NjQ4LTg3NDEtYzcxYjI4ODQ2N2RiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1179,
+          "height": 2070
         }
       },
       {
@@ -9391,12 +9415,6 @@
     "videos": [],
     "images": [
       {
-        "id": "rm978824962",
-        "url": "https://m.media-amazon.com/images/M/MV5BZDA1YTIyZDctNTA0OC00ZDdiLWIwYTktODAzNWNkYTQ3M2YxXkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1280
-      },
-      {
         "id": "rm643805698",
         "url": "https://m.media-amazon.com/images/M/MV5BYjY4ZmIxMTctODA4ZS00YTYwLWIzNGItZmMyZWVhMjJkMzE0XkEyXkFqcGc@._V1_.jpg",
         "width": 9000,
@@ -9431,6 +9449,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BNzRiNmQ0OTgtY2VmOC00OGM0LWJkMmQtODEyMDg2OTUwMjk1XkEyXkFqcGc@._V1_.jpg",
         "width": 6774,
         "height": 4492
+      },
+      {
+        "id": "rm978824962",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDA1YTIyZDctNTA0OC00ZDdiLWIwYTktODAzNWNkYTQ3M2YxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1280
       },
       {
         "id": "rm213497346",
