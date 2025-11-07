@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-06 17:15:30",
+  "updated_at": "2025-11-07 16:47:51",
   "entries": [
     {
       "name": "Frankenstein",
@@ -707,7 +707,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.8
+          "aggregateRating": 7.7
         },
         "releaseDate": {
           "year": 2025,
@@ -785,6 +785,18 @@
                 "country": {
                   "id": "DK",
                   "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Predator: Badlands",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -947,6 +959,15 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Depredador: Tierras salvajes",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
                 }
               }
             },
@@ -1243,18 +1264,6 @@
                   "text": "Mandarin"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "鐵血戰士：蠻荒廝殺",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
             }
           ]
         },
@@ -1277,7 +1286,9 @@
             "difference": 28
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 7.6
+        },
         "releaseDate": {
           "year": 2025,
           "month": 11,
@@ -1409,6 +1420,15 @@
               "node": {
                 "text": "Pluribus",
                 "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pluribus",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -1504,7 +1524,9 @@
             "difference": 1
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 9.3
+        },
         "releaseDate": {
           "year": 2025,
           "month": 11,
@@ -1744,6 +1766,42 @@
             },
             {
               "node": {
+                "text": "Mátate, amor",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mátate, amor",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Muérete amor",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Muérete amor",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Die, My Love",
                 "country": {
                   "id": "NZ",
@@ -1760,15 +1818,6 @@
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mátate, amor",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
                 }
               }
             },
@@ -1796,15 +1845,6 @@
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Muérete amor",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
                 }
               }
             },
@@ -1875,7 +1915,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.5
+          "aggregateRating": 6.6
         },
         "releaseDate": {
           "year": 2025,
@@ -2623,6 +2663,18 @@
               "node": {
                 "text": "I Love LA",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Love LA",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -3304,7 +3356,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.8
+          "aggregateRating": 5.6
         },
         "releaseDate": {
           "year": 2025,
@@ -4233,6 +4285,15 @@
               "node": {
                 "text": "The Carpenter's Son",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Carpenter's Son",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -4389,7 +4450,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 3.8
+          "aggregateRating": 3.9
         },
         "releaseDate": {
           "year": 2025,
@@ -4667,8 +4728,8 @@
           }
         },
         "primaryImage": {
-          "id": "rm2033280769",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTRkY2ZkNzUtMzBlNC00NTc0LWE0ZDQtMWZiNGU5OWEyZGU4XkEyXkFqcGc@._V1_.jpg",
+          "id": "rm4280134914",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTQ1MzI1ZWYtNWMxMC00NmU4LTlmMjItZjY1NWMyYTdjMjM4XkEyXkFqcGc@._V1_.jpg",
           "width": 2700,
           "height": 4000
         },
@@ -4956,6 +5017,18 @@
               "node": {
                 "text": "Wicked: For Good",
                 "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicked: For Good",
+                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -4991,6 +5064,30 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicked: For Good",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicked: For Good",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -5089,6 +5186,24 @@
             },
             {
               "node": {
+                "text": "Wicked: Por Siempre",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicked: Por Siempre",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Čarodejka: Druhá časť",
                 "country": {
                   "id": "SK",
@@ -5173,6 +5288,15 @@
             },
             {
               "node": {
+                "text": "Wicked: Part II",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Wicked: Part Two",
                 "country": {
                   "id": "US",
@@ -5204,15 +5328,6 @@
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicked: Por Siempre",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
                 }
               }
             },
@@ -5389,6 +5504,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sisu: Road to Revenge",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
