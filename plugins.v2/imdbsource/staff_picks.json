@@ -1,10 +1,10 @@
 {
-  "updated_at": "2025-12-12 19:23:38",
+  "updated_at": "2025-12-13 20:05:11",
   "entries": [
     {
       "name": "Wake Up Dead Man: A Knives Out Mystery",
       "ttconst": "tt14364480",
-      "rmconst": "rm3197408770",
+      "rmconst": "rm2510338562",
       "detail": "Premieres on Netflix Dec. 12",
       "description": "In a Benoit Blanc mystery, the cast is just as important as the crime. For the third Knives Out film, Daniel Craig’s southern detective will be surrounded by some of the biggest talents in Hollywood, and you’ll forgive us if we name drop just a few. Josh Brolin, Glenn Close, Mila Kunis, Josh O'Connor Kerry Washington, Andrew Scott, and Cailee Spaeny will all contribute to the conundrum at the center of Rian Johnson’s new feature that the trailer has called “the holy grail” of murders. — <i>Adrienne</i>",
       "relatedconst": [
@@ -434,6 +434,15 @@
               "node": {
                 "text": "Wake Up Dead Man: A Knives Out Mystery",
                 "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wake Up Dead Man: A Knives Out Mystery",
+                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -678,7 +687,7 @@
             },
             {
               "node": {
-                "text": "Достать ножи: Воскрешение покойника",
+                "text": "Достать ножи. Воскрешение покойника",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
@@ -746,7 +755,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 7.9
+          "aggregateRating": 7.7
         },
         "releaseDate": {
           "year": 2025,
@@ -786,7 +795,7 @@
           "rating": "PG-13"
         },
         "originalTitleText": {
-          "text": "Wake Up Dead Man: A Knives Out Mystery"
+          "text": "Wake Up Dead Man"
         },
         "runtime": {
           "seconds": 8640
@@ -956,7 +965,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.5
+          "aggregateRating": 6.4
         },
         "releaseDate": {
           "year": 2025,
@@ -1197,6 +1206,27 @@
             },
             {
               "node": {
+                "text": "Тихая ночь, смертельная ночь",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Тихая ночь, смертельная ночь",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Cicha noc, śmierci noc",
                 "country": {
                   "id": "PL",
@@ -1260,15 +1290,6 @@
                   "text": "Turkish"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Тихая ночь, смертельная ночь",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
             }
           ]
         },
@@ -1292,7 +1313,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.1
+          "aggregateRating": 6.5
         },
         "releaseDate": {
           "year": 2025,
@@ -1315,7 +1336,7 @@
           "text": "Silent Night, Deadly Night"
         },
         "runtime": {
-          "seconds": 5700
+          "seconds": 5760
         }
       },
       {
@@ -1750,7 +1771,9 @@
           "width": 2304,
           "height": 3456
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 6.2
+        },
         "releaseDate": {
           "year": 2025,
           "month": 12,
@@ -1758,6 +1781,9 @@
         },
         "originalTitleText": {
           "text": "The Game Awards 2025"
+        },
+        "runtime": {
+          "seconds": 13020
         }
       },
       {
@@ -2851,6 +2877,15 @@
             },
             {
               "node": {
+                "text": "Džėjus Keli",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Untitled Noah Baumbach Netflix Film"
               }
             },
@@ -3686,7 +3721,7 @@
           "text": "O Agente Secreto"
         },
         "runtime": {
-          "seconds": 9480
+          "seconds": 9660
         }
       },
       {
@@ -4192,7 +4227,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.9
+          "aggregateRating": 7.0
         },
         "releaseDate": {
           "year": 2025,
@@ -5011,6 +5046,27 @@
             },
             {
               "node": {
+                "text": "Горничная",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Горничная",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "A Criada",
                 "country": {
                   "id": "PT",
@@ -5135,15 +5191,6 @@
                 "country": {
                   "id": "GR",
                   "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Горничная",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
                 }
               }
             },
@@ -6171,6 +6218,15 @@
               "node": {
                 "text": "Anaconda",
                 "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anaconda",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
                 }
@@ -6212,6 +6268,18 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anaconda",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -6314,6 +6382,15 @@
                 "country": {
                   "id": "LV",
                   "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anakonda",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
@@ -7545,7 +7622,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 8.4
+          "aggregateRating": 8.3
         },
         "releaseDate": {
           "year": 2025,
@@ -8988,6 +9065,27 @@
             },
             {
               "node": {
+                "text": "Вечность",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Вечность",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "換乘真愛",
                 "country": {
                   "id": "HK",
@@ -9127,15 +9225,6 @@
                 "country": {
                   "id": "GR",
                   "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Вечность",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
                 }
               }
             },
@@ -10561,7 +10650,10 @@
     "videos": [],
     "images": [
       {
-        "id": "rm3197408770"
+        "id": "rm2510338562",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDdiN2M0OTItZGVmMy00OWMzLWFhYWEtYTYwZTI1ZGU0Y2JhXkEyXkFqcGc@._V1_.jpg",
+        "width": 7200,
+        "height": 4800
       },
       {
         "id": "rm2306190338",
