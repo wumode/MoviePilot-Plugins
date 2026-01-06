@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-02 15:36:12",
+  "updated_at": "2026-01-07 06:33:10",
   "entries": [
     {
-      "name": "Jujutsu Kaisen S3",
+      "name": "Jujutsu Kaisen",
       "ttconst": "tt12343534",
       "rmconst": "rm59683842",
       "detail": "Season 3 premieres on Crunchyroll Jan. 8",
@@ -133,7 +133,7 @@
       "viconst": "vi3333671705"
     },
     {
-      "name": "The RIP",
+      "name": "The Rip",
       "ttconst": "tt32642706",
       "rmconst": "rm3762795778",
       "detail": "Premieres on Netflix Jan. 16",
@@ -207,6 +207,20 @@
         "nm4517780"
       ],
       "viconst": "vi297126681"
+    },
+    {
+      "name": "Mother of Flies",
+      "ttconst": "tt36871027",
+      "rmconst": "rm3613370626",
+      "detail": "Premieres on Shudder Jan. 23",
+      "description": "Indie horror is alive and well, and there are few filmmakers who embody that spirit like John Adams, Toby Poser, and their daughters Lulu and Zelda, who produce, write, direct, edit, score, and act in their movies. The Adams family have made an impressive <i>eight</i> features in the last 12 years. Like their 2021 Shudder hit <i>Hellbender</i>, <i>Mother of Flies</i> is another witchy work of art, with gorgeous visuals, strong performances, and a story that speaks to the disillusionment of modern science. When we spoke with John and Toby at Fantastic Fest in September, they shared some of their influences, which any aspiring guerrilla filmmakers should add to their Watchlists immediately.",
+      "relatedconst": [
+        "nm3176035",
+        "nm0692652",
+        "nm3080055",
+        "nm3958780"
+      ],
+      "viconst": "vi547408665"
     },
     {
       "name": "Wonder Man",
@@ -670,11 +684,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 150,
+          "currentRank": 116,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 20
+            "changeDirection": "UP",
+            "difference": 34
           }
         },
         "ratingsSummary": {
@@ -759,6 +773,30 @@
               "node": {
                 "text": "Greenland 2: Migration",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
                   "id": "IT",
                   "text": "Italy"
                 }
@@ -831,8 +869,35 @@
               "node": {
                 "text": "Greenland 2",
                 "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2",
+                "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Grenlandija 2: Migracija",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Grenlandija 2: Migracija",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
                 }
               }
             },
@@ -904,24 +969,6 @@
             },
             {
               "node": {
-                "text": "Grenlandia 2: Migracija",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Grenlandija 2: Migracija",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Posledný úkryt 2",
                 "country": {
                   "id": "SK",
@@ -988,11 +1035,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 244,
+          "currentRank": 57,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 92
+            "difference": 187
           }
         },
         "ratingsSummary": {},
@@ -1094,6 +1141,15 @@
               "node": {
                 "text": "Primate",
                 "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primate",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
                 }
@@ -1154,6 +1210,18 @@
               "node": {
                 "text": "Primate",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primate",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -1171,15 +1239,6 @@
                 },
                 "language": {
                   "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primate",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
                 }
               }
             },
@@ -1278,6 +1337,51 @@
             },
             {
               "node": {
+                "text": "Примат",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primata",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primata",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ben - Rabbia Animale",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ben: Amenințare primitivă",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Ben: Primitivna prijetnja",
                 "country": {
                   "id": "HR",
@@ -1300,6 +1404,33 @@
                 "country": {
                   "id": "VN",
                   "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Maimuța",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Maimuța Ben",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Maimuța Primată",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
                 }
               }
             },
@@ -1350,10 +1481,28 @@
             },
             {
               "node": {
-                "text": "Primata",
+                "text": "Primată",
                 "country": {
-                  "id": "PT",
-                  "text": "Portugal"
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primata Ben",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primata: Amenințare primitivă",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
                 }
               }
             },
@@ -1407,11 +1556,11 @@
           "height": 3000
         },
         "meterRanking": {
-          "currentRank": 139,
+          "currentRank": 55,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 164
+            "difference": 84
           }
         },
         "ratingsSummary": {
@@ -1912,11 +2061,11 @@
           "height": 1920
         },
         "meterRanking": {
-          "currentRank": 50,
+          "currentRank": 7,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 15
+            "difference": 43
           }
         },
         "ratingsSummary": {
@@ -2105,11 +2254,11 @@
           "height": 755
         },
         "meterRanking": {
-          "currentRank": 635,
+          "currentRank": 322,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 75
+            "changeDirection": "UP",
+            "difference": 313
           }
         },
         "ratingsSummary": {},
@@ -2172,6 +2321,18 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -2270,17 +2431,17 @@
           }
         },
         "primaryImage": {
-          "id": "rm85765378",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTlkM2ExMTYtMDg0ZC00MmJhLWEyZTMtN2RjYzZlMjJhODdjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1200,
-          "height": 1800
+          "id": "rm158587394",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmM5MjMwOGMtY2U0YS00M2ZlLTlhNmItNDZlZDgxYmJhODdlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
         },
         "meterRanking": {
-          "currentRank": 663,
+          "currentRank": 171,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 114
+            "changeDirection": "UP",
+            "difference": 492
           }
         },
         "ratingsSummary": {},
@@ -2369,6 +2530,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -2575,7 +2745,16 @@
             },
             {
               "node": {
-                "text": "28 Năm Sau: Thánh Địa Xương",
+                "text": "28 metai po: Kaulų šventykla",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Năm Sau: Ngôi Đền Tử Thần",
                 "country": {
                   "id": "VN",
                   "text": "Vietnam"
@@ -2692,11 +2871,11 @@
           "height": 9000
         },
         "meterRanking": {
-          "currentRank": 198,
+          "currentRank": 45,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 19
+            "difference": 153
           }
         },
         "ratingsSummary": {},
@@ -2886,11 +3065,11 @@
           "height": 3204
         },
         "meterRanking": {
-          "currentRank": 2538,
+          "currentRank": 952,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 1007
+            "difference": 1586
           }
         },
         "ratingsSummary": {
@@ -3224,15 +3403,15 @@
           "height": 2866
         },
         "meterRanking": {
-          "currentRank": 915,
+          "currentRank": 402,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 172
+            "changeDirection": "UP",
+            "difference": 513
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.3
+          "aggregateRating": 6.2
         },
         "releaseDate": {
           "year": 2026,
@@ -3402,6 +3581,15 @@
             },
             {
               "node": {
+                "text": "Ranh Giới Tội Ác",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "The RIP",
                 "country": {
                   "id": "CA",
@@ -3441,6 +3629,18 @@
             },
             {
               "node": {
+                "text": "全信沒收",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "全信没收",
                 "country": {
                   "id": "CN",
@@ -3465,11 +3665,11 @@
           "height": 755
         },
         "meterRanking": {
-          "currentRank": 264,
+          "currentRank": 124,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 273
+            "difference": 140
           }
         },
         "ratingsSummary": {},
@@ -3682,15 +3882,15 @@
           "height": 1350
         },
         "meterRanking": {
-          "currentRank": 1635,
+          "currentRank": 371,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 193
+            "difference": 1264
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 5.6
+          "aggregateRating": 5.5
         },
         "releaseDate": {
           "year": 2026,
@@ -3888,6 +4088,15 @@
             },
             {
               "node": {
+                "text": "Rycerz siedmiu królestw",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Витез Седам краљевстава",
                 "country": {
                   "id": "RS",
@@ -3918,11 +4127,11 @@
           "height": 1920
         },
         "meterRanking": {
-          "currentRank": 210,
+          "currentRank": 66,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 14
+            "difference": 144
           }
         },
         "ratingsSummary": {},
@@ -4028,11 +4237,11 @@
           "height": 1350
         },
         "meterRanking": {
-          "currentRank": 49,
+          "currentRank": 129,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "UP",
-            "difference": 670
+            "changeDirection": "DOWN",
+            "difference": 80
           }
         },
         "ratingsSummary": {},
@@ -4142,6 +4351,18 @@
               "node": {
                 "text": "Return to Silent Hill",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -4236,6 +4457,18 @@
             },
             {
               "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Atgriešanās Klusajā kalnā",
                 "country": {
                   "id": "LT",
@@ -4275,6 +4508,15 @@
             },
             {
               "node": {
+                "text": "Đồi Câm Lặng: Ác Mộng Trong Sương",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Powrót do Silent Hill",
                 "country": {
                   "id": "PL",
@@ -4309,6 +4551,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silent Hill: Întoarcerea în iad",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
                 }
               }
             },
@@ -4363,15 +4614,6 @@
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Trở LạI Silent Hill",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
                 }
               }
             },
@@ -4449,11 +4691,11 @@
           "height": 2998
         },
         "meterRanking": {
-          "currentRank": 543,
+          "currentRank": 175,
           "meterType": "MOVIE_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 59
+            "difference": 368
           }
         },
         "ratingsSummary": {},
@@ -4497,6 +4739,175 @@
         }
       },
       {
+        "id": "tt36871027",
+        "titleText": {
+          "text": "Mother of Flies"
+        },
+        "titleType": {
+          "id": "movie"
+        },
+        "releaseYear": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Matka much",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plotText": {
+            "plainText": "When a young woman faces a deadly diagnosis, she seeks dark magic from a witch in the woods - but every cure has costs"
+          }
+        },
+        "primaryImage": {
+          "id": "rm3354896130",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzJkN2U5YWEtYWJkNi00YmFjLWFhMDQtYmM2OWIxMWViZmJmXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meterRanking": {
+          "currentRank": 3198,
+          "meterType": "MOVIE_METER",
+          "rankChange": {
+            "changeDirection": "UP",
+            "difference": 2847
+          }
+        },
+        "ratingsSummary": {
+          "aggregateRating": 6.7
+        },
+        "releaseDate": {
+          "year": 2026,
+          "month": 1,
+          "day": 23
+        },
+        "titleGenres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "originalTitleText": {
+          "text": "Mother of Flies"
+        },
+        "runtime": {
+          "seconds": 5520
+        }
+      },
+      {
         "id": "tt21066182",
         "titleText": {
           "text": "Wonder Man"
@@ -4527,6 +4938,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wonder Man",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
                 }
               }
             },
@@ -4593,6 +5013,18 @@
                 "country": {
                   "id": "IL",
                   "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wonder Man",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
                 },
                 "language": {
                   "text": "English"
@@ -4694,17 +5126,17 @@
           }
         },
         "primaryImage": {
-          "id": "rm3097734658",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTRmMDVjYTMtZDQxYS00YjhlLTkyZTUtYjFhMDRlM2QyOThkXkEyXkFqcGc@._V1_.jpg",
+          "id": "rm955046402",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDk5YzQ3NjQtNzY3MC00NzM3LWE4NzYtZGRkNDQxYjdiZDkyXkEyXkFqcGc@._V1_.jpg",
           "width": 1086,
-          "height": 1610
+          "height": 1609
         },
         "meterRanking": {
-          "currentRank": 881,
+          "currentRank": 18,
           "meterType": "TV_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 113
+            "changeDirection": "UP",
+            "difference": 863
           }
         },
         "ratingsSummary": {},
@@ -5199,11 +5631,11 @@
           "height": 2222
         },
         "meterRanking": {
-          "currentRank": 72,
+          "currentRank": 68,
           "meterType": "TV_METER",
           "rankChange": {
             "changeDirection": "UP",
-            "difference": 133
+            "difference": 4
           }
         },
         "ratingsSummary": {
@@ -5303,6 +5735,18 @@
               "node": {
                 "text": "Send Help",
                 "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Send Help",
+                "country": {
                   "id": "IT",
                   "text": "Italy"
                 }
@@ -5335,6 +5779,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Send Help",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -5434,6 +5890,15 @@
                 "country": {
                   "id": "VN",
                   "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gelbėkit",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
                 }
               }
             },
@@ -5580,17 +6045,17 @@
           }
         },
         "primaryImage": {
-          "id": "rm877702658",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTk0YTYyZjctOTZhZS00YjZkLTlhYTctZmJmM2ZjZjRiZTQ1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1006,
-          "height": 1494
+          "id": "rm1417075202",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTgxOWY5NTMtYjdiNi00NTIyLTkwMTQtMWNjM2IzYTU0ODgyXkEyXkFqcGc@._V1_.jpg",
+          "width": 2025,
+          "height": 3000
         },
         "meterRanking": {
-          "currentRank": 410,
+          "currentRank": 77,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 13
+            "changeDirection": "UP",
+            "difference": 333
           }
         },
         "ratingsSummary": {},
@@ -5695,11 +6160,11 @@
           "height": 2048
         },
         "meterRanking": {
-          "currentRank": 2542,
+          "currentRank": 970,
           "meterType": "MOVIE_METER",
           "rankChange": {
-            "changeDirection": "DOWN",
-            "difference": 449
+            "changeDirection": "UP",
+            "difference": 1572
           }
         },
         "ratingsSummary": {},
@@ -5874,7 +6339,7 @@
       {
         "id": "nm7987534",
         "nameText": {
-          "text": "Jessica Alexander"
+          "text": "Jess Alexander"
         },
         "primaryImage": {
           "id": "rm2096145410",
@@ -6556,6 +7021,54 @@
         }
       },
       {
+        "id": "nm3176035",
+        "nameText": {
+          "text": "Zelda Adams"
+        },
+        "primaryImage": {
+          "id": "rm3487407873",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTQ5NjRjMjgtZDhmNy00ZjkwLTlhMzEtYWExZTgyOTU3MjkyXkEyXkFqcGc@._V1_.jpg",
+          "width": 557,
+          "height": 802
+        }
+      },
+      {
+        "id": "nm0692652",
+        "nameText": {
+          "text": "Toby Poser"
+        },
+        "primaryImage": {
+          "id": "rm3794532352",
+          "url": "https://m.media-amazon.com/images/M/MV5BODYxNDk5Njk3NV5BMl5BanBnXkFtZTgwMjc3MTQ0MzE@._V1_.jpg",
+          "width": 1936,
+          "height": 1296
+        }
+      },
+      {
+        "id": "nm3080055",
+        "nameText": {
+          "text": "John Adams"
+        },
+        "primaryImage": {
+          "id": "rm1976672001",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzkxNjM3MWMtNDliNC00NDJkLTk1NWMtODkwZWIzNzg4NDg1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2553,
+          "height": 1430
+        }
+      },
+      {
+        "id": "nm3958780",
+        "nameText": {
+          "text": "Lulu Adams"
+        },
+        "primaryImage": {
+          "id": "rm3098735105",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTRhMzBhZDItNzFlMy00NWZjLTk5MmItNDNiYzkxMjJkYjZlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1262,
+          "height": 1428
+        }
+      },
+      {
         "id": "nm5584344",
         "nameText": {
           "text": "Yahya Abdul-Mateen II"
@@ -6845,6 +7358,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BMWEwOGI1MDAtNTJmNC00NjU2LTk2YWMtZDFkODc3Y2ZmZWIwXkEyXkFqcGc@._V1_.jpg",
         "width": 2000,
         "height": 1334
+      },
+      {
+        "id": "rm3613370626",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTg3MDViMDYtODEwYy00YTRiLTkzMzItY2Y2YTRkYTg5ZWY3XkEyXkFqcGc@._V1_.jpg",
+        "width": 2672,
+        "height": 1502
       },
       {
         "id": "rm1888396546",
