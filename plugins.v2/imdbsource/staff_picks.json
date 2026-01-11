@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-01-07 06:33:10",
+  "updated_at": "2026-01-11 15:02:32",
   "entries": [
     {
       "name": "Jujutsu Kaisen",
-      "ttconst": "tt12343534",
+      "id": "tt12343534",
       "rmconst": "rm59683842",
-      "detail": "Season 3 premieres on Crunchyroll Jan. 8",
-      "description": "We've got six months of Jujutsu Kaisen this year. Say it with me: Six months! After the two-year hiatus that kicked off after the devastating finale of the Shibuya Incident arc, this sudden glut fills me with both excitement and dread at the upcoming angst I'm going to endure as the remaining Jujutsu Sorcerers battle to take down Kenjaku and free Satoru Gojo from the Prison Realm. How many more friends will we lose along the way? Can it be none, please? — <i>Vanessa</i>",
-      "relatedconst": [
+      "detail": "Season 3 streaming on Crunchyroll",
+      "description": "We've got six months of “Jujutsu Kaisen“ this year. Say it with me: “Six months!“ After the two-year hiatus that kicked off after the devastating finale of the Shibuya Incident arc, this sudden glut fills me with both excitement and dread at the upcoming angst I'm going to endure as the remaining Jujutsu Sorcerers battle to take down Kenjaku and free Satoru Gojo from the Prison Realm. How many more friends will we lose along the way? Can it be none, please? — <i>Vanessa</i>",
+      "relatedConst": [
         "nm1697606",
         "nm1361499",
         "nm1146347",
@@ -19,11 +19,11 @@
     },
     {
       "name": "Greenland 2: Migration",
-      "ttconst": "tt14850054",
+      "id": "tt14850054",
       "rmconst": "rm2001118210",
-      "detail": "In theaters Jan. 9",
-      "description": "Just because I can’t remember anything specific about <i>Greenland</i> doesn’t mean I’m not booking another trip to the nearly destroyed Kingdom of Denmark. This sequel finds Gerard Butler’s family having to flee the bunker they’ve made their home as a new threat from the comet that hit Earth comes barreling their way. There's something about a crater that could be the key to humankind's salvation and rebirth; I wasn't fully paying attention to the trailer. It’s been two decades since Butler was King Leonidas, but few other actors can say they star in three current franchises (the <i>Fallen</i> series, <i>Den of Thieves</i>, and <i>Greenland</i>).  — <i>Arno</i>",
-      "relatedconst": [
+      "detail": "",
+      "description": "Just because I can't remember anything specific about <i>Greenland</i> doesn't mean I'm not booking another trip to the nearly destroyed Kingdom of Denmark. This sequel finds Gerard Butler's family having to flee the bunker they've made their home as a new threat from the comet that hit Earth comes barreling their way. There's something about a crater that could be the key to humankind's salvation and rebirth; I wasn't fully paying attention to the trailer. It's been two decades since Butler was King Leonidas, but few other actors can say they star in three current franchises (the <i>Fallen</i> series, <i>Den of Thieves</i>, and <i>Greenland</i>). — <i>Arno</i>",
+      "relatedConst": [
         "nm0124930",
         "nm1072555",
         "nm9877392"
@@ -32,11 +32,11 @@
     },
     {
       "name": "Primate",
-      "ttconst": "tt33028778",
+      "id": "tt33028778",
       "rmconst": "rm2985930498",
-      "detail": "In theaters Jan. 9",
-      "description": "We’re always looking for a new worthy addition to Our Favorite When Animals Attack Movies, and <i>Primate</i> earns a spot with its practical effects and creatively gruesome kills, as a pet research chimp comes down with a case of rabies and unleashes hell upon its masters. I had the opportunity to screen this at Fantastic Fest and if the collective shrieks from an audience of horror hounds were any indication, <i>Primate</i> will make for a raucous late-night cinema experience. — <i>James</i>",
-      "relatedconst": [
+      "detail": "",
+      "description": "We're always looking for a new worthy addition to Our Favorite “When Animals Attack“ Movies, and <i>Primate</i> earns a spot with its practical effects and creatively gruesome kills, as a pet research chimp comes down with a case of rabies and unleashes hell upon its masters. I had the opportunity to screen this at Fantastic Fest and if the collective shrieks from an audience of horror hounds were any indication, <i>Primate</i> will make for a raucous late-night cinema experience. — <i>James</i>",
+      "relatedConst": [
         "nm4292747",
         "nm1319274",
         "nm7987534",
@@ -47,11 +47,11 @@
     },
     {
       "name": "The Night Manager",
-      "ttconst": "tt1399664",
+      "id": "tt1399664",
       "rmconst": "rm878095618",
       "detail": "Season 2 premieres on Prime Video Jan. 11",
-      "description": "How’s it possible a spy would get into a three-way with his intended target? That’s the wtf-ness coming our way in “The Night Manager” Season 2. The new season arrives a full decade after Tom Hiddleston’s gorgeous chameleon, Jonathan Pine, traversed across Europe into Africa to bring down arms dealer Richard Roper (Hugh Laurie). We link back up with Pine as he’s dispatched to South America to infiltrate the operation of another arms dealer, who also happens to be a criminal descendant of Roper’s. Everyone in the cast is hot, including Olivia Colman, who returns to run Pine’s home team operation. And I just learned Noah Jupe — who recently starred in <i>Hamnet</i> — plays Roper’s son, who is continuing his father’s traditions. — <i>Arno</i>",
-      "relatedconst": [
+      "description": "How's it possible a spy would get into a three-way with his intended target? That's the wtf-ness coming our way in “The Night Manager“ Season 2. The new season arrives a full decade after Tom Hiddleston's gorgeous chameleon, Jonathan Pine, traversed across Europe into Africa to bring down arms dealer Richard Roper (Hugh Laurie). We link back up with Pine as he's dispatched to South America to infiltrate the operation of another arms dealer, who also happens to be a criminal descendant of Roper's. Everyone in the cast is hot, including Olivia Colman, who returns to run Pine's home team operation. And I just learned Noah Jupe — who recently starred in <i>Hamnet</i> — plays Roper's son, who is continuing his father's traditions. — <i>Arno</i>",
+      "relatedConst": [
         "nm1089991",
         "nm1469236",
         "nm6714979",
@@ -62,11 +62,11 @@
     },
     {
       "name": "Star Trek: Starfleet Academy",
-      "ttconst": "tt8622160",
+      "id": "tt8622160",
       "rmconst": "rm4127502082",
       "detail": "Premieres on Paramount+ Jan. 15",
-      "description": "I'm kind of surprised it's taken this long to get a series about Starfleet Academy. With all of the built-in angst and drama that comes with being students at the most exclusive school in the galaxy, the setting is ripe for storytelling. Set in the 32nd century during the same era as Star Trek: Discovery, we'll see some familiar faces alongside the roster of new students, including Tig Notaro, Oded Fehr, and Mary Wiseman from Discovery. Plus, Robert Picardo from Star Trek: Voyager reprises his role as the holographic doctor. I'm most excited for the newcomers to the Star Trek universe: Holly Hunter as Captain Nahla Ake, chancellor of Starfleet Academy, and Paul Giamatti as the newest baddie, a half-Klingon named Nus Braka. Keep an ear out for the unmistakable voice of Stephen Colbert as the Digital Dean of Students. — <i>Vanessa</i>",
-      "relatedconst": [
+      "description": "I'm kind of surprised it's taken this long to get a series about Starfleet Academy. With all of the built-in angst and drama that comes with being students at the most exclusive school in the galaxy, the setting is ripe for storytelling. Set in the 32nd century during the same era as “Star Trek: Discovery,“ we'll see some familiar faces alongside the roster of new students, including Tig Notaro, Oded Fehr, and Mary Wiseman from “Discovery.“ Plus, Robert Picardo from “Star Trek: Voyager“ reprises his role as the holographic doctor. I'm most excited for the newcomers to the “Star Trek“ universe: Holly Hunter as Captain Nahla Ake, chancellor of Starfleet Academy, and Paul Giamatti as the newest baddie, a half-Klingon named Nus Braka. Keep an ear out for the unmistakable voice of Stephen Colbert as the Digital Dean of Students. — <i>Vanessa</i>",
+      "relatedConst": [
         "nm0000456",
         "nm0170306",
         "nm0316079",
@@ -78,11 +78,11 @@
     },
     {
       "name": "Agatha Christie's Seven Dials",
-      "ttconst": "tt31974288",
+      "id": "tt31974288",
       "rmconst": "rm941387777",
       "detail": "Premieres on Netflix Jan. 15",
-      "description": "An Agatha Christie mini-series is everything I need for a wintry January weekend. And “Seven Dials,” which follows a socialite trying to solve a murder that went down at a ritzy house party, is just three episodes – that means no waiting around for 40 minutes like when you watched <i>Wake Up Dead Man</i> for the main character to arrive. The mystery marks the beginning of Mia McKenna-Bruce’s ascendancy, as the <i>How to Have Sex</i> star prepares for everyone to know her name once Sam Mendes’ Beatles biopics come out (McKenna-Bruce will play Mo Starkey, Ringo Starr’s first wife, in the film series). — <i>Arno</i>",
-      "relatedconst": [
+      "description": "An Agatha Christie mini-series is everything I need for a wintry January weekend. And “Seven Dials,“ which follows a socialite trying to solve a murder that went down at a ritzy house party, is just three episodes – that means no waiting around for 40 minutes like when you watched <i>Wake Up Dead Man</i> for the main character to arrive. The mystery marks the beginning of Mia McKenna-Bruce's ascendancy, as the <i>How to Have Sex</i> star prepares for everyone to know her name once Sam Mendes' Beatles biopics come out (McKenna-Bruce will play Mo Starkey, Ringo Starr's first wife, in the film series). — <i>Arno</i>",
+      "relatedConst": [
         "nm2898911",
         "nm0000307",
         "nm0293509",
@@ -94,11 +94,11 @@
     },
     {
       "name": "28 Years Later: The Bone Temple",
-      "ttconst": "tt32141377",
+      "id": "tt32141377",
       "rmconst": "rm3473842434",
       "detail": "In theaters Jan. 16",
-      "description": "It’s about to get even more terrifying on the English mainland as Jimmy Crystal makes like <i>A Clockwork Orange</i> and brings his wild bunch to the doorstep of Dr. Kelson’s bone temple. The <i>28 Years Later</i> sequel, which wisely arrives less than a year after the first movie, picks up right where <i>28YL</i> left off, with the promise that Cillian Murphy’s Jim will make a “surreal” appearance – that’s how director Nia DaCosta describes it – to set up the third movie in the trilogy, which has been greenlighted by the studio. — <i>Arno</i>",
-      "relatedconst": [
+      "description": "It's about to get even more terrifying on the English mainland as Jimmy Crystal makes like <i>A Clockwork Orange</i> and brings his wild bunch to the doorstep of Dr. Kelson's bone temple. The <i>28 Years Later</i> sequel, which wisely arrives less than a year after the first movie, picks up right where <i>28YL</i> left off, with the promise that Cillian Murphy's Jim will make a “surreal“ appearance – that's how director Nia DaCosta describes it – to set up the third movie in the trilogy, which has been greenlighted by the studio. — <i>Arno</i>",
+      "relatedConst": [
         "nm0000146",
         "nm1925239",
         "nm12595111",
@@ -110,20 +110,20 @@
     },
     {
       "name": "All You Need Is Kill",
-      "ttconst": "tt36148135",
+      "id": "tt36148135",
       "rmconst": "rm2430051330",
       "detail": "In theaters Jan. 16",
-      "description": "Answering the question, <i>What if</i> Groundhog’s Day <i>but war?</i>, this animated sci-fi flick follows a soldier as she attempts to escape a time loop during an alien invasion. We’re prepared for a visual spectacle from the lauded Japanese animation house Studio 4°C, and if this all sounds familiar, don’t worry. You’re not trapped in a temporal anomaly of your own; you’re just remembering the Tom Cruise movie <i>Edge of Tomorrow</i>, which was based on the same novel by Hiroshi Sakurazaka. — <i>Adrienne</i>",
-      "relatedconst": [],
+      "description": "Answering the question, <i>What if</i> Groundhog's Day <i>but war?</i>, this animated sci-fi flick follows a soldier as she attempts to escape a time loop during an alien invasion. We're prepared for a visual spectacle from the lauded Japanese animation house Studio 4°C, and if this all sounds familiar, don't worry. You're not trapped in a temporal anomaly of your own; you're just remembering the Tom Cruise movie <i>Edge of Tomorrow</i>, which was based on the same novel by Hiroshi Sakurazaka. — <i>Adrienne</i>",
+      "relatedConst": [],
       "viconst": "vi2993604633"
     },
     {
       "name": "A Private Life",
-      "ttconst": "tt33852162",
+      "id": "tt33852162",
       "rmconst": "rm4563202",
       "detail": "In theaters Jan. 16",
-      "description": "<i>A Private Life</i> is a messy, imperfect thriller starring Jodie Foster as a therapist who experiences a hysterical episode in the wake of her client's mysterious death. The fact that she isn’t disbarred reminds you the movie is a high fantasy, and that diamonds can be formed from coal, provided you break free from the conventional world. There's an audience out there who will embrace Rebecca Zlotowski's unhinged fever dream that advocates for hypnotherapy as a means for later-life catharsis. — <i>Arno</i>",
-      "relatedconst": [
+      "description": "<i>A Private Life</i> is a messy, imperfect thriller starring Jodie Foster as a therapist who experiences a hysterical episode in the wake of her client's mysterious death. The fact that she isn't disbarred reminds you the movie is a high fantasy, and that diamonds can be formed from coal, provided you break free from the conventional world. There's an audience out there who will embrace Rebecca Zlotowski's unhinged fever dream that advocates for hypnotherapy as a means for later-life catharsis. — <i>Arno</i>",
+      "relatedConst": [
         "nm0000149",
         "nm0000809",
         "nm0023832",
@@ -134,11 +134,11 @@
     },
     {
       "name": "The Rip",
-      "ttconst": "tt32642706",
+      "id": "tt32642706",
       "rmconst": "rm3762795778",
       "detail": "Premieres on Netflix Jan. 16",
-      "description": "Matt and Ben are back together again this month on Netflix with a crime drama about Miami cops whose loyalties are tested when they discover buckets of cash during a raid. We suspect audiences will enjoy seeing this much-loved Gen X duo play opposite each other once again, and we bet it’s their enduring star power that pulled in such an impressive supporting cast, including Teyana Taylor, Kyle Chandler, Sasha Calle, Steven Yeun, and Nestor Carbonell, among others. — <i>Adrienne</i>",
-      "relatedconst": [
+      "description": "Matt and Ben are back together again this month on Netflix with a crime drama about Miami cops whose loyalties are tested when they discover buckets of cash during a raid. We suspect audiences will enjoy seeing this much-loved Gen X duo play opposite each other once again, and we bet it's their enduring star power that pulled in such an impressive supporting cast, including Teyana Taylor, Kyle Chandler, Sasha Calle, Steven Yeun, and Nestor Carbonell, among others. — <i>Adrienne</i>",
+      "relatedConst": [
         "nm0000354",
         "nm0000255",
         "nm3692520",
@@ -150,11 +150,11 @@
     },
     {
       "name": "Night Patrol",
-      "ttconst": "tt8637438",
+      "id": "tt8637438",
       "rmconst": "rm711438594",
       "detail": "In theaters Jan. 16",
-      "description": "Reared on horror and crime classics of the late-20th century, director Ryan Prows (<i>Lowlife</i>) slams his influences together in this wild mashup, as a cop (Justin Long) discovers a deadly secret within a special task force in the LAPD. Drawing on vampire classics <i>The Lost Boys</i> and <i>Near Dark</i>, as well as crime thrillers like <i>Menace II Society</i> and <i>Prince of the City</i>, <i>Night Patrol</i> is a smorgasbord fit for hungry genre fans. — <i>James</i>",
-      "relatedconst": [
+      "description": "Reared on horror and crime classics of the late-20th century, director Ryan Prows (<i>Lowlife</i>) slams his influences together in this wild mashup, as a cop (Justin Long) discovers a deadly secret within a special task force in the LAPD. Drawing on vampire classics <i>The Lost Boys</i> and <i>Near Dark</i>, as well as crime thrillers like <i>Menace II Society</i> and <i>Prince of the City</i>, <i>Night Patrol</i> is a smorgasbord fit for hungry genre fans. — <i>James</i>",
+      "relatedConst": [
         "nm1854664",
         "nm0519043",
         "nm6248528",
@@ -165,11 +165,11 @@
     },
     {
       "name": "A Knight of the Seven Kingdoms",
-      "ttconst": "tt27497448",
+      "id": "tt27497448",
       "rmconst": "rm2546640386",
       "detail": "Premieres on HBO Max Jan. 18",
-      "description": "Be prepared for a very different Westeros in HBO’s latest “Game of Thrones” prequel. Based on George R. R. Martin’s “Tales of Dunk and Egg” novellas, “A Knight of the Seven Kingdoms” follows a newly minted knight and his little squire on their adventures throughout the land a century before Ned Stark’s untimely end. According to Martin, the six-episode season is “smaller in scale, more personal, with more humor, more focus on character … but there is danger and death as well.” Newcomers Peter Claffey and Dexter Sol Ansell star as the leading duo, and we’re excited to see where executive producers Ira Parker and Owen Harris — you know him as the director of the only heartwarming “Black Mirror” episode, “San Junipero” — take this lighter look at a beloved fantasy world. — <i>Adrienne</i>",
-      "relatedconst": [
+      "description": "Be prepared for a very different Westeros in HBO's latest “Game of Thrones“ prequel. Based on George R. R. Martin's “Tales of Dunk and Egg“ novellas, “A Knight of the Seven Kingdoms“ follows a newly minted knight and his little squire on their adventures throughout the land a century before Ned Stark's untimely end. According to Martin, the six-episode season is “smaller in scale, more personal, with more humor, more focus on character … but there is danger and death as well.“ Newcomers Peter Claffey and Dexter Sol Ansell star as the leading duo, and we're excited to see where executive producers Ira Parker and Owen Harris — you know him as the director of the only heartwarming “Black Mirror“ episode, “San Junipero“ — take this lighter look at a beloved fantasy world. — <i>Adrienne</i>",
+      "relatedConst": [
         "nm12853749",
         "nm11274700",
         "nm3958526",
@@ -179,11 +179,11 @@
     },
     {
       "name": "The Beauty",
-      "ttconst": "tt33517752",
+      "id": "tt33517752",
       "rmconst": "rm2504041474",
       "detail": "Premieres on Hulu and Disney+ Jan. 21",
-      "description": "He’s at it again, folks. But if you made it through “Monster” and you found your footing with “All’s Fair,” then Ryan Murphy’s latest series might just be for you. Rather than describe its premise, it may be easier to give you the recipe. Take one part “The X-Files” and two parts <i>The Substance</i>, add in a dash of <i>It Follows</i>, and season liberally with real-world techno-terrorist billionaire behavior, and voila! You’re ready to taste test this high-camp sci-fi horror story. Still not convinced? Take a look at that cast. As usual, Murphy has assembled an A-list team that can’t be denied. — <i>Adrienne</i>",
-      "relatedconst": [
+      "description": "He's at it again, folks. But if you made it through “Monster“ and you found your footing with “All's Fair,“ then Ryan Murphy's latest series might just be for you. Rather than describe its premise, it may be easier to give you the recipe. Take one part “The X-Files“ and two parts <i>The Substance</i>, add in a dash of <i>It Follows</i>, and season liberally with real-world techno-terrorist billionaire behavior, and voila! You're ready to taste test this high-camp sci-fi horror story. Still not convinced? Take a look at that cast. As usual, Murphy has assembled an A-list team that can't be denied. — <i>Adrienne</i>",
+      "relatedConst": [
         "nm0356017",
         "nm1404239",
         "nm0000618",
@@ -195,11 +195,11 @@
     },
     {
       "name": "Return to Silent Hill",
-      "ttconst": "tt22868010",
+      "id": "tt22868010",
       "rmconst": "rm2837947394",
       "detail": "In theaters Jan. 23",
-      "description": "Long before the Backrooms, Silent Hill reigned supreme as the big daddy of liminal video game horror. The games’ central story about a fictional Maine town where nightmares manifest was a no-brainer for a movie adaptation, but after two early 2000s features, the franchise went dormant, leaving fans to wonder if they’d ever see the series on the big screen again. So it’s no wonder the third installment in the franchise is among your most anticipated of the year. Releasing 20 years after the first film, <i>Return to Silent Hill</i> draws on the second game’s narrative to tell a dark love story filled with mystery and death. — <i>Adrienne</i>",
-      "relatedconst": [
+      "description": "Long before the Backrooms, Silent Hill reigned supreme as the big daddy of liminal video game horror. The games' central story about a fictional Maine town where nightmares manifest was a no-brainer for a movie adaptation, but after two early 2000s features, the franchise went dormant, leaving fans to wonder if they'd ever see the series on the big screen again. So it's no wonder the third installment in the franchise is among your most anticipated of the year. Releasing 20 years after the first film, <i>Return to Silent Hill</i> draws on the second game's narrative to tell a dark love story filled with mystery and death. — <i>Adrienne</i>",
+      "relatedConst": [
         "nm3528539",
         "nm5557932",
         "nm6003807",
@@ -210,11 +210,11 @@
     },
     {
       "name": "Mother of Flies",
-      "ttconst": "tt36871027",
+      "id": "tt36871027",
       "rmconst": "rm3613370626",
       "detail": "Premieres on Shudder Jan. 23",
-      "description": "Indie horror is alive and well, and there are few filmmakers who embody that spirit like John Adams, Toby Poser, and their daughters Lulu and Zelda, who produce, write, direct, edit, score, and act in their movies. The Adams family have made an impressive <i>eight</i> features in the last 12 years. Like their 2021 Shudder hit <i>Hellbender</i>, <i>Mother of Flies</i> is another witchy work of art, with gorgeous visuals, strong performances, and a story that speaks to the disillusionment of modern science. When we spoke with John and Toby at Fantastic Fest in September, they shared some of their influences, which any aspiring guerrilla filmmakers should add to their Watchlists immediately.",
-      "relatedconst": [
+      "description": "Indie horror is alive and well, and there are few filmmakers who embody that spirit like John Adams, Toby Poser, and their daughters Lulu and Zelda, who produce, write, direct, edit, score, and act in their movies. The Adams family have made an impressive <i>eight</i> features in the last 12 years. Like their 2021 Shudder hit <i>Hellbender</i>, <i>Mother of Flies</i> is another witchy work of art, with gorgeous visuals, strong performances, and a story that speaks to the disillusionment of modern science. When we spoke with John and Toby at Fantastic Fest in September, they shared some of their influences, which any aspiring guerrilla filmmakers should add to their Watchlists immediately. — <i>James</i>",
+      "relatedConst": [
         "nm3176035",
         "nm0692652",
         "nm3080055",
@@ -224,11 +224,11 @@
     },
     {
       "name": "Wonder Man",
-      "ttconst": "tt21066182",
+      "id": "tt21066182",
       "rmconst": "rm1888396546",
       "detail": "Series premieres on Disney+ Jan. 27",
-      "description": "Yahya Abdul-Mateen II plays Simon Williams, a struggling actor set on being cast in a remake of the fictional film <i>Wonder Man</i> in this eight-episode miniseries set in the Marvel Cinematic Universe. Under the creative eye of showrunner Andrew Guest and co-creator Destin Daniel Crettin (<i>Shang-Chi and the Legend of the Ten Rings</i>), “Wonder Man” takes a satirical look at the superhero movie factory, similar to how HBO Max and Apple TV recently skewered the genre in “The Franchise” and “The Studio,” respectively. But as an in-universe story, expect actual superhuman feats, as Abdul-Mateen II discovers he has real-life powers. Sir Ben Kingsley reprises his role as actor and former villain Trevor Slattery (aka the Mandarin) in his third MCU appearance, after <i>Iron Man III</i> and <i>Shang-Chi</i>. — <i>James</i>",
-      "relatedconst": [
+      "description": "Yahya Abdul-Mateen II plays Simon Williams, a struggling actor set on being cast in a remake of the fictional film <i>Wonder Man</i> in this eight-episode miniseries set in the Marvel Cinematic Universe. Under the creative eye of showrunner Andrew Guest and co-creator Destin Daniel Crettin (<i>Shang-Chi and the Legend of the Ten Rings</i>), “Wonder Man“ takes a satirical look at the superhero movie factory, similar to how HBO Max and Apple TV recently skewered the genre in “The Franchise“ and “The Studio,“ respectively. But as an in-universe story, expect actual superhuman feats, as Abdul-Mateen II discovers he has real-life powers. Sir Ben Kingsley reprises his role as actor and former villain Trevor Slattery (aka the Mandarin) in his third MCU appearance, after <i>Iron Man III</i> and <i>Shang-Chi</i>. — <i>James</i>",
+      "relatedConst": [
         "nm5584344",
         "nm0001426",
         "nm1573892",
@@ -239,11 +239,11 @@
     },
     {
       "name": "Bridgerton",
-      "ttconst": "tt8740790",
+      "id": "tt8740790",
       "rmconst": "rm895528450",
       "detail": "Season 4, Part 1 and 2 premiere Jan. 29 and Feb. 26 on Netflix",
-      "description": "It's swoony season in the Ton again! We're quickly running out of Bridgertons to marry off, as this season it's Benedict's turn (the second oldest and most free-spirited of the sons) to get swept off his feet. We're getting full Cinderella vibes with the introduction of Sophie Baek (Yerin Ha), a maid who who catches Benedict's eye during a masquerade ball, but as Bridgerton tends to subvert expectations, we're excited to see how they navigate this social divide. — <i>Vanessa</i>",
-      "relatedconst": [
+      "description": "It's swoony season in the Ton again! We're quickly running out of Bridgertons to marry off, as this season it's Benedict's turn (the second oldest and most free-spirited of the sons) to get swept off his feet. We're getting full Cinderella vibes with the introduction of Sophie Baek (Yerin Ha), a maid who who catches Benedict's eye during a masquerade ball, but as “Bridgerton“ tends to subvert expectations, we're excited to see how they navigate this social divide. — <i>Vanessa</i>",
+      "relatedConst": [
         "nm3451086",
         "nm8485169",
         "nm1648520",
@@ -254,11 +254,11 @@
     },
     {
       "name": "Send Help",
-      "ttconst": "tt8036976",
+      "id": "tt8036976",
       "rmconst": "rm105950722",
       "detail": "In theaters Jan. 30",
-      "description": "Horror fans hit the search bar hard when they learned about this new horror flick from Sam Raimi, and for good reason. This satisfying satire about survival of the fittest lampoons office culture by giving the under-appreciated Linda (Rachel McAdams) the upper hand after she and a toxic colleague (Dylan O’Brien) are stranded on a tropical island. It’s been well over a decade since Raimi has directed a horror movie, and we’re excited to see the living legend return to the genre that kick-started his career more than 40 years ago. Oh, and yes, you saw that right. Raimi bestie Bruce Campbell looks likely to make a cameo appearance. To that, we say “Groovy.” — <i>Adrienne</i>",
-      "relatedconst": [
+      "description": "Horror fans hit the search bar hard when they learned about this new horror flick from Sam Raimi, and for good reason. This satisfying satire about survival of the fittest lampoons office culture by giving the under-appreciated Linda (Rachel McAdams) the upper hand after she and a toxic colleague (Dylan O'Brien) are stranded on a tropical island. It's been well over a decade since Raimi has directed a horror movie, and we're excited to see the living legend return to the genre that kick-started his career more than 40 years ago. Oh, and yes, you saw that right. Raimi bestie Bruce Campbell looks likely to make a cameo appearance. To that, we say “Groovy.“ — <i>Adrienne</i>",
+      "relatedConst": [
         "nm1046097",
         "nm3729721"
       ],
@@ -266,11 +266,11 @@
     },
     {
       "name": "The Moment",
-      "ttconst": "tt35524793",
+      "id": "tt35524793",
       "rmconst": "rm873768706",
       "detail": "In theaters Jan. 30",
-      "description": "Hey, if The Weeknd can get a movie like <i>Hurry Up Tomorrow</i> made, then Charli XCX absolutely should have her own mental health/pseudo-biopic, too. <i>The Moment</i> looks indulgent and cheeky, because Charli knows how to enjoy the absurdity of fame, not turn it into a dark ego trip. I’d proudly carry her <i>Brat</i> credit card if the interest rate was low. Alexander Skarsgård joins Charli’s troupe, playing the probably disturbed director of the movie within the movie. — <i>Arno</i>",
-      "relatedconst": [
+      "description": "Hey, if The Weeknd can get a movie like <i>Hurry Up Tomorrow</i> made, then Charli XCX absolutely should have her own mental health/pseudo-biopic, too. <i>The Moment</i> looks indulgent and cheeky, because Charli knows how to enjoy the absurdity of fame, not turn it into a dark ego trip. I'd proudly carry her <i>Brat</i> credit card if the interest rate was low. Alexander Skarsgård joins Charli's troupe, playing the probably disturbed director of the movie within the movie. — <i>Arno</i>",
+      "relatedConst": [
         "nm6424616",
         "nm6976735",
         "nm0002907",
@@ -764,6 +764,27 @@
               "node": {
                 "text": "Greenland 2: Migration",
                 "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -1042,7 +1063,9 @@
             "difference": 187
           }
         },
-        "ratingsSummary": {},
+        "ratingsSummary": {
+          "aggregateRating": 6.0
+        },
         "releaseDate": {
           "year": 2026,
           "month": 1,
@@ -1150,8 +1173,26 @@
               "node": {
                 "text": "Primate",
                 "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primate",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primate",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -1564,7 +1605,7 @@
           }
         },
         "ratingsSummary": {
-          "aggregateRating": 6.2
+          "aggregateRating": 6.3
         },
         "releaseDate": {
           "year": 2026,
@@ -2319,6 +2360,18 @@
               "node": {
                 "text": "Agatha Christie's Seven Dials",
                 "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
                 }
@@ -2359,6 +2412,15 @@
             },
             {
               "node": {
+                "text": "Agatha Christie: Bảy Mặt Đồng Hồ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Agatha Christie: Las siete esferas",
                 "country": {
                   "id": "ES",
@@ -2381,6 +2443,15 @@
                 "country": {
                   "id": "NO",
                   "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "De syv urskiver",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -2661,6 +2732,24 @@
             },
             {
               "node": {
+                "text": "Exterminio: El Templo de Huesos",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Exterminio: El Templo de Huesos",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "28 aastat hiljem 2",
                 "country": {
                   "id": "EE",
@@ -2892,6 +2981,9 @@
               }
             }
           ]
+        },
+        "certificate": {
+          "rating": "R"
         },
         "originalTitleText": {
           "text": "28 Years Later: The Bone Temple"
@@ -4052,6 +4144,15 @@
             },
             {
               "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "A Knight of the Seven Kingdoms: The Hedge Knight",
                 "country": {
                   "id": "US",
@@ -4363,6 +4464,18 @@
               "node": {
                 "text": "Return to Silent Hill",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -4398,6 +4511,15 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
                 }
               }
             },
@@ -4720,11 +4842,6 @@
               "genre": {
                 "text": "Mystery"
               }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
             }
           ]
         },
@@ -4778,6 +4895,18 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -5895,6 +6024,18 @@
             },
             {
               "node": {
+                "text": "Envoyez de l'aide",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Gelbėkit",
                 "country": {
                   "id": "LT",
@@ -6034,6 +6175,15 @@
                 },
                 "language": {
                   "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "荒島囚救",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
                 }
               }
             }
@@ -6319,9 +6469,9 @@
         },
         "primaryImage": {
           "id": "rm297578498",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDMzMDY0MDQtZWM4MC00ZmU2LTk5NTQtYWQ3N2E1MTE1NDAzXkEyXkFqcGc@._V1_CR573,300,3333,5000_.jpg",
-          "width": 3333,
-          "height": 5000
+          "url": "https://m.media-amazon.com/images/M/MV5BZDMzMDY0MDQtZWM4MC00ZmU2LTk5NTQtYWQ3N2E1MTE1NDAzXkEyXkFqcGc@._V1_.jpg",
+          "width": 4480,
+          "height": 5600
         }
       },
       {
