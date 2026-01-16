@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-01-12 06:33:24",
+  "updated_at": "2026-01-16 13:24:29",
   "entries": [
     {
       "name": "Jujutsu Kaisen",
       "ttconst": "tt12343534",
       "rmconst": "rm59683842",
       "detail": "Season 3 streaming on Crunchyroll",
-      "description": "We've got six months of “Jujutsu Kaisen“ this year. Say it with me: “Six months!“ After the two-year hiatus that kicked off after the devastating finale of the Shibuya Incident arc, this sudden glut fills me with both excitement and dread at the upcoming angst I'm going to endure as the remaining Jujutsu Sorcerers battle to take down Kenjaku and free Satoru Gojo from the Prison Realm. How many more friends will we lose along the way? Can it be none, please? — <i>Vanessa</i>",
+      "description": "We've got six months of “Jujutsu Kaisen“ this year. Say it with me: “Six months!“ After the two-year hiatus that kicked off after the devastating finale of the Shibuya Incident arc, this sudden glut fills me with both excitement and dread at the upcoming angst I'm going to endure as the remaining Jujutsu Sorcerers battle to take down Kenjaku and free Satoru Gojo from the Prison Realm. How many more friends will we lose along the way? Can it be none, please? — <i>Vanessa</i>",
       "relatedconst": [
         "nm1697606",
         "nm1361499",
@@ -81,7 +81,7 @@
       "ttconst": "tt31974288",
       "rmconst": "rm941387777",
       "detail": "Premieres on Netflix Jan. 15",
-      "description": "An Agatha Christie mini-series is everything I need for a wintry January weekend. And “Seven Dials,“ which follows a socialite trying to solve a murder that went down at a ritzy house party, is just three episodes – that means no waiting around for 40 minutes like when you watched <i>Wake Up Dead Man</i> for the main character to arrive. The mystery marks the beginning of Mia McKenna-Bruce's ascendancy, as the <i>How to Have Sex</i> star prepares for everyone to know her name once Sam Mendes' Beatles biopics come out (McKenna-Bruce will play Mo Starkey, Ringo Starr's first wife, in the film series). — <i>Arno</i>",
+      "description": "An Agatha Christie mini-series is everything I need for a wintry January weekend. And Seven Dials, which follows a socialite trying to solve a murder that went down at a ritzy house party, is just three episodes — that means no waiting around for 40 minutes, like when you watched the recent Knives Out movie waiting for the main character to arrive. The mystery marks the beginning of Mia McKenna-Bruce's ascendency, as the star prepares for everyone to know her name once Sam Mendes' Beatles biopics come out (McKenna-Bruce will play Mo Starkey, Ringo Starr's first wife, in the film series). — Arno",
       "relatedconst": [
         "nm2898911",
         "nm0000307",
@@ -113,7 +113,7 @@
       "ttconst": "tt36148135",
       "rmconst": "rm2430051330",
       "detail": "In theaters Jan. 16",
-      "description": "Answering the question, <i>What if</i> Groundhog's Day <i>but war?</i>, this animated sci-fi flick follows a soldier as she attempts to escape a time loop during an alien invasion. We're prepared for a visual spectacle from the lauded Japanese animation house Studio 4°C, and if this all sounds familiar, don't worry. You're not trapped in a temporal anomaly of your own; you're just remembering the Tom Cruise movie <i>Edge of Tomorrow</i>, which was based on the same novel by Hiroshi Sakurazaka. — <i>Adrienne</i>",
+      "description": "Answering the question, <i>What if</i> Groundhog Day <i>but war?</i>, this animated sci-fi flick follows a soldier as she attempts to escape a time loop during an alien invasion. We're prepared for a visual spectacle from the lauded Japanese animation house Studio 4°C, and if this all sounds familiar, don't worry. You're not trapped in a temporal anomaly of your own; you're just remembering the Tom Cruise movie <i>Edge of Tomorrow</i>, which was based on the same novel by Hiroshi Sakurazaka. — <i>Adrienne</i>",
       "relatedconst": [],
       "viconst": "vi2993604633"
     },
@@ -684,15 +684,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 116,
+          "current_rank": 14,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 34
+            "difference": 102
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.5
+          "aggregate_rating": 8.5,
+          "vote_count": 179072
         },
         "release_date": {
           "year": 2020,
@@ -794,6 +795,18 @@
               "node": {
                 "text": "Greenland 2: Migration",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -845,6 +858,66 @@
               "node": {
                 "text": "Greenland 2: Migration",
                 "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -874,33 +947,6 @@
                 "country": {
                   "id": "PE",
                   "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Greenland 2",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Greenland 2",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Greenland 2",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
                 }
               }
             },
@@ -990,6 +1036,15 @@
             },
             {
               "node": {
+                "text": "Grenlande 2: Jauns patvērums",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Posledný úkryt 2",
                 "country": {
                   "id": "SK",
@@ -1041,6 +1096,18 @@
                   "text": "Taiwan"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "末世綠洲：絕地遷徙",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
             }
           ]
         },
@@ -1056,15 +1123,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 57,
+          "current_rank": 12,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 187
+            "difference": 45
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.0
+          "aggregate_rating": 5.8,
+          "vote_count": 2914
         },
         "release_date": {
           "year": 2026,
@@ -1347,6 +1415,24 @@
               "node": {
                 "text": "Primate",
                 "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primate",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primate",
+                "country": {
                   "id": "ZA",
                   "text": "South Africa"
                 },
@@ -1597,15 +1683,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 55,
+          "current_rank": 8,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 84
+            "difference": 47
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.3
+          "aggregate_rating": 6.3,
+          "vote_count": 4236
         },
         "release_date": {
           "year": 2026,
@@ -2102,15 +2189,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 7,
+          "current_rank": 9,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 43
+            "change_direction": "DOWN",
+            "difference": 2
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.0
+          "aggregate_rating": 8.0,
+          "vote_count": 120308
         },
         "release_date": {
           "year": 2016,
@@ -2280,6 +2368,15 @@
                   "text": "United States"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Csillagflotta Akadémia",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
             }
           ]
         },
@@ -2295,14 +2392,17 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 322,
+          "current_rank": 132,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 313
+            "difference": 190
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "aggregate_rating": 5.0,
+          "vote_count": 1592
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -2412,6 +2512,15 @@
             },
             {
               "node": {
+                "text": "Agatha Christie: A Hét Számlap",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Agatha Christie: Bảy Mặt Đồng Hồ",
                 "country": {
                   "id": "VN",
@@ -2425,6 +2534,15 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie: Las Siete Esferas",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -2466,6 +2584,15 @@
             },
             {
               "node": {
+                "text": "Os Sete Relógios de Agatha Christie",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Siedem zegarów Agathy Christie",
                 "country": {
                   "id": "PL",
@@ -2479,6 +2606,24 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Сім циферблатів Аґати Крісті",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Тайна семи циферблатов",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             },
@@ -2508,14 +2653,17 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 171,
+          "current_rank": 76,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 492
+            "difference": 95
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "aggregate_rating": 6.4,
+          "vote_count": 932
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -2732,6 +2880,36 @@
             },
             {
               "node": {
+                "text": "Exterminio: El templo de huesos",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 лет спустя: Храм костей",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 лет спустя: Храм костей",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Exterminio: El Templo de Huesos",
                 "country": {
                   "id": "CL",
@@ -2873,18 +3051,6 @@
             },
             {
               "node": {
-                "text": "28 лет спустя: Костяной храм",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "28 років по тому: Храм кісток",
                 "country": {
                   "id": "UA",
@@ -2960,14 +3126,17 @@
           "height": 9000
         },
         "meter_ranking": {
-          "current_rank": 45,
+          "current_rank": 30,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 153
+            "difference": 15
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "aggregate_rating": 7.8,
+          "vote_count": 2982
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -3157,15 +3326,16 @@
           "height": 3204
         },
         "meter_ranking": {
-          "current_rank": 952,
+          "current_rank": 931,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 1586
+            "difference": 21
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.5
+          "aggregate_rating": 6.5,
+          "vote_count": 135
         },
         "release_date": {
           "year": 2026,
@@ -3495,15 +3665,16 @@
           "height": 2866
         },
         "meter_ranking": {
-          "current_rank": 402,
+          "current_rank": 350,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 513
+            "difference": 52
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.2
+          "aggregate_rating": 6.2,
+          "vote_count": 1334
         },
         "release_date": {
           "year": 2026,
@@ -3579,6 +3750,15 @@
               "node": {
                 "text": "The Rip",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -3593,15 +3773,6 @@
                 },
                 "language": {
                   "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
                 }
               }
             },
@@ -3637,6 +3808,24 @@
             },
             {
               "node": {
+                "text": "El botín",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El botín",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "A nagy fogás",
                 "country": {
                   "id": "HU",
@@ -3655,19 +3844,19 @@
             },
             {
               "node": {
-                "text": "El botín",
+                "text": "Łup",
                 "country": {
-                  "id": "ES",
-                  "text": "Spain"
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
             {
               "node": {
-                "text": "Łup",
+                "text": "Rána",
                 "country": {
-                  "id": "PL",
-                  "text": "Poland"
+                  "id": "CZ",
+                  "text": "Czech Republic"
                 }
               }
             },
@@ -3757,14 +3946,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 124,
+          "current_rank": 29,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 140
+            "difference": 95
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "vote_count": 0
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -3806,7 +3997,7 @@
           "text": "The Rip"
         },
         "runtime": {
-          "seconds": 7980
+          "seconds": 6720
         }
       },
       {
@@ -3974,15 +4165,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 371,
+          "current_rank": 321,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 1264
+            "difference": 50
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.5
+          "aggregate_rating": 5.0,
+          "vote_count": 176
         },
         "release_date": {
           "year": 2026,
@@ -4198,6 +4390,15 @@
             },
             {
               "node": {
+                "text": "Vitez sedam kraljevstava",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Витез Седам краљевстава",
                 "country": {
                   "id": "RS",
@@ -4228,14 +4429,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 66,
+          "current_rank": 42,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 144
+            "difference": 24
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "vote_count": 0
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -4323,6 +4526,15 @@
                   "text": "Brazil"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Красота",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
             }
           ]
         },
@@ -4338,14 +4550,17 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 129,
+          "current_rank": 63,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 80
+            "change_direction": "UP",
+            "difference": 66
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "aggregate_rating": 8.3,
+          "vote_count": 11
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -4768,18 +4983,6 @@
             },
             {
               "node": {
-                "text": "サイレントヒル",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "サイレントヒルに戻る",
                 "country": {
                   "id": "JP",
@@ -4787,6 +4990,18 @@
                 },
                 "language": {
                   "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "重返寂静岭",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Cantonese"
                 }
               }
             },
@@ -4813,14 +5028,16 @@
           "height": 2998
         },
         "meter_ranking": {
-          "current_rank": 175,
+          "current_rank": 115,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 368
+            "difference": 60
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "vote_count": 0
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -4935,6 +5152,18 @@
               "node": {
                 "text": "Mother of Flies",
                 "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -4958,6 +5187,18 @@
                 "country": {
                   "id": "SE",
                   "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -5005,15 +5246,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 3198,
+          "current_rank": 1702,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 2847
+            "difference": 1496
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.7
+          "aggregate_rating": 6.6,
+          "vote_count": 134
         },
         "release_date": {
           "year": 2026,
@@ -5261,14 +5503,16 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 18,
+          "current_rank": 159,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 863
+            "change_direction": "DOWN",
+            "difference": 141
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "vote_count": 0
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -5760,15 +6004,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 68,
+          "current_rank": 85,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 4
+            "change_direction": "DOWN",
+            "difference": 17
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.4
+          "aggregate_rating": 7.4,
+          "vote_count": 213698
         },
         "release_date": {
           "year": 2020,
@@ -5864,6 +6109,18 @@
               "node": {
                 "text": "Send Help",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Send Help",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -5878,6 +6135,18 @@
                 "country": {
                   "id": "IT",
                   "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Send Help",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -6201,14 +6470,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 77,
+          "current_rank": 40,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 333
+            "difference": 37
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "vote_count": 0
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
@@ -6227,6 +6498,9 @@
               }
             }
           ]
+        },
+        "certificate": {
+          "rating": "R"
         },
         "original_title_text": {
           "text": "Send Help"
@@ -6295,6 +6569,15 @@
                   "text": "United States"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Момент",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
             }
           ]
         },
@@ -6310,14 +6593,16 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 970,
+          "current_rank": 1680,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 1572
+            "change_direction": "DOWN",
+            "difference": 710
           }
         },
-        "ratings_summary": {},
+        "ratings_summary": {
+          "vote_count": 0
+        },
         "release_date": {
           "year": 2026,
           "month": 1,
