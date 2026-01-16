@@ -113,7 +113,7 @@ class ImdbHelper:
             logger.error("Error getting staff picks")
             return None
         try:
-            data = StaffPickApiResponse.model_validate_json(res)
+            data = StaffPickApiResponse.model_validate_json(res, by_name=True)
         except (JSONDecodeError, ValidationError):
             return None
         return data

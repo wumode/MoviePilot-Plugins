@@ -223,7 +223,7 @@ class ImdbSource(_PluginBase):
         height = 335
         is_mobile = ImdbSource.is_mobile(kwargs.get('user_agent'))
         if is_mobile:
-            height *= 1.75
+            height *= 1.80
         # 全局配置
         attrs = {
             "border": False
@@ -361,6 +361,7 @@ class ImdbSource(_PluginBase):
             poster_url = next((f"{title.primary_image.url if title.primary_image else ''}" for title in titles if
                                title.id == entry.ttconst), None)
             poster_url = f"{self._img_proxy_prefix}{quote(poster_url or '')}"
+            meter_ranking_url = imdb_title.meter_ranking.url if imdb_title.meter_ranking else None
             poster_com = {
                 'component': 'VImg',
                 'props': {
@@ -375,9 +376,9 @@ class ImdbSource(_PluginBase):
             }
 
             poster_ui = {
-                'component': 'div',
+                'component': 'VRow',
                 'props': {
-                    'class': 'd-flex justify-center mt-2'
+                    'align': 'center'
                 },
                 'content': [
                     {
@@ -394,11 +395,39 @@ class ImdbSource(_PluginBase):
                     },
                 ]
             }
-
+            meta_chips = [
+                {
+                    "component": "VChip",
+                    "props": {
+                        "append-icon": "mdi-trending-up",
+                        "size": "small",
+                        "href": meter_ranking_url,
+                        "target": "_blank"
+                    },
+                    "text": imdb_title.meter_ranking_text
+                },
+                {
+                    "component": "VChip",
+                    "props": {
+                        "size": "small",
+                    },
+                    "text": imdb_title.title_type.text
+                },
+            ]
+            if imdb_title.certificate_text:
+                meta_chips.append(
+                    {
+                        "component": "VChip",
+                        "props": {
+                            "size": "small"
+                        },
+                        "text": imdb_title.certificate_text
+                    }
+                )
             rating_ui = {
                 'component': 'div',
                 'props': {
-                    'class': 'mb-2 d-flex align-center',
+                    'class': 'd-flex align-center mb-1',
                 },
                 'content': [
                     {
@@ -418,21 +447,21 @@ class ImdbSource(_PluginBase):
                             {
                                 'component': 'span',
                                 'props': {
-                                    'class': 'text-body-2 ml-1',
+                                    'class': 'text-truncate  text-body-2 ml-1',
                                     'style': 'color: rgba(231, 227, 252, 0.8);'
                                 },
-                                'text': f"{imdb_title.rating_text}/10",
+                                'text': f"{imdb_title.rating_text}",
                             },
                         ]
                     },
                     {
                         'component': 'span',
                         'props': {
-                            'class': 'text-warning font-weight-bold ml-4',
+                            'class': 'text-truncate text-warning font-weight-bold ml-4',
                             'color': 'warning'
                         },
                         'text': entry.detail,
-                    }
+                    },
                 ]
             }
 
@@ -455,7 +484,7 @@ class ImdbSource(_PluginBase):
                                 'component': 'span',
                                 'html': f"{entry.name}",
                                 'props': {
-                                    'class': 'line-clamp-2 overflow-hidden',
+                                    'class': 'text-truncate overflow-hidden',
                                 }
                             },
                             {
@@ -467,6 +496,13 @@ class ImdbSource(_PluginBase):
                                 'text': 'mdi-chevron-right'
                             }
                         ]
+                    },
+                    {
+                        "component": 'div',
+                        "props": {
+                            "class": "d-flex align-center gap-1 mb-2",
+                        },
+                        "content": meta_chips
                     },
                     rating_ui,
                     {
@@ -499,14 +535,16 @@ class ImdbSource(_PluginBase):
                     {
                         'component': 'VCardText',
                         'props': {
-                            'class': 'd-flex flex-row absolute pa-4 text-white',
+                            'class': 'd-flex flex-row absolute pa-4 text-white h-100',
                             'style': 'z-index: 2; bottom: 0; max-width: 100%;',
                         },
                         'content': [
                             {
                                 'component': 'VRow',
                                 'props': {
-                                    'class': 'w-100'
+                                    'class': 'w-100',
+                                    'align': "end",
+                                    'align-md': "center"
                                 },
                                 'content': [
                                     # 左图：海报
@@ -514,7 +552,8 @@ class ImdbSource(_PluginBase):
                                         'component': 'VCol',
                                         'props': {
                                             'cols': 12,
-                                            'md': 3
+                                            'md': 3,
+                                            'class': 'd-flex justify-center align-center'
                                         },
                                         'content': [
                                             poster_ui

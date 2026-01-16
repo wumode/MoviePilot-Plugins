@@ -278,7 +278,7 @@ INTERESTS_ID: Final[Dict[str, Dict[str, str]]] = {
 CACHE_LIFETIME: Final[int] = 86400
 IMDB_GRAPHQL_QUERY: Final[str] = dedent("""
     query VerticalListPageItems( $titles: [ID!]! $names: [ID!]! $images: [ID!]! $videos: [ID!]!) {
-      titles(ids: $titles) { ...TitleParts meterRanking { currentRank meterType rankChange {changeDirection difference} } ratingsSummary { aggregateRating } }
+      titles(ids: $titles) { ...TitleParts meterRanking { currentRank meterType rankChange {changeDirection difference} } ratingsSummary { aggregateRating voteCount} }
       names(ids: $names) { ...NameParts }
       videos(ids: $videos) { ...VideoParts }
       images(ids: $images) { ...ImageParts }
