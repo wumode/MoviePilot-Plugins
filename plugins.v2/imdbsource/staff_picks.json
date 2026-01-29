@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-01-21 06:33:25",
+  "updated_at": "2026-01-30 06:33:26",
   "entries": [
+    {
+      "name": "Wonder Man",
+      "ttconst": "tt21066182",
+      "rmconst": "rm1888396546",
+      "detail": "",
+      "description": "Yahya Abdul-Mateen II plays Simon Williams, a struggling actor set on being cast in a remake of the fictional film <i>Wonder Man</i> in this eight-episode miniseries set in the Marvel Cinematic Universe. Under the creative eye of showrunner Andrew Guest and co-creator Destin Daniel Crettin (<i>Shang-Chi and the Legend of the Ten Rings</i>), “Wonder Man“ takes a satirical look at the superhero movie factory, similar to how HBO Max and Apple TV recently skewered the genre in “The Franchise“ and “The Studio,“ respectively. But as an in-universe story, expect actual superhuman feats, as Abdul-Mateen II discovers he has real-life powers. Sir Ben Kingsley reprises his role as actor and former villain Trevor Slattery (aka the Mandarin) in his third MCU appearance, after <i>Iron Man III</i> and <i>Shang-Chi</i>. — <i>James</i>",
+      "relatedconst": [
+        "nm5584344",
+        "nm0001426",
+        "nm1573892",
+        "nm5619620",
+        "nm0121519"
+      ],
+      "viconst": "vi1954138137"
+    },
+    {
+      "name": "Bridgerton",
+      "ttconst": "tt8740790",
+      "rmconst": "rm895528450",
+      "detail": "",
+      "description": "It's swoony season in the Ton again! We're quickly running out of Bridgertons to marry off, as this season it's Benedict's turn (the second oldest and most free-spirited of the sons) to get swept off his feet. We're getting full Cinderella vibes with the introduction of Sophie Baek (Yerin Ha), a maid who who catches Benedict's eye during a masquerade ball, but as “Bridgerton“ tends to subvert expectations, we're excited to see how they navigate this social divide. — <i>Vanessa</i>",
+      "relatedconst": [
+        "nm3451086",
+        "nm8485169",
+        "nm1648520",
+        "nm0047332",
+        "nm7592760"
+      ],
+      "viconst": "vi24889369"
+    },
+    {
+      "name": "Send Help",
+      "ttconst": "tt8036976",
+      "rmconst": "rm105950722",
+      "detail": "",
+      "description": "Horror fans hit the search bar hard when they learned about this new horror flick from Sam Raimi, and for good reason. This satisfying satire about survival of the fittest lampoons office culture by giving the under-appreciated Linda (Rachel McAdams) the upper hand after she and a toxic colleague (Dylan O'Brien) are stranded on a tropical island. It's been well over a decade since Raimi has directed a horror movie, and we're excited to see the living legend return to the genre that kick-started his career more than 40 years ago. Oh, and yes, you saw that right. Raimi bestie Bruce Campbell looks likely to make a cameo appearance. To that, we say “Groovy.“ — <i>Adrienne</i>",
+      "relatedconst": [
+        "nm1046097",
+        "nm3729721"
+      ],
+      "viconst": "vi2524760089"
+    },
+    {
+      "name": "The Moment",
+      "ttconst": "tt35524793",
+      "rmconst": "rm873768706",
+      "detail": "",
+      "description": "Hey, if The Weeknd can get a movie like <i>Hurry Up Tomorrow</i> made, then Charli XCX absolutely should have her own mental health/pseudo-biopic, too. <i>The Moment</i> looks indulgent and cheeky, because Charli knows how to enjoy the absurdity of fame, not turn it into a dark ego trip. I'd proudly carry her <i>Brat</i> credit card if the interest rate was low. Alexander Skarsgård joins Charli's troupe, playing the probably disturbed director of the movie within the movie. — <i>Arno</i>",
+      "relatedconst": [
+        "nm6424616",
+        "nm6976735",
+        "nm0002907",
+        "nm0000275",
+        "nm5857152"
+      ],
+      "viconst": "vi4257205017"
+    },
     {
       "name": "A Knight of the Seven Kingdoms",
       "ttconst": "tt27497448",
@@ -83,7 +140,7 @@
       "name": "The Beauty",
       "ttconst": "tt33517752",
       "rmconst": "rm2504041474",
-      "detail": "Premieres on Hulu and Disney+ Jan. 21",
+      "detail": "",
       "description": "He's at it again, folks. But if you made it through “Monster“ and you found your footing with “All's Fair,“ then Ryan Murphy's latest series might just be for you. Rather than describe its premise, it may be easier to give you the recipe. Take one part “The X-Files“ and two parts <i>The Substance</i>, add in a dash of <i>It Follows</i>, and season liberally with real-world techno-terrorist billionaire behavior, and voila! You're ready to taste test this high-camp sci-fi horror story. Still not convinced? Take a look at that cast. As usual, Murphy has assembled an A-list team that can't be denied. — <i>Adrienne</i>",
       "relatedconst": [
         "nm0356017",
@@ -99,7 +156,7 @@
       "name": "Return to Silent Hill",
       "ttconst": "tt22868010",
       "rmconst": "rm2837947394",
-      "detail": "In theaters Jan. 23",
+      "detail": "",
       "description": "Long before the Backrooms, Silent Hill reigned supreme as the big daddy of liminal video game horror. The games' central story about a fictional Maine town where nightmares manifest was a no-brainer for a movie adaptation, but after two early 2000s features, the franchise went dormant, leaving fans to wonder if they'd ever see the series on the big screen again. So it's no wonder the third installment in the franchise is among your most anticipated of the year. Releasing 20 years after the first film, <i>Return to Silent Hill</i> draws on the second game's narrative to tell a dark love story filled with mystery and death. — <i>Adrienne</i>",
       "relatedconst": [
         "nm3528539",
@@ -114,7 +171,7 @@
       "name": "Mother of Flies",
       "ttconst": "tt36871027",
       "rmconst": "rm3613370626",
-      "detail": "Premieres on Shudder Jan. 23",
+      "detail": "",
       "description": "Indie horror is alive and well, and there are few filmmakers who embody that spirit like John Adams, Toby Poser, and their daughters Lulu and Zelda, who produce, write, direct, edit, score, and act in their movies. The Adams family have made an impressive <i>eight</i> features in the last 12 years. Like their 2021 Shudder hit <i>Hellbender</i>, <i>Mother of Flies</i> is another witchy work of art, with gorgeous visuals, strong performances, and a story that speaks to the disillusionment of modern science. When we spoke with John and Toby at Fantastic Fest in September, they shared some of their influences, which any aspiring guerrilla filmmakers should add to their Watchlists immediately. — <i>James</i>",
       "relatedconst": [
         "nm3176035",
@@ -123,63 +180,6 @@
         "nm3958780"
       ],
       "viconst": "vi547408665"
-    },
-    {
-      "name": "Wonder Man",
-      "ttconst": "tt21066182",
-      "rmconst": "rm1888396546",
-      "detail": "Series premieres on Disney+ Jan. 27",
-      "description": "Yahya Abdul-Mateen II plays Simon Williams, a struggling actor set on being cast in a remake of the fictional film <i>Wonder Man</i> in this eight-episode miniseries set in the Marvel Cinematic Universe. Under the creative eye of showrunner Andrew Guest and co-creator Destin Daniel Crettin (<i>Shang-Chi and the Legend of the Ten Rings</i>), “Wonder Man“ takes a satirical look at the superhero movie factory, similar to how HBO Max and Apple TV recently skewered the genre in “The Franchise“ and “The Studio,“ respectively. But as an in-universe story, expect actual superhuman feats, as Abdul-Mateen II discovers he has real-life powers. Sir Ben Kingsley reprises his role as actor and former villain Trevor Slattery (aka the Mandarin) in his third MCU appearance, after <i>Iron Man III</i> and <i>Shang-Chi</i>. — <i>James</i>",
-      "relatedconst": [
-        "nm5584344",
-        "nm0001426",
-        "nm1573892",
-        "nm5619620",
-        "nm0121519"
-      ],
-      "viconst": "vi1954138137"
-    },
-    {
-      "name": "Bridgerton",
-      "ttconst": "tt8740790",
-      "rmconst": "rm895528450",
-      "detail": "Season 4, Part 1 and 2 premiere Jan. 29 and Feb. 26 on Netflix",
-      "description": "It's swoony season in the Ton again! We're quickly running out of Bridgertons to marry off, as this season it's Benedict's turn (the second oldest and most free-spirited of the sons) to get swept off his feet. We're getting full Cinderella vibes with the introduction of Sophie Baek (Yerin Ha), a maid who who catches Benedict's eye during a masquerade ball, but as “Bridgerton“ tends to subvert expectations, we're excited to see how they navigate this social divide. — <i>Vanessa</i>",
-      "relatedconst": [
-        "nm3451086",
-        "nm8485169",
-        "nm1648520",
-        "nm0047332",
-        "nm7592760"
-      ],
-      "viconst": "vi24889369"
-    },
-    {
-      "name": "Send Help",
-      "ttconst": "tt8036976",
-      "rmconst": "rm105950722",
-      "detail": "In theaters Jan. 30",
-      "description": "Horror fans hit the search bar hard when they learned about this new horror flick from Sam Raimi, and for good reason. This satisfying satire about survival of the fittest lampoons office culture by giving the under-appreciated Linda (Rachel McAdams) the upper hand after she and a toxic colleague (Dylan O'Brien) are stranded on a tropical island. It's been well over a decade since Raimi has directed a horror movie, and we're excited to see the living legend return to the genre that kick-started his career more than 40 years ago. Oh, and yes, you saw that right. Raimi bestie Bruce Campbell looks likely to make a cameo appearance. To that, we say “Groovy.“ — <i>Adrienne</i>",
-      "relatedconst": [
-        "nm1046097",
-        "nm3729721"
-      ],
-      "viconst": "vi2524760089"
-    },
-    {
-      "name": "The Moment",
-      "ttconst": "tt35524793",
-      "rmconst": "rm873768706",
-      "detail": "In theaters Jan. 30",
-      "description": "Hey, if The Weeknd can get a movie like <i>Hurry Up Tomorrow</i> made, then Charli XCX absolutely should have her own mental health/pseudo-biopic, too. <i>The Moment</i> looks indulgent and cheeky, because Charli knows how to enjoy the absurdity of fame, not turn it into a dark ego trip. I'd proudly carry her <i>Brat</i> credit card if the interest rate was low. Alexander Skarsgård joins Charli's troupe, playing the probably disturbed director of the movie within the movie. — <i>Arno</i>",
-      "relatedconst": [
-        "nm6424616",
-        "nm6976735",
-        "nm0002907",
-        "nm0000275",
-        "nm5857152"
-      ],
-      "viconst": "vi4257205017"
     },
     {
       "name": "Jujutsu Kaisen",
@@ -283,2534 +283,6 @@
   "imdb_items": {
     "titles": [
       {
-        "id": "tt27497448",
-        "title_text": {
-          "text": "A Knight of the Seven Kingdoms"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Hét Királyság lovagja",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Knight of the Seven Kingdoms: The Hedge Knight",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El caballero de los siete reinos",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El caballero de los Siete Reinos",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Cavaleiro dos Sete Reinos",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Rycerz siedmiu królestw",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vitez sedam kraljevstava",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Витез Седам краљевстава",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "七王國的騎士",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A century before GOT, Ser Duncan the Tall, and his squire, Egg, wandered through Westeros while the Targaryen dynasty ruled the Iron Throne, and dragons were still remembered. Great destinies and enemies await the incomparable friends."
-          }
-        },
-        "primary_image": {
-          "id": "rm4179011842",
-          "url": "https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1_.jpg",
-          "width": 1536,
-          "height": 1920
-        },
-        "meter_ranking": {
-          "current_rank": 13,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 29
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.4,
-          "vote_count": 6366
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 18
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "A Knight of the Seven Kingdoms"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt32642706",
-        "title_text": {
-          "text": "The Rip"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El botín",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El botín",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El botín",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "全信沒收",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "全信沒收",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A nagy fogás",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Dinheiro Suspeito",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Łup",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Rána",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ranh Giới Tội Ác",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip - Ponto de Rutura",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip - Soldi sporchi",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rip: Tentația corupției",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Зрив",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Лакомый кусок",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "全信没收",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A group of Miami cops discovers a stash of millions in cash, leading to distrust as outsiders learn about the huge seizure, making them question who to rely on."
-          }
-        },
-        "primary_image": {
-          "id": "rm1477162242",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTJhNTJiOTItYjk4Yy00MjliLWJmZTgtYjA2YTVjOGZlMGQ2XkEyXkFqcGc@._V1_.jpg",
-          "width": 510,
-          "height": 755
-        },
-        "meter_ranking": {
-          "current_rank": 1,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 28
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 6.9,
-          "vote_count": 41859
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Rip"
-        },
-        "runtime": {
-          "seconds": 6780
-        }
-      },
-      {
-        "id": "tt31974288",
-        "title_text": {
-          "text": "Agatha Christie's Seven Dials"
-        },
-        "title_type": {
-          "id": "tvMiniSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Agatha Christie's Seven Dials",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie's Seven Dials",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie's Seven Dials",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie's Seven Dials",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie's Seven Dials",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie's Seven Dials",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie's Seven Dials",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie - Yedi Kadran",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie: A Hét Számlap",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie: Bảy Mặt Đồng Hồ",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie: Las siete esferas",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christie: Las Siete Esferas",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christies De sju uren",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agatha Christies syv urskiver",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "De syv urskiver",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I sette quadranti di Agatha Christie",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Les Sept cadrans d'Agatha Christie",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Os Sete Relógios de Agatha Christie",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Siedem zegarów Agathy Christie",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Сім циферблатів Аґати Крісті",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Тайна семи циферблатов",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "阿加莎·克里斯蒂之七面钟",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "In 1925, a country house party prank turns deadly. Lady Eileen \"Bundle\" Brent investigates the chilling murder plot. Lady Caterham and Superintendent Battle assist in solving the country house mystery that changes Bundle's life."
-          }
-        },
-        "primary_image": {
-          "id": "rm158587394",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmM5MjMwOGMtY2U0YS00M2ZlLTlhNmItNDZlZDgxYmJhODdlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 1,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 75
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 6.3,
-          "vote_count": 8052
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 15
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-14"
-        },
-        "original_title_text": {
-          "text": "Agatha Christie's Seven Dials"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt32141377",
-        "title_text": {
-          "text": "28 Years Later: The Bone Temple"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Years Later: The Bone Temple",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Exterminio: El templo de huesos",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Exterminio: El templo de huesos",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Exterminio: El templo de huesos",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Exterminio: El templo de huesos",
-                "country": {
-                  "id": "UY",
-                  "text": "Uruguay"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 лет спустя: Храм костей",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 лет спустя: Храм костей",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Exterminio: El Templo de Huesos",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Exterminio: El Templo de Huesos",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 aastat hiljem: Kondikoda",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 anni dopo: Il tempio delle ossa",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Anos Depois: O Templo dos Ossos",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 años después: El templo de los huesos",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 ans plus tard: Le temple des morts",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Ans Plus Tard: Le Temple Des Morts",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 évvel később: A csonttemplom",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 gadus vēlāk: Kaulu templis",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Godina kasnije 2. dio: Hram kostiju",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 lat później: Świątynia kości",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 let poté: Chrám z kostí",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 let pozneje: Kostni tempelj",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 metai po: Kaulų šventykla",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Năm Sau: Ngôi Đền Tử Thần",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 rokov potom: Chrám kostí",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 Yıl Sonra: Kemik Tapınağı",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 година касније: Храм костију",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 лет спустя: Храм из костей",
-                "country": {
-                  "id": "KG",
-                  "text": "Kyrgyzstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 років по тому: Храм кісток",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28 इयर्स लेटरः दी बोन टेम्पल",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28年後：人骨聖殿",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "２８年後... 白骨の神殿",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "28年毀滅倒數：人骨聖殿",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "După 28 de ani: Templul oaselor",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Exterminio: El Templo De Huesos",
-                "country": {
-                  "id": "BO",
-                  "text": "Bolivia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Extermínio: O Templo dos Ossos",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "As Spike is inducted into Jimmy Crystal's gang on the mainland, Dr. Kelson makes a discovery that could alter the world."
-          }
-        },
-        "primary_image": {
-          "id": "rm613865986",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_.jpg",
-          "width": 2026,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 2,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 28
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.8,
-          "vote_count": 17227
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "28 Years Later: The Bone Temple"
-        },
-        "runtime": {
-          "seconds": 6540
-        }
-      },
-      {
-        "id": "tt8622160",
-        "title_text": {
-          "text": "Star Trek: Starfleet Academy"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Starfleet Academy",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Academia da Frota Estelar",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Star Trek: Csillagflotta Akadémia",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Звездный путь: Академия Звездного флота",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Young cadets train to become Starfleet officers as they deal with friendships, rivalries, and romance, all while facing a mysterious threat to both the Academy and the Federation."
-          }
-        },
-        "primary_image": {
-          "id": "rm3286083074",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGFkNWNjMWQtMDI4Ny00M2FhLTk2NjMtMDg3MGI2NzM5ZjVhXkEyXkFqcGc@._V1_.jpg",
-          "width": 510,
-          "height": 755
-        },
-        "meter_ranking": {
-          "current_rank": 9,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 123
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 4.6,
-          "vote_count": 8637
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 15
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-PG"
-        },
-        "original_title_text": {
-          "text": "Star Trek: Starfleet Academy"
-        }
-      },
-      {
-        "id": "tt33517752",
-        "title_text": {
-          "text": "The Beauty"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Beauty",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Beauty",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Beauty",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Beauty",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Beauty",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Beauty",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A szépség",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Beauty: Lindos de Morrer",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Красота",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Partners Drew Foster and Kara Vaughn investigate \"the Beauty\" STD causing aesthetic effects but proving lethal, evading corrupt officials and a mercenary targeting them amidst a suspected government conspiracy."
-          }
-        },
-        "primary_image": {
-          "id": "rm1340909058",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 84,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 21
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 4.9,
-          "vote_count": 118
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 21
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "The Beauty"
-        }
-      },
-      {
-        "id": "tt22868010",
-        "title_text": {
-          "text": "Return to Silent Hill"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "AE",
-                  "text": "United Arab Emirates"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Return to Silent Hill",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Atgriešanās Klusajā kalnā",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Atgriešanās Klusajā kalnā",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Возвращение в Сайлент Хилл",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Возвращение в Сайлент Хилл",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Đồi Câm Lặng: Ác Mộng Trong Sương",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Powrót do Silent Hill",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Regresso a Silent Hill",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Retour à Silent Hill",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Room 318",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silent Hill: Întoarcerea în iad",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silent Hill: Nočni mŭry",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silent Hill: Visszatérés",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tagasi Silent Hilli",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Terror em Silent Hill: Regresso para o Inferno",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Terror En Silent Hill Regreso Al Infierno",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Terror en Silent Hill: Regreso al infierno",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vrnitev v Silent Hill",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Επιστροφή στο Silent Hill",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Завръщане в Сайлънт Хил",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Повратак у Сајлент Хил",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Сайлент Гілл. Повернення",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "サイレントヒルに戻る",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "重返寂静岭",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "重返沉默之丘",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "When a man receives a mysterious letter from his lost love, he is drawn to Silent Hill, a once familiar town now consumed by darkness."
-          }
-        },
-        "primary_image": {
-          "id": "rm2099029762",
-          "url": "https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 2998
-        },
-        "meter_ranking": {
-          "current_rank": 65,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 50
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 23
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Return to Silent Hill"
-        },
-        "runtime": {
-          "seconds": 6360
-        }
-      },
-      {
-        "id": "tt36871027",
-        "title_text": {
-          "text": "Mother of Flies"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother of Flies",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Matka much",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "When a young woman faces a deadly diagnosis, she seeks dark magic from a witch in the woods - but every cure has costs"
-          }
-        },
-        "primary_image": {
-          "id": "rm3354896130",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzJkN2U5YWEtYWJkNi00YmFjLWFhMDQtYmM2OWIxMWViZmJmXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 1516,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 186
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 6.6,
-          "vote_count": 144
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 1,
-          "day": 23
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Mother of Flies"
-        },
-        "runtime": {
-          "seconds": 5520
-        }
-      },
-      {
         "id": "tt21066182",
         "title_text": {
           "text": "Wonder Man"
@@ -2907,6 +379,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wonder Man",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
@@ -3035,15 +516,16 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 230,
+          "current_rank": 58,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 71
+            "change_direction": "UP",
+            "difference": 172
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.6,
+          "vote_count": 4412
         },
         "release_date": {
           "year": 2026,
@@ -3079,8 +561,14 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-14"
+        },
         "original_title_text": {
           "text": "Wonder Man"
+        },
+        "runtime": {
+          "seconds": 1800
         }
       },
       {
@@ -3536,16 +1024,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 67,
+          "current_rank": 52,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 18
+            "difference": 15
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.4,
-          "vote_count": 213990
+          "vote_count": 214707
         },
         "release_date": {
           "year": 2020,
@@ -3625,6 +1113,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Send Help",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -3969,7 +1466,7 @@
             },
             {
               "node": {
-                "text": "Пришлите помощь",
+                "text": "На помощь!",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
@@ -4001,7 +1498,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive."
+            "plain_text": "An employee and her insufferable boss become stranded on a deserted island, the only survivors of a plane crash. Here, they must overcome past grievances and work together to survive, will they make it out alive?"
           }
         },
         "primary_image": {
@@ -4014,12 +1511,13 @@
           "current_rank": 24,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 16
+            "change_direction": "FLAT",
+            "difference": 0
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.1,
+          "vote_count": 764
         },
         "release_date": {
           "year": 2026,
@@ -4067,6 +1565,15 @@
               "node": {
                 "text": "The Moment",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Moment",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -4097,8 +1604,56 @@
               "node": {
                 "text": "The Moment",
                 "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Moment",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Moment",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Moment",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Moment",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4134,6 +1689,18 @@
             },
             {
               "node": {
+                "text": "The Moment",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Момент",
                 "country": {
                   "id": "RU",
@@ -4149,32 +1716,38 @@
           }
         },
         "primary_image": {
-          "id": "rm1041801986",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmIwZmM4MDgtYzJiZC00OWVlLTliZDgtMGQzMGIwN2JlMTVjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1639,
-          "height": 2048
+          "id": "rm3506151426",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjQ4Y2QzOTgtODQ5MS00ZjVkLWEwOGUtNDZhYzJjODIzOTIwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1944,
+          "height": 2880
         },
         "meter_ranking": {
-          "current_rank": 993,
+          "current_rank": 176,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 687
+            "difference": 817
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 5.4,
+          "vote_count": 133
         },
         "release_date": {
           "year": 2026,
-          "month": 1,
-          "day": 30
+          "month": 2,
+          "day": 20
         },
         "title_genres": {
           "genres": [
             {
               "genre": {
                 "text": "Documentary"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
               }
             },
             {
@@ -4197,6 +1770,3029 @@
         },
         "runtime": {
           "seconds": 6180
+        }
+      },
+      {
+        "id": "tt27497448",
+        "title_text": {
+          "text": "A Knight of the Seven Kingdoms"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Hét Királyság lovagja",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms: The Hedge Knight",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El caballero de los siete reinos",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El caballero de los Siete Reinos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Cavaleiro dos Sete Reinos",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Rycerz siedmiu królestw",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vitez sedam kraljevstava",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Витез Седам краљевстава",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лицар сімох королівств",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Рыцарь семи королевств",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "七王國的騎士",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A century before GOT, Ser Duncan the Tall, and his squire, Egg, wandered through Westeros while the Targaryen dynasty ruled the Iron Throne, and dragons were still remembered. Great destinies and enemies await the incomparable friends."
+          }
+        },
+        "primary_image": {
+          "id": "rm4179011842",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1536,
+          "height": 1920
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 12
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.3,
+          "vote_count": 15206
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 18
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "A Knight of the Seven Kingdoms"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt32642706",
+        "title_text": {
+          "text": "The Rip"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El botín",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El botín",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El botín",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "全信沒收",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "全信沒收",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A nagy fogás",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coup d'argent",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dinheiro Suspeito",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Łup",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Rána",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ranh Giới Tội Ác",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip - Ponto de Rutura",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip - Soldi sporchi",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rip: Tentația corupției",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Зрив",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лакомый кусок",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "全信没收",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A group of Miami cops discovers a stash of millions in cash, leading to distrust as outsiders learn about the huge seizure, making them question who to rely on."
+          }
+        },
+        "primary_image": {
+          "id": "rm2097076226",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjIzMGY3MzMtNDVlMS00MGU1LTkyNTItMmI4Mzk0Mjg3OTBkXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "FLAT",
+            "difference": 0
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.8,
+          "vote_count": 75328
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Rip"
+        },
+        "runtime": {
+          "seconds": 6780
+        }
+      },
+      {
+        "id": "tt31974288",
+        "title_text": {
+          "text": "Agatha Christie's Seven Dials"
+        },
+        "title_type": {
+          "id": "tvMiniSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie's Seven Dials",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie - Yedi Kadran",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie: A Hét Számlap",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie: Bảy Mặt Đồng Hồ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie: Las siete esferas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christie: Las Siete Esferas",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christien Seitsemän kelloa",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christies De sju uren",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agatha Christies syv urskiver",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "De syv urskiver",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I sette quadranti di Agatha Christie",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les Sept cadrans d'Agatha Christie",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Os Sete Relógios de Agatha Christie",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Siedem zegarów Agathy Christie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Syv urskiver",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Сім циферблатів Аґати Крісті",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Тайна семи циферблатов",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "阿加莎·克里斯蒂之七面钟",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "阿嘉莎克莉絲蒂之七鐘面",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "In 1925, a country house party prank turns deadly. Lady Eileen \"Bundle\" Brent investigates the chilling murder plot. Lady Caterham and Superintendent Battle assist in solving the country house mystery that changes Bundle's life."
+          }
+        },
+        "primary_image": {
+          "id": "rm158587394",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmM5MjMwOGMtY2U0YS00M2ZlLTlhNmItNDZlZDgxYmJhODdlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 5,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 4
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.2,
+          "vote_count": 15300
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 15
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-14"
+        },
+        "original_title_text": {
+          "text": "Agatha Christie's Seven Dials"
+        },
+        "runtime": {
+          "seconds": 3300
+        }
+      },
+      {
+        "id": "tt32141377",
+        "title_text": {
+          "text": "28 Years Later: The Bone Temple"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Years Later: The Bone Temple",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Exterminio: El templo de huesos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Exterminio: El templo de huesos",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Exterminio: El templo de huesos",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Exterminio: El templo de huesos",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Ans Plus Tard: Le Temple Des Morts",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Ans Plus Tard: Le Temple Des Morts",
+                "country": {
+                  "id": "GP",
+                  "text": "Guadeloupe"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 лет спустя: Храм костей",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 лет спустя: Храм костей",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Exterminio: El Templo de Huesos",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Exterminio: El Templo de Huesos",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 aastat hiljem: Kondikoda",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 anni dopo: Il tempio delle ossa",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Anos Depois: O Templo dos Ossos",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 años después: El templo de los huesos",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 ans plus tard: Le temple des morts",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 évvel később: A csonttemplom",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 gadus vēlāk: Kaulu templis",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Godina kasnije 2. dio: Hram kostiju",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 lat później: Świątynia kości",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 let poté: Chrám z kostí",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 let pozneje: Kostni tempelj",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 metai po: Kaulų šventykla",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Năm Sau: Ngôi Đền Tử Thần",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 rokov potom: Chrám kostí",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 vuotta myöhemmin: Luutemppeli",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 yildan so'ng: Suyaklar ibodatxonasi",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 Yıl Sonra: Kemik Tapınağı",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 χρόνια μετά: Ο ναός των οστών",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 година касније: Храм костију",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 лет спустя: Храм из костей",
+                "country": {
+                  "id": "KG",
+                  "text": "Kyrgyzstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 років по тому: Храм кісток",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28 इयर्स लेटरः दी बोन टेम्पल",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "28年後：人骨聖殿",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "２８年後... 白骨の神殿",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "As Spike is inducted into Jimmy Crystal's gang on the mainland, Dr. Kelson makes a discovery that could alter the world."
+          }
+        },
+        "primary_image": {
+          "id": "rm613865986",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGU2M2Y1YTItMWYxNS00NDYxLThhOTYtNjNhOWUzNjA3MTYwXkEyXkFqcGc@._V1_.jpg",
+          "width": 2026,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 7,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 5
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.7,
+          "vote_count": 30486
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "28 Years Later: The Bone Temple"
+        },
+        "runtime": {
+          "seconds": 6540
+        }
+      },
+      {
+        "id": "tt8622160",
+        "title_text": {
+          "text": "Star Trek: Starfleet Academy"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Starfleet Academy",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Academia da Frota Estelar",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Academia de la Flota Estelar",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Academia Flotei Stelare",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Akademia Gwiezdnej Floty",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Akadémia Hviezdnej flotily",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Akademie Hvězdné flotily",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Trek: Csillagflotta Akadémia",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Звездный путь: Академия Звездного флота",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Young cadets train to become Starfleet officers as they deal with friendships, rivalries, and romance, all while facing a mysterious threat to both the Academy and the Federation."
+          }
+        },
+        "primary_image": {
+          "id": "rm3286083074",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGFkNWNjMWQtMDI4Ny00M2FhLTk2NjMtMDg3MGI2NzM5ZjVhXkEyXkFqcGc@._V1_.jpg",
+          "width": 510,
+          "height": 755
+        },
+        "meter_ranking": {
+          "current_rank": 15,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 6
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 4.2,
+          "vote_count": 15455
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 15
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-PG"
+        },
+        "original_title_text": {
+          "text": "Star Trek: Starfleet Academy"
+        }
+      },
+      {
+        "id": "tt33517752",
+        "title_text": {
+          "text": "The Beauty"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Belleza perfecta",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Belleza perfecta",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A szépség",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Beauty: Lindos de Morrer",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Красота",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Partners Drew Foster and Kara Vaughn investigate \"the Beauty\" STD causing aesthetic effects but proving lethal, evading corrupt officials and a mercenary targeting them amidst a suspected government conspiracy."
+          }
+        },
+        "primary_image": {
+          "id": "rm1340909058",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 10,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 74
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.1,
+          "vote_count": 2201
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 21
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "The Beauty"
+        }
+      },
+      {
+        "id": "tt22868010",
+        "title_text": {
+          "text": "Return to Silent Hill"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "AE",
+                  "text": "United Arab Emirates"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Return to Silent Hill",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Terror en Silent Hill: Regreso al infierno",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Terror en Silent Hill: Regreso al infierno",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Terror en Silent Hill: Regreso al infierno",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Atgriešanās Klusajā kalnā",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Atgriešanās Klusajā kalnā",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Возвращение в Сайлент Хилл",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Возвращение в Сайлент Хилл",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Đồi Câm Lặng: Ác Mộng Trong Sương",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Powrót do Silent Hill",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Regresso a Silent Hill",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Retour à Silent Hill",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Room 318",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sessiz Tepe: Dönüş",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silent Hill: Întoarcerea în iad",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silent Hill: Nočni mŭry",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silent Hill: Visszatérés",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sugrįžimas į Tyliąją Kalvą",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tagasi Silent Hilli",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Terror em Silent Hill: Regresso para o Inferno",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Terror en Silent Hill Regreso al Infierno",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Terror En Silent Hill Regreso Al Infierno",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vrnitev v Silent Hill",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Επιστροφή στο Silent Hill",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Завръщане в Сайлънт Хил",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Повратак у Сајлент Хил",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Сайлент Гілл. Повернення",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "サイレントヒルに戻る",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "When a man receives a mysterious letter from his lost love, he is drawn to Silent Hill, a once familiar town now consumed by darkness."
+          }
+        },
+        "primary_image": {
+          "id": "rm2099029762",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWVjYjU0ZTAtNGVlNi00NGM1LTgzZjctNTZjMjAyYTc4N2VlXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 2998
+        },
+        "meter_ranking": {
+          "current_rank": 11,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 54
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 4.2,
+          "vote_count": 4792
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 23
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Return to Silent Hill"
+        },
+        "runtime": {
+          "seconds": 6360
+        }
+      },
+      {
+        "id": "tt36871027",
+        "title_text": {
+          "text": "Mother of Flies"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother of Flies",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Matka much",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мать мух",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "When a young woman faces a deadly diagnosis, she seeks dark magic from a witch in the woods - but every cure has costs."
+          }
+        },
+        "primary_image": {
+          "id": "rm3354896130",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzJkN2U5YWEtYWJkNi00YmFjLWFhMDQtYmM2OWIxMWViZmJmXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 60,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 1456
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 5.6,
+          "vote_count": 951
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 23
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Mother of Flies"
+        },
+        "runtime": {
+          "seconds": 5520
         }
       },
       {
@@ -4601,16 +5197,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 19,
+          "current_rank": 13,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 5
+            "change_direction": "UP",
+            "difference": 6
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.5,
-          "vote_count": 180501
+          "vote_count": 184793
         },
         "release_date": {
           "year": 2020,
@@ -4684,6 +5280,27 @@
                 "country": {
                   "id": "AU",
                   "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland 2: Migration",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -4806,6 +5423,42 @@
             },
             {
               "node": {
+                "text": "El día del fin del mundo: Migración",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El día del fin del mundo: Migración",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El día del fin del mundo: Migración",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El día del fin del mundo: Migración",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Greenland 2",
                 "country": {
                   "id": "DE",
@@ -4842,33 +5495,6 @@
             },
             {
               "node": {
-                "text": "El día del fin del mundo: Migración",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El día del fin del mundo: Migración",
-                "country": {
-                  "id": "BO",
-                  "text": "Bolivia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El día del fin del mundo: Migración",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Grenlandija 2: Migracija",
                 "country": {
                   "id": "LT",
@@ -4891,6 +5517,15 @@
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Dia del Fin del Mundo: Migracion",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
                 }
               }
             },
@@ -4923,13 +5558,25 @@
             },
             {
               "node": {
-                "text": "Greenland: Migration",
+                "text": "Greenland: Bit'noo'ah",
                 "country": {
-                  "id": "CA",
-                  "text": "Canada"
+                  "id": "IL",
+                  "text": "Israel"
                 },
                 "language": {
-                  "text": "English"
+                  "text": "Hebrew"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Greenland: Kıyamet",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
                 }
               }
             },
@@ -4992,7 +5639,7 @@
             },
             {
               "node": {
-                "text": "Гренландия: Миграция",
+                "text": "Гренландия 2. Миграция",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
@@ -5028,6 +5675,18 @@
                   "text": "Cantonese"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "末日逃生2：迁移",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
             }
           ]
         },
@@ -5043,16 +5702,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 18,
+          "current_rank": 38,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 6
+            "difference": 20
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.8,
-          "vote_count": 4081
+          "aggregate_rating": 5.5,
+          "vote_count": 7459
         },
         "release_date": {
           "year": 2026,
@@ -5402,6 +6061,27 @@
             },
             {
               "node": {
+                "text": "Primat",
+                "country": {
+                  "id": "ME",
+                  "text": "Montenegro"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primat",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Primata",
                 "country": {
                   "id": "PT",
@@ -5477,6 +6157,18 @@
             },
             {
               "node": {
+                "text": "Kof Ha'Dam",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Linh Trưởng",
                 "country": {
                   "id": "VN",
@@ -5540,15 +6232,6 @@
             },
             {
               "node": {
-                "text": "Primat",
-                "country": {
-                  "id": "ME",
-                  "text": "Montenegro"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Primát",
                 "country": {
                   "id": "CZ",
@@ -5573,24 +6256,6 @@
                   "text": "Romania"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Primata: Amenințare primitivă",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primatas",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
             }
           ]
         },
@@ -5606,7 +6271,7 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 21,
+          "current_rank": 34,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
@@ -5615,7 +6280,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.2,
-          "vote_count": 5323
+          "vote_count": 7147
         },
         "release_date": {
           "year": 2026,
@@ -5917,6 +6582,24 @@
             },
             {
               "node": {
+                "text": "O Gerente da Noite",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Gerente da Noite",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Éjszakai szolgálat",
                 "country": {
                   "id": "HU",
@@ -5978,24 +6661,6 @@
                 "country": {
                   "id": "PL",
                   "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Gerente da Noite",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Gerente de Noite",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
                 }
               }
             },
@@ -6112,16 +6777,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 6,
+          "current_rank": 8,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 3
+            "change_direction": "DOWN",
+            "difference": 2
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.0,
-          "vote_count": 121836
+          "vote_count": 124368
         },
         "release_date": {
           "year": 2016,
@@ -6242,6 +6907,15 @@
               "node": {
                 "text": "All You Need Is Kill",
                 "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "All You Need Is Kill",
+                "country": {
                   "id": "JP",
                   "text": "Japan"
                 },
@@ -6294,10 +6968,37 @@
             },
             {
               "node": {
+                "text": "Solo necesitas matar",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Solo necesitas matar",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Solo Necesitas Matar",
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Você Só Precisa Matar",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
                 }
               }
             },
@@ -6336,16 +7037,16 @@
           "height": 3204
         },
         "meter_ranking": {
-          "current_rank": 334,
+          "current_rank": 1507,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 597
+            "change_direction": "DOWN",
+            "difference": 1173
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 335
+          "vote_count": 460
         },
         "release_date": {
           "year": 2026,
@@ -6375,10 +7076,10 @@
           "rating": "R"
         },
         "original_title_text": {
-          "text": "Ôru yû nîdo izu kiru"
+          "text": "Ôru Yû Nîdo Izu Kiru"
         },
         "runtime": {
-          "seconds": 4920
+          "seconds": 5160
         }
       },
       {
@@ -6549,10 +7250,46 @@
             },
             {
               "node": {
+                "text": "Vie Privée",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vie Privée",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Ett privat liv",
                 "country": {
                   "id": "SE",
                   "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kha'yim Sodi'yim",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
                 }
               }
             },
@@ -6601,18 +7338,6 @@
                 "country": {
                   "id": "FR",
                   "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vie Privée",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -6675,16 +7400,16 @@
           "height": 2866
         },
         "meter_ranking": {
-          "current_rank": 225,
+          "current_rank": 437,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 125
+            "change_direction": "DOWN",
+            "difference": 212
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.3,
-          "vote_count": 1470
+          "vote_count": 1636
         },
         "release_date": {
           "year": 2026,
@@ -6890,16 +7615,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 177,
+          "current_rank": 643,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 144
+            "change_direction": "DOWN",
+            "difference": 466
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.1,
-          "vote_count": 329
+          "aggregate_rating": 5.0,
+          "vote_count": 446
         },
         "release_date": {
           "year": 2026,
@@ -6932,11 +7657,215 @@
           "text": "Night Patrol"
         },
         "runtime": {
-          "seconds": 6240
+          "seconds": 6180
         }
       }
     ],
     "names": [
+      {
+        "id": "nm5584344",
+        "name_text": {
+          "text": "Yahya Abdul-Mateen II"
+        },
+        "primary_image": {
+          "id": "rm2867746305",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWFhMWQ3OTYtMjY1Ny00YzA4LWI3YjYtM2VkYjljOTA3ZTI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1600,
+          "height": 1758
+        }
+      },
+      {
+        "id": "nm0001426",
+        "name_text": {
+          "text": "Ben Kingsley"
+        },
+        "primary_image": {
+          "id": "rm730019840",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_.jpg",
+          "width": 595,
+          "height": 807
+        }
+      },
+      {
+        "id": "nm1573892",
+        "name_text": {
+          "text": "Arian Moayed"
+        },
+        "primary_image": {
+          "id": "rm3457333762",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWU4MGM5YzgtOTJiNC00YzQ5LWE1MzAtODgwYzRlMjYyNjdhXkEyXkFqcGc@._V1_CR85,224,1398,2097_.jpg",
+          "width": 1398,
+          "height": 2097
+        }
+      },
+      {
+        "id": "nm5619620",
+        "name_text": {
+          "text": "X Mayo"
+        },
+        "primary_image": {
+          "id": "rm2897225217",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzg2Y2IyMjUtMTg3Mi00NzNhLWFkMzktYWY0OGM4ZTUxOGU4XkEyXkFqcGc@._V1_.jpg",
+          "width": 7914,
+          "height": 5279
+        }
+      },
+      {
+        "id": "nm0121519",
+        "name_text": {
+          "text": "Zlatko Buric"
+        },
+        "primary_image": {
+          "id": "rm1086380034",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDkyYzhkYWMtZTJiZS00NDdmLTk4NzYtZGY0NjQ0Yjk3NWVlXkEyXkFqcGc@._V1_.jpg",
+          "width": 3651,
+          "height": 5477
+        }
+      },
+      {
+        "id": "nm3451086",
+        "name_text": {
+          "text": "Luke Thompson"
+        },
+        "primary_image": {
+          "id": "rm1213471233",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWZkYTcxMTktOGEwYy00NWYzLTg1ZjEtNWFlOTMyNzUyZGNkXkEyXkFqcGc@._V1_.jpg",
+          "width": 3840,
+          "height": 5760
+        }
+      },
+      {
+        "id": "nm8485169",
+        "name_text": {
+          "text": "Yerin Ha"
+        },
+        "primary_image": {
+          "id": "rm3402671618",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDE4YWUzZWUtMDhiNS00ODdjLTk3ZmQtNmQxMzg2OGE3OWI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "id": "nm1648520",
+        "name_text": {
+          "text": "Katie Leung"
+        },
+        "primary_image": {
+          "id": "rm463356673",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDE3NDY1ZjItYTg2Ny00Y2JjLWEzNTItMzdjOGQ5OTBhNjVhXkEyXkFqcGc@._V1_.jpg",
+          "width": 4000,
+          "height": 6000
+        }
+      },
+      {
+        "id": "nm0047332",
+        "name_text": {
+          "text": "Jonathan Bailey"
+        },
+        "primary_image": {
+          "id": "rm1101947393",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDhhZjdlZjctZjQ0OS00ODIwLWFmMTItNmQ0MzJiYTQ0MjFmXkEyXkFqcGc@._V1_.jpg",
+          "width": 540,
+          "height": 756
+        }
+      },
+      {
+        "id": "nm7592760",
+        "name_text": {
+          "text": "Simone Ashley"
+        },
+        "primary_image": {
+          "id": "rm514659841",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzE5ZTUyNDctNWY0Ni00MjFjLThhZTctYjUxMDhhNjE4ZWEwXkEyXkFqcGc@._V1_.jpg",
+          "width": 8037,
+          "height": 5361
+        }
+      },
+      {
+        "id": "nm1046097",
+        "name_text": {
+          "text": "Rachel McAdams"
+        },
+        "primary_image": {
+          "id": "rm4102273280",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_.jpg",
+          "width": 1413,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm3729721",
+        "name_text": {
+          "text": "Dylan O'Brien"
+        },
+        "primary_image": {
+          "id": "rm549737729",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTFiNDQ1YWMtYjE4Ny00YzViLWJhMzgtNTA1ODdhYmMyMDcyXkEyXkFqcGc@._V1_.jpg",
+          "width": 863,
+          "height": 1230
+        }
+      },
+      {
+        "id": "nm6424616",
+        "name_text": {
+          "text": "Charli XCX"
+        },
+        "primary_image": {
+          "id": "rm278032129",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWNjN2QyMDItZDBlNS00OWE2LTk0MWItY2JkYmQxYTA0Mjc2XkEyXkFqcGc@._V1_.jpg",
+          "width": 3864,
+          "height": 5152
+        }
+      },
+      {
+        "id": "nm6976735",
+        "name_text": {
+          "text": "Rachel Sennott"
+        },
+        "primary_image": {
+          "id": "rm792263169",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjRmZTYzODYtNmJkMi00YWRmLWI3ZDAtODg1OGViZjJlYWU1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1100,
+          "height": 733
+        }
+      },
+      {
+        "id": "nm0002907",
+        "name_text": {
+          "text": "Alexander Skarsgård"
+        },
+        "primary_image": {
+          "id": "rm1858870528",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_.jpg",
+          "width": 1360,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000275",
+        "name_text": {
+          "text": "Rosanna Arquette"
+        },
+        "primary_image": {
+          "id": "rm1314307584",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTI0MjYxMzQ0OF5BMl5BanBnXkFtZTcwMTk0OTE3NQ@@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm5857152",
+        "name_text": {
+          "text": "Jamie Demetriou"
+        },
+        "primary_image": {
+          "id": "rm486898689",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjQyYzVlOTQtYWIzOS00NDg1LWFiOTgtZGYwOTQ0YmE4OTliXkEyXkFqcGc@._V1_.jpg",
+          "width": 3372,
+          "height": 5059
+        }
+      },
       {
         "id": "nm12853749",
         "name_text": {
@@ -7454,210 +8383,6 @@
         }
       },
       {
-        "id": "nm5584344",
-        "name_text": {
-          "text": "Yahya Abdul-Mateen II"
-        },
-        "primary_image": {
-          "id": "rm2867746305",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWFhMWQ3OTYtMjY1Ny00YzA4LWI3YjYtM2VkYjljOTA3ZTI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1600,
-          "height": 1758
-        }
-      },
-      {
-        "id": "nm0001426",
-        "name_text": {
-          "text": "Ben Kingsley"
-        },
-        "primary_image": {
-          "id": "rm730019840",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTU2Njg2NzM4M15BMl5BanBnXkFtZTgwNjYwNjQwMTI@._V1_.jpg",
-          "width": 595,
-          "height": 807
-        }
-      },
-      {
-        "id": "nm1573892",
-        "name_text": {
-          "text": "Arian Moayed"
-        },
-        "primary_image": {
-          "id": "rm3457333762",
-          "url": "https://m.media-amazon.com/images/M/MV5BOWU4MGM5YzgtOTJiNC00YzQ5LWE1MzAtODgwYzRlMjYyNjdhXkEyXkFqcGc@._V1_CR85,224,1398,2097_.jpg",
-          "width": 1398,
-          "height": 2097
-        }
-      },
-      {
-        "id": "nm5619620",
-        "name_text": {
-          "text": "X Mayo"
-        },
-        "primary_image": {
-          "id": "rm2897225217",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzg2Y2IyMjUtMTg3Mi00NzNhLWFkMzktYWY0OGM4ZTUxOGU4XkEyXkFqcGc@._V1_.jpg",
-          "width": 7914,
-          "height": 5279
-        }
-      },
-      {
-        "id": "nm0121519",
-        "name_text": {
-          "text": "Zlatko Buric"
-        },
-        "primary_image": {
-          "id": "rm600215040",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTM0MTU4ODg4MF5BMl5BanBnXkFtZTcwNTA5NzY5Mg@@._V1_.jpg",
-          "width": 1135,
-          "height": 1468
-        }
-      },
-      {
-        "id": "nm3451086",
-        "name_text": {
-          "text": "Luke Thompson"
-        },
-        "primary_image": {
-          "id": "rm1213471233",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWZkYTcxMTktOGEwYy00NWYzLTg1ZjEtNWFlOTMyNzUyZGNkXkEyXkFqcGc@._V1_.jpg",
-          "width": 3840,
-          "height": 5760
-        }
-      },
-      {
-        "id": "nm8485169",
-        "name_text": {
-          "text": "Yerin Ha"
-        },
-        "primary_image": {
-          "id": "rm3402671618",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDE4YWUzZWUtMDhiNS00ODdjLTk3ZmQtNmQxMzg2OGE3OWI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 640,
-          "height": 640
-        }
-      },
-      {
-        "id": "nm1648520",
-        "name_text": {
-          "text": "Katie Leung"
-        },
-        "primary_image": {
-          "id": "rm463356673",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDE3NDY1ZjItYTg2Ny00Y2JjLWEzNTItMzdjOGQ5OTBhNjVhXkEyXkFqcGc@._V1_.jpg",
-          "width": 4000,
-          "height": 6000
-        }
-      },
-      {
-        "id": "nm0047332",
-        "name_text": {
-          "text": "Jonathan Bailey"
-        },
-        "primary_image": {
-          "id": "rm1101947393",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDhhZjdlZjctZjQ0OS00ODIwLWFmMTItNmQ0MzJiYTQ0MjFmXkEyXkFqcGc@._V1_.jpg",
-          "width": 540,
-          "height": 756
-        }
-      },
-      {
-        "id": "nm7592760",
-        "name_text": {
-          "text": "Simone Ashley"
-        },
-        "primary_image": {
-          "id": "rm514659841",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzE5ZTUyNDctNWY0Ni00MjFjLThhZTctYjUxMDhhNjE4ZWEwXkEyXkFqcGc@._V1_.jpg",
-          "width": 8037,
-          "height": 5361
-        }
-      },
-      {
-        "id": "nm1046097",
-        "name_text": {
-          "text": "Rachel McAdams"
-        },
-        "primary_image": {
-          "id": "rm4102273280",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY5ODcxMDU4NV5BMl5BanBnXkFtZTcwMjAzNjQyNQ@@._V1_.jpg",
-          "width": 1413,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm3729721",
-        "name_text": {
-          "text": "Dylan O'Brien"
-        },
-        "primary_image": {
-          "id": "rm549737729",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTFiNDQ1YWMtYjE4Ny00YzViLWJhMzgtNTA1ODdhYmMyMDcyXkEyXkFqcGc@._V1_.jpg",
-          "width": 863,
-          "height": 1230
-        }
-      },
-      {
-        "id": "nm6424616",
-        "name_text": {
-          "text": "Charli XCX"
-        },
-        "primary_image": {
-          "id": "rm278032129",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWNjN2QyMDItZDBlNS00OWE2LTk0MWItY2JkYmQxYTA0Mjc2XkEyXkFqcGc@._V1_.jpg",
-          "width": 3864,
-          "height": 5152
-        }
-      },
-      {
-        "id": "nm6976735",
-        "name_text": {
-          "text": "Rachel Sennott"
-        },
-        "primary_image": {
-          "id": "rm792263169",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjRmZTYzODYtNmJkMi00YWRmLWI3ZDAtODg1OGViZjJlYWU1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1100,
-          "height": 733
-        }
-      },
-      {
-        "id": "nm0002907",
-        "name_text": {
-          "text": "Alexander Skarsgård"
-        },
-        "primary_image": {
-          "id": "rm1858870528",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_.jpg",
-          "width": 1360,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000275",
-        "name_text": {
-          "text": "Rosanna Arquette"
-        },
-        "primary_image": {
-          "id": "rm1314307584",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTI0MjYxMzQ0OF5BMl5BanBnXkFtZTcwMTk0OTE3NQ@@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm5857152",
-        "name_text": {
-          "text": "Jamie Demetriou"
-        },
-        "primary_image": {
-          "id": "rm486898689",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjQyYzVlOTQtYWIzOS00NDg1LWFiOTgtZGYwOTQ0YmE4OTliXkEyXkFqcGc@._V1_.jpg",
-          "width": 3372,
-          "height": 5059
-        }
-      },
-      {
         "id": "nm1697606",
         "name_text": {
           "text": "Yûichi Nakamura"
@@ -8009,6 +8734,30 @@
     "videos": [],
     "images": [
       {
+        "id": "rm1888396546",
+        "url": "https://m.media-amazon.com/images/M/MV5BYWUxMzc0NGItMTVjNi00ZTg2LWE4ZDYtMTZjYTFkMDMwNDgwXkEyXkFqcGc@._V1_.jpg",
+        "width": 1346,
+        "height": 898
+      },
+      {
+        "id": "rm895528450",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmE2NjU4MTMtMDRhOS00Y2JkLWEzMmQtMmZhMTQ5ZjAwYjZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 2400
+      },
+      {
+        "id": "rm105950722",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTM0YjZhMzctMDUwMC00Y2JkLWFjYjMtOTg4MDYxZTQzYzYyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1607
+      },
+      {
+        "id": "rm873768706",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmUxMDE3NTMtYzVjOS00MWYxLTkwZTAtOGU4MTU1MTY2NTkzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3200,
+        "height": 1800
+      },
+      {
         "id": "rm2546640386",
         "url": "https://m.media-amazon.com/images/M/MV5BNDBlZjI3YjUtNzQ4Mi00OGIxLWIzYjEtMmU1ZTg5Y2RhMjA0XkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
@@ -8055,30 +8804,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BOTg3MDViMDYtODEwYy00YTRiLTkzMzItY2Y2YTRkYTg5ZWY3XkEyXkFqcGc@._V1_.jpg",
         "width": 2672,
         "height": 1502
-      },
-      {
-        "id": "rm1888396546",
-        "url": "https://m.media-amazon.com/images/M/MV5BYWUxMzc0NGItMTVjNi00ZTg2LWE4ZDYtMTZjYTFkMDMwNDgwXkEyXkFqcGc@._V1_.jpg",
-        "width": 1346,
-        "height": 898
-      },
-      {
-        "id": "rm895528450",
-        "url": "https://m.media-amazon.com/images/M/MV5BMmE2NjU4MTMtMDRhOS00Y2JkLWEzMmQtMmZhMTQ5ZjAwYjZiXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 2400
-      },
-      {
-        "id": "rm105950722",
-        "url": "https://m.media-amazon.com/images/M/MV5BYTM0YjZhMzctMDUwMC00Y2JkLWFjYjMtOTg4MDYxZTQzYzYyXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1607
-      },
-      {
-        "id": "rm873768706",
-        "url": "https://m.media-amazon.com/images/M/MV5BMmUxMDE3NTMtYzVjOS00MWYxLTkwZTAtOGU4MTU1MTY2NTkzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3200,
-        "height": 1800
       },
       {
         "id": "rm59683842",
