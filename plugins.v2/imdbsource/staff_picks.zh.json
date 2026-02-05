@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-02-01 18:34:02",
+  "updated_at": "2026-02-06 06:33:16",
   "entries": [
-    {
-      "name": "The 'Burbs",
-      "ttconst": "tt33336202",
-      "rmconst": "rm146974210",
-      "detail": "Series premieres on Peacock Feb. 3",
-      "description": "Keke Palmer 继《<i>One of Them Days</i>》（2025年最有趣的电影）之后，又带来这部温馨悬疑剧集，翻拍自乔·丹特/汤姆·汉克斯执导的80年代邪典经典，该片对郊区生活的险恶一面有很多阐述。Keke 完全可以独自撑起一部喜剧，但这部剧的配角阵容，包括情景喜剧偶像 Julia Duffy 和《吸血鬼生活》中永恒的 Mark Proksch，让我完全投入其中。— <i>Arno</i>",
-      "relatedconst": [
-        "nm1551130",
-        "nm3099754",
-        "nm0240564",
-        "nm0996134",
-        "nm5422897",
-        "nm1515989"
-      ],
-      "viconst": "vi1218235161"
-    },
     {
       "name": "德古拉",
       "ttconst": "tt31434030",
       "rmconst": "rm1075422978",
       "detail": "In theaters Feb. 6",
-      "description": "德古拉依然渴望你的鲜血和灵魂，但在吕克·贝松执导的这部真正的吸血鬼起源故事中，他也在全力寻觅爱情。Caleb Landry Jones 将倾心于 Zoë Bleu（顺便说一句，她是 Rosanna Arquette 的女儿），这看起来将是今年视觉上最具刺激性的作品之一。更硬核的恐怖片粉丝可能不太会被贝松的爱情故事吸引，但他的最新作品可能与吉尔莫·德尔·托罗的《<i>Frankenstein</i>》构成一个不错的双片放映。这部电影在美国以独立发行的方式上映，所以德古拉有机会在流媒体上找到爱情和成功。— <i>Arno</i>",
+      "description": "德古拉依然渴望你的鲜血和灵魂，但在吕克·贝松对这个真正的吸血鬼起源故事的演绎中，他也在全力寻找爱情。卡莱布·兰德里·琼斯将倾慕佐伊·布鲁（罗莎娜·阿奎特的女儿），这看起来将是今年视觉上最具刺激性的影片之一。更硬核的恐怖片粉丝可能对贝松的爱情故事不那么感兴趣，但他的新作可能很适合与吉尔莫·德尔·托罗的《<i>弗兰肯斯坦</i>》一起观看。这部电影在美国以独立电影形式上映，所以德古拉有机会在流媒体上找到爱情和成功。— <i>阿尔诺</i>",
       "relatedconst": [
         "nm2655177",
         "nm0910607",
@@ -37,7 +21,7 @@
       "ttconst": "tt29550683",
       "rmconst": "rm3999258882",
       "detail": "In theaters Feb. 6",
-      "description": "Dafne Keen（《<i>Logan</i>》、《黑暗物质》）和 Sophie Nélisse（《黄蜂》）加入了一群青少年，他们因两项高中必经的仪式而联系在一起：留校察看和一个能召唤死亡的古老阿兹特克死亡哨子，任何愚蠢到吹响它的人都将面临死亡。导演 Corin Hardy（《<i>The Nun</i>》）和编剧 Owen Egerton 共同打造了一部致敬经典恐怖片的作品，其灵感来源于80年代的标志性电影，从《<i>The Lost Boys</i>》到《<i>The Breakfast Club</i>》。— <i>James</i>",
+      "description": "达芙妮·基恩（《<i>金刚狼3：殊死一战</i>》、“黑暗物质”）和索菲·内利斯（“黄蜂”）加入了一群青少年，他们因两项高中必经的仪式而联系在一起：留校察看和一个古老的阿兹特克死亡之哨，任何愚蠢到吹响它的人都会招来死亡。导演科林·哈迪（《<i>修女</i>》）和编剧欧文·埃格顿共同打造了一场致敬80年代经典电影的恐怖盛宴，从《<i>迷途男孩</i>》到《<i>早餐俱乐部</i>》都从中汲取了灵感。— <i>詹姆斯</i>",
       "relatedconst": [
         "nm6748436",
         "nm4563869",
@@ -47,11 +31,27 @@
       "viconst": "vi2912471833"
     },
     {
+      "name": "The 'Burbs",
+      "ttconst": "tt33336202",
+      "rmconst": "rm146974210",
+      "detail": "Series premieres on Peacock Feb. 8",
+      "description": "凯克·帕尔默继《<i>那些日子之一</i>》（2025年最有趣的电影）之后，带来了这部温馨神秘系列剧，这是对乔·丹特/汤姆·汉克斯80年代邪典经典的翻拍，该片对郊区生活的险恶面有诸多探讨。凯克可以完全独自撑起一部喜剧，但这个配角阵容，包括情景喜剧偶像朱莉娅·达菲和“吸血鬼生活”中永恒的马克·普罗克施，让我完全着迷。— <i>阿尔诺</i>",
+      "relatedconst": [
+        "nm1551130",
+        "nm3099754",
+        "nm0240564",
+        "nm0996134",
+        "nm5422897",
+        "nm1515989"
+      ],
+      "viconst": "vi1218235161"
+    },
+    {
       "name": "神探追缉令",
       "ttconst": "tt11794812",
       "rmconst": "rm520673538",
       "detail": "Season 2 premieres on Prime Video Feb. 11",
-      "description": "《Cross》第二季规模更大、更黑暗、更复杂。从第一集开始，赌注就显得真实。你以为已经了解的角色带着层层秘密和令人震惊的选择回归。如果你喜欢不求稳妥的剧集，这一季将给你带来巨大的惊喜。— <i>Myra</i>",
+      "description": "“Cross”第二季更宏大、更黑暗、更复杂。从第一集开始，赌注就显得真实。你以为你已经摸透的角色带着多重层面、秘密和会让你震惊的选择回归。如果你喜欢不走寻常路的剧集，这一季将带来巨大的惊喜。— <i>迈拉</i>",
       "relatedconst": [
         "nm0388038",
         "nm0421188",
@@ -66,7 +66,7 @@
       "ttconst": "tt32897959",
       "rmconst": "rm2715984642",
       "detail": "In theaters Feb. 12",
-      "description": "Emerald Fennell 创造了“渴望”这种情感，这难道不疯狂吗？这位《<i>The Saltburn</i>》导演对 Emily Brontë 经典小说的诠释将为 Catherine 和 Heathcliff 的爱情故事带来新的视角——Fennell 希望它能成为“这一代人的《<i>Titanic</i>》”。Margot Robbie 表示，与搭档 Jacob Elordi 合作的一些场景让她“双腿发软”，如果预告片能说明问题，我们可以假设粉丝们也会有同样的感觉。一部史诗般的浪漫爱情片，注定会在情人节完美地让我们心碎……有什么理由不喜欢呢？— <i>Hillary</i>",
+      "description": "艾默拉尔德·芬内尔创造了“渴望”这个词，这难道不疯狂吗？这位《<i>萨特本</i>》导演对艾米莉·勃朗特经典小说的诠释，将为凯瑟琳和希斯克利夫的爱情故事带来新的视角——芬内尔希望它能成为“这一代人的《<i>泰坦尼克号</i>》”。玛格特·罗比说，与搭档雅各布·艾洛蒂的一些场景让她“双腿发软”，如果预告片能说明什么，我们可以假设粉丝们也会有同样的感觉。一部史诗般的浪漫爱情片，注定会在情人节完美地让我们心碎……有什么理由不喜欢呢？— <i>希拉里</i>",
       "relatedconst": [
         "nm8624059",
         "nm3053338",
@@ -81,7 +81,7 @@
       "ttconst": "tt1341338",
       "rmconst": "rm1057663746",
       "detail": "In theaters Feb. 13",
-      "description": "有人能将人类从失控的人工智能手中拯救出来吗？现实世界的答案当然是“不”。但在《<i>Good Luck, Have Fun, Don’t Die</i>》中，Sam Rockwell 试图说服洛杉矶一家餐馆的顾客，他被从未来派来拯救我们。去年，当导演 Gore Verbinski（其跨类型电影作品包括《<i>The Ring</i>》、《<i>Rango</i>》和前三部《加勒比海盗》电影）接受 IMDb 采访时，他分享了这部喜剧科幻惊悚片的三种兼收并蓄的灵感来源。-- <i>James</i>",
+      "description": "有人能把人类从失控的人工智能手中拯救出来吗？现实世界的答案当然是“不”。但在《<i>祝你好运，玩得开心，别死</i>》中，山姆·洛克威尔试图说服洛杉矶一家餐馆的顾客，他被从未来派来拯救我们。去年，导演戈尔·维宾斯基（其跨类型电影作品包括《<i>午夜凶铃</i>》、《<i>兰戈</i>》和前三部《<i>加勒比海盗</i>》电影）在接受IMDb采访时，分享了他这部喜剧科幻惊悚片的三种兼收并蓄的灵感。-- <i>詹姆斯</i>",
       "relatedconst": [
         "nm0005377",
         "nm5939164",
@@ -96,7 +96,7 @@
       "ttconst": "tt30412869",
       "rmconst": "rm3409552898",
       "detail": "Series premieres on Prime Video Feb. 18",
-      "description": "我知道《56天》这本小说是封锁期间的现象级作品，其惊险之处源于一段短暂而动荡的恋情，最终导致了一个可怕的发现。读者们，如果说这部改编作品像 Colleen Hoover 的故事，但戏剧的中心是一具腐烂的尸体，这公平吗？Prime Video 的剧集明智地摒弃了原著的疫情背景，这是我打算给它一个机会的第二个原因。主要因素是：两位拥有超强电视背景的女性是联合创作者；如果这部剧是由男性创作的，我就会放弃。-- <i>Arno</i>",
+      "description": "我知道“56天”这本小说是封锁期间的现象级作品，其惊险之处源于一段短暂而动荡的恋情，最终导致了一个可怕的发现。读者们，公平地说，这部改编作品是否像科琳·胡佛的故事，但剧情中心是一具腐烂的尸体？Prime Video的剧集明智地摒弃了原著的疫情背景，这是我愿意给它一个机会的第二个原因。主要因素是：两位拥有超强电视背景的女性是联合创作者；如果这部剧是由男性创作的，我就会直接跳过了。-- <i>阿尔诺</i>",
       "relatedconst": [
         "nm4874651",
         "nm2240326"
@@ -108,7 +108,7 @@
       "ttconst": "tt4357198",
       "rmconst": "rm1997789954",
       "detail": "In theaters Feb. 20",
-      "description": "Glen Powell 并不住在好莱坞，但凭借编剧兼导演 John Patton Ford（也许你曾看过 Ford 执导的由 Aubrey Plaza 主演的《<i>Emily the Criminal</i>》）的这部富人讽刺剧，他的一线地位依然稳固。《<i>How to Make a Killing</i>》中，Powell 饰演一个蓝领角色，他为了继承家族财富而乐于除掉亲戚。Margaret Qualley 扮演的帮凶角色肯定能抢尽所有风头。A24 是这部电影的幕后推手，感觉《<i>Marty Supreme</i>》的颁奖季宣传机器可能对 Powell 的反派转型宣传产生了影响。— <i>Arno</i>",
+      "description": "格伦·鲍威尔不住在好莱坞，但凭借编剧兼导演约翰·帕顿·福特（也许你看过福特与奥布瑞·普拉扎合作的《<i>艾米丽的犯罪</i>》）的这部富人讽刺片，他的A咖地位依然稳固。《<i>如何杀人</i>》中，鲍威尔饰演一个蓝领角色，他乐于干掉自己的亲戚，以继承家族财富。玛格丽特·库里以帮凶模式出演，肯定能抢走所有戏份。A24是这部电影的幕后推手，感觉《<i>至尊马蒂</i>》的颁奖机器可能对鲍威尔饰演反派的宣传产生了影响。— <i>阿尔诺</i>",
       "relatedconst": [
         "nm1412974",
         "nm4960279",
@@ -124,7 +124,7 @@
       "ttconst": "tt13745850",
       "rmconst": "rm2064362754",
       "detail": "Season 2 premieres on Apple TV Feb. 20",
-      "description": "《他告诉我的最后一件事》第二季的故事发生在第一季五年后，Hannah (Jennifer Garner 饰) 仍在努力解开丈夫失踪又重现的谜团，同时试图保护她的继女免受伤害。当黑帮追捕你时，还能保持安全吗？这还有待观察，但如果有人能做到，那一定是处于“硬核妈妈熊”模式的 Jennifer Garner。同时，我还在回味 Jen 告诉我们他们在片场叫 Nikolaj Coster-Waldau “daddy”的事…… — <i>Hillary</i>",
+      "description": "“他告诉我的最后一件事”第二季的故事发生在第一季五年后，汉娜（詹妮弗·加纳饰）仍在努力解开丈夫失踪——又再现——的谜团，同时试图保护她的继女免受伤害。当黑帮追捕你时，还能安全吗？这还有待观察，但如果有人能做到，那就是进入“硬核妈妈熊”模式的詹妮弗·加纳。与此同时，我还在想詹告诉我们他们在片场称尼古拉·科斯特-瓦尔道为“爸爸”……— <i>希拉里</i>",
       "relatedconst": [
         "nm0004950",
         "nm3886028",
@@ -139,7 +139,7 @@
       "ttconst": "tt27444205",
       "rmconst": "rm3642795522",
       "detail": "Season 2 premieres on Hulu and Disney+ Feb. 23",
-      "description": "“从来都不是关于地堡……”等等，什么？第一季简直就是围绕着地堡展开的。不过我们已经习惯了，因为《天堂》喜欢以一种好的方式“诱导和转换”观众，所以我希望到本季结束时，新的标语会是“从来都不是关于外星人……”Sterling K. Brown 回归饰演 Xavier Collins，这位特勤局特工兼坚定的父亲上季打破了地堡的限制，亲眼看到了真相。尽管这部剧散发出《迷失》的气息，但剧集主管 Dan Fogelman 承诺了一个三季的故事弧线，而且进展相当快，所以我毫不怀疑他会完美收尾。— <i>Vanessa</i>",
+      "description": "“从来都不是关于地堡的……”等等，什么？第一季明明就是关于地堡的啊。“天堂”系列喜欢以一种好的方式吊观众胃口，所以我们已经习惯了，我希望到本季结束时，新的标语会是“从来都不是关于外星人的……”之类的。斯特林·K·布朗回归饰演特勤局特工兼坚决的父亲泽维尔·柯林斯，他在上一季打破了地堡的限制，亲自去探寻真相。尽管这个系列散发着“迷失”的氛围，但剧集运作人丹·福格尔曼承诺了三季的故事弧线，而且进展相当快，所以我毫不怀疑他会完美收尾。— <i>瓦妮莎</i>",
       "relatedconst": [
         "nm1250791",
         "nm0629855",
@@ -155,7 +155,7 @@
       "ttconst": "tt36153709",
       "rmconst": "rm93291522",
       "detail": "Series premieres on NBC Feb. 23 (also streaming on Peacock)",
-      "description": "我坦白承认，当我认为 Tina Fey 是这部喜剧剧集的创作者时，我对此更兴奋，该剧由 Tracy Morgan 饰演一位名誉扫地的足球运动员，他与一位纪录片制作人 (Daniel Radcliffe 饰) 合作修复自己的声誉。（结果发现这部剧来自她的两位长期创意伙伴；Fey 担任执行制片人。）早期评论说，给这部剧几集的时间，它似乎很快就能找到喜剧的立足点。虽然这部剧将在 NBC 播出，但对于我们这些很久以前就剪断电视线的人来说，它将在 Peacock 上提供。— <i>Arno</i>",
+      "description": "我坦白承认，当我以为蒂娜·菲是这部喜剧系列的创作者时，我对此更加兴奋。这部剧由特雷西·摩根饰演一位名誉扫地的足球运动员，他与一位纪录片制作人（丹尼尔·雷德克利夫饰）合作，以修复自己的声誉。（结果发现这部剧来自她的两位长期创意伙伴；菲担任执行制片人。）早期评论称，这部剧值得看几集，它似乎很快就找到了喜剧的立足点。虽然该剧将在NBC播出，但对于我们这些很久以前就剪断了电视线的人来说，它将在Peacock上提供。— <i>阿尔诺</i>",
       "relatedconst": [
         "nm0605079",
         "nm0705356",
@@ -170,7 +170,7 @@
       "ttconst": "tt0239195",
       "rmconst": "rm352573698",
       "detail": "Season 50 premieres Feb. 25 on CBS (and streams on Paramount+)",
-      "description": "Boston Rob 希望家里的观众来决定他赢得挑战后是否能得到米饭吗？这是即将上演的几个新场景之一，作为最长寿的真人秀竞赛之一，它将通过召回全明星阵容并让粉丝在整个游戏中做出关键决定来庆祝第50季。Ozzy、Cirie 和那个现在制作热门电视剧的人，是24名参赛者中的一员，他们将在26天内互相斗智斗勇。得知第49季的两名回归选手在两季之间只休息了不到两周，这真是太疯狂了。— <i>Arno</i>",
+      "description": "波士顿罗布希望家里的观众来决定他赢得挑战后是否能得到米饭吗？这是即将上演的几个新情景之一，因为这个运行时间最长的真人秀比赛之一将庆祝第50季，带回全明星阵容，并让粉丝在整个游戏中做出关键决定。奥兹、西里和那个现在制作热门电视剧的人，都在24名参赛者之列，他们将在26天内互相智取。令人难以置信的是，两位回归参加周年纪念的第49季选手在两季之间只有不到两周的休息时间。— <i>阿尔诺</i>",
       "relatedconst": [
         "nm0698251"
       ],
@@ -181,7 +181,7 @@
       "ttconst": "tt27047903",
       "rmconst": "rm316779778",
       "detail": "In theaters Feb. 27",
-      "description": "没有“核心四人组”的一半，伍兹伯勒还会那么有趣吗？Carpenter 姐妹，在过去两部《惊声尖叫》电影中由 Jenna Ortega 和 Melissa Barerra 饰演，是这个真正复兴的系列的连体核心；没有她们，看看《<i>Scream 7</i>》会带来什么将令人好奇。Sidney Prescott 再次回家对粉丝来说足够了吗？这部电影因导致 Barerra 和 Ortega 离开的失误，以及可能相关的导致 Radio Silence 导演团队退出的前期制作风波而成为头条新闻。看起来，这一切的开创者 Kevin Williamson 正在导演位置上尽其所能地提供最好的粉丝服务，甚至宣布 Dewey (David Arquette 饰) 将以某种形式回归。— <i>Arno</i>",
+      "description": "没有“核心四人组”的一半，伍兹伯勒还会那么有趣吗？卡彭特姐妹，在过去两部《惊声尖叫》电影中由珍娜·奥尔特加和梅丽莎·巴雷拉饰演，是这个真正复兴的系列电影的连心之核；没有她们，就很好奇《<i>惊声尖叫7</i>》会带来什么。西德尼·普雷斯科特再次回归足以满足粉丝吗？这部电影因导致巴雷拉和奥尔特加离开的失误，以及可能相关的导致“寂静电台”导演团队退出的前期制作风波而登上头条。看来，这一切的始作俑者凯文·威廉姆森，正在导演位置上尽其所能地提供最好的粉丝服务，甚至宣布杜威（大卫·阿奎特）将以某种形式回归。— <i>阿尔诺</i>",
       "relatedconst": [
         "nm0000117",
         "nm0001073",
@@ -196,7 +196,7 @@
       "ttconst": "tt17220216",
       "rmconst": "rm335599874",
       "detail": "Season 2 premieres on Apple TV Feb. 27",
-      "description": "父子档 Kurt 和 Wyatt Russell 回归《君主：怪兽遗产》第二季，我们在骷髅岛上醒来，置身于维度间的混乱之中。事实证明，哥斯拉和金刚是我们最不担心的，因为一只更大、更邪恶的狐狸从俗语中的鸡舍里冒了出来。只是这一次，那个鸡舍是深海？收看怪兽大战，留下来欣赏那总是让我坐立不安的配乐。— <i>Hillary</i>",
+      "description": "库尔特和怀亚特·拉塞尔父子档回归“君主：怪兽遗产”第二季，我们在骷髅岛醒来，陷入维度间的混乱。事实证明，哥斯拉和金刚是我们最不担心的，因为一只更大、更凶猛的“狐狸”从俗称的“鸡窝”里冒了出来。只不过这一次，这个“鸡窝”是深海？收看怪兽大战，沉浸在从不让我失望的配乐中，它总是让我紧张不已。— <i>希拉里</i>",
       "relatedconst": [
         "nm0000621",
         "nm0751518",
@@ -211,7 +211,7 @@
       "ttconst": "tt8740790",
       "rmconst": "rm912305666",
       "detail": "Season 4, Part 1 and 2 premiere Jan. 29 and Feb. 26 on Netflix",
-      "description": "浪漫季继续，Netflix 本月发布最后四集，以不可避免的幸福结局为灰姑娘的故事画上句号。我喜欢那些浪漫小说的套路！本季根据小说《绅士的邀约》改编，呈现了大量 Bridgerton 家族的戏剧冲突，延续了 Bridgerton 家族女族长 Violet 夫人与 Danbury 夫人之弟 Marcus Anderson 勋爵之间萌芽的恋情，并探讨了 Penelope 揭示自己是 Whistledown 夫人的后果。我们还会得到一些关于 Bridgerton 家族中谁可能在下一季找到爱情的线索吗？拭目以待！— <i>Vanessa</i>",
+      "description": "浪漫季继续，Netflix本月将放出最后四集，以不可避免的幸福结局为灰姑娘的故事画上句号。我喜欢那些浪漫小说的套路！本季改编自小说《绅士的邀约》，呈现了大量的布里奇顿家族剧，延续了布里奇顿家族的女家长维奥莱特夫人与丹伯里夫人的兄弟马库斯·安德森勋爵之间萌芽的恋情，并探讨了佩内洛普作为惠斯尔顿夫人的身份被揭露后的影响。我们还会得到一些关于布里奇顿家族中谁可能在下一季找到爱情的线索吗？拭目以待！— <i>瓦妮莎</i>",
       "relatedconst": [
         "nm8485169",
         "nm3451086",
@@ -225,93 +225,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt33336202",
-        "title_text": {
-          "text": "The 'Burbs"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The 'Burbs",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The 'Burbs",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Предместье",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "一对年轻夫妇搬回丈夫儿时的家，却面临新邻居的威胁，并揭开他们死胡同里的黑暗秘密。"
-          }
-        },
-        "primary_image": {
-          "id": "rm1241307906",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2FkOTJlMTItYjlmYy00ZmRiLTg5YjUtMmJiMzgyZGYwZGMzXkEyXkFqcGc@._V1_.jpg",
-          "width": 582,
-          "height": 862
-        },
-        "meter_ranking": {
-          "current_rank": 429,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 338
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 2,
-          "day": 8
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "The 'Burbs"
-        }
-      },
       {
         "id": "tt31434030",
         "title_text": {
@@ -746,7 +659,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位15世纪的王子在失去妻子后向上帝宣战，从而承受了永恒的诅咒：他变成了德古拉。他被判在几个世纪中游荡，反抗命运和死亡，只为一个希望所指引——与他失去的爱人重聚。"
+            "plain_text": "一位15世纪的王子在失去妻子后背弃了上帝，他因此继承了一个永恒的诅咒：他成为了德古拉。他被判在几个世纪中游荡，挑战命运和死亡，只为一个希望所指引——与他失去的爱人重聚。"
           }
         },
         "primary_image": {
@@ -756,16 +669,16 @@
           "height": 12000
         },
         "meter_ranking": {
-          "current_rank": 51,
+          "current_rank": 39,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 1
+            "change_direction": "UP",
+            "difference": 12
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.2,
-          "vote_count": 22871
+          "vote_count": 23603
         },
         "release_date": {
           "year": 2026,
@@ -956,15 +869,6 @@
               "node": {
                 "text": "Whistle",
                 "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Whistle",
-                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -1065,6 +969,15 @@
             },
             {
               "node": {
+                "text": "El sonido de la muerte",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "O Som da Morte",
                 "country": {
                   "id": "BR",
@@ -1158,6 +1071,18 @@
             },
             {
               "node": {
+                "text": "Sifflet maudit",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Svilpe",
                 "country": {
                   "id": "LV",
@@ -1235,7 +1160,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一群格格不入、不知情的高中生偶然发现了一件被诅咒的物品——一个古老的阿兹特克死亡哨子。他们发现，吹响哨子及其发出的恐怖声音将召唤他们未来的死亡来追捕他们。"
+            "plain_text": "一群格格不入、不知情的高中生偶然发现了一件被诅咒的物品——一个古老的阿兹特克死亡之哨。他们发现吹响这个哨子以及它发出的恐怖声音，将召唤他们未来的死亡来追捕他们。"
           }
         },
         "primary_image": {
@@ -1245,16 +1170,16 @@
           "height": 1286
         },
         "meter_ranking": {
-          "current_rank": 352,
+          "current_rank": 192,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 125
+            "change_direction": "UP",
+            "difference": 160
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.2,
-          "vote_count": 309
+          "vote_count": 383
         },
         "release_date": {
           "year": 2026,
@@ -1278,6 +1203,93 @@
         },
         "runtime": {
           "seconds": 5820
+        }
+      },
+      {
+        "id": "tt33336202",
+        "title_text": {
+          "text": "The 'Burbs"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Предместье",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "一对年轻夫妇搬回丈夫的童年故居，却面临新邻居的威胁，并揭开他们死胡同的黑暗秘密。"
+          }
+        },
+        "primary_image": {
+          "id": "rm1241307906",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2FkOTJlMTItYjlmYy00ZmRiLTg5YjUtMmJiMzgyZGYwZGMzXkEyXkFqcGc@._V1_.jpg",
+          "width": 582,
+          "height": 862
+        },
+        "meter_ranking": {
+          "current_rank": 272,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 157
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 2,
+          "day": 8
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "The 'Burbs"
         }
       },
       {
@@ -1542,7 +1554,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "根据 James Patterson 小说改编的剧集，讲述了复杂而杰出的侦探 Alex Cross 的故事。"
+            "plain_text": "根据詹姆斯·帕特森的小说改编的系列剧，讲述了复杂而杰出的侦探亚历克斯·克罗斯的故事。"
           }
         },
         "primary_image": {
@@ -1552,16 +1564,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 513,
+          "current_rank": 282,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 51
+            "change_direction": "UP",
+            "difference": 231
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 29476
+          "vote_count": 29622
         },
         "release_date": {
           "year": 2024,
@@ -1638,6 +1650,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wuthering Heights",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -2093,21 +2114,12 @@
                   "text": "Ukraine"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Оркански висови",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一个发生在约克郡沼泽地背景下的激情澎湃、跌宕起伏的爱情故事，探讨了 Heathcliff 和 Catherine Earnshaw 之间强烈而具毁灭性的关系。"
+            "plain_text": "一个发生在约克郡荒原背景下的充满激情和动荡的爱情故事，探讨了希斯克利夫和凯瑟琳·恩肖之间强烈而毁灭性的关系。"
           }
         },
         "primary_image": {
@@ -2117,11 +2129,11 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 30,
+          "current_rank": 14,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 10
+            "difference": 16
           }
         },
         "ratings_summary": {
@@ -2320,7 +2332,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位“来自未来的人”抵达洛杉矶的一家餐馆，他必须招募一群心怀不满的顾客，与他一起进行一场为期一晚的任务，以将世界从一个失控人工智能的致命威胁中拯救出来。"
+            "plain_text": "一位“来自未来的人”抵达洛杉矶的一家餐馆，他必须招募一群精确组合的不满顾客，与他一起踏上为期一晚的任务，将世界从失控人工智能的最终威胁中拯救出来。"
           }
         },
         "primary_image": {
@@ -2330,16 +2342,16 @@
           "height": 2250
         },
         "meter_ranking": {
-          "current_rank": 214,
+          "current_rank": 64,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 124
+            "change_direction": "UP",
+            "difference": 150
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.3,
-          "vote_count": 582
+          "vote_count": 621
         },
         "release_date": {
           "year": 2026,
@@ -2475,7 +2487,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在一次超市的偶然相遇后，Oliver 和 Ciara 展开了一段激烈的恋情。56天后，一具被残忍谋杀的尸体浮出水面，调查深入到他们动荡的爱情故事中，揭示出严酷的秘密。"
+            "plain_text": "在超市偶遇之后，奥利弗和西亚拉开始了一段激烈的关系。56天后，一具被残忍谋杀的尸体浮出水面，调查深入到他们动荡的爱情故事中，揭示出可怕的秘密。"
           }
         },
         "primary_image": {
@@ -2485,11 +2497,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 231,
+          "current_rank": 303,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 1342
+            "change_direction": "DOWN",
+            "difference": 72
           }
         },
         "ratings_summary": {
@@ -2580,8 +2592,29 @@
               "node": {
                 "text": "How to Make a Killing",
                 "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "How to Make a Killing",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "How to Make a Killing",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -2618,6 +2651,15 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jugada maestra",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
                 }
               }
             },
@@ -2662,6 +2704,15 @@
             },
             {
               "node": {
+                "text": "Przepis na morderstwo",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Todsicheres Erbe",
                 "country": {
                   "id": "DE",
@@ -2700,7 +2751,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Becket Redfellow 出生时就被他极其富有的家族抛弃，这位蓝领工人将不惜一切代价夺回他的遗产，无论有多少亲戚阻碍他。"
+            "plain_text": "贝克特·雷德费洛出身于一个极其富有的家庭，却在出生时就被家族抛弃。为了夺回遗产，他将不择手段，无论有多少亲戚阻碍他。"
           }
         },
         "primary_image": {
@@ -2710,11 +2761,11 @@
           "height": 8193
         },
         "meter_ranking": {
-          "current_rank": 522,
+          "current_rank": 392,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 33
+            "change_direction": "UP",
+            "difference": 130
           }
         },
         "ratings_summary": {
@@ -3095,7 +3146,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一名女子在寻找丈夫神秘失踪真相的过程中，与她16岁的继女建立了意想不到的关系。"
+            "plain_text": "一名女子在寻找丈夫神秘失踪真相的过程中，与她16岁的继女建立了一种意想不到的关系。"
           }
         },
         "primary_image": {
@@ -3105,16 +3156,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 267,
+          "current_rank": 299,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 369
+            "change_direction": "DOWN",
+            "difference": 32
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 20515
+          "vote_count": 20573
         },
         "release_date": {
           "year": 2023,
@@ -3419,16 +3470,16 @@
           "height": 1200
         },
         "meter_ranking": {
-          "current_rank": 112,
+          "current_rank": 50,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 3
+            "change_direction": "UP",
+            "difference": 62
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.8,
-          "vote_count": 59657
+          "vote_count": 60062
         },
         "release_date": {
           "year": 2025,
@@ -3616,7 +3667,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位陨落的足球明星寻求救赎，并希望有机会恢复他受损的声誉。"
+            "plain_text": "一位陨落的足球明星寻求救赎，并希望恢复他受损的声誉。"
           }
         },
         "primary_image": {
@@ -3626,16 +3677,16 @@
           "height": 2000
         },
         "meter_ranking": {
-          "current_rank": 494,
+          "current_rank": 628,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 211
+            "change_direction": "DOWN",
+            "difference": 134
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.9,
-          "vote_count": 201
+          "aggregate_rating": 6.0,
+          "vote_count": 235
         },
         "release_date": {
           "year": 2026,
@@ -4158,7 +4209,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一档真人秀节目，一群参赛者被困在一个偏远的地方，除了身上的衣服几乎一无所有。这场比赛中唯一的幸存者将赢得一百万美元。"
+            "plain_text": "一档真人秀节目，一群参赛者被困在一个偏远地区，身上几乎只有衣服。这场比赛的唯一幸存者将赢得一百万美元。"
           }
         },
         "primary_image": {
@@ -4168,16 +4219,16 @@
           "height": 1440
         },
         "meter_ranking": {
-          "current_rank": 807,
+          "current_rank": 816,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 214
+            "difference": 9
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 29482
+          "vote_count": 29519
         },
         "release_date": {
           "year": 2000,
@@ -4334,6 +4385,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scream 7",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
                 }
               }
             },
@@ -4504,6 +4564,18 @@
             },
             {
               "node": {
+                "text": "奪命狂呼 7",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "驚聲尖叫7",
                 "country": {
                   "id": "TW",
@@ -4515,7 +4587,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "当一个新的鬼脸杀手出现在 Sidney Prescott 建立新生活的城镇时，她最黑暗的恐惧变成了现实，因为她的女儿成为了下一个目标。"
+            "plain_text": "当一个新的鬼面杀手出现在西德尼·普雷斯科特建立新生活的城镇时，她最深的恐惧变成了现实，因为她的女儿成为了下一个目标。"
           }
         },
         "primary_image": {
@@ -4525,11 +4597,11 @@
           "height": 1300
         },
         "meter_ranking": {
-          "current_rank": 127,
+          "current_rank": 117,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 3
+            "change_direction": "UP",
+            "difference": 10
           }
         },
         "ratings_summary": {
@@ -4887,26 +4959,26 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "故事设定在哥斯拉与泰坦巨兽大战之后，揭示了怪兽是真实存在的，讲述了一个家庭揭开其埋藏的秘密以及将他们与君主组织联系起来的遗产的旅程。"
+            "plain_text": "故事设定在哥斯拉与泰坦巨兽大战之后，揭示了怪兽是真实存在的，讲述了一个家庭揭开其埋藏的秘密以及与君主组织相关联的遗产的旅程。"
           }
         },
         "primary_image": {
-          "id": "rm2839730946",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzNkZWIxOTgtNGQ4Yi00Njc2LTkzYWQtNTU4NmFjMjdhODJmXkEyXkFqcGc@._V1_.jpg",
+          "id": "rm3558137346",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjZjNGFmYmItMzVjYy00Yzc3LWFhN2EtOGU1ZTc2MWEwODUzXkEyXkFqcGc@._V1_.jpg",
           "width": 2000,
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 297,
+          "current_rank": 263,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 116
+            "change_direction": "UP",
+            "difference": 34
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 52354
+          "vote_count": 52479
         },
         "release_date": {
           "year": 2023,
@@ -5382,26 +5454,26 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Bridgerton 家族的八位亲密兄弟姐妹在伦敦上流社会中寻找爱情和幸福。"
+            "plain_text": "布里奇顿家族八位亲密的兄弟姐妹在伦敦上流社会中寻找爱情和幸福。"
           }
         },
         "primary_image": {
-          "id": "rm1257743618",
-          "url": "https://m.media-amazon.com/images/M/MV5BOWMxOTA5OGUtMzc3Zi00YjFjLTg1YjItYTVkMmQxZTU0ODAzXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
+          "id": "rm1142742530",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTNlNzVmNzEtNjcyZS00MTFlLThmZGMtZDg4ZmVhZGE0OWRhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 52,
+          "current_rank": 1,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 15
+            "difference": 51
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.4,
-          "vote_count": 215424
+          "aggregate_rating": 7.5,
+          "vote_count": 216672
         },
         "release_date": {
           "year": 2020,
@@ -5434,78 +5506,6 @@
       }
     ],
     "names": [
-      {
-        "id": "nm1551130",
-        "name_text": {
-          "text": "Keke Palmer"
-        },
-        "primary_image": {
-          "id": "rm1250921730",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjFhYjFjMWQtMmZjNy00ODI2LTljMzQtMTI5OTc5M2Q3OTEyXkEyXkFqcGc@._V1_.jpg",
-          "width": 1320,
-          "height": 1612
-        }
-      },
-      {
-        "id": "nm3099754",
-        "name_text": {
-          "text": "Jack Whitehall"
-        },
-        "primary_image": {
-          "id": "rm3150191104",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTA3MzMzOTMzNF5BMl5BanBnXkFtZTgwMDExMjIwODE@._V1_.jpg",
-          "width": 1393,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0240564",
-        "name_text": {
-          "text": "Julia Duffy"
-        },
-        "primary_image": {
-          "id": "rm2447552514",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTc1ZDk0MjctZTRmYy00Yzc2LTgyYzEtODg3ZWJjNGUwZWU0XkEyXkFqcGc@._V1_.jpg",
-          "width": 1033,
-          "height": 1386
-        }
-      },
-      {
-        "id": "nm0996134",
-        "name_text": {
-          "text": "Paula Pell"
-        },
-        "primary_image": {
-          "id": "rm2753916928",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTE0NjMyMzA4NjFeQTJeQWpwZ15BbWU4MDk3Mjk0NzYz._V1_.jpg",
-          "width": 1574,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm5422897",
-        "name_text": {
-          "text": "Kapil Talwalkar"
-        },
-        "primary_image": {
-          "id": "rm1109694210",
-          "url": "https://m.media-amazon.com/images/M/MV5BNGNhN2M2NWEtMjg4Zi00MWE5LWIzODctZTU3MDc0YjAxMThiXkEyXkFqcGc@._V1_CR0,12,3333,5000_.jpg",
-          "width": 3333,
-          "height": 5000
-        }
-      },
-      {
-        "id": "nm1515989",
-        "name_text": {
-          "text": "Mark Proksch"
-        },
-        "primary_image": {
-          "id": "rm4004062721",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTczOWNmN2YtNDMzYS00NzRkLWFiNDktNDBlZmExZTRjNDU0XkEyXkFqcGc@._V1_.jpg",
-          "width": 866,
-          "height": 654
-        }
-      },
       {
         "id": "nm2655177",
         "name_text": {
@@ -5612,6 +5612,78 @@
           "url": "https://m.media-amazon.com/images/M/MV5BZmMxNDIyN2MtNWFmNy00MjY1LWI5OTEtZDczNTYxMjg0YzJkXkEyXkFqcGc@._V1_.jpg",
           "width": 5179,
           "height": 7899
+        }
+      },
+      {
+        "id": "nm1551130",
+        "name_text": {
+          "text": "Keke Palmer"
+        },
+        "primary_image": {
+          "id": "rm1250921730",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjFhYjFjMWQtMmZjNy00ODI2LTljMzQtMTI5OTc5M2Q3OTEyXkEyXkFqcGc@._V1_.jpg",
+          "width": 1320,
+          "height": 1612
+        }
+      },
+      {
+        "id": "nm3099754",
+        "name_text": {
+          "text": "Jack Whitehall"
+        },
+        "primary_image": {
+          "id": "rm3150191104",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTA3MzMzOTMzNF5BMl5BanBnXkFtZTgwMDExMjIwODE@._V1_.jpg",
+          "width": 1393,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0240564",
+        "name_text": {
+          "text": "Julia Duffy"
+        },
+        "primary_image": {
+          "id": "rm2447552514",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTc1ZDk0MjctZTRmYy00Yzc2LTgyYzEtODg3ZWJjNGUwZWU0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1033,
+          "height": 1386
+        }
+      },
+      {
+        "id": "nm0996134",
+        "name_text": {
+          "text": "Paula Pell"
+        },
+        "primary_image": {
+          "id": "rm2753916928",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTE0NjMyMzA4NjFeQTJeQWpwZ15BbWU4MDk3Mjk0NzYz._V1_.jpg",
+          "width": 1574,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm5422897",
+        "name_text": {
+          "text": "Kapil Talwalkar"
+        },
+        "primary_image": {
+          "id": "rm1109694210",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGNhN2M2NWEtMjg4Zi00MWE5LWIzODctZTU3MDc0YjAxMThiXkEyXkFqcGc@._V1_CR0,12,3333,5000_.jpg",
+          "width": 3333,
+          "height": 5000
+        }
+      },
+      {
+        "id": "nm1515989",
+        "name_text": {
+          "text": "Mark Proksch"
+        },
+        "primary_image": {
+          "id": "rm4004062721",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTczOWNmN2YtNDMzYS00NzRkLWFiNDktNDBlZmExZTRjNDU0XkEyXkFqcGc@._V1_.jpg",
+          "width": 866,
+          "height": 654
         }
       },
       {
@@ -5752,10 +5824,10 @@
           "text": "Zazie Beetz"
         },
         "primary_image": {
-          "id": "rm373992450",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTlhYWEwNDctMjI1My00NDkzLTllYjEtZmQ4NTkxYTkzNWUxXkEyXkFqcGc@._V1_.jpg",
-          "width": 3678,
-          "height": 5518
+          "id": "rm2329927426",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDdlNjNkZTAtNWQ0Ny00ZDdiLWJlM2EtYzYxMjMyY2U2MjgxXkEyXkFqcGc@._V1_CR119,0,666,999_.jpg",
+          "width": 666,
+          "height": 999
         }
       },
       {
@@ -6290,12 +6362,6 @@
     "videos": [],
     "images": [
       {
-        "id": "rm146974210",
-        "url": "https://m.media-amazon.com/images/M/MV5BYmE4Yzc5NjgtNjJmMC00ZTkyLTllM2EtYzljMjRhZGYyMDZlXkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1280
-      },
-      {
         "id": "rm1075422978",
         "url": "https://m.media-amazon.com/images/M/MV5BMzVlOTE0ZTMtNmI5Ny00NTBhLWI1ODAtNTEwN2UzM2E2M2I5XkEyXkFqcGc@._V1_.jpg",
         "width": 5334,
@@ -6306,6 +6372,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZGNmZDU4NGYtODkyNi00MDg1LTk2MzktNWQwNzBmMjgzYmU0XkEyXkFqcGc@._V1_.jpg",
         "width": 3840,
         "height": 1586
+      },
+      {
+        "id": "rm146974210",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmE4Yzc5NjgtNjJmMC00ZTkyLTllM2EtYzljMjRhZGYyMDZlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1280
       },
       {
         "id": "rm520673538",
