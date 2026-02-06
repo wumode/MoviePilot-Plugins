@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-06 06:33:16",
+  "updated_at": "2026-02-06 12:33:41",
   "entries": [
     {
       "name": "Dracula",
@@ -133,6 +133,19 @@
         "nm0001854"
       ],
       "viconst": "vi2810759961"
+    },
+    {
+      "name": "Redux Redux",
+      "ttconst": "tt33295741",
+      "rmconst": "rm77304066",
+      "detail": "In limited release Feb. 20",
+      "description": "Even if you think you’re sick of movies about the multiverse, give Kevin and Matthew McManus’ <i>Redux Redux</i> a shot. This sci-fi thriller goes hard from the first frame and never lets up till the exposive ending. Michaela McManus stars as a mother who travels across parallel universes avenging the murder of her daughter again and again and again … This was my favorite film at last year's SXSW Film Festival, and I'm thrilled to see this getting a deserved theatrical release. — <i>James</i>",
+      "relatedconst": [
+        "nm2288842",
+        "nm16435285",
+        "nm3124435"
+      ],
+      "viconst": "vi4221225753"
     },
     {
       "name": "Paradise",
@@ -678,7 +691,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.2,
-          "vote_count": 23603
+          "vote_count": 23677
         },
         "release_date": {
           "year": 2026,
@@ -1179,7 +1192,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.2,
-          "vote_count": 383
+          "vote_count": 409
         },
         "release_date": {
           "year": 2026,
@@ -1573,7 +1586,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 29622
+          "vote_count": 29628
         },
         "release_date": {
           "year": 2024,
@@ -2351,7 +2364,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.3,
-          "vote_count": 621
+          "vote_count": 622
         },
         "release_date": {
           "year": 2026,
@@ -3165,7 +3178,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 20573
+          "vote_count": 20577
         },
         "release_date": {
           "year": 2023,
@@ -3196,6 +3209,280 @@
         },
         "original_title_text": {
           "text": "The Last Thing He Told Me"
+        }
+      },
+      {
+        "id": "tt33295741",
+        "title_text": {
+          "text": "Redux Redux"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Redux Redux",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Find. Kill. Repeat.",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Korduv tapmine",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Irene Kelly travels through parallel universes, repeatedly killing her daughter's murderer. As she becomes consumed by vengeance, her humanity hangs in the balance."
+          }
+        },
+        "primary_image": {
+          "id": "rm2452019202",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzI2YzliMjAtODE0NC00NDE2LTgwMWUtN2NhNWY0YzRkNjQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 4815,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 1229
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.2,
+          "vote_count": 419
+        },
+        "release_date": {
+          "year": 2025,
+          "month": 3,
+          "day": 8
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Redux Redux"
+        },
+        "runtime": {
+          "seconds": 6420
         }
       },
       {
@@ -3479,7 +3766,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.8,
-          "vote_count": 60062
+          "vote_count": 60092
         },
         "release_date": {
           "year": 2025,
@@ -3686,7 +3973,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.0,
-          "vote_count": 235
+          "vote_count": 236
         },
         "release_date": {
           "year": 2026,
@@ -4228,7 +4515,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 29519
+          "vote_count": 29521
         },
         "release_date": {
           "year": 2000,
@@ -4978,7 +5265,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 52479
+          "vote_count": 52487
         },
         "release_date": {
           "year": 2023,
@@ -5473,7 +5760,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 216672
+          "vote_count": 216744
         },
         "release_date": {
           "year": 2020,
@@ -6023,6 +6310,42 @@
         }
       },
       {
+        "id": "nm2288842",
+        "name_text": {
+          "text": "Michaela McManus"
+        },
+        "primary_image": {
+          "id": "rm427473410",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTIyZjdiYjUtMjc0ZS00YTBiLWE4M2ItNTBjYzdhMGUyZDdhXkEyXkFqcGc@._V1_CR0,16,805,1208_.jpg",
+          "width": 805,
+          "height": 1208
+        }
+      },
+      {
+        "id": "nm16435285",
+        "name_text": {
+          "text": "Stella Marcus"
+        },
+        "primary_image": {
+          "id": "rm2436130305",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2JiMTkwNTEtM2RmOS00M2Y2LWJkNDktZDQzMGMyMWI3Nzg3XkEyXkFqcGc@._V1_.jpg",
+          "width": 1145,
+          "height": 1703
+        }
+      },
+      {
+        "id": "nm3124435",
+        "name_text": {
+          "text": "Jeremy Holm"
+        },
+        "primary_image": {
+          "id": "rm450267394",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWI4YzdkZTEtNWYyYS00MTk0LWI5NDMtZDlhNzg4YTE3NTkzXkEyXkFqcGc@._V1_.jpg",
+          "width": 1913,
+          "height": 1276
+        }
+      },
+      {
         "id": "nm1250791",
         "name_text": {
           "text": "Sterling K. Brown"
@@ -6414,6 +6737,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BNzY3YTg2MmYtNGYwNS00MTUyLTlmZGYtZmUwZTI3OTBiM2E1XkEyXkFqcGc@._V1_.jpg",
         "width": 8421,
         "height": 5614
+      },
+      {
+        "id": "rm77304066",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDYyNTRjNTYtYTU1OS00ODNjLWFmMGUtZjM5NTMyNGNmMTY4XkEyXkFqcGc@._V1_.jpg",
+        "width": 5760,
+        "height": 3240
       },
       {
         "id": "rm3642795522",
