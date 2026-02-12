@@ -1,26 +1,11 @@
 {
-  "updated_at": "2026-02-10 22:41:09",
+  "updated_at": "2026-02-13 06:33:16",
   "entries": [
-    {
-      "name": "Cross",
-      "ttconst": "tt11794812",
-      "rmconst": "rm520673538",
-      "detail": "Season 2 premieres on Prime Video Feb. 11",
-      "description": "“Cross” Season 2 is bigger, darker, and more complex. The stakes feel real from the first episode. The characters you thought you have figured out come back with layers, secrets, and choices that will shock you. If you like a season that doesn't play it safe, this one delivers in a major way. — <i>Myra</i>",
-      "relatedconst": [
-        "nm0388038",
-        "nm0421188",
-        "nm2248149",
-        "nm0000498",
-        "nm1434871"
-      ],
-      "viconst": "vi3281701657"
-    },
     {
       "name": "Wuthering Heights",
       "ttconst": "tt32897959",
       "rmconst": "rm2715984642",
-      "detail": "In theaters Feb. 12",
+      "detail": "",
       "description": "Isn't it crazy that Emerald Fennell invented yearning? <i>The Saltburn</i> director's take on Emily Brontë's classic novel will shine a new light on Catherine and Heathcliff's love story — one that Fennell hopes will be “this generation's <i>Titanic</i>.” Margot Robbie said that some scenes with co-star Jacob Elordi made her “weak at the knees,” and if the trailers are any indication, we can assume fans will feel the same way. An epic romance sure to break our hearts perfectly timed to Valentine's Day ... what's not to love? — <i>Hillary</i>",
       "relatedconst": [
         "nm8624059",
@@ -32,10 +17,39 @@
       "viconst": "vi53463065"
     },
     {
+      "name": "Cross",
+      "ttconst": "tt11794812",
+      "rmconst": "rm520673538",
+      "detail": "",
+      "description": "“Cross” Season 2 is bigger, darker, and more complex. The stakes feel real from the first episode. The characters you thought you have figured out come back with layers, secrets, and choices that will shock you. If you like a season that doesn't play it safe, this one delivers in a major way. — <i>Myra</i>",
+      "relatedconst": [
+        "nm0388038",
+        "nm0421188",
+        "nm2248149",
+        "nm0000498",
+        "nm1434871"
+      ],
+      "viconst": "vi3281701657"
+    },
+    {
+      "name": "A Knight of the Seven Kingdoms",
+      "ttconst": "tt27497448",
+      "rmconst": "rm3108690434",
+      "detail": "",
+      "description": "Everything is on the line for Duncan the Tall as we tilt toward the climactic finale of this “Game of Thrones” prequel. After requesting trial by combat to defend himself against accusations of kidnapping, the Hedge Knight was left scrambling to find allies to join the fray. Now that the heir to the Iron Throne has taken up Dunk’s cause alongside his nephew Aegon (aka Egg), it seems possible Dunk’s fortunes could shift for the better. Alas, tragedy and triumph are only ever a raven’s feather apart in Westeros. So say a prayer to the Seven for Dunk and Egg before the season comes to a close on Feb. 22. — <i>Adrienne</i>",
+      "relatedconst": [
+        "nm12853749",
+        "nm11274700",
+        "nm3958526",
+        "nm0819874"
+      ],
+      "viconst": "vi95996697"
+    },
+    {
       "name": "Good Luck, Have Fun, Don’t Die",
       "ttconst": "tt1341338",
       "rmconst": "rm1057663746",
-      "detail": "In theaters Feb. 13",
+      "detail": "",
       "description": "Can anyone save humanity from A.I. gone berserk? The real world answer is “no,” of course. But in <i>Good Luck, Have Fun, Don’t Die</i>, Sam Rockwell attempts to convince the patrons of an L.A. diner that he’s been sent from the future to save us. When director Gore Verbinski (whose genre-spanning filmography includes <i>The Ring</i>, <i>Rango</i>, and the first three <i>Pirates of the Caribbean</i> movies) spoke to IMDb last year, he shared three eclectic inspirations for his comedic sci-fi thriller. -- <i>James</i>",
       "relatedconst": [
         "nm0005377",
@@ -239,333 +253,6 @@
   "imdb_items": {
     "titles": [
       {
-        "id": "tt11794812",
-        "title_text": {
-          "text": "Cross"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2024
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Alex Cross"
-              }
-            },
-            {
-              "node": {
-                "text": "Alex Cross",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Detective Alex Cross",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Detetive Alex Cross",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Крос",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Кросс",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "法醫心理學家克洛斯",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Series adaptation of James Patterson novels about the complicated and brilliant detective, Alex Cross."
-          }
-        },
-        "primary_image": {
-          "id": "rm587520514",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWIzZjg0MTYtMjMxYy00NWJiLWJjMDUtOWE5NWIxNDBiY2FhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 131,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 151
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 29752
-        },
-        "release_date": {
-          "year": 2024,
-          "month": 11,
-          "day": 14
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Cross"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
         "id": "tt32897959",
         "title_text": {
           "text": "Wuthering Heights"
@@ -710,6 +397,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wuthering Heights",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -1048,18 +747,6 @@
                   "text": "Greece"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Брулени хълмове",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
             }
           ]
         },
@@ -1083,7 +770,8 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.1,
+          "vote_count": 1149
         },
         "release_date": {
           "year": 2026,
@@ -1112,6 +800,698 @@
         },
         "runtime": {
           "seconds": 8160
+        }
+      },
+      {
+        "id": "tt11794812",
+        "title_text": {
+          "text": "Cross"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alex Cross"
+              }
+            },
+            {
+              "node": {
+                "text": "Alex Cross",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Detective Alex Cross",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Detetive Alex Cross",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Крос",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Кросс",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "法醫心理學家克洛斯",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Series adaptation of James Patterson novels about the complicated and brilliant detective, Alex Cross."
+          }
+        },
+        "primary_image": {
+          "id": "rm587520514",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWIzZjg0MTYtMjMxYy00NWJiLWJjMDUtOWE5NWIxNDBiY2FhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 131,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 151
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.2,
+          "vote_count": 29950
+        },
+        "release_date": {
+          "year": 2024,
+          "month": 11,
+          "day": 14
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Cross"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt27497448",
+        "title_text": {
+          "text": "A Knight of the Seven Kingdoms"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Hét Királyság lovagja",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms: The Hedge Knight",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cavalerul celor Șapte Regate",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El caballero de los siete reinos",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El caballero de los Siete Reinos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Cavaleiro dos Sete Reinos",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Rycerz siedmiu królestw",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vitez sedam kraljevstava",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Витез Седам краљевстава",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лицар сімох королівств",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Рыцарь семи королевств",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "七王國的騎士",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A century before GOT, Ser Duncan the Tall, and his squire, Egg, wandered through Westeros while the Targaryen dynasty ruled the Iron Throne, and dragons were still remembered. Great destinies and enemies await the incomparable friends."
+          }
+        },
+        "primary_image": {
+          "id": "rm4179011842",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1536,
+          "height": 1920
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 1
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.7,
+          "vote_count": 43205
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 18
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "A Knight of the Seven Kingdoms"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -1296,8 +1676,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.3,
-          "vote_count": 678
+          "aggregate_rating": 7.5,
+          "vote_count": 883
         },
         "release_date": {
           "year": 2026,
@@ -2123,7 +2503,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 20623
+          "vote_count": 20642
         },
         "release_date": {
           "year": 2023,
@@ -2377,8 +2757,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.5,
-          "vote_count": 1214
+          "aggregate_rating": 6.4,
+          "vote_count": 1456
         },
         "release_date": {
           "year": 2025,
@@ -2720,7 +3100,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.8,
-          "vote_count": 60498
+          "vote_count": 60678
         },
         "release_date": {
           "year": 2025,
@@ -2927,7 +3307,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.1,
-          "vote_count": 264
+          "vote_count": 275
         },
         "release_date": {
           "year": 2026,
@@ -3469,7 +3849,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 29543
+          "vote_count": 29555
         },
         "release_date": {
           "year": 2000,
@@ -3967,7 +4347,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 217649
+          "vote_count": 217974
         },
         "release_date": {
           "year": 2020,
@@ -4017,6 +4397,15 @@
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scream 7",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
                 }
               }
             },
@@ -4414,6 +4803,9 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "R"
+        },
         "original_title_text": {
           "text": "Scream 7"
         },
@@ -4766,7 +5158,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 52657
+          "vote_count": 52782
         },
         "release_date": {
           "year": 2023,
@@ -5252,7 +5644,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.2,
-          "vote_count": 25199
+          "vote_count": 25765
         },
         "release_date": {
           "year": 2026,
@@ -5543,6 +5935,42 @@
             },
             {
               "node": {
+                "text": "El sonido de la muerte",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Sonido de la Muerte",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Sonido de la Muerte",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Sonido de la Muerte",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "O Som da Morte",
                 "country": {
                   "id": "BR",
@@ -5565,15 +5993,6 @@
                 "country": {
                   "id": "PL",
                   "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El Sonido de la Muerte",
-                "country": {
-                  "id": "VE",
-                  "text": "Venezuela"
                 }
               }
             },
@@ -5752,8 +6171,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.9,
-          "vote_count": 1000
+          "aggregate_rating": 5.8,
+          "vote_count": 1245
         },
         "release_date": {
           "year": 2026,
@@ -5826,6 +6245,48 @@
               "node": {
                 "text": "The 'Burbs",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
                   "id": "SE",
                   "text": "Sweden"
                 }
@@ -5837,6 +6298,27 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Burbs",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
                 }
               }
             },
@@ -5871,8 +6353,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.8,
-          "vote_count": 1069
+          "aggregate_rating": 6.0,
+          "vote_count": 1859
         },
         "release_date": {
           "year": 2026,
@@ -5902,6 +6384,66 @@
       }
     ],
     "names": [
+      {
+        "id": "nm8624059",
+        "name_text": {
+          "text": "Jacob Elordi"
+        },
+        "primary_image": {
+          "id": "rm3901153026",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTUyNTBhYzYtNGEyNC00NjlhLWI4YWUtNzA5OTg1YjkyZDQxXkEyXkFqcGc@._V1_.jpg",
+          "width": 3193,
+          "height": 4847
+        }
+      },
+      {
+        "id": "nm3053338",
+        "name_text": {
+          "text": "Margot Robbie"
+        },
+        "primary_image": {
+          "id": "rm1008443648",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDcwMzU2Nl5BMl5BanBnXkFtZTcwNDc4NzkzOQ@@._V1_.jpg",
+          "width": 1000,
+          "height": 1332
+        }
+      },
+      {
+        "id": "nm2186865",
+        "name_text": {
+          "text": "Hong Chau"
+        },
+        "primary_image": {
+          "id": "rm2741653760",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjcyNjRkNDUtNDU5OS00ODY3LTk3ZTEtN2ZlODZjMzExY2E3XkEyXkFqcGc@._V1_.jpg",
+          "width": 682,
+          "height": 1024
+        }
+      },
+      {
+        "id": "nm3691746",
+        "name_text": {
+          "text": "Shazad Latif"
+        },
+        "primary_image": {
+          "id": "rm707478528",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg3MDY1Mzk5MF5BMl5BanBnXkFtZTgwMjQwMDY5NTM@._V1_.jpg",
+          "width": 1607,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm2519720",
+        "name_text": {
+          "text": "Alison Oliver"
+        },
+        "primary_image": {
+          "id": "rm848473602",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjBlMGM2ZjUtMjY1Mi00MzdmLWI1YjEtNWI1YjMwMmM4MTRhXkEyXkFqcGc@._V1_.jpg",
+          "width": 5000,
+          "height": 3334
+        }
+      },
       {
         "id": "nm0388038",
         "name_text": {
@@ -5963,63 +6505,51 @@
         }
       },
       {
-        "id": "nm8624059",
+        "id": "nm12853749",
         "name_text": {
-          "text": "Jacob Elordi"
+          "text": "Peter Claffey"
         },
         "primary_image": {
-          "id": "rm3901153026",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTUyNTBhYzYtNGEyNC00NjlhLWI4YWUtNzA5OTg1YjkyZDQxXkEyXkFqcGc@._V1_.jpg",
-          "width": 3193,
-          "height": 4847
-        }
-      },
-      {
-        "id": "nm3053338",
-        "name_text": {
-          "text": "Margot Robbie"
-        },
-        "primary_image": {
-          "id": "rm1008443648",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDcwMzU2Nl5BMl5BanBnXkFtZTcwNDc4NzkzOQ@@._V1_.jpg",
+          "id": "rm2232054017",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjNmMmM4YzUtNDIxZS00NTUyLWFkOTctZTJhNjYyMTYxNjg0XkEyXkFqcGc@._V1_.jpg",
           "width": 1000,
-          "height": 1332
+          "height": 1520
         }
       },
       {
-        "id": "nm2186865",
+        "id": "nm11274700",
         "name_text": {
-          "text": "Hong Chau"
+          "text": "Dexter Sol Ansell"
         },
         "primary_image": {
-          "id": "rm2741653760",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjcyNjRkNDUtNDU5OS00ODY3LTk3ZTEtN2ZlODZjMzExY2E3XkEyXkFqcGc@._V1_.jpg",
-          "width": 682,
-          "height": 1024
+          "id": "rm342894081",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjlmOWY0MWQtZTI1Yi00ODE3LWExNjEtM2Q3Y2U4YWNiZmU5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 2459
         }
       },
       {
-        "id": "nm3691746",
+        "id": "nm3958526",
         "name_text": {
-          "text": "Shazad Latif"
+          "text": "Daniel Ings"
         },
         "primary_image": {
-          "id": "rm707478528",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg3MDY1Mzk5MF5BMl5BanBnXkFtZTgwMjQwMDY5NTM@._V1_.jpg",
-          "width": 1607,
-          "height": 2048
+          "id": "rm3553314049",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzZiNzNiYjktNGNiNC00Mzc4LWFiNTYtYjJhZjliZGM0ZTQ4XkEyXkFqcGc@._V1_CR2297,297,3112,4668_.jpg",
+          "width": 3112,
+          "height": 4668
         }
       },
       {
-        "id": "nm2519720",
+        "id": "nm0819874",
         "name_text": {
-          "text": "Alison Oliver"
+          "text": "Sam Spruell"
         },
         "primary_image": {
-          "id": "rm848473602",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjBlMGM2ZjUtMjY1Mi00MzdmLWI1YjEtNWI1YjMwMmM4MTRhXkEyXkFqcGc@._V1_.jpg",
-          "width": 5000,
-          "height": 3334
+          "id": "rm3330555905",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2JjZGY4MWUtODMxNi00YzYzLWJlZGYtMjEzYzc0NjAyNzE0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1640,
+          "height": 934
         }
       },
       {
@@ -6794,16 +7324,22 @@
     "videos": [],
     "images": [
       {
+        "id": "rm2715984642",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2UyMzhmMzItMDk4Yi00YmQwLWJjNzQtMGU3MmFlM2RkODc0XkEyXkFqcGc@._V1_.jpg",
+        "width": 3996,
+        "height": 2248
+      },
+      {
         "id": "rm520673538",
         "url": "https://m.media-amazon.com/images/M/MV5BNGZmMWExYTktNmI2ZS00NDk5LThkNGEtNTNiZjJjOWY3MmYwXkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
         "height": 2000
       },
       {
-        "id": "rm2715984642",
-        "url": "https://m.media-amazon.com/images/M/MV5BM2UyMzhmMzItMDk4Yi00YmQwLWJjNzQtMGU3MmFlM2RkODc0XkEyXkFqcGc@._V1_.jpg",
-        "width": 3996,
-        "height": 2248
+        "id": "rm3108690434",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGI4YjExOWUtMjJlYS00YzY2LWE0OWQtYTBiNzIzY2M4NzM1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1280
       },
       {
         "id": "rm1057663746",
