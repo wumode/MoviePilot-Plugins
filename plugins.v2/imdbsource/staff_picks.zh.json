@@ -1,27 +1,12 @@
 {
-  "updated_at": "2026-02-10 22:41:09",
+  "updated_at": "2026-02-13 06:33:16",
   "entries": [
-    {
-      "name": "神探追缉令",
-      "ttconst": "tt11794812",
-      "rmconst": "rm520673538",
-      "detail": "Season 2 premieres on Prime Video Feb. 11",
-      "description": "《Cross》第二季规模更大、更黑暗、更复杂。从第一集开始，赌注就显得真实。你以为已经了解的角色带着多重身份、秘密和将震惊你的选择回归。如果你喜欢不求稳妥的剧集，这一季将带来巨大的惊喜。— <i>Myra</i>",
-      "relatedconst": [
-        "nm0388038",
-        "nm0421188",
-        "nm2248149",
-        "nm0000498",
-        "nm1434871"
-      ],
-      "viconst": "vi3281701657"
-    },
     {
       "name": "呼啸山庄",
       "ttconst": "tt32897959",
       "rmconst": "rm2715984642",
-      "detail": "In theaters Feb. 12",
-      "description": "Emerald Fennell发明了“渴望”这种情感，这难道不疯狂吗？这位<i>The Saltburn</i>导演对Emily Brontë经典小说的演绎将为Catherine和Heathcliff的爱情故事带来新的视角——Fennell希望它能成为“这一代人的<i>Titanic</i>”。Margot Robbie说，与搭档Jacob Elordi的一些场景让她“双腿发软”，如果预告片能说明什么，我们可以推测影迷们也会有同样的感觉。一部史诗般的浪漫爱情片，注定会让我们心碎，恰逢情人节……有什么理由不爱呢？— <i>Hillary</i>",
+      "detail": "",
+      "description": "难道Emerald Fennell发明了“渴望”这种情感不是很疯狂吗？<i>The Saltburn</i>导演对Emily Brontë经典小说的诠释将为Catherine和Heathcliff的爱情故事带来新的视角——Fennell希望它能成为“这一代人的<i>Titanic</i>”。Margot Robbie说，与联合主演Jacob Elordi的一些场景让她“双腿发软”，如果预告片能说明问题，我们可以假设粉丝们也会有同样的感觉。一部史诗般的浪漫剧，注定会完美地在情人节之际让我们心碎……有什么理由不爱呢？— <i>Hillary</i>",
       "relatedconst": [
         "nm8624059",
         "nm3053338",
@@ -32,11 +17,40 @@
       "viconst": "vi53463065"
     },
     {
+      "name": "神探追缉令",
+      "ttconst": "tt11794812",
+      "rmconst": "rm520673538",
+      "detail": "",
+      "description": "《Cross》第二季规模更大、更黑暗、更复杂。从第一集开始，赌注就显得真实。你以为你已经摸透的角色带着多重身份、秘密和会让你震惊的选择回归。如果你喜欢不走寻常路的剧集，这一季绝对会让你大饱眼福。— <i>Myra</i>",
+      "relatedconst": [
+        "nm0388038",
+        "nm0421188",
+        "nm2248149",
+        "nm0000498",
+        "nm1434871"
+      ],
+      "viconst": "vi3281701657"
+    },
+    {
+      "name": "七王国的骑士",
+      "ttconst": "tt27497448",
+      "rmconst": "rm3108690434",
+      "detail": "",
+      "description": "随着这部《Game of Thrones》前传走向高潮结局，Duncan the Tall的一切都岌岌可危。在请求通过比武审判为自己辩护，以对抗绑架指控后，这位“对冲骑士”不得不四处奔走寻找盟友加入战斗。现在，铁王座的继承人与他的侄子Aegon（又名Egg）一起支持Dunk的事业，Dunk的命运似乎有可能好转。唉，在Westeros，悲剧和胜利之间往往只有一羽渡鸦的距离。所以在2月22日季终之前，为Dunk和Egg向七神祈祷吧。— <i>Adrienne</i>",
+      "relatedconst": [
+        "nm12853749",
+        "nm11274700",
+        "nm3958526",
+        "nm0819874"
+      ],
+      "viconst": "vi95996697"
+    },
+    {
       "name": "团战之夜",
       "ttconst": "tt1341338",
       "rmconst": "rm1057663746",
-      "detail": "In theaters Feb. 13",
-      "description": "有人能把人类从失控的人工智能手中拯救出来吗？现实世界的答案当然是“不”。但在<i>Good Luck, Have Fun, Don’t Die</i>中，Sam Rockwell试图说服洛杉矶一家餐馆的顾客，他被从未来派来拯救我们。当导演Gore Verbinski（其跨类型电影作品包括<i>The Ring</i>、<i>Rango</i>和前三部<i>Pirates of the Caribbean</i>电影）去年接受IMDb采访时，他分享了这部喜剧科幻惊悚片的三种兼收并蓄的灵感。-- <i>James</i>",
+      "detail": "",
+      "description": "有人能把人类从失控的A.I.手中拯救出来吗？现实世界的答案当然是“不”。但在<i>Good Luck, Have Fun, Don’t Die</i>中，Sam Rockwell试图说服洛杉矶一家餐馆的顾客，他被从未来派来拯救我们。导演Gore Verbinski（其跨越多种类型的电影作品包括<i>The Ring</i>、<i>Rango</i>和前三部<i>Pirates of the Caribbean</i>电影）去年与IMDb交谈时，分享了他这部喜剧科幻惊悚片的三种兼收并蓄的灵感。-- <i>James</i>",
       "relatedconst": [
         "nm0005377",
         "nm5939164",
@@ -51,7 +65,7 @@
       "ttconst": "tt30412869",
       "rmconst": "rm3409552898",
       "detail": "Series premieres on Prime Video Feb. 18",
-      "description": "我知道小说《56 Days》是封锁期间的现象级作品，其惊险刺激源于一段短暂而动荡的恋情，最终导致了一个可怕的发现。读者们，公平地说，这部改编作品是不是像Colleen Hoover的故事，但戏剧的中心是一具腐烂的尸体？Prime Video的剧集明智地放弃了书中的疫情背景，这是我打算给它一个机会的第二个原因。主要因素是：两位拥有超强电视背景的女性是联合创作者；如果这部剧是由男性创作的，我就会放弃。-- <i>Arno</i>",
+      "description": "我知道《56 Days》这部小说是封锁期间的现象级作品，其刺激之处源于一段短暂而动荡的恋情，最终导致了一个可怕的发现。读者们，说这部改编作品像Colleen Hoover的故事，但戏剧中心是一具腐烂的尸体，这公平吗？Prime Video的剧集明智地放弃了书中的疫情背景，这是我愿意给它一个机会的第二个原因。主要因素是：两位拥有超强电视背景的女性是联合创作者；如果这部剧是由男性创作的，我可能就不会看了。-- <i>Arno</i>",
       "relatedconst": [
         "nm4874651",
         "nm2240326"
@@ -63,7 +77,7 @@
       "ttconst": "tt4357198",
       "rmconst": "rm1997789954",
       "detail": "In theaters Feb. 20",
-      "description": "Glen Powell不住在好莱坞，但凭借编剧兼导演John Patton Ford的这部富人讽刺剧，他的A咖地位依然稳固。（也许你看了Ford与Aubrey Plaza合作的<i>Emily the Criminal</i>。）<i>How to Make a Killing</i>中，Powell饰演一个蓝领角色，他乐于除掉亲戚以继承家族财富。Margaret Qualley以帮凶的身份出现，肯定能抢走所有戏份。A24是这部电影的幕后推手，感觉<i>Marty Supreme</i>的颁奖机器可能对Powell反派角色的宣传产生了影响。— <i>Arno</i>",
+      "description": "Glen Powell不住在好莱坞，但凭借编剧兼导演John Patton Ford的这部富人讽刺剧（也许你看了Ford与Aubrey Plaza合作的<i>Emily the Criminal</i>），他的A级明星地位依然稳固。<i>How to Make a Killing</i>中，Powell饰演一个蓝领角色，他乐于除掉亲戚以继承家族财富。Margaret Qualley以同谋的身份出现，肯定能抢走所有戏份。A24是这部电影的幕后推手，感觉<i>Marty Supreme</i>奖项机器可能对Powell的反派转型宣传产生了影响。— <i>Arno</i>",
       "relatedconst": [
         "nm1412974",
         "nm4960279",
@@ -79,7 +93,7 @@
       "ttconst": "tt13745850",
       "rmconst": "rm2064362754",
       "detail": "Season 2 premieres on Apple TV Feb. 20",
-      "description": "《The Last Thing He Told Me》第二季承接第一季五年后，Hannah (Jennifer Garner饰) 仍在努力解开她丈夫失踪又重现的谜团，同时努力保护她的继女免受伤害。当黑帮盯上你时，还能安全吗？这还有待观察，但如果有人能做到，那就是进入“硬核妈妈熊”模式的Jennifer Garner。与此同时，我还在回味Jen告诉我们他们在片场称呼Nikolaj Coster-Waldau为“daddy”…… — <i>Hillary</i>",
+      "description": "《The Last Thing He Told Me》第二季承接第一季五年后，Hannah（Jennifer Garner饰）仍在努力解开丈夫失踪又重现的谜团，同时试图保护她的继女免受伤害。当黑帮追捕你时，还能安全吗？这还有待观察，但如果有人能做到，那就是进入“硬核妈妈熊”模式的Jennifer Garner。与此同时，我还在回味Jen告诉我们他们在片场称呼Nikolaj Coster-Waldau为“爸爸”……— <i>Hillary</i>",
       "relatedconst": [
         "nm0004950",
         "nm3886028",
@@ -94,7 +108,7 @@
       "ttconst": "tt33295741",
       "rmconst": "rm77304066",
       "detail": "In limited release Feb. 20",
-      "description": "即使你觉得你已经厌倦了关于多元宇宙的电影，也请给Kevin和Matthew McManus的<i>Redux Redux</i>一个机会。这部科幻惊悚片从第一帧开始就火力全开，直到爆炸性的结局才停止。Michaela McManus饰演一位母亲，她穿越平行宇宙，一遍又一遍地为女儿的谋杀案复仇……这是我去年SXSW电影节上最喜欢的电影，我很高兴看到它获得了应有的院线发行。— <i>James</i>",
+      "description": "即使你觉得你已经厌倦了关于多元宇宙的电影，也请给Kevin和Matthew McManus的<i>Redux Redux</i>一个机会。这部科幻惊悚片从第一个镜头开始就节奏紧张，直到爆炸性的结局才松懈。Michaela McManus饰演一位母亲，她穿越平行宇宙，一次又一次地为女儿的谋杀案复仇……这是我去年SXSW电影节上最喜欢的电影，我很高兴看到它获得了应有的院线发行。— <i>James</i>",
       "relatedconst": [
         "nm2288842",
         "nm16435285",
@@ -107,7 +121,7 @@
       "ttconst": "tt27444205",
       "rmconst": "rm3642795522",
       "detail": "Season 2 premieres on Hulu and Disney+ Feb. 23",
-      "description": "“从来都不是关于地堡的……”等等，什么？第一季简直就是围绕着地堡展开的。不过我们已经习惯了，因为《Paradise》喜欢以一种好的方式“诱骗”观众，所以我希望到本季结束时，新的标语会是“从来都不是关于外星人的……”Sterling K. Brown回归饰演Xavier Collins，这位特勤局特工兼坚定的父亲，上季为了亲自查明真相而打破了地堡的围堵。尽管这部剧散发出《Lost》的氛围，但剧集总监Dan Fogelman承诺了三季的故事线，而且进展相当快，所以我毫不怀疑他会完美收官。— <i>Vanessa</i>",
+      "description": "“从来都不是关于地堡的……”等等，什么？第一季明明就是关于地堡的。不过我们已经习惯了，因为《Paradise》喜欢以一种好的方式“诱导和转换”观众，所以我希望到本季结束时，新的标语会是“从来都不是关于外星人的……”Sterling K. Brown回归饰演Xavier Collins，这位特勤局特工兼坚定的父亲，上季为了亲眼看到真相而打破了地堡的围堵。尽管这部剧散发着《Lost》的氛围，但剧集总监Dan Fogelman承诺了一个三季的故事弧线，而且进展相当快，所以我毫不怀疑他会完美收官。— <i>Vanessa</i>",
       "relatedconst": [
         "nm1250791",
         "nm0629855",
@@ -123,7 +137,7 @@
       "ttconst": "tt36153709",
       "rmconst": "rm93291522",
       "detail": "Series premieres on NBC Feb. 23 (also streaming on Peacock)",
-      "description": "我坦白承认，当我以为Tina Fey是这部喜剧系列的创作者时，我对此更兴奋。这部剧由Tracy Morgan饰演一位声名狼藉的足球运动员，他与一位纪录片制作人(Daniel Radcliffe)合作来修复自己的声誉。（结果发现这部剧来自她的两位长期创意伙伴；Fey担任执行制片人。）早期评论说，给这部剧几集时间，它似乎很快就能找到喜剧的立足点。虽然这部剧将在NBC播出，但对于我们这些很久以前就剪断了电视线的人来说，它将在Peacock上提供。— <i>Arno</i>",
+      "description": "我坦白承认，当我以为Tina Fey是这部喜剧系列的创作者时，我对此剧更兴奋。该剧由Tracy Morgan饰演一位声名狼藉的足球运动员，他与一位纪录片制作人（Daniel Radcliffe饰）合作来修复自己的名誉。（结果发现这部剧来自她的两位长期创意伙伴；Fey担任执行制片人。）早期评论说，给这部剧几集时间，它似乎很快就能找到喜剧的立足点。虽然该剧将在NBC播出，但对于我们这些很早就剪断电视线的人来说，它将在Peacock上提供。— <i>Arno</i>",
       "relatedconst": [
         "nm0605079",
         "nm0705356",
@@ -138,7 +152,7 @@
       "ttconst": "tt0239195",
       "rmconst": "rm352573698",
       "detail": "Season 50 premieres Feb. 25 on CBS (and streams on Paramount+)",
-      "description": "Boston Rob希望在家观看的观众来决定他是否能在挑战获胜后得到米饭吗？这是即将上演的几个新场景之一，这个最长寿的真人秀竞赛将通过召回全明星阵容并让粉丝在整个游戏中做出关键决定来庆祝第50季。Ozzy、Cirie以及现在制作热门电视剧的那个人都在24名参赛者之列，他们将在26天内互相斗智斗勇。令人惊讶的是，第49季的两名回归选手在两季之间只有不到两周的休息时间。— <i>Arno</i>",
+      "description": "Boston Rob希望家里的观众来决定他在挑战获胜后是否能得到米饭吗？这是几个新场景之一，将在这档运行时间最长的真人秀节目庆祝50季时上演，届时将召回全明星阵容，并让粉丝在整个游戏中做出关键决定。Ozzy、Cirie以及现在制作热门电视剧的那个人，都在24名参赛者之列，他们将在26天内互相斗智斗勇。得知第49季的两名回归选手在两季之间只休息了不到两周，这真是太疯狂了。— <i>Arno</i>",
       "relatedconst": [
         "nm0698251"
       ],
@@ -149,7 +163,7 @@
       "ttconst": "tt8740790",
       "rmconst": "rm912305666",
       "detail": "Season 4, Part 2 premieres Feb. 26 on Netflix",
-      "description": "浪漫季继续，Netflix本月将发布最后四集，以不可避免的幸福结局为灰姑娘的故事画上句号。我喜欢那些浪漫小说必备的元素！本季改编自小说《An Offer from a Gentleman》，呈现了大量Bridgerton家族的戏剧冲突，延续了Bridgerton家族女家长Lady Violet和Lady Danbury的兄弟Lord Marcus Anderson之间萌芽的恋情，并探讨了Penelope作为Lady Whistledown身份揭露后的影响。我们是否也会得到一些关于下一季哪位Bridgerton家族成员可能找到爱情的暗示？拭目以待！— <i>Vanessa</i>",
+      "description": "浪漫季继续，Netflix本月发布最后四集，以不可避免的幸福结局为灰姑娘的故事画上句号。我喜欢这些浪漫小说的设定！本季根据小说《An Offer from a Gentleman》改编，呈现了许多Bridgerton家族的戏剧冲突，延续了Bridgerton家族女家长Lady Violet和Lady Danbury的兄弟Lord Marcus Anderson之间萌芽的恋情，并探讨了Penelope作为Lady Whistledown身份揭露后的影响。我们是否也能得到一些关于下一季Bridgerton家族中谁会找到爱情的暗示呢？拭目以待！— <i>Vanessa</i>",
       "relatedconst": [
         "nm8485169",
         "nm3451086",
@@ -165,7 +179,7 @@
       "ttconst": "tt27047903",
       "rmconst": "rm316779778",
       "detail": "In theaters Feb. 27",
-      "description": "没有“核心四人组”的一半，Woodsboro还会一样有趣吗？Carpenter姐妹，由Jenna Ortega和Melissa Barerra在过去两部《Scream》电影中饰演，是这个真正复兴的系列电影的共同核心；没有她们，<i>Scream 7</i>会带来什么将令人好奇。Sidney Prescott再次回归家园对粉丝来说足够了吗？这部电影因导致Barerra和Ortega离开的失误，以及可能与此相关的导致Radio Silence导演团队退出的前期制作风波而成为头条新闻。似乎Kevin Williamson，这个一切的开端者，正在导演位置上尽其所能地提供最好的粉丝服务，甚至宣布Dewey (David Arquette) 将以某种形式回归。— <i>Arno</i>",
+      "description": "没有“核心四人组”的一半，Woodsboro还会那么有趣吗？Carpenter姐妹，由Jenna Ortega和Melissa Barerra在过去两部《Scream》电影中饰演，是这个真正复兴的系列的连体核心；没有她们，<i>Scream 7</i>会带来什么将令人好奇。Sidney Prescott再次回归对粉丝来说足够了吗？这部电影因导致Barerra和Ortega离开的意外事件，以及可能相关的导致Radio Silence导演团队退出的前期制作风波而成为头条新闻。似乎Kevin Williamson，这个一切的开创者，正在导演位置上尽其所能地提供最好的粉丝服务，甚至宣布Dewey（David Arquette）将以某种形式回归。— <i>Arno</i>",
       "relatedconst": [
         "nm0000117",
         "nm0001073",
@@ -180,7 +194,7 @@
       "ttconst": "tt17220216",
       "rmconst": "rm335599874",
       "detail": "Season 2 premieres on Apple TV Feb. 27",
-      "description": "父子档Kurt和Wyatt Russell回归《Monarch: Legacy of Monsters》第二季，我们在骷髅岛的跨维度混乱中醒来。事实证明，哥斯拉和金刚是我们最不担心的，因为一只更大、更邪恶的“狐狸”从俗语中的鸡舍里冒了出来。只不过这次，那个鸡舍是深海吗？收看怪物大战，留下来欣赏那总能让我紧张不已的配乐。— <i>Hillary</i>",
+      "description": "父子档Kurt和Wyatt Russell回归《Monarch: Legacy of Monsters》第二季，我们在骷髅岛上醒来，发现自己身处维度间的混乱之中。原来Godzilla和Kong是我们最不担心的事情，因为一只更大、更邪恶的狐狸从俗语中的鸡舍里冒了出来。只是这一次，那个鸡舍是深海？收看怪兽大战，留下来欣赏那总能让我坐立不安的配乐。— <i>Hillary</i>",
       "relatedconst": [
         "nm0000621",
         "nm0751518",
@@ -195,7 +209,7 @@
       "ttconst": "tt31434030",
       "rmconst": "rm1075422978",
       "detail": "",
-      "description": "Dracula依然渴望你的鲜血和灵魂，但在Luc Besson对唯一真实吸血鬼起源故事的诠释中，他也在全力寻找爱情。Caleb Landry Jones将对Zoë Bleu（Rosanna Arquette的女儿，供参考）魂牵梦萦，这看起来将是今年视觉上更具刺激性的作品之一。更硬核的恐怖片迷可能对Besson的爱情故事不那么感兴趣，但他的最新作品可能与Guillermo del Toro的<i>Frankenstein</i>搭配成一部不错的双片。这部电影在美国将进行独立发行，所以Dracula有机会在流媒体上找到爱情和成功。— <i>Arno</i>",
+      "description": "Dracula仍然想要你的鲜血和灵魂，但在Luc Besson对吸血鬼真正起源故事的诠释中，他也在寻找爱情。Caleb Landry Jones将渴望Zoë Bleu（Rosanna Arquette的女儿），这看起来将是今年视觉上最具刺激性的作品之一。更硬核的恐怖片粉丝可能对Besson的爱情故事不那么感兴趣，但他的最新作品可能与Guillermo del Toro的<i>Frankenstein</i>搭配成一部不错的双片放映。这部电影在美国将以独立发行的方式上映，所以Dracula有机会在流媒体上找到爱情和成功。— <i>Arno</i>",
       "relatedconst": [
         "nm2655177",
         "nm0910607",
@@ -210,7 +224,7 @@
       "ttconst": "tt29550683",
       "rmconst": "rm3999258882",
       "detail": "",
-      "description": "Dafne Keen (<i>Logan</i>，《His Dark Materials》) 和Sophie Nélisse (《Yellowjackets》) 加入了一群青少年，他们因两项高中必经的成人礼而联系在一起：留校察看和一个古老的阿兹特克死亡哨子，任何愚蠢到吹响它的人都会招来死亡。导演Corin Hardy (<i>The Nun</i>) 和编剧Owen Egerton共同打造了一场复古的恐怖盛宴，其灵感来源于80年代的标志性电影，从<i>The Lost Boys</i>到<i>The Breakfast Club</i>。— <i>James</i>",
+      "description": "Dafne Keen（<i>Logan</i>，《His Dark Materials》）和Sophie Nélisse（《Yellowjackets》）加入了一群青少年，他们因两项高中必经的成人礼而联系在一起：留校察看和一个古老的阿兹特克死亡哨子，任何愚蠢到吹响它的人都会招来死亡。导演Corin Hardy（<i>The Nun</i>）和编剧Owen Egerton共同打造了一场复古的恐怖盛宴，其灵感来源于80年代的标志性电影，从<i>The Lost Boys</i>到<i>The Breakfast Club</i>。— <i>James</i>",
       "relatedconst": [
         "nm6748436",
         "nm4563869",
@@ -224,7 +238,7 @@
       "ttconst": "tt33336202",
       "rmconst": "rm146974210",
       "detail": "",
-      "description": "Keke Palmer继<i>One of Them Days</i>（2025年最有趣的电影）之后，带来了这部温馨的悬疑剧系列，翻拍自Joe Dante/Tom Hanks 80年代的邪典经典，该片对郊区生活的险恶面有很多独到见解。Keke完全可以独自撑起一部喜剧，但这部剧的配角阵容，包括情景喜剧偶像Julia Duffy和《What We Do in the Shadows》中永恒的Mark Proksch，完全吸引了我的注意力。— <i>Arno</i>",
+      "description": "Keke Palmer继<i>One of Them Days</i>（2025年最有趣的电影）之后，带来了这部温馨的悬疑剧系列，翻拍自Joe Dante/Tom Hanks 80年代的邪典经典，该片对郊区生活的阴暗面有很多话要说。Keke可以完全独立地撑起一部喜剧，但这部剧的配角阵容，包括情景喜剧偶像Julia Duffy和《What We Do in the Shadows》中永恒的Mark Proksch，完全吸引了我的注意力。— <i>Arno</i>",
       "relatedconst": [
         "nm1551130",
         "nm3099754",
@@ -238,333 +252,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt11794812",
-        "title_text": {
-          "text": "Cross"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2024
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cross",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Alex Cross"
-              }
-            },
-            {
-              "node": {
-                "text": "Alex Cross",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Detective Alex Cross",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Detetive Alex Cross",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Крос",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Кросс",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "法醫心理學家克洛斯",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "改编自James Patterson的小说，讲述了复杂而杰出的侦探Alex Cross的故事。"
-          }
-        },
-        "primary_image": {
-          "id": "rm587520514",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWIzZjg0MTYtMjMxYy00NWJiLWJjMDUtOWE5NWIxNDBiY2FhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 131,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 151
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 29752
-        },
-        "release_date": {
-          "year": 2024,
-          "month": 11,
-          "day": 14
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Cross"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
       {
         "id": "tt32897959",
         "title_text": {
@@ -710,6 +397,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wuthering Heights",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -1048,24 +747,12 @@
                   "text": "Greece"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Брулени хълмове",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一个发生在约克郡荒原背景下的充满激情和动荡的爱情故事，探索了Heathcliff和Catherine Earnshaw之间强烈而毁灭性的关系。"
+            "plain_text": "一个发生在约克郡荒原背景下的充满激情和动荡的爱情故事，探索了Heathcliff和Catherine Earnshaw之间强烈而具破坏性的关系。"
           }
         },
         "primary_image": {
@@ -1083,7 +770,8 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.1,
+          "vote_count": 1149
         },
         "release_date": {
           "year": 2026,
@@ -1112,6 +800,698 @@
         },
         "runtime": {
           "seconds": 8160
+        }
+      },
+      {
+        "id": "tt11794812",
+        "title_text": {
+          "text": "Cross"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cross",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alex Cross"
+              }
+            },
+            {
+              "node": {
+                "text": "Alex Cross",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Detective Alex Cross",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Detetive Alex Cross",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Крос",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Кросс",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "法醫心理學家克洛斯",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "根据James Patterson小说改编的剧集，讲述了复杂而聪明的侦探Alex Cross的故事。"
+          }
+        },
+        "primary_image": {
+          "id": "rm587520514",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWIzZjg0MTYtMjMxYy00NWJiLWJjMDUtOWE5NWIxNDBiY2FhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 131,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 151
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.2,
+          "vote_count": 29950
+        },
+        "release_date": {
+          "year": 2024,
+          "month": 11,
+          "day": 14
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Cross"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt27497448",
+        "title_text": {
+          "text": "A Knight of the Seven Kingdoms"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Hét Királyság lovagja",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Knight of the Seven Kingdoms: The Hedge Knight",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cavalerul celor Șapte Regate",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El caballero de los siete reinos",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El caballero de los Siete Reinos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Cavaleiro dos Sete Reinos",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Rycerz siedmiu królestw",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vitez sedam kraljevstava",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Витез Седам краљевстава",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лицар сімох королівств",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Рыцарь семи королевств",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "七王國的騎士",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "在《GOT》发生的一个世纪前，Ser Duncan the Tall和他的侍从Egg漫游在Westeros，当时Targaryen王朝统治着铁王座，龙的传说仍被铭记。伟大的命运和敌人等待着这对无与伦比的朋友。"
+          }
+        },
+        "primary_image": {
+          "id": "rm4179011842",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1536,
+          "height": 1920
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 1
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.7,
+          "vote_count": 43205
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 1,
+          "day": 18
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "A Knight of the Seven Kingdoms"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -1278,7 +1658,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位“来自未来的人”抵达洛杉矶的一家餐馆，他必须招募一群心怀不满的顾客，与他一起踏上为期一晚的任务，将世界从失控人工智能的致命威胁中拯救出来。"
+            "plain_text": "一位“来自未来的人”抵达洛杉矶的一家餐馆，他必须招募一群心怀不满的顾客，与他一起进行一次一夜的探险，以将世界从失控人工智能的最终威胁中拯救出来。"
           }
         },
         "primary_image": {
@@ -1296,8 +1676,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.3,
-          "vote_count": 678
+          "aggregate_rating": 7.5,
+          "vote_count": 883
         },
         "release_date": {
           "year": 2026,
@@ -1433,7 +1813,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在一次偶然的超市邂逅后，Oliver和Ciara开始了一段激烈的关系。56天后，一具被残忍谋杀的尸体浮出水面，调查深入到他们动荡的爱情故事中，揭示出可怕的秘密。"
+            "plain_text": "在超市的一次偶然相遇后，Oliver和Ciara开始了一段激烈的关系。56天后，一具被残忍谋杀的尸体浮出水面，调查深入到他们动荡的爱情故事中，揭示出可怕的秘密。"
           }
         },
         "primary_image": {
@@ -1709,7 +2089,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Becket Redfellow自出生起就被他极其富有的家庭抛弃，这位蓝领工人将不惜一切代价夺回他的遗产，无论有多少亲戚挡在他的路上。"
+            "plain_text": "Becket Redfellow自出生起就被他极其富有的家族抛弃，他将不惜一切代价夺回他的遗产，无论有多少亲戚阻碍他。"
           }
         },
         "primary_image": {
@@ -2104,7 +2484,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一名女子在寻找丈夫神秘失踪真相的过程中，与她16岁的继女建立了一种意想不到的关系。"
+            "plain_text": "一名女子在寻找丈夫神秘失踪真相的过程中，与她16岁的继女建立了一段意想不到的关系。"
           }
         },
         "primary_image": {
@@ -2123,7 +2503,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 20623
+          "vote_count": 20642
         },
         "release_date": {
           "year": 2023,
@@ -2359,7 +2739,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Irene Kelly穿越平行宇宙，反复杀死她女儿的凶手。随着她被复仇吞噬，她的人性也岌岌可危。"
+            "plain_text": "Irene Kelly穿越平行宇宙，反复杀死女儿的凶手。当她被复仇吞噬时，她的人性岌岌可危。"
           }
         },
         "primary_image": {
@@ -2377,8 +2757,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.5,
-          "vote_count": 1214
+          "aggregate_rating": 6.4,
+          "vote_count": 1456
         },
         "release_date": {
           "year": 2025,
@@ -2720,7 +3100,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.8,
-          "vote_count": 60498
+          "vote_count": 60678
         },
         "release_date": {
           "year": 2025,
@@ -2908,7 +3288,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位陨落的足球明星寻求救赎，并希望恢复他受损的声誉。"
+            "plain_text": "一位陨落的足球明星寻求救赎，并有机会恢复他受损的名誉。"
           }
         },
         "primary_image": {
@@ -2927,7 +3307,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.1,
-          "vote_count": 264
+          "vote_count": 275
         },
         "release_date": {
           "year": 2026,
@@ -3469,7 +3849,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 29543
+          "vote_count": 29555
         },
         "release_date": {
           "year": 2000,
@@ -3948,7 +4328,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Bridgerton家族的八位亲密兄弟姐妹在伦敦上流社会中寻找爱情和幸福。"
+            "plain_text": "Bridgerton家族的八个亲密兄弟姐妹在伦敦上流社会中寻找爱情和幸福。"
           }
         },
         "primary_image": {
@@ -3967,7 +4347,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 217649
+          "vote_count": 217974
         },
         "release_date": {
           "year": 2020,
@@ -4017,6 +4397,15 @@
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scream 7",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
                 }
               }
             },
@@ -4375,7 +4764,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "当一个新的鬼脸杀手出现在Sidney Prescott建立新生活的城镇时，她最深的恐惧变成了现实，因为她的女儿成为了下一个目标。"
+            "plain_text": "当一个新的Ghostface杀手出现在Sidney Prescott建立新生活的城镇时，她最深的恐惧变成了现实，因为她的女儿成为了下一个目标。"
           }
         },
         "primary_image": {
@@ -4413,6 +4802,9 @@
               }
             }
           ]
+        },
+        "certificate": {
+          "rating": "R"
         },
         "original_title_text": {
           "text": "Scream 7"
@@ -4747,7 +5139,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "故事设定在哥斯拉与泰坦巨兽大战之后，揭示了怪兽是真实存在的，讲述了一个家庭揭开其尘封秘密并发现他们与“君主计划”之间遗产联系的旅程。"
+            "plain_text": "故事发生在Godzilla与Titans大战之后，揭示了怪兽是真实存在的，讲述了一个家庭揭露其隐藏秘密并发现他们与Monarch之间联系的遗产之旅。"
           }
         },
         "primary_image": {
@@ -4766,7 +5158,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 52657
+          "vote_count": 52782
         },
         "release_date": {
           "year": 2023,
@@ -5233,7 +5625,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位15世纪的王子在失去妻子后背弃上帝，他继承了一个永恒的诅咒：他变成了Dracula。他被判处在几个世纪中游荡，他反抗命运和死亡，只为一个希望所指引——与他失去的爱人重聚。"
+            "plain_text": "一位15世纪的王子在失去妻子后谴责上帝，从而继承了一个永恒的诅咒：他变成了Dracula。他注定要游荡于几个世纪，挑战命运和死亡，只为一个希望所指引——与他失去的爱人重聚。"
           }
         },
         "primary_image": {
@@ -5252,7 +5644,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.2,
-          "vote_count": 25199
+          "vote_count": 25765
         },
         "release_date": {
           "year": 2026,
@@ -5543,6 +5935,42 @@
             },
             {
               "node": {
+                "text": "El sonido de la muerte",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Sonido de la Muerte",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Sonido de la Muerte",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Sonido de la Muerte",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "O Som da Morte",
                 "country": {
                   "id": "BR",
@@ -5565,15 +5993,6 @@
                 "country": {
                   "id": "PL",
                   "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El Sonido de la Muerte",
-                "country": {
-                  "id": "VE",
-                  "text": "Venezuela"
                 }
               }
             },
@@ -5734,7 +6153,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一群格格不入、不知情的大学生偶然发现了一个被诅咒的物品，一个古老的阿兹特克死亡哨子。他们发现吹响哨子及其发出的可怕声音将召唤他们未来的死亡来追捕他们。"
+            "plain_text": "一群格格不入、不知情的大学生偶然发现了一个被诅咒的物品——一个古老的阿兹特克死亡哨子。他们发现吹响哨子及其发出的可怕声音将召唤他们未来的死亡来追捕他们。"
           }
         },
         "primary_image": {
@@ -5752,8 +6171,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.9,
-          "vote_count": 1000
+          "aggregate_rating": 5.8,
+          "vote_count": 1245
         },
         "release_date": {
           "year": 2026,
@@ -5826,6 +6245,48 @@
               "node": {
                 "text": "The 'Burbs",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The 'Burbs",
+                "country": {
                   "id": "SE",
                   "text": "Sweden"
                 }
@@ -5842,6 +6303,27 @@
             },
             {
               "node": {
+                "text": "The 'Burbs",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Burbs",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Предместье",
                 "country": {
                   "id": "RU",
@@ -5853,7 +6335,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一对年轻夫妇搬回丈夫的童年故居，却面临新邻居的威胁，并揭开他们死胡同里的黑暗秘密。"
+            "plain_text": "一对年轻夫妇搬回丈夫的童年故居，却面临新邻居的威胁，并揭露了他们死胡同里的黑暗秘密。"
           }
         },
         "primary_image": {
@@ -5871,8 +6353,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.8,
-          "vote_count": 1069
+          "aggregate_rating": 6.0,
+          "vote_count": 1859
         },
         "release_date": {
           "year": 2026,
@@ -5902,6 +6384,66 @@
       }
     ],
     "names": [
+      {
+        "id": "nm8624059",
+        "name_text": {
+          "text": "Jacob Elordi"
+        },
+        "primary_image": {
+          "id": "rm3901153026",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTUyNTBhYzYtNGEyNC00NjlhLWI4YWUtNzA5OTg1YjkyZDQxXkEyXkFqcGc@._V1_.jpg",
+          "width": 3193,
+          "height": 4847
+        }
+      },
+      {
+        "id": "nm3053338",
+        "name_text": {
+          "text": "Margot Robbie"
+        },
+        "primary_image": {
+          "id": "rm1008443648",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDcwMzU2Nl5BMl5BanBnXkFtZTcwNDc4NzkzOQ@@._V1_.jpg",
+          "width": 1000,
+          "height": 1332
+        }
+      },
+      {
+        "id": "nm2186865",
+        "name_text": {
+          "text": "Hong Chau"
+        },
+        "primary_image": {
+          "id": "rm2741653760",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjcyNjRkNDUtNDU5OS00ODY3LTk3ZTEtN2ZlODZjMzExY2E3XkEyXkFqcGc@._V1_.jpg",
+          "width": 682,
+          "height": 1024
+        }
+      },
+      {
+        "id": "nm3691746",
+        "name_text": {
+          "text": "Shazad Latif"
+        },
+        "primary_image": {
+          "id": "rm707478528",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg3MDY1Mzk5MF5BMl5BanBnXkFtZTgwMjQwMDY5NTM@._V1_.jpg",
+          "width": 1607,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm2519720",
+        "name_text": {
+          "text": "Alison Oliver"
+        },
+        "primary_image": {
+          "id": "rm848473602",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjBlMGM2ZjUtMjY1Mi00MzdmLWI1YjEtNWI1YjMwMmM4MTRhXkEyXkFqcGc@._V1_.jpg",
+          "width": 5000,
+          "height": 3334
+        }
+      },
       {
         "id": "nm0388038",
         "name_text": {
@@ -5963,63 +6505,51 @@
         }
       },
       {
-        "id": "nm8624059",
+        "id": "nm12853749",
         "name_text": {
-          "text": "Jacob Elordi"
+          "text": "Peter Claffey"
         },
         "primary_image": {
-          "id": "rm3901153026",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTUyNTBhYzYtNGEyNC00NjlhLWI4YWUtNzA5OTg1YjkyZDQxXkEyXkFqcGc@._V1_.jpg",
-          "width": 3193,
-          "height": 4847
-        }
-      },
-      {
-        "id": "nm3053338",
-        "name_text": {
-          "text": "Margot Robbie"
-        },
-        "primary_image": {
-          "id": "rm1008443648",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTgxNDcwMzU2Nl5BMl5BanBnXkFtZTcwNDc4NzkzOQ@@._V1_.jpg",
+          "id": "rm2232054017",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjNmMmM4YzUtNDIxZS00NTUyLWFkOTctZTJhNjYyMTYxNjg0XkEyXkFqcGc@._V1_.jpg",
           "width": 1000,
-          "height": 1332
+          "height": 1520
         }
       },
       {
-        "id": "nm2186865",
+        "id": "nm11274700",
         "name_text": {
-          "text": "Hong Chau"
+          "text": "Dexter Sol Ansell"
         },
         "primary_image": {
-          "id": "rm2741653760",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjcyNjRkNDUtNDU5OS00ODY3LTk3ZTEtN2ZlODZjMzExY2E3XkEyXkFqcGc@._V1_.jpg",
-          "width": 682,
-          "height": 1024
+          "id": "rm342894081",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjlmOWY0MWQtZTI1Yi00ODE3LWExNjEtM2Q3Y2U4YWNiZmU5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 2459
         }
       },
       {
-        "id": "nm3691746",
+        "id": "nm3958526",
         "name_text": {
-          "text": "Shazad Latif"
+          "text": "Daniel Ings"
         },
         "primary_image": {
-          "id": "rm707478528",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg3MDY1Mzk5MF5BMl5BanBnXkFtZTgwMjQwMDY5NTM@._V1_.jpg",
-          "width": 1607,
-          "height": 2048
+          "id": "rm3553314049",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzZiNzNiYjktNGNiNC00Mzc4LWFiNTYtYjJhZjliZGM0ZTQ4XkEyXkFqcGc@._V1_CR2297,297,3112,4668_.jpg",
+          "width": 3112,
+          "height": 4668
         }
       },
       {
-        "id": "nm2519720",
+        "id": "nm0819874",
         "name_text": {
-          "text": "Alison Oliver"
+          "text": "Sam Spruell"
         },
         "primary_image": {
-          "id": "rm848473602",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjBlMGM2ZjUtMjY1Mi00MzdmLWI1YjEtNWI1YjMwMmM4MTRhXkEyXkFqcGc@._V1_.jpg",
-          "width": 5000,
-          "height": 3334
+          "id": "rm3330555905",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2JjZGY4MWUtODMxNi00YzYzLWJlZGYtMjEzYzc0NjAyNzE0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1640,
+          "height": 934
         }
       },
       {
@@ -6794,16 +7324,22 @@
     "videos": [],
     "images": [
       {
+        "id": "rm2715984642",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2UyMzhmMzItMDk4Yi00YmQwLWJjNzQtMGU3MmFlM2RkODc0XkEyXkFqcGc@._V1_.jpg",
+        "width": 3996,
+        "height": 2248
+      },
+      {
         "id": "rm520673538",
         "url": "https://m.media-amazon.com/images/M/MV5BNGZmMWExYTktNmI2ZS00NDk5LThkNGEtNTNiZjJjOWY3MmYwXkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
         "height": 2000
       },
       {
-        "id": "rm2715984642",
-        "url": "https://m.media-amazon.com/images/M/MV5BM2UyMzhmMzItMDk4Yi00YmQwLWJjNzQtMGU3MmFlM2RkODc0XkEyXkFqcGc@._V1_.jpg",
-        "width": 3996,
-        "height": 2248
+        "id": "rm3108690434",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGI4YjExOWUtMjJlYS00YzY2LWE0OWQtYTBiNzIzY2M4NzM1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1280
       },
       {
         "id": "rm1057663746",
