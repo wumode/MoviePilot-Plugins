@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-01 18:33:35",
+  "updated_at": "2026-03-05 06:33:31",
   "entries": [
     {
       "name": "DTF St. Louis",
       "ttconst": "tt34385331",
       "rmconst": "rm586800642",
-      "detail": "Premieres March 1 on HBO Max",
+      "detail": "Streaming on HBO Max",
       "description": "Yes, the title means exactly what you think it does, but don’t expect a straightforward sex story from this HBO Max crime comedy. Jason Bateman and David Harbour star as work friends whose mission to spice up their sex lives leads one of them to an untimely death. Written and directed by Steve Conrad (“Wonder,” “Patriot”), the seven-episode miniseries was originally inspired by a true story before finding its feet as a wholly original tale filled with twists, turns, and more than a few kinks. — <i>Adrienne</i>",
       "relatedconst": [
         "nm0000867",
@@ -20,7 +20,7 @@
       "name": "Marshals",
       "ttconst": "tt36849871",
       "rmconst": "rm1872812290",
-      "detail": "Series premieres March 1 on Paramount+",
+      "detail": "Streaming on Paramount+",
       "description": "The sun never sets on the Taylor Sheridan universe, and his latest “Yellowstone” spin-off is shining bright among the most anticipated of the year. Luke Grimes returns as Kayce Dutton, who will step center stage in this series about joining a team of crime-fighting US Marshals. “Yellowstone” fans can’t seem to get enough of this Montana melodrama, and we suspect this new show’s procedural approach will be a big hit for folks hungry for more stories set in this neo-western world. — <i>Adrienne</i>",
       "relatedconst": [
         "nm2093766",
@@ -133,6 +133,21 @@
       "viconst": "vi585157401"
     },
     {
+      "name": "Scarpetta",
+      "ttconst": "tt14786934",
+      "rmconst": "rm1194696706",
+      "detail": "Series premieres March 11 on Prime Video",
+      "description": "At least once a year I need a Nicole Kidman goes off moment. The thought of her playing Kay Scarpetta, the medical examiner who lives within 29 Patricia Cornwell novels, makes me hope “Scarpetta” might become a long-running series in the vein of Helen Mirren’s “Prime Suspect” (which I’ve been rewatching lately). Season 1 finds Scarpetta leaning into her forensic pathologist skillset to identify a serial killer whose crimes are threaded to the case that established her career nearly 30 years prior. For the uninitiated: Get ready for Jamie Lee Curtis as Dorothy Farinelli, Scarpetta’s agent of chaos big sister. — <i>Arno</i>",
+      "relatedconst": [
+        "nm0000173",
+        "nm0000130",
+        "nm3663196",
+        "nm0134072",
+        "nm0048932"
+      ],
+      "viconst": "vi1474415385"
+    },
+    {
       "name": "Undertone",
       "ttconst": "tt35892608",
       "rmconst": "rm1493490178",
@@ -150,7 +165,7 @@
       "ttconst": "tt15574124",
       "rmconst": "rm1158963969",
       "detail": "Premieres March 20 on Netflix",
-      "description": "England, 1940. It’s been almost 10 years since we last saw Tommy Shelby (Cillian Murphy), and Birmingham’s favorite gangster has walked away from the empire he built and the life he knew. That is, until he receives word that his son (Barry Keoghan) is wreaking havoc on Small Heath. The old Tommy must return and attempt to fix what's broken — in his hometown, in his family, and in himself. By order of the Peaky Blinders, he’s back. — <i>Hillary</i>",
+      "description": "England, 1940. It’s been six years since we last saw Tommy Shelby (Cillian Murphy), and Birmingham’s favorite gangster has walked away from the empire he built and the life he knew. That is, until he receives word that his son (Barry Keoghan) is wreaking havoc on Small Heath. The old Tommy must return and attempt to fix what's broken — in his hometown, in his family, and in himself. By order of the Peaky Blinders, he’s back. — <i>Hillary</i>",
       "relatedconst": [
         "nm0614165",
         "nm0272581",
@@ -192,11 +207,27 @@
       "viconst": "vi95865625"
     },
     {
+      "name": "Deadloch",
+      "ttconst": "tt14671678",
+      "rmconst": "rm3652899586",
+      "detail": "Season 2 premieres March 20 on Prime Video",
+      "description": "While watching Deadloch’s first season three years ago I went from “what am I watching?” to “oh, it’s a satirical comedy,” then “I’m in love with this show.” The Australian buddy-cop comedy filled the “Kath &amp; Kim”-sized hole in my heart, and I remember selling like a half dozen friends on it. Season 2 finds Detectives Dulcie Collins and Eddie Redcliffe in Darwin, situated in the country’s sweltering Northern Territory, where their latest case is derailed by a grim discovery. If you haven’t joined the cult yet, watch Season 1 now and pretend you’ve been a disciple for years. — <i>Arno</i>",
+      "relatedconst": [
+        "nm2094547",
+        "nm0759819",
+        "nm1292661",
+        "nm5998237",
+        "nm3996908",
+        "nm0306727"
+      ],
+      "viconst": "vi2296957721"
+    },
+    {
       "name": "Something Very Bad Is Going to Happen",
       "ttconst": "tt32937780",
       "rmconst": "rm225041410",
       "detail": "Series premieres March 26 on Netflix",
-      "description": "With a title like that, at least you know what you’re getting into in this Netflix nuptial horror series. The idea of tying the knot can be scary enough without being reminded of <i>Rosemary’s Baby</i> or <i>Carrie</i>, but those horror classics were visual and tonal influences for showrunner and executive producer Haley Z. Boston. Starring Camila Morrone (“Daisy Jones & The Six,” “The Night Manager”) and Adam DiMarco (“The White Lotus,” “Overcompensating”) as the engaged couple, the eight-episode series depicts the tense week leading up to their almost-certainly doomed wedding. — <i>James</i>",
+      "description": "With a title like that, at least you know what you’re getting into in this Netflix nuptial horror series. The idea of tying the knot can be scary enough without being reminded of <i>Rosemary’s Baby</i> or <i>Carrie</i>, but those horror classics were visual and tonal influences for showrunner and executive producer Haley Z. Boston. Starring Camila Morrone (“Daisy Jones & The Six,” “The Night Manager”) and Adam DiMarco (“The White Lotus,” “Overcompensating”) as the engaged couple, the eight-episode series depicts the tense week leading up to their almost-certainly doomed wedding. — <i>James</i>",
       "relatedconst": [
         "nm6714979",
         "nm4348240",
@@ -206,6 +237,19 @@
         "nm6262342"
       ],
       "viconst": "vi1390725913"
+    },
+    {
+      "name": "Alpha",
+      "ttconst": "tt32275943",
+      "rmconst": "rm2108785154",
+      "detail": "In theaters March 27",
+      "description": "A movie-critic friend has prepped me a bit for what’s to come in <i>Alpha</i>. He and I came of age as young gay men during the HIV/AIDS crisis, and <i>Alpha</i> is viewed by many as writer-director Julia Ducournau’s grim metaphor for the epidemic. Her story is set in a decaying world, one consumed by generational trauma, where a teenage girl contracts a seemingly otherworldy virus after getting a tattoo. If you remember “greyscale” from “Game of Thrones,” think along those lines, but make it way more of a real-world possibility. — <i>Arno</i>",
+      "relatedconst": [
+        "nm0267042",
+        "nm13269520",
+        "nm2588665"
+      ],
+      "viconst": "vi2191641369"
     }
   ],
   "imdb_items": {
@@ -213,7 +257,7 @@
       {
         "id": "tt34385331",
         "title_text": {
-          "text": "DTF St. Louis"
+          "text": "DTF: St. Louis"
         },
         "title_type": {
           "id": "tvMiniSeries"
@@ -225,7 +269,16 @@
           "edges": [
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "AU",
                   "text": "Australia"
@@ -234,7 +287,7 @@
             },
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "CA",
                   "text": "Canada"
@@ -246,7 +299,7 @@
             },
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "DE",
                   "text": "Germany"
@@ -255,7 +308,16 @@
             },
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
@@ -264,7 +326,16 @@
             },
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "IN",
                   "text": "India"
@@ -276,7 +347,7 @@
             },
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "IT",
                   "text": "Italy"
@@ -285,7 +356,7 @@
             },
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "SE",
                   "text": "Sweden"
@@ -294,10 +365,73 @@
             },
             {
               "node": {
-                "text": "DTF St. Louis",
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF St. Louis",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF St. Louis",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF St. Louis",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chętni na seks",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             }
@@ -315,15 +449,16 @@
           "height": 1500
         },
         "meter_ranking": {
-          "current_rank": 129,
+          "current_rank": 35,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 156
+            "difference": 94
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.7,
+          "vote_count": 624
         },
         "release_date": {
           "year": 2026,
@@ -361,40 +496,13 @@
           "edges": [
             {
               "node": {
-                "text": "Y: Marshals",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Y: Marshals",
+                "text": "Marshals",
                 "country": {
                   "id": "CA",
                   "text": "Canada"
                 },
                 "language": {
                   "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Y: Marshals",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Y: Marshals",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
                 }
               }
             },
@@ -420,11 +528,74 @@
               "node": {
                 "text": "Marshals",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Y: Marshals",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Y: Marshals",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Y: Marshals",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
                 }
               }
             },
@@ -439,7 +610,52 @@
             },
             {
               "node": {
-                "text": "Маршалы",
+                "text": "Marshals: Una historia de Yellowstone",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: A Yellowstone Story",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Egy Yellowstone történet",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Historia z Yellowstone",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Uma História de Yellowstone",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Йеллоустоун: Маршалы",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
@@ -460,15 +676,16 @@
           "height": 2897
         },
         "meter_ranking": {
-          "current_rank": 164,
+          "current_rank": 32,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 54
+            "difference": 132
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.7,
+          "vote_count": 1364
         },
         "release_date": {
           "year": 2026,
@@ -498,6 +715,9 @@
               }
             }
           ]
+        },
+        "certificate": {
+          "rating": "TV-14"
         },
         "original_title_text": {
           "text": "Marshals"
@@ -550,6 +770,15 @@
               "node": {
                 "text": "Young Sherlock",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -596,6 +825,42 @@
             },
             {
               "node": {
+                "text": "Az ifjú Sherlock",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El joven Sherlock",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Joven Sherlock",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jovem Sherlock",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Młody Sherlock",
                 "country": {
                   "id": "PL",
@@ -626,11 +891,11 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 358,
+          "current_rank": 154,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 123
+            "change_direction": "UP",
+            "difference": 204
           }
         },
         "ratings_summary": {
@@ -747,6 +1012,15 @@
               "node": {
                 "text": "Vladimir",
                 "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vladimir",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -799,17 +1073,17 @@
           }
         },
         "primary_image": {
-          "id": "rm134994178",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzI2MjMyNTgtYTFmYi00NmZkLWI3ZjgtNGFjYWMyODA2MWUxXkEyXkFqcGc@._V1_.jpg",
+          "id": "rm702599938",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWVmYWNiYjItYjUyYS00ZDc2LTk5ZWEtZjA5NDQxZjUzMDA3XkEyXkFqcGc@._V1_.jpg",
           "width": 1500,
-          "height": 2222
+          "height": 2224
         },
         "meter_ranking": {
-          "current_rank": 139,
+          "current_rank": 143,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 114
+            "difference": 4
           }
         },
         "ratings_summary": {
@@ -1111,16 +1385,16 @@
           "height": 1500
         },
         "meter_ranking": {
-          "current_rank": 159,
+          "current_rank": 87,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 4
+            "difference": 72
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.8,
-          "vote_count": 218
+          "aggregate_rating": 7.1,
+          "vote_count": 312
         },
         "release_date": {
           "year": 2026,
@@ -1304,6 +1578,54 @@
                 },
                 "language": {
                   "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Невеста!",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Невеста!",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Невеста!",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "¡La novia!",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "¡La novia!",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
                 }
               }
             },
@@ -1546,19 +1868,13 @@
             },
             {
               "node": {
-                "text": "Невеста",
+                "text": "ザ・ブライド！",
                 "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Невеста!",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
                 }
               }
             },
@@ -1609,11 +1925,11 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 29,
+          "current_rank": 14,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 24
+            "difference": 15
           }
         },
         "ratings_summary": {
@@ -1859,16 +2175,16 @@
           "height": 4000
         },
         "meter_ranking": {
-          "current_rank": 752,
+          "current_rank": 396,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 212
+            "change_direction": "UP",
+            "difference": 356
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.7,
-          "vote_count": 299
+          "vote_count": 321
         },
         "release_date": {
           "year": 2026,
@@ -2052,11 +2368,11 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 1198,
+          "current_rank": 958,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 2081
+            "difference": 240
           }
         },
         "ratings_summary": {
@@ -2476,16 +2792,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 142,
+          "current_rank": 104,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 54
+            "change_direction": "UP",
+            "difference": 38
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 185648
+          "vote_count": 185830
         },
         "release_date": {
           "year": 2023,
@@ -2529,6 +2845,211 @@
         },
         "runtime": {
           "seconds": 3600
+        }
+      },
+      {
+        "id": "tt14786934",
+        "title_text": {
+          "text": "Scarpetta"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta: Médica Legista",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A brilliant forensic pathologist uses forensic technology to solve crimes."
+          }
+        },
+        "primary_image": {
+          "id": "rm684710914",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGJiZTM2ZmItMGRiZC00NzgwLTk3M2QtNDI1ZmYxOTJkOGI3XkEyXkFqcGc@._V1_.jpg",
+          "width": 560,
+          "height": 700
+        },
+        "meter_ranking": {
+          "current_rank": 158,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 52
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 3,
+          "day": 11
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Scarpetta"
         }
       },
       {
@@ -2726,16 +3247,16 @@
           "height": 6000
         },
         "meter_ranking": {
-          "current_rank": 433,
+          "current_rank": 219,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 99
+            "change_direction": "UP",
+            "difference": 214
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.5,
-          "vote_count": 301
+          "aggregate_rating": 6.6,
+          "vote_count": 308
         },
         "release_date": {
           "year": 2026,
@@ -2960,6 +3481,18 @@
             },
             {
               "node": {
+                "text": "Peaky Blinders: L'immortel",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Peaky Blinders: Nieśmiertelny",
                 "country": {
                   "id": "PL",
@@ -3011,11 +3544,11 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 30,
+          "current_rank": 66,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 298
+            "change_direction": "DOWN",
+            "difference": 36
           }
         },
         "ratings_summary": {
@@ -3154,6 +3687,72 @@
             },
             {
               "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Der Astronaut",
                 "country": {
                   "id": "AT",
@@ -3179,36 +3778,6 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Proyecto Fin del mundo",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Proyecto Fin del mundo",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Proyecto Fin del mundo",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
                 }
               }
             },
@@ -3283,6 +3852,15 @@
             },
             {
               "node": {
+                "text": "Posledná šanca",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Proiectul Hail Mary",
                 "country": {
                   "id": "RO",
@@ -3296,6 +3874,15 @@
                 "country": {
                   "id": "PL",
                   "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Projekt Zadnje upanje",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
                 }
               }
             },
@@ -3332,6 +3919,15 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spasitel",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
                 }
               }
             },
@@ -3439,11 +4035,11 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 40,
+          "current_rank": 25,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 2
+            "change_direction": "UP",
+            "difference": 15
           }
         },
         "ratings_summary": {
@@ -3600,6 +4196,27 @@
             },
             {
               "node": {
+                "text": "Я иду искать 2",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Я иду искать 2",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Aki bújt 2: Jövök!",
                 "country": {
                   "id": "HU",
@@ -3631,6 +4248,27 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Prêt pas prêt 2: J'arrive",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pulmaöö peitusemäng 2: Siit ma tulen",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
                 }
               }
             },
@@ -3678,6 +4316,18 @@
                   "text": "Taiwan"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "爆血新婚夜2：豪門遊戲",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
             }
           ]
         },
@@ -3693,11 +4343,11 @@
           "height": 1185
         },
         "meter_ranking": {
-          "current_rank": 268,
+          "current_rank": 76,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 44
+            "difference": 192
           }
         },
         "ratings_summary": {
@@ -3732,6 +4382,405 @@
         },
         "original_title_text": {
           "text": "Ready or Not 2: Here I Come"
+        },
+        "runtime": {
+          "seconds": 6240
+        }
+      },
+      {
+        "id": "tt14671678",
+        "title_text": {
+          "text": "Deadloch"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2023
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deadloch",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дедлок",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дэдлок",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "デッドロック～女刑事の事件簿～",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "戴洛克小镇",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "戴洛奇小鎮",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "戴洛奇小镇",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "戴洛赫小镇",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "死湖微澜",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Investigating murder and a rising body count Dulcie Collins and Eddie Radcliffe join forces with the ragtag team of misfits to bring a killer to justice."
+          }
+        },
+        "primary_image": {
+          "id": "rm3669676802",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzA1ODFkMDEtZWUyOS00Yzk1LTlmNWUtMGRhMzBlMmY3YjI5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 539,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 277
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.5,
+          "vote_count": 15487
+        },
+        "release_date": {
+          "year": 2023,
+          "month": 6,
+          "day": 1
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Deadloch"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -3857,11 +4906,11 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 337,
+          "current_rank": 518,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 267
+            "difference": 181
           }
         },
         "ratings_summary": {
@@ -3888,6 +4937,397 @@
         },
         "original_title_text": {
           "text": "Something Very Bad Is Going to Happen"
+        }
+      },
+      {
+        "id": "tt32275943",
+        "title_text": {
+          "text": "Alpha"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alpha",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Альфа",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Альфа",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alfa",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Алфа",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "殞愛",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "石殞",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Alpha, a troubled 13-year-old lives with her single mom. Their world collapses the day she returns from school with a tattoo on her arm."
+          }
+        },
+        "primary_image": {
+          "id": "rm2225964802",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzQ3OTI0ZTUtMzkwMC00MzZhLWJiZmYtODFmZjZmMmJiMTc5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1382,
+          "height": 2048
+        },
+        "meter_ranking": {
+          "current_rank": 1095,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 399
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 5.9,
+          "vote_count": 2714
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 3,
+          "day": 27
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Alpha"
+        },
+        "runtime": {
+          "seconds": 7680
         }
       }
     ],
@@ -4385,6 +5825,66 @@
         }
       },
       {
+        "id": "nm0000173",
+        "name_text": {
+          "text": "Nicole Kidman"
+        },
+        "primary_image": {
+          "id": "rm328971520",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTk1MjM5NDg4MF5BMl5BanBnXkFtZTcwNDg1OTQ4Nw@@._V1_.jpg",
+          "width": 1404,
+          "height": 1902
+        }
+      },
+      {
+        "id": "nm0000130",
+        "name_text": {
+          "text": "Jamie Lee Curtis"
+        },
+        "primary_image": {
+          "id": "rm3119444480",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTI0MDk2OV5BMl5BanBnXkFtZTgwODQ4MTE0NDE@._V1_.jpg",
+          "width": 564,
+          "height": 750
+        }
+      },
+      {
+        "id": "nm3663196",
+        "name_text": {
+          "text": "Ariana DeBose"
+        },
+        "primary_image": {
+          "id": "rm3810528513",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzk1NTNiYzgtZjgzZS00NTk1LWExMDYtYWRhNTVhZDRkNTczXkEyXkFqcGc@._V1_.jpg",
+          "width": 2668,
+          "height": 4000
+        }
+      },
+      {
+        "id": "nm0134072",
+        "name_text": {
+          "text": "Bobby Cannavale"
+        },
+        "primary_image": {
+          "id": "rm1500123904",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_.jpg",
+          "width": 693,
+          "height": 390
+        }
+      },
+      {
+        "id": "nm0048932",
+        "name_text": {
+          "text": "Simon Baker"
+        },
+        "primary_image": {
+          "id": "rm756434688",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2UyZDVmNWEtYTQ2NS00NDliLTljOWQtMjc0NzJiMjhmNTFkXkEyXkFqcGc@._V1_.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      {
         "id": "nm4767728",
         "name_text": {
           "text": "Nina Kiri"
@@ -4613,6 +6113,78 @@
         }
       },
       {
+        "id": "nm2094547",
+        "name_text": {
+          "text": "Kate Box"
+        },
+        "primary_image": {
+          "id": "rm4272877568",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE2Njc0MTIyOF5BMl5BanBnXkFtZTgwNTA3OTQ4NDE@._V1_.jpg",
+          "width": 1455,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0759819",
+        "name_text": {
+          "text": "Madeleine Sami"
+        },
+        "primary_image": {
+          "id": "rm237373440",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc4NDk3ZjEtOTU1Yy00N2VjLTljM2ItODE0ZTFkMjQzYmYwXkEyXkFqcGc@._V1_.jpg",
+          "width": 576,
+          "height": 720
+        }
+      },
+      {
+        "id": "nm1292661",
+        "name_text": {
+          "text": "Luke Hemsworth"
+        },
+        "primary_image": {
+          "id": "rm3034051073",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzg2MzljZTgtNjllZi00N2MzLTk5N2MtMGU0NTcxNjBjOTkzXkEyXkFqcGc@._V1_.jpg",
+          "width": 4368,
+          "height": 2912
+        }
+      },
+      {
+        "id": "nm5998237",
+        "name_text": {
+          "text": "Nina Oyama"
+        },
+        "primary_image": {
+          "id": "rm180793346",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDkyYWI5NDUtOWNiMy00ZTQwLTljNTEtMmM1YzMzNDg3OGMzXkEyXkFqcGc@._V1_.jpg",
+          "width": 3072,
+          "height": 4096
+        }
+      },
+      {
+        "id": "nm3996908",
+        "name_text": {
+          "text": "Shari Sebbens"
+        },
+        "primary_image": {
+          "id": "rm3286781185",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWVlN2RlY2QtMDYyOS00ZWY0LWIyNjktNTdiYzc5ZDkzNDk1XkEyXkFqcGc@._V1_.jpg",
+          "width": 5472,
+          "height": 3648
+        }
+      },
+      {
+        "id": "nm0306727",
+        "name_text": {
+          "text": "Alicia Gardiner"
+        },
+        "primary_image": {
+          "id": "rm1328128514",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWZiN2Y5NzYtY2FiNC00YTYwLWJiZjgtZjhiYzg4ZTVhNDM1XkEyXkFqcGc@._V1_.jpg",
+          "width": 8192,
+          "height": 5464
+        }
+      },
+      {
         "id": "nm6714979",
         "name_text": {
           "text": "Camila Morrone"
@@ -4683,6 +6255,42 @@
           "width": 1108,
           "height": 1140
         }
+      },
+      {
+        "id": "nm0267042",
+        "name_text": {
+          "text": "Golshifteh Farahani"
+        },
+        "primary_image": {
+          "id": "rm4179743232",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA5MDAwMDUzNV5BMl5BanBnXkFtZTgwMjQ4NDE2MDE@._V1_.jpg",
+          "width": 1363,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm13269520",
+        "name_text": {
+          "text": "Mélissa Boros"
+        },
+        "primary_image": {
+          "id": "rm1958183938",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWU0ZjNmOWUtNThlYS00OTE4LWI1YzgtMzEwOGVhYjE4YzVmXkEyXkFqcGc@._V1_.jpg",
+          "width": 4096,
+          "height": 1716
+        }
+      },
+      {
+        "id": "nm2588665",
+        "name_text": {
+          "text": "Tahar Rahim"
+        },
+        "primary_image": {
+          "id": "rm417526784",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDE0MDQyMl5BMl5BanBnXkFtZTgwNjcxMDk2NTE@._V1_.jpg",
+          "width": 2048,
+          "height": 1437
+        }
       }
     ],
     "videos": [],
@@ -4742,6 +6350,12 @@
         "height": 1800
       },
       {
+        "id": "rm1194696706",
+        "url": "https://m.media-amazon.com/images/M/MV5BODViYzk0MTEtZWQ2Ny00NzhjLWFiMjYtZDg4OWVhYjhmYmExXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2000
+      },
+      {
         "id": "rm1493490178",
         "url": "https://m.media-amazon.com/images/M/MV5BZjA4NzZkODktNTA1Ny00ZTgxLWJlNjYtZTQ2N2UyMGQ2OWVhXkEyXkFqcGc@._V1_.jpg",
         "width": 5400,
@@ -4766,10 +6380,22 @@
         "height": 2000
       },
       {
+        "id": "rm3652899586",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWVmODZlOGItNzBjOC00ZjY1LWEwOWUtMDljMzBiYzUyYzM5XkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2000
+      },
+      {
         "id": "rm225041410",
         "url": "https://m.media-amazon.com/images/M/MV5BYzc0MjZmNmQtYzJhMC00ODFkLWI5NmUtZDA1Y2M3ZTAzOGQxXkEyXkFqcGc@._V1_.jpg",
         "width": 3600,
         "height": 1800
+      },
+      {
+        "id": "rm2108785154",
+        "url": "https://m.media-amazon.com/images/M/MV5BODcxY2EzNTMtMDExMi00NTk2LTllYTItYzY3NmZkNzkwMWExXkEyXkFqcGc@._V1_.jpg",
+        "width": 4500,
+        "height": 2358
       }
     ]
   }
