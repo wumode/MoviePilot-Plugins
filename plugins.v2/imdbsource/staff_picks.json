@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-03-05 06:33:31",
+  "updated_at": "2026-03-06 10:29:04",
   "entries": [
+    {
+      "name": "Hoppers",
+      "ttconst": "tt26443616",
+      "rmconst": "rm271629314",
+      "detail": "In theaters March 6",
+      "description": "Let’s hear it for science kids and hundreds of animated beavers. <i>Hoppers</i>, a Pixar original movie, is about a college student who takes it upon herself to utilize a top-secret device to port her consciousness into a robotic beaver so she can infiltrate the secret world of animals. The adventure tale is wrapped up in environmental themes a la <i>Babe</i> that should resonate with eco-minded kids and their families. The movie is from the mind of Daniel Chong, the “We Bare Bears” creator who has hopped back to Pixar, and so far is being greeted with seriously good vibes from box office soothsayers, who are predicting the best opening for a Pixar original since <i>Coco</i>.",
+      "relatedconst": [
+        "nm4552582",
+        "nm1293885",
+        "nm0358316",
+        "nm0001562",
+        "nm2002649"
+      ],
+      "viconst": "vi692570137"
+    },
+    {
+      "name": "The Bride!",
+      "ttconst": "tt30851137",
+      "rmconst": "rm568973314",
+      "detail": "In theaters March 6",
+      "description": "The answer is “yes.” Yes, we need another “Frankenstein” movie already. Director Maggie Gyllenhaal’s take on the Bride of Frankenstein’s story might be the increasingly rare kind of film that gets audiences of all ages to buy movie tickets, from young goths to your parents, who may have been goths too. Have you watched either of the trailers? The romance between the Bride (Jessie Buckley) and Frankenstein’s Monster (Christian Bale) feels like it shares DNA with <i>Joker</i> (the good one) and maybe <i>Bonnie and Clyde</i>? We’re sensing Gyllenhaal has harnessed the spark of life for her second feature as writer-director and is set to deliver the year’s next no-boundaries romance after <i>Wuthering Heights</i>. — <i>Arno</i>",
+      "relatedconst": [
+        "nm2976580",
+        "nm0000288",
+        "nm0765597",
+        "nm0000906",
+        "nm0004851",
+        "nm0350453"
+      ],
+      "viconst": "vi3229862681"
+    },
+    {
+      "name": "Vladimir",
+      "ttconst": "tt35997699",
+      "rmconst": "rm1628166402",
+      "detail": "Streaming on Netflix",
+      "description": "Rachel Weisz and Leo Woodall are coming to Netflix with a subversive dramedy about a woman’s preoccupation with a younger colleague and the tangled web she creates in his pursuit. Adapted from the book of the same name, <i>Vladimir</i> is a series of firsts for author, creator, and showrunner Julia May Jonas. Not only was the book her debut novel, but also the show marks her first time on a film set (!) and it's as the driving creative force of the miniseries. Expect a cheeky and irreverent eight episodes as Weisz’s unnamed narrator spirals down a rabbit hole of obsession that seems destined to lead to some entertaining plot complications. — <i>Adrienne</i>",
+      "relatedconst": [
+        "nm0001838",
+        "nm10695146",
+        "nm0805476"
+      ],
+      "viconst": "vi1222757145"
+    },
+    {
+      "name": "War Machine",
+      "ttconst": "tt15940132",
+      "rmconst": "rm1624039170",
+      "detail": "Premieres March 6 on Netflix",
+      "description": "It’s all right there in the trailer. Men in camo shooting guns at a big alien robot, possibly on the set of <i>Train Dreams</i> (Australia, actually). Is there anything else to know? Just that the cast and crew are stacked with enough action movie pros to guarantee major onscreen fireworks. The lineup includes star Alan Ritchson of “Reacher” fame, director Patrick Hughes (<i>Expendables 3</i>, <i>The Hitman’s Bodyguard</i>), action staples Jai Courtney (Suicide Squad and Divergent films) and Esai Morales (<i>Mission: Impossible</i> 7 and 8), and many more. — <i>James</i>",
+      "relatedconst": [
+        "nm2024927",
+        "nm0000598",
+        "nm4150847",
+        "nm2541974",
+        "nm0005246"
+      ],
+      "viconst": "vi1224395545"
+    },
     {
       "name": "DTF St. Louis",
       "ttconst": "tt34385331",
@@ -34,7 +93,7 @@
       "name": "Young Sherlock",
       "ttconst": "tt8599532",
       "rmconst": "rm3592791554",
-      "detail": "Premieres March 4 on Prime Video",
+      "detail": "Streaming on Prime Video",
       "description": "Nearly 140 years after his debut in “A Study in Scarlet,” the consulting detective shows no sign of waning interest. This month alone gives us at least two different takes on the legendary detective, starting with the Guy Ritchie-directed series “Young Sherlock,” which follows a rough-around-the-edges Sherlock at the beginning of his sleuthing career, solving his first murder at Oxford University and stepping on the path to greatness. Though, if “Young Sherlock” isn't enough to scratch your Holmesian itch, March also kicks off Season 2 of the Sherlock-inspired medical drama “Watson.” — <i>Vanessa</i>",
       "relatedconst": [
         "nm2842005",
@@ -44,50 +103,6 @@
         "nm12264291"
       ],
       "viconst": "vi4003973913"
-    },
-    {
-      "name": "Vladimir",
-      "ttconst": "tt35997699",
-      "rmconst": "rm1628166402",
-      "detail": "Premieres March 5 on Netflix",
-      "description": "Rachel Weisz and Leo Woodall are coming to Netflix with a subversive dramedy about a woman’s preoccupation with a younger colleague and the tangled web she creates in his pursuit. Adapted from the book of the same name, <i>Vladimir</i> is a series of firsts for author, creator, and showrunner Julia May Jonas. Not only was the book her debut novel, but also the show marks her first time on a film set (!) and it's as the driving creative force of the miniseries. Expect a cheeky and irreverent eight episodes as Weisz’s unnamed narrator spirals down a rabbit hole of obsession that seems destined to lead to some entertaining plot complications. — <i>Adrienne</i>",
-      "relatedconst": [
-        "nm0001838",
-        "nm10695146",
-        "nm0805476"
-      ],
-      "viconst": "vi1222757145"
-    },
-    {
-      "name": "War Machine",
-      "ttconst": "tt15940132",
-      "rmconst": "rm1624039170",
-      "detail": "Premieres March 6 on Netflix",
-      "description": "It’s all right there in the trailer. Men in camo shooting guns at a big alien robot, possibly on the set of <i>Train Dreams</i> (Australia, actually). Is there anything else to know? Just that the cast and crew are stacked with enough action movie pros to guarantee major onscreen fireworks. The lineup includes star Alan Ritchson of “Reacher” fame, director Patrick Hughes (<i>Expendables 3</i>, <i>The Hitman’s Bodyguard</i>), action staples Jai Courtney (Suicide Squad and Divergent films) and Esai Morales (<i>Mission: Impossible</i> 7 and 8), and many more. — <i>James</i>",
-      "relatedconst": [
-        "nm2024927",
-        "nm0000598",
-        "nm4150847",
-        "nm2541974",
-        "nm0005246"
-      ],
-      "viconst": "vi1224395545"
-    },
-    {
-      "name": "The Bride!",
-      "ttconst": "tt30851137",
-      "rmconst": "rm568973314",
-      "detail": "In theaters March 6",
-      "description": "The answer is “yes.” Yes, we need another “Frankenstein” movie already. Director Maggie Gyllenhaal’s take on the Bride of Frankenstein’s story might be the increasingly rare kind of film that gets audiences of all ages to buy movie tickets, from young goths to your parents, who may have been goths too. Have you watched either of the trailers? The romance between the Bride (Jessie Buckley) and Frankenstein’s Monster (Christian Bale) feels like it shares DNA with <i>Joker</i> (the good one) and maybe <i>Bonnie and Clyde</i>? We’re sensing Gyllenhaal has harnessed the spark of life for her second feature as writer-director and is set to deliver the year’s next no-boundaries romance after <i>Wuthering Heights</i>. — <i>Arno</i>",
-      "relatedconst": [
-        "nm2976580",
-        "nm0000288",
-        "nm0765597",
-        "nm0000906",
-        "nm0004851",
-        "nm0350453"
-      ],
-      "viconst": "vi3229862681"
     },
     {
       "name": "Heel",
@@ -137,7 +152,7 @@
       "ttconst": "tt14786934",
       "rmconst": "rm1194696706",
       "detail": "Series premieres March 11 on Prime Video",
-      "description": "At least once a year I need a Nicole Kidman goes off moment. The thought of her playing Kay Scarpetta, the medical examiner who lives within 29 Patricia Cornwell novels, makes me hope “Scarpetta” might become a long-running series in the vein of Helen Mirren’s “Prime Suspect” (which I’ve been rewatching lately). Season 1 finds Scarpetta leaning into her forensic pathologist skillset to identify a serial killer whose crimes are threaded to the case that established her career nearly 30 years prior. For the uninitiated: Get ready for Jamie Lee Curtis as Dorothy Farinelli, Scarpetta’s agent of chaos big sister. — <i>Arno</i>",
+      "description": "I need a Nicole Kidman goes off moment. The thought of her playing Kay Scarpetta, the driven medical examiner by novelist Patricia Cornwell who has been trying to jump from the page to the screen for years, makes me hope “Scarpetta” might become a long-running series a la Helen Mirren’s “Prime Suspect” (which I’ve been rewatching lately). Season 1 finds Scarpetta leaning into her forensic pathologist skillset to identify a serial killer whose crimes are threaded to the case that established her career nearly 30 years prior. For the uninitiated: Get ready for Jamie Lee Curtis as Dorothy Farinelli, Scarpetta’s agent of chaos big sister. — <i>Arno</i>",
       "relatedconst": [
         "nm0000173",
         "nm0000130",
@@ -211,7 +226,7 @@
       "ttconst": "tt14671678",
       "rmconst": "rm3652899586",
       "detail": "Season 2 premieres March 20 on Prime Video",
-      "description": "While watching Deadloch’s first season three years ago I went from “what am I watching?” to “oh, it’s a satirical comedy,” then “I’m in love with this show.” The Australian buddy-cop comedy filled the “Kath &amp; Kim”-sized hole in my heart, and I remember selling like a half dozen friends on it. Season 2 finds Detectives Dulcie Collins and Eddie Redcliffe in Darwin, situated in the country’s sweltering Northern Territory, where their latest case is derailed by a grim discovery. If you haven’t joined the cult yet, watch Season 1 now and pretend you’ve been a disciple for years. — <i>Arno</i>",
+      "description": "I had a baby's brain while watching the first season of Deadloch three years ago; I went from “what am I watching?” to “oh, it’s a satirical comedy,” then “I’m in love with this show.” The Australian buddy-cop comedy filled the “Kath &amp; Kim”-sized hole in my heart, and I remember selling like a half dozen friends on it. Season 2 finds Detectives Dulcie Collins and Eddie Redcliffe in Darwin, situated in the country’s sweltering Northern Territory, where their latest case is derailed by a grim discovery. If you haven’t joined the cult yet, watch Season 1 now and pretend you’ve been a disciple for years. — <i>Arno</i>",
       "relatedconst": [
         "nm2094547",
         "nm0759819",
@@ -227,7 +242,7 @@
       "ttconst": "tt32937780",
       "rmconst": "rm225041410",
       "detail": "Series premieres March 26 on Netflix",
-      "description": "With a title like that, at least you know what you’re getting into in this Netflix nuptial horror series. The idea of tying the knot can be scary enough without being reminded of <i>Rosemary’s Baby</i> or <i>Carrie</i>, but those horror classics were visual and tonal influences for showrunner and executive producer Haley Z. Boston. Starring Camila Morrone (“Daisy Jones & The Six,” “The Night Manager”) and Adam DiMarco (“The White Lotus,” “Overcompensating”) as the engaged couple, the eight-episode series depicts the tense week leading up to their almost-certainly doomed wedding. — <i>James</i>",
+      "description": "With a title like that, at least you know what you’re getting into in this Netflix nuptial horror series. The idea of tying the knot can be scary enough without being reminded of <i>Rosemary’s Baby</i> or <i>Carrie</i>, but those horror classics were visual and tonal influences for showrunner and executive producer Haley Z. Boston. Starring Camila Morrone (“Daisy Jones & The Six,” “The Night Manager”) and Adam DiMarco (“The White Lotus,” “Overcompensating”) as the engaged couple, the eight-episode series depicts the tense week leading up to their almost-certainly doomed wedding. — <i>James</i>",
       "relatedconst": [
         "nm6714979",
         "nm4348240",
@@ -243,7 +258,7 @@
       "ttconst": "tt32275943",
       "rmconst": "rm2108785154",
       "detail": "In theaters March 27",
-      "description": "A movie-critic friend has prepped me a bit for what’s to come in <i>Alpha</i>. He and I came of age as young gay men during the HIV/AIDS crisis, and <i>Alpha</i> is viewed by many as writer-director Julia Ducournau’s grim metaphor for the epidemic. Her story is set in a decaying world, one consumed by generational trauma, where a teenage girl contracts a seemingly otherworldy virus after getting a tattoo. If you remember “greyscale” from “Game of Thrones,” think along those lines, but make it way more of a real-world possibility. — <i>Arno</i>",
+      "description": "A movie-critic friend has prepped me for what’s to come in <i>Alpha</i>. He and I came of age as young gay men during the HIV/AIDS crisis, and <i>Alpha</i> is viewed by many as writer-director Julia Ducournau’s grim metaphor for the epidemic. Her story is set in a decaying world, one consumed by generational trauma, where a teenage girl contracts a seemingly otherworldy virus after getting a tattoo. If you remember “greyscale” from “Game of Thrones,” think along those lines, but make it way more of a real-world possibility. — <i>Arno</i>",
       "relatedconst": [
         "nm0267042",
         "nm13269520",
@@ -255,12 +270,12 @@
   "imdb_items": {
     "titles": [
       {
-        "id": "tt34385331",
+        "id": "tt26443616",
         "title_text": {
-          "text": "DTF: St. Louis"
+          "text": "Hoppers"
         },
         "title_type": {
-          "id": "tvMiniSeries"
+          "id": "movie"
         },
         "release_year": {
           "year": 2026
@@ -269,7 +284,157 @@
           "edges": [
             {
               "node": {
-                "text": "DTF: St. Louis",
+                "text": "Hoppers",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoppers: Operación castor",
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
@@ -278,148 +443,43 @@
             },
             {
               "node": {
-                "text": "DTF: St. Louis",
+                "text": "Hoppers: Operación castor",
                 "country": {
-                  "id": "AU",
-                  "text": "Australia"
+                  "id": "BO",
+                  "text": "Bolivia"
                 }
               }
             },
             {
               "node": {
-                "text": "DTF: St. Louis",
+                "text": "Hoppers: Operación castor",
                 "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
+                  "id": "CL",
+                  "text": "Chile"
                 }
               }
             },
             {
               "node": {
-                "text": "DTF: St. Louis",
+                "text": "Hoppers: Operación castor",
                 "country": {
-                  "id": "DE",
-                  "text": "Germany"
+                  "id": "CO",
+                  "text": "Colombia"
                 }
               }
             },
             {
               "node": {
-                "text": "DTF: St. Louis",
+                "text": "Hoppers: Operación castor",
                 "country": {
-                  "id": "ES",
-                  "text": "Spain"
+                  "id": "EC",
+                  "text": "Ecuador"
                 }
               }
             },
             {
               "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF: St. Louis",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF St. Louis",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF St. Louis",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "DTF St. Louis",
+                "text": "Hoppers: Operación castor",
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
@@ -428,198 +488,55 @@
             },
             {
               "node": {
-                "text": "Chętni na seks",
+                "text": "Hoppers: Operación castor",
                 "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A darkly comedic tale of three middle-aged individuals entangled in a love triangle, leading to one's untimely demise."
-          }
-        },
-        "primary_image": {
-          "id": "rm1085395458",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWFlMDkxYTgtNGQ1OS00OTM0LTkzNjAtNDdjNTk0NTAzYTdiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1013,
-          "height": 1500
-        },
-        "meter_ranking": {
-          "current_rank": 35,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 94
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 6.7,
-          "vote_count": 624
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 3,
-          "day": 1
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "DTF St. Louis"
-        }
-      },
-      {
-        "id": "tt36849871",
-        "title_text": {
-          "text": "Marshals"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Marshals",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
+                  "id": "PE",
+                  "text": "Peru"
                 }
               }
             },
             {
               "node": {
-                "text": "Marshals",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Marshals",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Marshals",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Marshals",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Marshals",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Marshals",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Y: Marshals",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Y: Marshals",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Y: Marshals",
+                "text": "Hoppers: Operación castor",
                 "country": {
                   "id": "US",
                   "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
                 }
               }
             },
             {
               "node": {
-                "text": "Marshals: Una historia de Yellowstone",
+                "text": "Hoppers: Operación castor",
                 "country": {
-                  "id": "ES",
-                  "text": "Spain"
+                  "id": "UY",
+                  "text": "Uruguay"
                 }
               }
             },
             {
               "node": {
-                "text": "Marshals: Una historia de Yellowstone",
+                "text": "Hoppers: Operación castor",
                 "country": {
-                  "id": "MX",
-                  "text": "Mexico"
+                  "id": "VE",
+                  "text": "Venezuela"
                 }
               }
             },
             {
               "node": {
-                "text": "Marshals: A Yellowstone Story",
+                "text": "Jumpers",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jumpers",
                 "country": {
                   "id": "FR",
                   "text": "France"
@@ -628,204 +545,55 @@
             },
             {
               "node": {
-                "text": "Marshals: Egy Yellowstone történet",
+                "text": "Jumpers",
                 "country": {
-                  "id": "HU",
-                  "text": "Hungary"
+                  "id": "NL",
+                  "text": "Netherlands"
                 }
               }
             },
             {
               "node": {
-                "text": "Marshals: Historia z Yellowstone",
+                "text": "Skokoumci",
                 "country": {
-                  "id": "PL",
-                  "text": "Poland"
+                  "id": "ME",
+                  "text": "Montenegro"
                 }
               }
             },
             {
               "node": {
-                "text": "Marshals: Uma História de Yellowstone",
+                "text": "Skokoumci",
                 "country": {
-                  "id": "BR",
-                  "text": "Brazil"
+                  "id": "RS",
+                  "text": "Serbia"
                 }
               }
             },
             {
               "node": {
-                "text": "Йеллоустоун: Маршалы",
+                "text": "Прыгуны",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Прыгуны",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
                 }
               }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Ex-Navy SEAL Kayce Dutton leaves Yellowstone Ranch to join U.S. Marshals, using his cowboy and military skills to fight crime in Montana while dealing with family ties and the mental toll of law enforcement."
-          }
-        },
-        "primary_image": {
-          "id": "rm1772148994",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTk4NThjNzgtMjVjNi00MjdjLWE1NDctMzRhNTI1Y2RiN2NkXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 2897
-        },
-        "meter_ranking": {
-          "current_rank": 32,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 132
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 6.7,
-          "vote_count": 1364
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 3,
-          "day": 1
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Western"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-14"
-        },
-        "original_title_text": {
-          "text": "Marshals"
-        }
-      },
-      {
-        "id": "tt8599532",
-        "title_text": {
-          "text": "Young Sherlock"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
             },
             {
               "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Young Sherlock",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Az ifjú Sherlock",
+                "text": "Agyugrász",
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
@@ -834,25 +602,7 @@
             },
             {
               "node": {
-                "text": "El joven Sherlock",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El Joven Sherlock",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jovem Sherlock",
+                "text": "Cara de Um, Focinho de Outro",
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
@@ -861,7 +611,37 @@
             },
             {
               "node": {
-                "text": "Młody Sherlock",
+                "text": "Cú Nhảy Kỳ Diệu",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoperi",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hoplayanlar",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hopnięci",
                 "country": {
                   "id": "PL",
                   "text": "Poland"
@@ -870,10 +650,121 @@
             },
             {
               "node": {
-                "text": "Tânărul Sherlock",
+                "text": "Hopperi",
                 "country": {
                   "id": "RO",
                   "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hüppajad",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jumpers: Un salto tra gli animali",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mission: Bæver",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Na skok do divočiny",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Operaatio Majava",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Operasjon bever",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Operation Bäver",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Saltadores",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Saltitões",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sauteurs",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Skokani",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Skokci",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
                 }
               }
             }
@@ -881,21 +772,21 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "A disgraced, young Sherlock Holmes finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy, culminating in an explosive showdown that changes his life forever."
+            "plain_text": "A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination."
           }
         },
         "primary_image": {
-          "id": "rm2393890562",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGY1NGJkOTAtM2RmNC00NWI3LWJkY2EtYjU1YmY5OGFjN2RjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
+          "id": "rm805281794",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzRiMzZlMTMtNmU3OC00MDUwLThmNDUtMTBjZmQ3MWQ4NTljXkEyXkFqcGc@._V1_.jpg",
+          "width": 1086,
+          "height": 1610
         },
         "meter_ranking": {
-          "current_rank": 154,
-          "meter_type": "TV_METER",
+          "current_rank": 23,
+          "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 204
+            "difference": 94
           }
         },
         "ratings_summary": {
@@ -904,13 +795,13 @@
         "release_date": {
           "year": 2026,
           "month": 3,
-          "day": 4
+          "day": 6
         },
         "title_genres": {
           "genres": [
             {
               "genre": {
-                "text": "Action"
+                "text": "Animation"
               }
             },
             {
@@ -920,13 +811,583 @@
             },
             {
               "genre": {
-                "text": "Mystery"
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Family"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
               }
             }
           ]
         },
+        "certificate": {
+          "rating": "PG"
+        },
         "original_title_text": {
-          "text": "Young Sherlock"
+          "text": "Hoppers"
+        },
+        "runtime": {
+          "seconds": 6300
+        }
+      },
+      {
+        "id": "tt30851137",
+        "title_text": {
+          "text": "The Bride!"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride!",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La novia!",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La novia!",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La novia!",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Невеста!",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Невеста!",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Невеста!",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "¡La novia!",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "¡La novia!",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Noiva!",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Noiva!",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nevesta!",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nevesta!",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride! - Es lebe die Braut",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bride! - Es lebe die Braut",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A menyasszony!",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cô Dâu!",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gelin!",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La fiancée!",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La sposa!",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Līgava!",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mireasa!",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nevěsta!",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nuotaka!",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Panna młoda!",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pruut!",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Maggie Gyllenhaal Project",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Η νύφη!",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Булката!",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Наречена!",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ザ・ブライド！",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "暗黑新娘！",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "科學新娘！",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "闇黑新娘",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "In 1930s Chicago, Frankenstein asks Dr. Euphronius to help create a companion. They give life to a murdered woman as the Bride, sparking romance, police interest, and radical social change."
+          }
+        },
+        "primary_image": {
+          "id": "rm4259895298",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1_.jpg",
+          "width": 2764,
+          "height": 4096
+        },
+        "meter_ranking": {
+          "current_rank": 14,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 15
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.1,
+          "vote_count": 920
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 3,
+          "day": 6
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Bride!"
+        },
+        "runtime": {
+          "seconds": 7560
         }
       },
       {
@@ -1087,7 +1548,8 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 5.9,
+          "vote_count": 334
         },
         "release_date": {
           "year": 2026,
@@ -1393,8 +1855,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.1,
-          "vote_count": 312
+          "aggregate_rating": 7.0,
+          "vote_count": 361
         },
         "release_date": {
           "year": 2026,
@@ -1431,12 +1893,12 @@
         }
       },
       {
-        "id": "tt30851137",
+        "id": "tt34385331",
         "title_text": {
-          "text": "The Bride!"
+          "text": "DTF: St. Louis"
         },
         "title_type": {
-          "id": "movie"
+          "id": "tvMiniSeries"
         },
         "release_year": {
           "year": 2026
@@ -1445,211 +1907,7 @@
           "edges": [
             {
               "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride!",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Невеста!",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Невеста!",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Невеста!",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "¡La novia!",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "¡La novia!",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Noiva!",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Noiva!",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La novia!",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
@@ -1658,7 +1916,37 @@
             },
             {
               "node": {
-                "text": "La novia!",
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "ES",
                   "text": "Spain"
@@ -1667,25 +1955,25 @@
             },
             {
               "node": {
-                "text": "Nevesta!",
+                "text": "DTF: St. Louis",
                 "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
+                  "id": "GB",
+                  "text": "United Kingdom"
                 }
               }
             },
             {
               "node": {
-                "text": "Nevesta!",
+                "text": "DTF: St. Louis",
                 "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
             {
               "node": {
-                "text": "The Bride",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "IN",
                   "text": "India"
@@ -1697,76 +1985,7 @@
             },
             {
               "node": {
-                "text": "The Bride",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride! - Es lebe die Braut",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bride! - Es lebe die Braut",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A menyasszony!",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cô Dâu!",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gelin!",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La fiancée!",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La sposa!",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "IT",
                   "text": "Italy"
@@ -1775,61 +1994,28 @@
             },
             {
               "node": {
-                "text": "Līgava!",
+                "text": "DTF: St. Louis",
                 "country": {
-                  "id": "LV",
-                  "text": "Latvia"
+                  "id": "SE",
+                  "text": "Sweden"
                 }
               }
             },
             {
               "node": {
-                "text": "Mireasa!",
+                "text": "DTF: St. Louis",
                 "country": {
-                  "id": "RO",
-                  "text": "Romania"
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
             {
               "node": {
-                "text": "Nevěsta!",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Nuotaka!",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Panna młoda!",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Pruut!",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Untitled Maggie Gyllenhaal Project",
+                "text": "DTF: St. Louis",
                 "country": {
                   "id": "US",
                   "text": "United States"
@@ -1838,28 +2024,509 @@
             },
             {
               "node": {
-                "text": "Η νύφη!",
+                "text": "DTF: St. Louis",
                 "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Булката!",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
+                  "id": "ZA",
+                  "text": "South Africa"
                 },
                 "language": {
-                  "text": "Bulgarian"
+                  "text": "English"
                 }
               }
             },
             {
               "node": {
-                "text": "Наречена!",
+                "text": "DTF St. Louis",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF St. Louis",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF St. Louis",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chętni na seks",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ГКС. Сент-Луис",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A darkly comedic tale of three middle-aged individuals entangled in a love triangle, leading to one's untimely demise."
+          }
+        },
+        "primary_image": {
+          "id": "rm1085395458",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWFlMDkxYTgtNGQ1OS00OTM0LTkzNjAtNDdjNTk0NTAzYTdiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1013,
+          "height": 1500
+        },
+        "meter_ranking": {
+          "current_rank": 35,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 94
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.7,
+          "vote_count": 760
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 3,
+          "day": 1
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "DTF St. Louis"
+        }
+      },
+      {
+        "id": "tt36849871",
+        "title_text": {
+          "text": "Marshals"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Y: Marshals",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Y: Marshals",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Y: Marshals",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Una historia de Yellowstone",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Una historia de Yellowstone",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: A Yellowstone Story",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Egy Yellowstone történet",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Historia z Yellowstone",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marshals: Uma História de Yellowstone",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Маршалы",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Ex-Navy SEAL Kayce Dutton leaves Yellowstone Ranch to join U.S. Marshals, using his cowboy and military skills to fight crime in Montana while dealing with family ties and the mental toll of law enforcement."
+          }
+        },
+        "primary_image": {
+          "id": "rm1772148994",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTk4NThjNzgtMjVjNi00MjdjLWE1NDctMzRhNTI1Y2RiN2NkXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 2897
+        },
+        "meter_ranking": {
+          "current_rank": 32,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 132
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.5,
+          "vote_count": 1662
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 3,
+          "day": 1
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Western"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-14"
+        },
+        "original_title_text": {
+          "text": "Marshals"
+        }
+      },
+      {
+        "id": "tt8599532",
+        "title_text": {
+          "text": "Young Sherlock"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Az ifjú Sherlock",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El joven Sherlock",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Joven Sherlock",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jovem Sherlock",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Młody Sherlock",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tânărul Sherlock",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Молодий Шерлок",
                 "country": {
                   "id": "UA",
                   "text": "Ukraine"
@@ -1868,46 +2535,10 @@
             },
             {
               "node": {
-                "text": "ザ・ブライド！",
+                "text": "Молодой Шерлок",
                 "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "暗黑新娘！",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "科學新娘！",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "闇黑新娘",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             }
@@ -1915,63 +2546,59 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "In 1930s Chicago, Frankenstein asks Dr. Euphronius to help create a companion. They give life to a murdered woman as the Bride, sparking romance, police interest, and radical social change."
+            "plain_text": "A disgraced, young Sherlock Holmes finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy, culminating in an explosive showdown that changes his life forever."
           }
         },
         "primary_image": {
-          "id": "rm4259895298",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2VmMDVlNzgtNThhZC00ZGMwLTg4MmEtZTUzNmRiYTkxYzUyXkEyXkFqcGc@._V1_.jpg",
-          "width": 2764,
-          "height": 4096
+          "id": "rm2393890562",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGY1NGJkOTAtM2RmNC00NWI3LWJkY2EtYjU1YmY5OGFjN2RjXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 14,
-          "meter_type": "MOVIE_METER",
+          "current_rank": 154,
+          "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 15
+            "difference": 204
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.4,
+          "vote_count": 1705
         },
         "release_date": {
           "year": 2026,
           "month": 3,
-          "day": 6
+          "day": 4
         },
         "title_genres": {
           "genres": [
             {
               "genre": {
-                "text": "Drama"
+                "text": "Action"
               }
             },
             {
               "genre": {
-                "text": "Horror"
+                "text": "Adventure"
               }
             },
             {
               "genre": {
-                "text": "Romance"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
+                "text": "Mystery"
               }
             }
           ]
         },
         "certificate": {
-          "rating": "R"
+          "rating": "TV-14"
         },
         "original_title_text": {
-          "text": "The Bride!"
+          "text": "Young Sherlock"
         },
         "runtime": {
-          "seconds": 7560
+          "seconds": 3300
         }
       },
       {
@@ -2184,7 +2811,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.7,
-          "vote_count": 321
+          "vote_count": 328
         },
         "release_date": {
           "year": 2026,
@@ -2333,6 +2960,15 @@
                 "country": {
                   "id": "PL",
                   "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Előfizetés pasira",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
@@ -2801,7 +3437,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 185830
+          "vote_count": 185891
         },
         "release_date": {
           "year": 2023,
@@ -3255,8 +3891,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.6,
-          "vote_count": 308
+          "aggregate_rating": 6.7,
+          "vote_count": 320
         },
         "release_date": {
           "year": 2026,
@@ -4750,7 +5386,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 15487
+          "vote_count": 15492
         },
         "release_date": {
           "year": 2023,
@@ -4900,8 +5536,8 @@
           }
         },
         "primary_image": {
-          "id": "rm211213314",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzQ0NDFhZGItODcxZC00ZjI1LThlNTYtMWMwMWFlZmY1YTQ1XkEyXkFqcGc@._V1_.jpg",
+          "id": "rm2010305026",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGEwNDg0MjMtMmVlMi00NWMwLWI5NzgtMjI0MGIzZTc5ZWQ3XkEyXkFqcGc@._V1_.jpg",
           "width": 1500,
           "height": 2222
         },
@@ -5299,7 +5935,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 5.9,
-          "vote_count": 2714
+          "vote_count": 2725
         },
         "release_date": {
           "year": 2026,
@@ -5332,6 +5968,234 @@
       }
     ],
     "names": [
+      {
+        "id": "nm4552582",
+        "name_text": {
+          "text": "Piper Curda"
+        },
+        "primary_image": {
+          "id": "rm211248385",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWM2NzNhMzgtYmNmNS00NWFjLThjZDgtMjM0ODE5ZGFmMWFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 2401,
+          "height": 3600
+        }
+      },
+      {
+        "id": "nm1293885",
+        "name_text": {
+          "text": "Bobby Moynihan"
+        },
+        "primary_image": {
+          "id": "rm3362683905",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjE5NGJmODgtYTRjZi00MzAyLWIzMDktMjhjZDM2Y2EwMjFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 303,
+          "height": 423
+        }
+      },
+      {
+        "id": "nm0358316",
+        "name_text": {
+          "text": "Jon Hamm"
+        },
+        "primary_image": {
+          "id": "rm2388763136",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzg0MzA4MTY5M15BMl5BanBnXkFtZTcwODg2MTIwOQ@@._V1_.jpg",
+          "width": 1411,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0001562",
+        "name_text": {
+          "text": "Kathy Najimy"
+        },
+        "primary_image": {
+          "id": "rm2754201857",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTg3NDFlYjAtYzI5NS00NThhLWIyNzktNmQyNzhlYzA0NDFiXkEyXkFqcGc@._V1_.jpg",
+          "width": 401,
+          "height": 551
+        }
+      },
+      {
+        "id": "nm2002649",
+        "name_text": {
+          "text": "Dave Franco"
+        },
+        "primary_image": {
+          "id": "rm684310272",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzEzMzYzMzYxMV5BMl5BanBnXkFtZTcwNTk2MDg4NQ@@._V1_.jpg",
+          "width": 1357,
+          "height": 1788
+        }
+      },
+      {
+        "id": "nm2976580",
+        "name_text": {
+          "text": "Jessie Buckley"
+        },
+        "primary_image": {
+          "id": "rm3908089857",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTFlZWIwMjQtNmNiOS00ZDc3LTkxZDgtYTE0YjQ3ODU5ZGIyXkEyXkFqcGc@._V1_.jpg",
+          "width": 3600,
+          "height": 5400
+        }
+      },
+      {
+        "id": "nm0000288",
+        "name_text": {
+          "text": "Christian Bale"
+        },
+        "primary_image": {
+          "id": "rm3114052352",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+          "width": 1363,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0765597",
+        "name_text": {
+          "text": "Peter Sarsgaard"
+        },
+        "primary_image": {
+          "id": "rm276729600",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE0Mjg0NzE2Nl5BMl5BanBnXkFtZTcwMDE1MTkxMw@@._V1_.jpg",
+          "width": 309,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0000906",
+        "name_text": {
+          "text": "Annette Bening"
+        },
+        "primary_image": {
+          "id": "rm2400756992",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc4ODQ1ODM5Ml5BMl5BanBnXkFtZTcwOTU2NDk3OQ@@._V1_.jpg",
+          "width": 683,
+          "height": 1024
+        }
+      },
+      {
+        "id": "nm0004851",
+        "name_text": {
+          "text": "Penélope Cruz"
+        },
+        "primary_image": {
+          "id": "rm2278854400",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM0Mzc1MTc2OF5BMl5BanBnXkFtZTcwMzE4MzQxMw@@._V1_.jpg",
+          "width": 270,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0350453",
+        "name_text": {
+          "text": "Jake Gyllenhaal"
+        },
+        "primary_image": {
+          "id": "rm3787192320",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjA0MTU2NDY3MF5BMl5BanBnXkFtZTgwNDU4ODkzMzE@._V1_.jpg",
+          "width": 1368,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0001838",
+        "name_text": {
+          "text": "Rachel Weisz"
+        },
+        "primary_image": {
+          "id": "rm3178335744",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzM1MDAwMV5BMl5BanBnXkFtZTcwNTU4NzQwMw@@._V1_.jpg",
+          "width": 281,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm10695146",
+        "name_text": {
+          "text": "Leo Woodall"
+        },
+        "primary_image": {
+          "id": "rm1575959297",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2NjNjk0NTItN2M4My00MzFmLWI5ODAtMjlmNTBlOTFhZTk4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1114,
+          "height": 1340
+        }
+      },
+      {
+        "id": "nm0805476",
+        "name_text": {
+          "text": "John Slattery"
+        },
+        "primary_image": {
+          "id": "rm3285140225",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjQyN2YxMWMtMzI0ZC00MDVkLTg3ODgtNzNkMDcxZDFhOWNlXkEyXkFqcGc@._V1_.jpg",
+          "width": 2667,
+          "height": 4000
+        }
+      },
+      {
+        "id": "nm2024927",
+        "name_text": {
+          "text": "Alan Ritchson"
+        },
+        "primary_image": {
+          "id": "rm3524028161",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDhiY2U4Y2YtODE3ZC00YjYwLWE4MWYtODA2MTlkMDc1N2FhXkEyXkFqcGc@._V1_.jpg",
+          "width": 4408,
+          "height": 6612
+        }
+      },
+      {
+        "id": "nm0000598",
+        "name_text": {
+          "text": "Dennis Quaid"
+        },
+        "primary_image": {
+          "id": "rm1373605632",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU4ODk3NTcyMl5BMl5BanBnXkFtZTcwOTIwMTQxMw@@._V1_.jpg",
+          "width": 286,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm4150847",
+        "name_text": {
+          "text": "Stephan James"
+        },
+        "primary_image": {
+          "id": "rm1002269184",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTEwMTg4MTE0NTFeQTJeQWpwZ15BbWU4MDkzNzExMTcz._V1_CR0,1,1364,2046_.jpg",
+          "width": 1364,
+          "height": 2046
+        }
+      },
+      {
+        "id": "nm2541974",
+        "name_text": {
+          "text": "Jai Courtney"
+        },
+        "primary_image": {
+          "id": "rm2075773696",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkyNzE0OTg1MF5BMl5BanBnXkFtZTgwMDU1MDM0MTE@._V1_.jpg",
+          "width": 1363,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0005246",
+        "name_text": {
+          "text": "Esai Morales"
+        },
+        "primary_image": {
+          "id": "rm2496374017",
+          "url": "https://m.media-amazon.com/images/M/MV5BODZiZDY0NTYtZDE1Ny00MTliLWE3ZmEtYWY1YWFmNjk3NzhmXkEyXkFqcGc@._V1_.jpg",
+          "width": 4706,
+          "height": 3495
+        }
+      },
       {
         "id": "nm0000867",
         "name_text": {
@@ -5498,174 +6362,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BZDUxOGZiNzAtMjA4ZC00MzFhLTk0NTMtZDkxMGYxNGE2YmY0XkEyXkFqcGc@._V1_CR50,0,2085,3128_.jpg",
           "width": 2085,
           "height": 3128
-        }
-      },
-      {
-        "id": "nm0001838",
-        "name_text": {
-          "text": "Rachel Weisz"
-        },
-        "primary_image": {
-          "id": "rm3178335744",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzM1MDAwMV5BMl5BanBnXkFtZTcwNTU4NzQwMw@@._V1_.jpg",
-          "width": 281,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm10695146",
-        "name_text": {
-          "text": "Leo Woodall"
-        },
-        "primary_image": {
-          "id": "rm1575959297",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2NjNjk0NTItN2M4My00MzFmLWI5ODAtMjlmNTBlOTFhZTk4XkEyXkFqcGc@._V1_.jpg",
-          "width": 1114,
-          "height": 1340
-        }
-      },
-      {
-        "id": "nm0805476",
-        "name_text": {
-          "text": "John Slattery"
-        },
-        "primary_image": {
-          "id": "rm3285140225",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjQyN2YxMWMtMzI0ZC00MDVkLTg3ODgtNzNkMDcxZDFhOWNlXkEyXkFqcGc@._V1_.jpg",
-          "width": 2667,
-          "height": 4000
-        }
-      },
-      {
-        "id": "nm2024927",
-        "name_text": {
-          "text": "Alan Ritchson"
-        },
-        "primary_image": {
-          "id": "rm3524028161",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDhiY2U4Y2YtODE3ZC00YjYwLWE4MWYtODA2MTlkMDc1N2FhXkEyXkFqcGc@._V1_.jpg",
-          "width": 4408,
-          "height": 6612
-        }
-      },
-      {
-        "id": "nm0000598",
-        "name_text": {
-          "text": "Dennis Quaid"
-        },
-        "primary_image": {
-          "id": "rm1373605632",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTU4ODk3NTcyMl5BMl5BanBnXkFtZTcwOTIwMTQxMw@@._V1_.jpg",
-          "width": 286,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm4150847",
-        "name_text": {
-          "text": "Stephan James"
-        },
-        "primary_image": {
-          "id": "rm1002269184",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTEwMTg4MTE0NTFeQTJeQWpwZ15BbWU4MDkzNzExMTcz._V1_CR0,1,1364,2046_.jpg",
-          "width": 1364,
-          "height": 2046
-        }
-      },
-      {
-        "id": "nm2541974",
-        "name_text": {
-          "text": "Jai Courtney"
-        },
-        "primary_image": {
-          "id": "rm2075773696",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkyNzE0OTg1MF5BMl5BanBnXkFtZTgwMDU1MDM0MTE@._V1_.jpg",
-          "width": 1363,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0005246",
-        "name_text": {
-          "text": "Esai Morales"
-        },
-        "primary_image": {
-          "id": "rm2496374017",
-          "url": "https://m.media-amazon.com/images/M/MV5BODZiZDY0NTYtZDE1Ny00MTliLWE3ZmEtYWY1YWFmNjk3NzhmXkEyXkFqcGc@._V1_.jpg",
-          "width": 4706,
-          "height": 3495
-        }
-      },
-      {
-        "id": "nm2976580",
-        "name_text": {
-          "text": "Jessie Buckley"
-        },
-        "primary_image": {
-          "id": "rm3908089857",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTFlZWIwMjQtNmNiOS00ZDc3LTkxZDgtYTE0YjQ3ODU5ZGIyXkEyXkFqcGc@._V1_.jpg",
-          "width": 3600,
-          "height": 5400
-        }
-      },
-      {
-        "id": "nm0000288",
-        "name_text": {
-          "text": "Christian Bale"
-        },
-        "primary_image": {
-          "id": "rm3114052352",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
-          "width": 1363,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0765597",
-        "name_text": {
-          "text": "Peter Sarsgaard"
-        },
-        "primary_image": {
-          "id": "rm276729600",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjE0Mjg0NzE2Nl5BMl5BanBnXkFtZTcwMDE1MTkxMw@@._V1_.jpg",
-          "width": 309,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0000906",
-        "name_text": {
-          "text": "Annette Bening"
-        },
-        "primary_image": {
-          "id": "rm2400756992",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTc4ODQ1ODM5Ml5BMl5BanBnXkFtZTcwOTU2NDk3OQ@@._V1_.jpg",
-          "width": 683,
-          "height": 1024
-        }
-      },
-      {
-        "id": "nm0004851",
-        "name_text": {
-          "text": "Penélope Cruz"
-        },
-        "primary_image": {
-          "id": "rm2278854400",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTM0Mzc1MTc2OF5BMl5BanBnXkFtZTcwMzE4MzQxMw@@._V1_.jpg",
-          "width": 270,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0350453",
-        "name_text": {
-          "text": "Jake Gyllenhaal"
-        },
-        "primary_image": {
-          "id": "rm3787192320",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjA0MTU2NDY3MF5BMl5BanBnXkFtZTgwNDU4ODkzMzE@._V1_.jpg",
-          "width": 1368,
-          "height": 2048
         }
       },
       {
@@ -6296,6 +6992,30 @@
     "videos": [],
     "images": [
       {
+        "id": "rm271629314",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmZlNWIzNDgtNWI5ZC00NWVjLTg5YWYtN2NiNTU2ZWExM2EyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3996,
+        "height": 2159
+      },
+      {
+        "id": "rm568973314",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWYyNzFhYTItNDZjZS00MzVkLWI3NzAtYmRhYWVhZWE5NDk5XkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 2874
+      },
+      {
+        "id": "rm1628166402",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjgwMGM1MmYtNDNlNi00MTQyLTkxODgtYThjYTRmNzc2NDRkXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 1633
+      },
+      {
+        "id": "rm1624039170",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmNjM2NiMDYtODZmZi00ZTVjLWIyODUtYzk5NzBlNmY3NmFhXkEyXkFqcGc@._V1_.jpg",
+        "width": 7200,
+        "height": 4800
+      },
+      {
         "id": "rm586800642",
         "url": "https://m.media-amazon.com/images/M/MV5BMGFhYTllNDMtMjZmYi00Yjg3LWJmMjEtYTAzZjYyNTQ2MTA1XkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
@@ -6312,24 +7032,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BNzE0MWFmMjYtNmRmMC00M2RjLTkxMTMtZDBiNGRkYmViMTM5XkEyXkFqcGc@._V1_.jpg",
         "width": 3900,
         "height": 2600
-      },
-      {
-        "id": "rm1628166402",
-        "url": "https://m.media-amazon.com/images/M/MV5BZjgwMGM1MmYtNDNlNi00MTQyLTkxODgtYThjYTRmNzc2NDRkXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 1633
-      },
-      {
-        "id": "rm1624039170",
-        "url": "https://m.media-amazon.com/images/M/MV5BYmNjM2NiMDYtODZmZi00ZTVjLWIyODUtYzk5NzBlNmY3NmFhXkEyXkFqcGc@._V1_.jpg",
-        "width": 7200,
-        "height": 4800
-      },
-      {
-        "id": "rm568973314",
-        "url": "https://m.media-amazon.com/images/M/MV5BOWYyNzFhYTItNDZjZS00MzVkLWI3NzAtYmRhYWVhZWE5NDk5XkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 2874
       },
       {
         "id": "rm42982658",
