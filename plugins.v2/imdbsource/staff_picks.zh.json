@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-17 06:33:15",
+  "updated_at": "2026-03-24 00:33:51",
   "entries": [
     {
       "name": "挽救计划",
       "ttconst": "tt12042730",
       "rmconst": "rm2270667522",
-      "detail": "In theaters March 20",
-      "description": "Ryan Gosling？搞定。Ryan Gosling在太空里搞酷炫科学？搞定。Ryan Gosling在努力拯救宇宙的同时和外星人成为最好的朋友？搞定搞定搞定。如果你还没读过这本小说，你应该去读。更好的是，听听由配音大师Ray Porter朗读的有声书。然后，不要错过这部由《<i>火星救援</i>》幕后创意团队打造的电影。你会笑，会哭，还会对你童年时的科学老师们产生全新的敬意。— <i>Hillary</i>",
+      "detail": "In theaters",
+      "description": "Ryan Gosling？搞定。Ryan Gosling 在太空里搞酷炫的科学玩意儿？搞定。Ryan Gosling 在试图拯救宇宙的同时和外星人成为最好的朋友？搞定搞定搞定。\n\n如果你还没读过这本小说，你应该读。更好的是，听听由配音大师 Ray Porter 讲述的有声书。然后，不要错过这部由<i>The Martian</i>幕后创意团队带来的电影。你会笑，会哭，然后你会对你童年时的科学老师们产生全新的敬意。— <i>Hillary</i>",
       "relatedconst": [
         "nm0331516",
         "nm1197689",
@@ -20,8 +20,8 @@
       "name": "浴血黑帮：不朽传奇",
       "ttconst": "tt15574124",
       "rmconst": "rm1158963969",
-      "detail": "Premieres March 20 on Netflix",
-      "description": "1940年，英格兰。距离我们上次见到Tommy Shelby (Cillian Murphy) 已经六年了，这位伯明翰最受欢迎的黑帮老大已经离开了自己建立的帝国和熟悉的生活。直到他收到消息，他的儿子 (Barry Keoghan) 正在Small Heath大肆破坏。老Tommy必须回归，试图修复那些破碎的一切——在他的家乡，在他的家庭，以及他自己。奉Peaky Blinders之命，他回来了。— <i>Hillary</i>",
+      "detail": "Streaming on Netflix",
+      "description": "1940年，英格兰。距离我们上次见到 Tommy Shelby (Cillian Murphy) 已经六年了，伯明翰这位备受喜爱的黑帮老大已经离开了自己建立的帝国和熟悉的生活。直到他收到消息，他的儿子 (Barry Keoghan) 正在 Small Heath 肆意破坏。老 Tommy 必须回归，试图修复那些破碎的一切——在他的家乡，在他的家庭，以及他自己。奉浴血黑帮之命，他回来了。— <i>Hillary</i>",
       "relatedconst": [
         "nm0614165",
         "nm0272581",
@@ -32,27 +32,11 @@
       "viconst": "vi887868185"
     },
     {
-      "name": "准备好了没2：我来了",
-      "ttconst": "tt33978029",
-      "rmconst": "rm1870716162",
-      "detail": "In theaters March 20",
-      "description": "游戏再次开始！Samara Weaving回归，在第二轮中饰演Grace，这位准新娘在2019年的《<i>准备好了没</i>》中首次发现自己是一个邪恶游戏的牺牲品。现在，在那场惊心动魄的夜晚幸存下来后，她得知这场噩梦有了新的关卡。Grace能否智胜那些被派来追捕她的富人，并从意外死亡中救出她的妹妹 (Kathryn Newton)？如果Elijah Wood、Sarah Michelle Gellar、Nestor Carbonell、Shawn Hatosy和David Cronenberg有发言权的话，那可不行。愿最优秀的玩家获胜。— <i>Adrienne</i>",
-      "relatedconst": [
-        "nm3034977",
-        "nm1105980",
-        "nm0001264",
-        "nm0004999",
-        "nm0004999",
-        "nm0004801"
-      ],
-      "viconst": "vi95865625"
-    },
-    {
       "name": "小镇警花",
       "ttconst": "tt14671678",
       "rmconst": "rm3652899586",
-      "detail": "Season 2 premieres March 20 on Prime Video",
-      "description": "三年前看《Deadloch》第一季的时候，我脑子像婴儿一样；我从“我在看什么？”到“哦，这是一部讽刺喜剧”，然后是“我爱上了这部剧”。这部澳大利亚搭档警察喜剧填补了我心中“Kath &amp; Kim”大小的空缺，我记得我向大约六个朋友推荐了它。第二季中，侦探Dulcie Collins和Eddie Redcliffe来到位于该国炎热北领地的达尔文，在那里，他们最新的案件因一个严峻的发现而脱轨。如果你还没加入这个“邪教”，现在就去看第一季，假装你已经追随多年了。— <i>Arno</i>",
+      "detail": "Season 2 streaming on Prime Video",
+      "description": "三年前看“Deadloch”第一季的时候，我感觉自己像个婴儿的大脑；我从“我在看什么？”变成了“哦，这是一部讽刺喜剧”，然后是“我爱上了这部剧”。这部澳大利亚搭档警探喜剧填补了我心中“Kath & Kim”大小的空缺，我记得我向大约六个朋友推荐了它。第二季中，侦探 Dulcie Collins 和 Eddie Redcliffe 来到位于该国炎热的北领地的达尔文，在那里他们最新的案件因一个严峻的发现而脱轨。如果你还没有加入这个“邪教”，现在就看第一季，假装你已经追随多年了。— <i>Arno</i>",
       "relatedconst": [
         "nm2094547",
         "nm0759819",
@@ -68,7 +52,7 @@
       "ttconst": "tt32937780",
       "rmconst": "rm225041410",
       "detail": "Series premieres March 26 on Netflix",
-      "description": "有这样的标题，至少你知道你将在这部Netflix婚礼恐怖系列中看到什么。结婚的想法本身就够吓人了，更不用说联想到《<i>罗斯玛丽的婴儿</i>》或《<i>魔女嘉莉</i>》了，但这些恐怖经典是剧集运作人兼执行制片人Haley Z. Boston的视觉和基调灵感来源。由Camila Morrone（《黛西与乐队》，《夜班经理》）和Adam DiMarco（《白莲花度假村》，《过度补偿》）饰演订婚夫妇，这部八集剧集描绘了他们几乎注定要失败的婚礼前紧张的一周。— <i>James</i>",
+      "description": "带着这样的标题，至少你知道你将在这部 Netflix 婚礼恐怖系列中看到什么。结婚的想法本身就足够吓人了，更不用说还要让人想起<i>Rosemary’s Baby</i>或<i>Carrie</i>了，但这些恐怖经典是剧集运作人兼执行制片人 Haley Z. Boston 的视觉和基调灵感来源。由 Camila Morrone（“Daisy Jones &amp; The Six”、“The Night Manager”）和 Adam DiMarco（“The White Lotus”、“Overcompensating”）饰演订婚夫妇，这部八集系列剧描绘了他们几乎肯定会走向厄运的婚礼前紧张的一周。— <i>James</i>",
       "relatedconst": [
         "nm6714979",
         "nm4348240",
@@ -84,7 +68,7 @@
       "ttconst": "tt32275943",
       "rmconst": "rm2108785154",
       "detail": "In theaters March 27",
-      "description": "一位影评人朋友已经为我预告了《<i>Alpha</i>》中将要发生的一切。我和他都是在HIV/AIDS危机期间成长起来的年轻同性恋男性，而《<i>Alpha</i>》被许多人视为编剧兼导演Julia Ducournau对这场流行病的严峻隐喻。她的故事设定在一个腐朽的世界中，一个被世代创伤所吞噬的世界，一个少女在纹身之后感染了一种看似超凡的病毒。如果你还记得《权力的游戏》中的“灰鳞病”，就往那个方向想，但要让它更像现实世界的可能性。— <i>Arno</i>",
+      "description": "一位影评人朋友已经为我准备了<i>Alpha</i>中即将发生的一切。他和我在艾滋病危机期间作为年轻的同性恋男性长大，而<i>Alpha</i>被许多人视为编剧兼导演 Julia Ducournau 对这场流行病的严峻隐喻。她的故事设定在一个腐朽的世界中，一个被世代创伤吞噬的世界，一个少女在纹身后感染了一种看似超凡的病毒。如果你还记得“Game of Thrones”中的“灰鳞病”，就往那个方向去想，但要让它更像现实世界的可能性。— <i>Arno</i>",
       "relatedconst": [
         "nm0267042",
         "nm13269520",
@@ -93,11 +77,27 @@
       "viconst": "vi2191641369"
     },
     {
+      "name": "准备好了没2：我来了",
+      "ttconst": "tt33978029",
+      "rmconst": "rm1870716162",
+      "detail": "In theaters",
+      "description": "游戏再次开始！Samara Weaving 回归，在第二轮中饰演 Grace，这位羞涩的新娘在2019年的<i>Ready or Not</i>中首次发现自己是一个险恶游戏的牺牲品。现在，在熬过那个痛苦的夜晚后，她得知这场噩梦有了新的层面。Grace 能否智胜那些被派来追捕她的富人，并从意外死亡中拯救她的妹妹 (Kathryn Newton)？如果 Elijah Wood, Sarah Michelle Gellar, Nestor Carbonell, Shawn Hatosy 和 David Cronenberg 有什么意见的话，她就不能。愿最好的玩家获胜。— <i>Adrienne</i>",
+      "relatedconst": [
+        "nm3034977",
+        "nm1105980",
+        "nm0001264",
+        "nm0004999",
+        "nm0004999",
+        "nm0004801"
+      ],
+      "viconst": "vi95865625"
+    },
+    {
       "name": "海贼王(真人版)",
       "ttconst": "tt11737520",
       "rmconst": "rm2624117506",
       "detail": "Season 2 streaming on Netflix",
-      "description": "起锚（拍松沙发垫），升起三角帆（拿起遥控器），因为是时候再次与《One Piece》扬帆起航了。第二季中，Luffy和草帽一伙将踏上前往传说中的伟大航路海域的冒险，寻找世界上最大的宝藏。准备好迎接奇特的新岛屿，以及一大群敌人、盟友和介于两者之间的一切。漫画迷们请注意！这部八集剧集看起来将改编自阿拉巴斯坦篇章的故事情节，并将出现巴洛克工作社等犯罪组织。— <i>Adrienne</i>",
+      "description": "起锚（拍松沙发垫），升起三角帆（拿起遥控器），因为是时候再次与“One Piece”一同启航了。第二季将看到 Luffy 和草帽海贼团前往传奇的伟大航路，寻找世界上最大的宝藏。准备好迎接奇特的新岛屿以及一大群敌人、盟友和介于两者之间的一切。漫画迷们请注意！这部八集季看起来将改编阿拉巴斯坦篇的故事情节，并以巴洛克工作社犯罪集团等为特色。— <i>Adrienne</i>",
       "relatedconst": [
         "nm7838852",
         "nm6185683",
@@ -111,7 +111,7 @@
       "ttconst": "tt14786934",
       "rmconst": "rm1194696706",
       "detail": "Streaming on Prime Video",
-      "description": "我需要一个Nicole Kidman爆发的时刻。一想到她饰演Kay Scarpetta，这位小说家Patricia Cornwell笔下多年来一直试图从书页走向银幕的干劲十足的法医，就让我希望《Scarpetta》能像Helen Mirren的《头号嫌疑犯》（我最近一直在重看）一样成为一部长篇系列剧。第一季中，Scarpetta运用她的法医病理学技能，识别一名连环杀手，其罪行与她近30年前奠定职业生涯的案件息息相关。对于新手：准备好迎接Jamie Lee Curtis饰演的Dorothy Farinelli，Scarpetta的混乱制造者大姐。— <i>Arno</i>",
+      "description": "我需要一个 Nicole Kidman 爆发的时刻。想到她饰演 Kay Scarpetta，这位小说家 Patricia Cornwell 笔下多年来一直试图从书页跃上银幕的干劲十足的法医，让我希望“Scarpetta”能像 Helen Mirren 的“Prime Suspect”（我最近一直在重看）一样成为一部长篇系列剧。第一季中，Scarpetta 运用她的法医病理学技能，识别一名连环杀手，其罪行与近30年前奠定她职业生涯的案件息息相关。对于新手：准备好迎接 Jamie Lee Curtis 饰演的 Dorothy Farinelli，Scarpetta 的混乱制造者姐姐。— <i>Arno</i>",
       "relatedconst": [
         "nm0000173",
         "nm0000130",
@@ -126,7 +126,7 @@
       "ttconst": "tt35892608",
       "rmconst": "rm1493490178",
       "detail": "In theaters March 13",
-      "description": "没有什么比未知更能让我们血压飙升了，而这部A24出品的新恐怖片就充满了未知。首先，这部电影来自首次执导长片的导演Ian Tuason，他的才华似乎让他获得了执导下一部《灵动：鬼影实录》系列电影的机会。其次，演员阵容中充满了才华横溢但尚未家喻户晓的演员。最后，就是故事本身。当然，我们知道《<i>Undertone</i>》讲述的是一位超自然播客主持人以及一些令人不安的音频文件。但这些录音意味着什么？它们又将释放出多少恐怖？在本月电影全面上映之前，我们无法确定。但有一点似乎很清楚。磁带上的内容渴望被听到。— <i>Adrienne</i>",
+      "description": "没有什么比未知更能让我们血压飙升了，而这部新的 A24 恐怖电影就充满了未知。首先，这部电影来自首次执导长片的导演 Ian Tuason，他的才华似乎为他赢得了执导下一部《Paranormal Activity》系列电影的工作。其次，演员阵容中充满了才华横溢但尚未家喻户晓的演员。最后，就是故事本身。当然，我们知道<i>Undertone</i>是关于一位超自然播客主持人和一些令人不安的音频文件。但这些录音意味着什么？它们又将释放出多少恐怖？我们无法确定，直到本月电影全面上映。但有一点似乎很清楚。无论磁带上有什么，都渴望被听到。— <i>Adrienne</i>",
       "relatedconst": [
         "nm4767728",
         "nm0390285",
@@ -139,7 +139,7 @@
       "ttconst": "tt15940132",
       "rmconst": "rm1624039170",
       "detail": "Streaming on Netflix",
-      "description": "预告片里都看到了。身穿迷彩服的士兵向一个巨大的外星机器人开枪，可能是在《<i>火车之梦</i>》的片场（实际上是在澳大利亚）。还有什么需要知道的吗？就是演员和剧组里汇集了足够多的动作片专业人士，足以保证银幕上的精彩火花。阵容包括因“Reacher”而闻名的明星Alan Ritchson，导演Patrick Hughes（《<i>敢死队3</i>》，《<i>杀手保镖</i>》），动作片常客Jai Courtney（《自杀小队》和《分歧者》系列电影）和Esai Morales（《<i>碟中谍</i>》7和8），以及更多人。— <i>James</i>",
+      "description": "预告片里都展示了。身穿迷彩服的男人向一个巨大的外星机器人开枪，可能是在<i>Train Dreams</i>（实际上是澳大利亚）的片场。还有什么需要知道的吗？只是演员和工作人员阵容强大，汇集了足够多的动作片专业人士，足以保证银幕上的精彩火花。阵容包括因“Reacher”而闻名的主演 Alan Ritchson，导演 Patrick Hughes（<i>Expendables 3</i>, <i>The Hitman’s Bodyguard</i>），动作片常客 Jai Courtney（Suicide Squad 和 Divergent 系列电影）和 Esai Morales（<i>Mission: Impossible</i> 7 和 8），以及更多。— <i>James</i>",
       "relatedconst": [
         "nm2024927",
         "nm0000598",
@@ -154,7 +154,7 @@
       "ttconst": "tt34385331",
       "rmconst": "rm586800642",
       "detail": "Streaming on HBO Max",
-      "description": "是的，这个标题的意思正如你所想，但不要指望这部HBO Max犯罪喜剧会是一个直接的性故事。Jason Bateman和David Harbour饰演工作上的朋友，他们为了给性生活增添情趣而展开的任务，却导致其中一人意外死亡。这部七集迷你剧由Steve Conrad（《奇迹》，《爱国者》）编剧并执导，最初灵感来源于一个真实故事，后来发展成一个充满曲折、反转和不少怪癖的原创故事。— <i>Adrienne</i>",
+      "description": "是的，这个标题的意思正如你所想，但不要指望这部 HBO Max 犯罪喜剧会是一个简单的性故事。Jason Bateman 和 David Harbour 饰演工作上的朋友，他们为了给性生活增添情趣，结果导致其中一人意外死亡。这部七集迷你剧由 Steve Conrad（“Wonder”、“Patriot”）编剧并执导，最初灵感来源于一个真实故事，后来发展成一个充满曲折、转折和不少怪癖的完全原创故事。— <i>Adrienne</i>",
       "relatedconst": [
         "nm0000867",
         "nm1092086",
@@ -169,7 +169,7 @@
       "ttconst": "tt8599532",
       "rmconst": "rm3592791554",
       "detail": "Streaming on Prime Video",
-      "description": "在《血字的研究》中首次亮相近140年后，这位咨询侦探的魅力丝毫未减。仅本月，我们就看到了至少两种不同版本的这位传奇侦探，首先是Guy Ritchie执导的剧集《Young Sherlock》，讲述了一个初出茅庐、略显粗犷的Sherlock在他侦探生涯的开端，在牛津大学侦破了他的第一起谋杀案，并踏上伟大之路的故事。不过，如果《Young Sherlock》还不足以满足你对Holmesian的渴望，三月还将迎来受Sherlock启发的医疗剧《Watson》的第二季。— <i>Vanessa</i>",
+      "description": "在“A Study in Scarlet”首次亮相近140年后，这位咨询侦探的魅力丝毫未减。仅本月，我们就看到了至少两种对这位传奇侦探的不同诠释，首先是 Guy Ritchie 执导的系列剧“Young Sherlock”，讲述了一个初出茅庐的 Sherlock 在牛津大学解决他人生中第一桩谋杀案，并踏上伟大之路的故事。不过，如果“Young Sherlock”还不足以满足你对福尔摩斯的热情，三月还将迎来受 Sherlock 启发的医疗剧“Watson”的第二季。— <i>Vanessa</i>",
       "relatedconst": [
         "nm2842005",
         "nm10183690",
@@ -184,7 +184,7 @@
       "ttconst": "tt26443616",
       "rmconst": "rm271629314",
       "detail": "In theaters",
-      "description": "为科学儿童和数百只动画海狸欢呼吧！皮克斯原创电影《<i>Hoppers</i>》讲述了一名大学生利用一个绝密装置，将自己的意识移植到一只机器海狸体内，从而潜入动物的秘密世界的故事。这个冒险故事包裹着类似《<i>小猪宝贝</i>》的环保主题，应该能引起有环保意识的孩子及其家庭的共鸣。这部电影出自《咱们裸熊》的创作者Daniel Chong之手，他已重返皮克斯，迄今为止，票房预测师们对其反响非常积极，预言这将是皮克斯原创电影自《寻梦环游记》以来最好的开画成绩。",
+      "description": "为科学儿童和数百只动画海狸欢呼吧。<i>Hoppers</i>，一部皮克斯原创电影，讲述了一位大学生利用一个绝密设备将自己的意识转移到一只机器海狸体内，从而潜入动物的秘密世界。这个冒险故事包裹着类似<i>Babe</i>的环保主题，应该能引起有环保意识的孩子和他们的家庭的共鸣。这部电影来自“We Bare Bears”的创作者 Daniel Chong 的构思，他已重返皮克斯，到目前为止，票房预测者对其反响非常积极，他们预测这将是自<i>Coco</i>以来皮克斯原创电影最好的开画成绩。",
       "relatedconst": [
         "nm4552582",
         "nm1293885",
@@ -199,7 +199,7 @@
       "ttconst": "tt30851137",
       "rmconst": "rm568973314",
       "detail": "In theaters",
-      "description": "答案是“是的”。是的，我们确实需要另一部“弗兰肯斯坦”电影了。导演Maggie Gyllenhaal对弗兰肯斯坦新娘故事的诠释，可能是一种越来越罕见的电影，能吸引所有年龄段的观众购买电影票，从年轻的哥特族到你的父母，他们可能也曾是哥特族。你看了任何一个预告片吗？新娘 (Jessie Buckley) 和弗兰肯斯坦的怪物 (Christian Bale) 之间的浪漫感觉与《<i>小丑</i>》（好的一部）以及也许是《<i>邦妮和克莱德</i>》有着相同的DNA？我们感觉到Gyllenhaal在她作为编剧兼导演的第二部作品中已经掌握了生命的火花，并准备在《呼啸山庄》之后，呈现今年下一部无界限的浪漫故事。— <i>Arno</i>",
+      "description": "答案是“是的”。是的，我们确实需要另一部“Frankenstein”电影了。导演 Maggie Gyllenhaal 对 Frankenstein 新娘故事的诠释，可能是一种越来越少见的电影，能吸引所有年龄段的观众购买电影票，从年轻的哥特族到你的父母，他们也可能是哥特族。你看了两部预告片中的任何一部吗？新娘 (Jessie Buckley) 和 Frankenstein 的怪物 (Christian Bale) 之间的浪漫感觉与<i>Joker</i>（好的一部）以及也许是<i>Bonnie and Clyde</i>有共同之处？我们感觉到 Gyllenhaal 已经为她的第二部编剧兼导演作品抓住了生命的火花，并准备在<i>Wuthering Heights</i>之后，带来今年下一部无边界的浪漫故事。— <i>Arno</i>",
       "relatedconst": [
         "nm2976580",
         "nm0000288",
@@ -215,7 +215,7 @@
       "ttconst": "tt35997699",
       "rmconst": "rm1628166402",
       "detail": "Streaming on Netflix",
-      "description": "Rachel Weisz和Leo Woodall将为Netflix带来一部颠覆性的喜剧，讲述了一位女性对年轻同事的痴迷以及她在追求他时编织的复杂网络。改编自同名书籍，《<i>Vladimir</i>》是作者、创作者兼剧集运作人Julia May Jonas的多个“第一次”。这本书不仅是她的处女作小说，这部剧也标志着她首次踏足电影片场（！），并且是这部迷你剧的创作主导力量。期待八集充满俏皮和不敬的剧集，Weisz饰演的无名叙述者将陷入痴迷的漩涡，这似乎注定会带来一些有趣的剧情复杂性。— <i>Adrienne</i>",
+      "description": "Rachel Weisz 和 Leo Woodall 即将带着一部颠覆性的剧情喜剧登陆 Netflix，讲述了一个女人对年轻同事的痴迷以及她在追求他过程中编织的复杂网络。改编自同名书籍，<i>Vladimir</i>对作者、创作者兼剧集运作人 Julia May Jonas 来说是一系列“第一次”。这本书不仅是她的处女作小说，这部剧也标志着她首次踏足电影片场（！），并且是这部迷你剧的创意主导力量。期待八集充满俏皮和不敬的剧集，Weisz 饰演的无名叙述者将陷入痴迷的漩涡，这似乎注定会带来一些有趣的剧情复杂性。— <i>Adrienne</i>",
       "relatedconst": [
         "nm0001838",
         "nm10695146",
@@ -228,7 +228,7 @@
       "ttconst": "tt36849871",
       "rmconst": "rm1872812290",
       "detail": "Streaming on Paramount+",
-      "description": "Taylor Sheridan的宇宙永不落幕，他最新的“Yellowstone”衍生剧在今年最受期待的剧集中熠熠生辉。Luke Grimes回归饰演Kayce Dutton，他将在这部关于加入一支打击犯罪的美国法警团队的剧集中成为焦点。“Yellowstone”的粉丝似乎对这部蒙大拿州情节剧爱不释手，我们猜测这部新剧的程序化叙事方式将深受那些渴望在这个新西部世界中看到更多故事的人们的欢迎。— <i>Adrienne</i>",
+      "description": "Taylor Sheridan 的宇宙永不落幕，他最新的“Yellowstone”衍生剧在今年最受期待的剧集中熠熠生辉。Luke Grimes 回归饰演 Kayce Dutton，他将在这部关于加入一支打击犯罪的美国法警团队的剧集中成为焦点。“Yellowstone”的粉丝似乎对这部蒙大拿州情节剧爱不释手，我们猜测这部新剧的程序化手法将大受那些渴望更多新西部世界故事的人们的欢迎。— <i>Adrienne</i>",
       "relatedconst": [
         "nm2093766",
         "nm1334869",
@@ -242,7 +242,7 @@
       "ttconst": "tt34381258",
       "rmconst": "rm42982658",
       "detail": "In select theaters and on demand",
-      "description": "只要看一眼Magnolia Pictures新电影的宣传资料，你就会知道事情即将变得诡异。在《<i>Heel</i>》中，一个浪荡青年的派对生活被一个一心想改造他的郊区家庭绑架而打乱，不惜一切代价。这部扭曲的惊悚片（恐怖片？）最初于2025年在TIFF电影节以不祥的片名《<i>好男孩</i>》首映，由Anson Boone、Andrea Riseborough和Stephen Graham主演，Stephen Graham刚凭借其获奖作品“Adolescence”的创作者和主演身份而备受瞩目。— <i>Adrienne</i>",
+      "description": "仅仅看一眼 Magnolia Pictures 新电影的宣传，你就会知道事情将变得诡异。在<i>Heel</i>中，一个浪荡的年轻人的派对生活被一个一心想改造他（不惜一切代价）的郊区家庭绑架而中断。这部扭曲的惊悚片（恐怖片？）最初在2025年多伦多国际电影节以不祥的标题<i>Good Boy</i>首映，由 Anson Boone, Andrea Riseborough 和 Stephen Graham 主演，后者刚凭借其获奖作品“Adolescence”的创作和主演而名声大噪。— <i>Adrienne</i>",
       "relatedconst": [
         "nm6978918",
         "nm0334318",
@@ -256,7 +256,7 @@
       "ttconst": "tt35848827",
       "rmconst": "rm3156139778",
       "detail": "Streaming on Netflix",
-      "description": "我本月将通过韩剧《Boyfriend on Demand》开启我观看更多浪漫、轻松的爱情喜剧的旅程。这部10集剧集由Blackpink的Jisoo饰演Seo Mi-rae，一位精疲力尽的艺术家，她通过一个约会服务逃离现实压力，这个服务创造了一个充满无尽完美约会的奇幻虚拟世界。她会在模拟之外找到爱情吗？我的意思是，当然会，这是一部浪漫喜剧。但她如何到达那里？那将是精彩的部分。— <i>Vanessa</i>",
+      "description": "我本月开始追求更多令人心动、低风险的浪漫喜剧，首选是韩剧“Boyfriend on Demand”。这部10集系列剧由 Blackpink 的 Jisoo 饰演 Seo Mi-rae，一位精疲力竭的艺术家，她通过一个约会服务逃离现实的压力，这个服务创造了一个充满无尽完美约会的奇幻虚拟世界。她能在模拟之外找到爱情吗？我的意思是，当然可以，这是一部浪漫喜剧。但她如何到达那里？那将是精彩的部分。— <i>Vanessa</i>",
       "relatedconst": [
         "nm3255458",
         "nm5364609",
@@ -444,6 +444,15 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Proyecto Fin del mundo",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
                 }
               }
             },
@@ -680,6 +689,15 @@
             },
             {
               "node": {
+                "text": "Proyecto Fin del Mundo",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Proyecto Salvación",
                 "country": {
                   "id": "ES",
@@ -755,33 +773,12 @@
                   "text": "Mandarin"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "末日聖母號",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "極限返航",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "科学老师Ryland Grace独自一人在距离地球数光年远的宇宙飞船上醒来。随着记忆的恢复，他发现自己肩负着一项任务：阻止一种神秘物质吞噬太阳，并拯救地球。一段意想不到的友谊可能成为关键。"
+            "plain_text": "科学老师 Ryland Grace 在一艘距离地球数光年的宇宙飞船上独自醒来。随着记忆的恢复，他发现了一项任务：阻止一种神秘物质杀死太阳，并拯救地球。一段意想不到的友谊可能是关键。"
           }
         },
         "primary_image": {
@@ -791,15 +788,16 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 3,
+          "current_rank": 1,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 10
+            "difference": 2
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 8.5,
+          "vote_count": 49031
         },
         "release_date": {
           "year": 2026,
@@ -1005,6 +1003,15 @@
               "node": {
                 "text": "Peaky Blinders: El hombre inmortal",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Peaky Blinders: El hombre inmortal",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -1128,7 +1135,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "二战期间，Tommy Shelby回到被轰炸的伯明翰，卷入基于真实事件的秘密战时任务中，面对新的威胁，同时与自己的过去和不断升级的国家利益抗衡。"
+            "plain_text": "第二次世界大战期间，Tommy Shelby 回到被轰炸的伯明翰，卷入基于真实事件的秘密战时任务，面对新的威胁，同时他也在审视自己的过去和日益增长的国家利益。"
           }
         },
         "primary_image": {
@@ -1138,16 +1145,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 22,
+          "current_rank": 2,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 13
+            "change_direction": "UP",
+            "difference": 20
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.7,
-          "vote_count": 2404
+          "aggregate_rating": 6.8,
+          "vote_count": 29174
         },
         "release_date": {
           "year": 2026,
@@ -1181,360 +1188,6 @@
         },
         "runtime": {
           "seconds": 6720
-        }
-      },
-      {
-        "id": "tt33978029",
-        "title_text": {
-          "text": "Ready or Not 2: Here I Come"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2: Here I Come",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Boda sangrienta 2",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Boda sangrienta 2",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Я иду искать 2",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Я иду искать 2",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Aki bújt 2: Jövök!",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Casamento Sangrento: A Viúva",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Finchè morte non ci separi 2",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gatavs vai ne: eju meklēt",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Noche de bodas 2",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Prêt pas prêt 2: J'arrive",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Pulmaöö peitusemäng 2: Siit ma tulen",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ready or Not 2",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Saklambaç 2",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Trò Chơi Của Quỷ 2",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wedding nightmare: Deuxième partie",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Zabawa w pochowanego: Szukam",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "弒婚遊戲：2度開局",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "爆血新婚夜2：豪門遊戲",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "在经历了一场致命游戏幸存下来后，Grace和她的妹妹Faith现在必须摆脱四个争夺强大王位的敌对家族——赢家通吃。"
-          }
-        },
-        "primary_image": {
-          "id": "rm3031424770",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTUxZDk2ZmQtYWRlYS00MjkxLWEzYTEtMWUzNTcyYTRjMjI5XkEyXkFqcGc@._V1_.jpg",
-          "width": 800,
-          "height": 1185
-        },
-        "meter_ranking": {
-          "current_rank": 26,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 20
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.9,
-          "vote_count": 159
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 3,
-          "day": 20
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Ready or Not 2: Here I Come"
-        },
-        "runtime": {
-          "seconds": 6480
         }
       },
       {
@@ -1881,7 +1534,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "调查谋杀案和不断上升的死亡人数，Dulcie Collins和Eddie Redcliffe与一群乌合之众的团队联手，将凶手绳之以法。"
+            "plain_text": "调查谋杀案和不断上升的死亡人数，Dulcie Collins 和 Eddie Redcliffe 与一群乌合之众的团队联手，将凶手绳之以法。"
           }
         },
         "primary_image": {
@@ -1891,16 +1544,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 488,
+          "current_rank": 40,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 62
+            "difference": 448
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 15621
+          "vote_count": 15957
         },
         "release_date": {
           "year": 2023,
@@ -1980,6 +1633,15 @@
               "node": {
                 "text": "Something Very Bad Is Going to Happen",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Something Very Bad Is Going to Happen",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -1994,6 +1656,24 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Something Very Bad Is Going to Happen",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Something Very Bad Is Going to Happen",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -2046,7 +1726,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在一次不幸的婚礼庆典前一周，弥漫着某种恐怖气氛。"
+            "plain_text": "在一场不幸的婚礼庆祝前一周，弥漫着某种恐怖气氛。"
           }
         },
         "primary_image": {
@@ -2056,11 +1736,11 @@
           "height": 1500
         },
         "meter_ranking": {
-          "current_rank": 26,
+          "current_rank": 55,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 483
+            "change_direction": "DOWN",
+            "difference": 29
           }
         },
         "ratings_summary": {
@@ -2461,16 +2141,16 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 732,
+          "current_rank": 273,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 181
+            "difference": 459
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.9,
-          "vote_count": 2802
+          "aggregate_rating": 5.8,
+          "vote_count": 2900
         },
         "release_date": {
           "year": 2026,
@@ -2499,6 +2179,552 @@
         },
         "runtime": {
           "seconds": 7680
+        }
+      },
+      {
+        "id": "tt33978029",
+        "title_text": {
+          "text": "Ready or Not 2: Here I Come"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: Here I Come",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda sangrienta 2",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda sangrienta 2",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda sangrienta 2",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda sangrienta 2",
+                "country": {
+                  "id": "DO",
+                  "text": "Dominican Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda sangrienta 2",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda sangrienta 2",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda sangrienta 2",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Я иду искать 2",
+                "country": {
+                  "id": "KG",
+                  "text": "Kyrgyzstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Я иду искать 2",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Я иду искать 2",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Я иду искать 2",
+                "country": {
+                  "id": "TJ",
+                  "text": "Tajikistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not: Here I Come",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not: Here I Come",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Aki bújt 2: Jövök!",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boda Sangrienta 2",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Casamento Sangrento: A Viúva",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dobro se skrij 2",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Finchè morte non ci separi 2",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gatavs vai ne: eju meklēt",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Igra skrivača 2",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Krvavá nevěsta: Hra začíná",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nevesta na zabitie 2",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Noche de bodas 2",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Prêt pas prêt 2: J'arrive",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pulmaöö peitusemäng 2: Siit ma tulen",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ready or Not 2: O Ritual",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Saklambaç 2",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scapă cine poate 2",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Slėpynės 2: einu ieškoti",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spremna ili ne 2",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Trò Chơi Của Quỷ 2",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wedding nightmare: Deuxième partie",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zabawa w pochowanego: Szukam",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Είσαι έτοιμος; 2",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Гра в хованки: Я йду шукати",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Докато смъртта ни раздели 2",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "弒婚遊戲：2度開局",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "爆血新婚夜2：豪門遊戲",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "在一场致命游戏中幸存下来后，Grace 和她的妹妹 Faith 现在必须逃脱四个争夺强大王位的敌对家族——胜者为王。"
+          }
+        },
+        "primary_image": {
+          "id": "rm3031424770",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTUxZDk2ZmQtYWRlYS00MjkxLWEzYTEtMWUzNTcyYTRjMjI5XkEyXkFqcGc@._V1_.jpg",
+          "width": 800,
+          "height": 1185
+        },
+        "meter_ranking": {
+          "current_rank": 10,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 16
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.0,
+          "vote_count": 3731
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 3,
+          "day": 20
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Ready or Not 2: Here I Come"
+        },
+        "runtime": {
+          "seconds": 6480
         }
       },
       {
@@ -2647,6 +2873,18 @@
               "node": {
                 "text": "One Piece",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "One Piece",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -2694,6 +2932,18 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "One Piece",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -2872,7 +3122,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "年轻的海盗Monkey D. Luffy戴着他的草帽，带着一群乌合之众的船员，踏上了一场史诗般的寻宝之旅。"
+            "plain_text": "年轻的海盗 Monkey D. Luffy 戴着他的草帽，带着他的杂牌船员，踏上了一场史诗般的寻宝之旅。"
           }
         },
         "primary_image": {
@@ -2882,16 +3132,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 1,
+          "current_rank": 2,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 62
+            "change_direction": "DOWN",
+            "difference": 1
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 192698
+          "vote_count": 197377
         },
         "release_date": {
           "year": 2023,
@@ -3114,10 +3364,10 @@
             },
             {
               "node": {
-                "text": "Scarpetta: Médica Legista",
+                "text": "Скарпетта",
                 "country": {
-                  "id": "BR",
-                  "text": "Brazil"
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             },
@@ -3125,8 +3375,17 @@
               "node": {
                 "text": "Скарпетта",
                 "country": {
-                  "id": "RU",
-                  "text": "Russia"
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scarpetta: Médica Legista",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
                 }
               }
             }
@@ -3144,16 +3403,16 @@
           "height": 700
         },
         "meter_ranking": {
-          "current_rank": 2,
+          "current_rank": 5,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 88
+            "change_direction": "DOWN",
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 5.9,
-          "vote_count": 5309
+          "vote_count": 9015
         },
         "release_date": {
           "year": 2026,
@@ -3412,7 +3671,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位热门超自然播客的主持人被神秘发送给她的恐怖录音所困扰。"
+            "plain_text": "一档热门超自然播客的主持人被神秘发送给她的恐怖录音所困扰。"
           }
         },
         "primary_image": {
@@ -3422,16 +3681,16 @@
           "height": 6000
         },
         "meter_ranking": {
-          "current_rank": 23,
+          "current_rank": 38,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 68
+            "change_direction": "DOWN",
+            "difference": 15
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.4,
-          "vote_count": 2498
+          "aggregate_rating": 6.3,
+          "vote_count": 3990
         },
         "release_date": {
           "year": 2026,
@@ -3461,7 +3720,7 @@
           "rating": "R"
         },
         "original_title_text": {
-          "text": "The Undertone"
+          "text": "Undertone"
         },
         "runtime": {
           "seconds": 5640
@@ -3680,6 +3939,27 @@
             },
             {
               "node": {
+                "text": "侵略機器",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "侵略機器",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Cỗ Máy Chiến Tranh",
                 "country": {
                   "id": "VN",
@@ -3705,6 +3985,18 @@
                 },
                 "language": {
                   "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La machine de guerre",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
@@ -3761,24 +4053,12 @@
                   "text": "Ukraine"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "侵略機器",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "讲述了一群艰苦特种作战新兵在训练营中遭遇神秘致命力量的故事。"
+            "plain_text": "讲述了一群严酷特种部队新兵营的最后几名学员，他们遭遇了一股神秘的致命力量。"
           }
         },
         "primary_image": {
@@ -3788,16 +4068,16 @@
           "height": 1500
         },
         "meter_ranking": {
-          "current_rank": 1,
+          "current_rank": 5,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "FLAT",
-            "difference": 0
+            "change_direction": "DOWN",
+            "difference": 4
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.4,
-          "vote_count": 53036
+          "vote_count": 67084
         },
         "release_date": {
           "year": 2026,
@@ -3958,6 +4238,18 @@
               "node": {
                 "text": "DTF St. Louis",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF St. Louis",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -3993,6 +4285,18 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "DTF St. Louis",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4078,7 +4382,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一个关于三个中年人卷入三角恋，并导致其中一人意外死亡的黑色喜剧故事。"
+            "plain_text": "一个关于三个中年人卷入三角恋的黑色喜剧故事，导致其中一人意外死亡。"
           }
         },
         "primary_image": {
@@ -4088,16 +4392,16 @@
           "height": 1500
         },
         "meter_ranking": {
-          "current_rank": 12,
+          "current_rank": 19,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 1
+            "change_direction": "DOWN",
+            "difference": 7
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.8,
-          "vote_count": 2034
+          "aggregate_rating": 6.9,
+          "vote_count": 2829
         },
         "release_date": {
           "year": 2026,
@@ -4197,6 +4501,18 @@
               "node": {
                 "text": "Young Sherlock",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -4223,6 +4539,18 @@
                 "country": {
                   "id": "IT",
                   "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Young Sherlock",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4276,6 +4604,24 @@
             },
             {
               "node": {
+                "text": "Jovem Sherlock",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jovem Sherlock",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Az ifjú Sherlock",
                 "country": {
                   "id": "HU",
@@ -4289,15 +4635,6 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jovem Sherlock",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
                 }
               }
             },
@@ -4350,7 +4687,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "年轻的Sherlock Holmes身败名裂，卷入了一桩危及他自由的谋杀案。他的首个案件揭露了一场环球阴谋，最终在一场爆炸性的对决中达到高潮，永远改变了他的生活。"
+            "plain_text": "一位声名狼藉的年轻 Sherlock Holmes 卷入了一桩威胁他自由的谋杀案。他有史以来第一个案件揭露了一场环球阴谋，最终以一场改变他一生的爆炸性对决告终。"
           }
         },
         "primary_image": {
@@ -4360,7 +4697,7 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 5,
+          "current_rank": 9,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
@@ -4369,7 +4706,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 12952
+          "vote_count": 17088
         },
         "release_date": {
           "year": 2026,
@@ -4908,7 +5245,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位19岁的动物爱好者利用科技将她的意识植入一只机器海狸体内，以揭开动物世界中超出她想象的奥秘。"
+            "plain_text": "一位19岁的动物爱好者利用一项技术，将自己的意识植入一只机器海狸体内，以揭开动物世界中超出她想象的奥秘。"
           }
         },
         "primary_image": {
@@ -4918,16 +5255,16 @@
           "height": 1610
         },
         "meter_ranking": {
-          "current_rank": 4,
+          "current_rank": 12,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 1
+            "difference": 8
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.7,
-          "vote_count": 13847
+          "aggregate_rating": 7.6,
+          "vote_count": 18867
         },
         "release_date": {
           "year": 2026,
@@ -5488,7 +5825,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在20世纪30年代的芝加哥，弗兰肯斯坦请求Euphronius博士帮助创造一个伴侣。他们将生命赋予一名被谋杀的女子，使其成为新娘，这引发了浪漫、警方的关注以及激进的社会变革。"
+            "plain_text": "在1930年代的芝加哥，Frankenstein 请求 Euphronius 博士帮助创造一个伴侣。他们将生命赋予一名被谋杀的女子，让她成为新娘，从而引发了浪漫、警方的关注和激进的社会变革。"
           }
         },
         "primary_image": {
@@ -5498,16 +5835,16 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 8,
+          "current_rank": 32,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 6
+            "difference": 24
           }
         },
         "ratings_summary": {
           "aggregate_rating": 5.9,
-          "vote_count": 13189
+          "vote_count": 14899
         },
         "release_date": {
           "year": 2026,
@@ -5661,6 +5998,18 @@
               "node": {
                 "text": "Vladimir",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vladimir",
+                "country": {
                   "id": "IL",
                   "text": "Israel"
                 },
@@ -5696,6 +6045,18 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vladimir",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -5742,7 +6103,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一名女子的生活因她对迷人同事的痴迷而陷入混乱。她将幻想变为现实的决心导致了黑暗、幽默而复杂的情境。"
+            "plain_text": "一个女人的生活因她对迷人同事的痴迷而陷入混乱。她将幻想变为现实的决心导致了黑暗、幽默而复杂的情境。"
           }
         },
         "primary_image": {
@@ -5752,16 +6113,16 @@
           "height": 2224
         },
         "meter_ranking": {
-          "current_rank": 17,
+          "current_rank": 56,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 11
+            "difference": 39
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.1,
-          "vote_count": 4726
+          "vote_count": 5859
         },
         "release_date": {
           "year": 2026,
@@ -6019,7 +6380,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "前海豹突击队员Kayce Dutton离开Yellowstone牧场，加入一支精锐的美国法警团队工作。"
+            "plain_text": "前海军海豹突击队员 Kayce Dutton 离开 Yellowstone 牧场，加入了一支精英美国法警团队。"
           }
         },
         "primary_image": {
@@ -6029,7 +6390,7 @@
           "height": 2897
         },
         "meter_ranking": {
-          "current_rank": 15,
+          "current_rank": 20,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
@@ -6037,8 +6398,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.2,
-          "vote_count": 3739
+          "aggregate_rating": 6.0,
+          "vote_count": 4751
         },
         "release_date": {
           "year": 2026,
@@ -6289,10 +6650,13 @@
             },
             {
               "node": {
-                "text": "Dobry chłopiec",
+                "text": "На цепи",
                 "country": {
-                  "id": "PL",
-                  "text": "Poland"
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
                 }
               }
             },
@@ -6304,12 +6668,21 @@
                   "text": "Russia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Dobry chłopiec",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "19岁的罪犯Tommy被一对功能失调的夫妇Chris和Kathryn绑架并强行进行改造，他们试图把他变成一个“好男孩”。Tommy必须找到逃脱的方法。"
+            "plain_text": "19岁的罪犯 Tommy 被一对功能失调的夫妇 Chris 和 Kathryn 绑架并强迫进行改造，他们试图让他成为一个“好孩子”。Tommy 必须找到逃脱的方法。"
           }
         },
         "primary_image": {
@@ -6319,16 +6692,16 @@
           "height": 4000
         },
         "meter_ranking": {
-          "current_rank": 25,
+          "current_rank": 33,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 9
+            "change_direction": "DOWN",
+            "difference": 8
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.9,
-          "vote_count": 2542
+          "vote_count": 4166
         },
         "release_date": {
           "year": 2026,
@@ -6436,6 +6809,18 @@
               "node": {
                 "text": "Boyfriend on Demand",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boyfriend on Demand",
+                "country": {
                   "id": "IN",
                   "text": "India"
                 },
@@ -6459,6 +6844,18 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boyfriend on Demand",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -6525,6 +6922,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bạn Trai Theo Yêu Cầu",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
                 }
               }
             },
@@ -6616,7 +7022,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位精疲力尽的网络漫画艺术家发现了一项独特的虚拟约会订阅服务，让她能够遇到理想的匹配对象，模糊了她苛刻的现实与数字浪漫之间的界限。"
+            "plain_text": "一位精疲力竭的网络漫画艺术家发现了一项独特的虚拟约会订阅服务，让她能够遇到理想的伴侣，从而模糊了她苛刻的现实与数字浪漫之间的界限。"
           }
         },
         "primary_image": {
@@ -6626,16 +7032,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 122,
+          "current_rank": 287,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 10
+            "difference": 165
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.5,
-          "vote_count": 3738
+          "aggregate_rating": 7.4,
+          "vote_count": 4299
         },
         "release_date": {
           "year": 2026,
@@ -6796,78 +7202,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BYTQ0MGI3MmUtNGNjMS00YWQzLTljMDItOGIyNmE4ODZkZTU1XkEyXkFqcGc@._V1_.jpg",
           "width": 3087,
           "height": 4645
-        }
-      },
-      {
-        "id": "nm3034977",
-        "name_text": {
-          "text": "Samara Weaving"
-        },
-        "primary_image": {
-          "id": "rm2000401666",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzlkOWQ5ZTctM2IxNS00YzIzLWFmZjAtMGNlZGJmYjQwNTI3XkEyXkFqcGc@._V1_CR393,552,1333,1999_.jpg",
-          "width": 1333,
-          "height": 1999
-        }
-      },
-      {
-        "id": "nm1105980",
-        "name_text": {
-          "text": "Kathryn Newton"
-        },
-        "primary_image": {
-          "id": "rm3069006592",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWEzNDY2ZTQtZjVlMC00ZjMxLTlhY2YtZDliZjUxYWE0OTQ5XkEyXkFqcGc@._V1_.jpg",
-          "width": 959,
-          "height": 1452
-        }
-      },
-      {
-        "id": "nm0001264",
-        "name_text": {
-          "text": "Sarah Michelle Gellar"
-        },
-        "primary_image": {
-          "id": "rm2383327232",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzA5MDA4MTEwOV5BMl5BanBnXkFtZTcwNzY2MjcyNw@@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0004999",
-        "name_text": {
-          "text": "Shawn Hatosy"
-        },
-        "primary_image": {
-          "id": "rm2151857922",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGYxNzMzNmEtZTQ5YS00NWE4LWE0MWQtMzMxY2EwNzQ1YzI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1350,
-          "height": 2000
-        }
-      },
-      {
-        "id": "nm0004999",
-        "name_text": {
-          "text": "Shawn Hatosy"
-        },
-        "primary_image": {
-          "id": "rm2151857922",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGYxNzMzNmEtZTQ5YS00NWE4LWE0MWQtMzMxY2EwNzQ1YzI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1350,
-          "height": 2000
-        }
-      },
-      {
-        "id": "nm0004801",
-        "name_text": {
-          "text": "Nestor Carbonell"
-        },
-        "primary_image": {
-          "id": "rm3005463041",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDNlYjMyNWUtZDI3Ni00N2Q3LTkyOGUtMzhhZTAxZDIxYjNlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1124,
-          "height": 1854
         }
       },
       {
@@ -7051,6 +7385,78 @@
         }
       },
       {
+        "id": "nm3034977",
+        "name_text": {
+          "text": "Samara Weaving"
+        },
+        "primary_image": {
+          "id": "rm2000401666",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzlkOWQ5ZTctM2IxNS00YzIzLWFmZjAtMGNlZGJmYjQwNTI3XkEyXkFqcGc@._V1_CR393,552,1333,1999_.jpg",
+          "width": 1333,
+          "height": 1999
+        }
+      },
+      {
+        "id": "nm1105980",
+        "name_text": {
+          "text": "Kathryn Newton"
+        },
+        "primary_image": {
+          "id": "rm3069006592",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWEzNDY2ZTQtZjVlMC00ZjMxLTlhY2YtZDliZjUxYWE0OTQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 959,
+          "height": 1452
+        }
+      },
+      {
+        "id": "nm0001264",
+        "name_text": {
+          "text": "Sarah Michelle Gellar"
+        },
+        "primary_image": {
+          "id": "rm2383327232",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzA5MDA4MTEwOV5BMl5BanBnXkFtZTcwNzY2MjcyNw@@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0004999",
+        "name_text": {
+          "text": "Shawn Hatosy"
+        },
+        "primary_image": {
+          "id": "rm2151857922",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGYxNzMzNmEtZTQ5YS00NWE4LWE0MWQtMzMxY2EwNzQ1YzI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1350,
+          "height": 2000
+        }
+      },
+      {
+        "id": "nm0004999",
+        "name_text": {
+          "text": "Shawn Hatosy"
+        },
+        "primary_image": {
+          "id": "rm2151857922",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGYxNzMzNmEtZTQ5YS00NWE4LWE0MWQtMzMxY2EwNzQ1YzI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1350,
+          "height": 2000
+        }
+      },
+      {
+        "id": "nm0004801",
+        "name_text": {
+          "text": "Nestor Carbonell"
+        },
+        "primary_image": {
+          "id": "rm3005463041",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDNlYjMyNWUtZDI3Ni00N2Q3LTkyOGUtMzhhZTAxZDIxYjNlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1124,
+          "height": 1854
+        }
+      },
+      {
         "id": "nm7838852",
         "name_text": {
           "text": "Iñaki Godoy"
@@ -7188,10 +7594,10 @@
           "text": "Michèle Duquet"
         },
         "primary_image": {
-          "id": "rm2182797570",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTYyZDM5NTUtYzZkZS00MjAwLWJlN2EtMDAwZWMyMzQ2MGFkXkEyXkFqcGc@._V1_.jpg",
-          "width": 936,
-          "height": 1446
+          "id": "rm2384646146",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTlhMTNkMTQtMDg5ZS00NjkzLTg5ODItZTRlM2FkZmM1M2EzXkEyXkFqcGc@._V1_.jpg",
+          "width": 735,
+          "height": 840
         }
       },
       {
@@ -7714,12 +8120,6 @@
         "height": 4372
       },
       {
-        "id": "rm1870716162",
-        "url": "https://m.media-amazon.com/images/M/MV5BYWI5M2YyNTQtZTA2MS00YjVlLWE1MTUtMjI5MzFlOGU1ZmRmXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 2000
-      },
-      {
         "id": "rm3652899586",
         "url": "https://m.media-amazon.com/images/M/MV5BMWVmODZlOGItNzBjOC00ZjY1LWEwOWUtMDljMzBiYzUyYzM5XkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
@@ -7736,6 +8136,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BODcxY2EzNTMtMDExMi00NTk2LTllYTItYzY3NmZkNzkwMWExXkEyXkFqcGc@._V1_.jpg",
         "width": 4500,
         "height": 2358
+      },
+      {
+        "id": "rm1870716162",
+        "url": "https://m.media-amazon.com/images/M/MV5BYWI5M2YyNTQtZTA2MS00YjVlLWE1MTUtMjI5MzFlOGU1ZmRmXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2000
       },
       {
         "id": "rm2624117506",
