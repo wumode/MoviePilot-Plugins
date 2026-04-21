@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-04-17 06:33:16",
+  "updated_at": "2026-04-22 06:33:18",
   "entries": [
+    {
+      "name": "Half Man",
+      "ttconst": "tt32767294",
+      "rmconst": "rm3549614082",
+      "detail": "Premieres April 23 on HBO Max",
+      "description": "“Uncomfortably erotic” is my favorite two-word take for Richard Gadd's “Baby Reindeer” follow-up. As you might expect, the first reviews are widely divisive for the highly anticipated limited series, which stars Gadd and Jamie Bell as stepbrothers with a complicated 40 year relationship. While the poster gives you an indication of the [uncomfortably erotic] dynamic between these two men, the trailer doesn't spoil the apparent whopper at the midpoint of this six-episode series that wades into the manosphere. — <i>Arno</i>",
+      "relatedconst": [
+        "nm6876120",
+        "nm0068260",
+        "nm0570679",
+        "nm12794521",
+        "nm5458478"
+      ],
+      "viconst": "vi238996249"
+    },
+    {
+      "name": "Apex",
+      "ttconst": "tt16431404",
+      "rmconst": "rm251110658",
+      "detail": "Premieres April 24 on Netflix",
+      "description": "While I’m giving this movie a touch of side-eye for its woman-getting-hunted theme, it’s cute for Taron Egerton to think he’s a match for Charlize Theron in action-movie mode. The former Kingsman plays some sort of bad man who wants to take out Charlize as they both traverse the Australian wilderness. The co-stars did a majority of the stunt work themselves for director Baltasar Kormákur, who has been alternating Hollywood genre films with smaller projects in his native Iceland with varying degrees of success. — <i>Arno</i>",
+      "relatedconst": [
+        "nm0000234",
+        "nm5473782",
+        "nm0051509"
+      ],
+      "viconst": "vi1890568985"
+    },
+    {
+      "name": "Michael",
+      "ttconst": "tt11378946",
+      "rmconst": "rm2387400194",
+      "detail": "In theaters April 24",
+      "description": "Michael Jackson’s long-awaited big screen biopic finally lands in theaters this spring, and the stakes couldn’t be higher. As recent big-screen biopics <i>Bob Marley: One Love</i>, <i>Rocketman</i>, and <i>Bohemian Rhapsody</i> reinforced, fans will fill theaters to see their favorite music icons’ stories on the silver screen, and no musician has had a global impact like the King of Pop. Tracing the singer’s meteoric rise to stardom in the Jackson 5 to his unprecedented solo career, Jackson is played by real-life nephew Jaafar Jackson, whose performance dazzled attendees at Cinemacon back in April. Despite the positive buzz, <i>Michael</i> comes with some risk, as Lionsgate and director Antoine Fuqua (<i>Training Day</i>) attempt to give fans a spectacle that honors the star’s legacy while also addressing his real-life controversies. — <i>James</i>",
+      "relatedconst": [
+        "nm4170484",
+        "nm0231458",
+        "nm0000505",
+        "nm1886602",
+        "nm13303880",
+        "nm5637553"
+      ],
+      "viconst": "vi754633497"
+    },
     {
       "name": "Beef",
       "ttconst": "tt14403178",
@@ -37,7 +81,7 @@
       "name": "Lee Cronin’s The Mummy",
       "ttconst": "tt32612507",
       "rmconst": "rm2648038658",
-      "detail": "In theaters April 17",
+      "detail": "In theaters",
       "description": "Writer-director Lee Cronin has called his mummy flick “one part <i>Poltergeist</i> and one part <i>Seven</i>,” and from what I’ve seen so far, I believe him. This new take on the classic movie monster trades the traditional undead pharaoh for a little girl who, after going missing for eight years, is found trapped in a 3,000-year-old sarcophagus. What she’s been up to and what she even <i>is</i> now is the mystery her parents must solve if they want to save their daughter’s soul. Cronin made his mark with the breakout film <i>Evil Dead Rise</i>, and judging from <i>The Mummy</i> trailer, it looks like we can expect more of the face-ripping, soul-vomitting, skin-flaying, hand-biting, bug-eating, mystery-solving, and close-up-taunting that horror fans loved so much. After all, the real ones know, it’s fun to be dead. — <i>Adrienne</i>",
       "relatedconst": [
         "nm10576004",
@@ -50,7 +94,7 @@
       "name": "Mother Mary",
       "ttconst": "tt27200708",
       "rmconst": "rm72917250",
-      "detail": "In theaters April 17",
+      "detail": "In theaters",
       "description": "Writer-director David Lowery has yet to go fully unhinged with his storytelling and direction, yet it seems like he’s given himself permission with <i>Mother Mary</i>, which heralds the return of Michaela Coel. The “I May Destroy You” creator plays a costume designer with what might be a dark arts/<i>Phantom Thread</i> kind of connection with her estranged friend and client, Anne Hathaway’s pop music icon. Call the corners with three of your friends and hope this is an A24 release that meets the studio’s high bar for mood and meaning. — <i>Arno</i>",
       "relatedconst": [
         "nm0004266",
@@ -71,35 +115,6 @@
         "nm0000173"
       ],
       "viconst": "vi3437153049"
-    },
-    {
-      "name": "Apex",
-      "ttconst": "tt16431404",
-      "rmconst": "rm251110658",
-      "detail": "Premieres April 24 on Netflix",
-      "description": "While I’m giving this movie a touch of side-eye for its woman-getting-hunted theme, it’s cute for Taron Egerton to think he’s a match for Charlize Theron in action-movie mode. The former Kingsman plays some sort of bad man who wants to take out Charlize as they both traverse the Australian wilderness. The co-stars did a majority of the stunt work themselves for director Baltasar Kormákur, who has been alternating Hollywood genre films with smaller projects in his native Iceland with varying degrees of success. — <i>Arno</i>",
-      "relatedconst": [
-        "nm0000234",
-        "nm5473782",
-        "nm0051509"
-      ],
-      "viconst": "vi1890568985"
-    },
-    {
-      "name": "Michael",
-      "ttconst": "tt11378946",
-      "rmconst": "rm2387400194",
-      "detail": "In theaters April 24",
-      "description": "Michael Jackson’s long-awaited big screen biopic finally lands in theaters this spring, and the stakes couldn’t be higher. As recent big-screen biopics <i>Bob Marley: One Love</i>, <i>Rocketman</i>, and <i>Bohemian Rhapsody</i> reinforced, fans will fill theaters to see their favorite music icons’ stories on the silver screen, and no musician has had a global impact like the King of Pop. Tracing the singer’s meteoric rise to stardom in the Jackson 5 to his unprecedented solo career, Jackson is played by real-life nephew Jaafar Jackson, whose performance dazzled attendees at Cinemacon back in April. Despite the positive buzz, <i>Michael</i> comes with some risk, as Lionsgate and director Antoine Fuqua (<i>Training Day</i>) attempt to give fans a spectacle that honors the star’s legacy while also addressing his real-life controversies. — <i>James</i>",
-      "relatedconst": [
-        "nm4170484",
-        "nm0231458",
-        "nm0000505",
-        "nm1886602",
-        "nm13303880",
-        "nm5637553"
-      ],
-      "viconst": "vi754633497"
     },
     {
       "name": "The Boys",
@@ -222,912 +237,12 @@
   "imdb_items": {
     "titles": [
       {
-        "id": "tt14403178",
+        "id": "tt32767294",
         "title_text": {
-          "text": "Beef"
+          "text": "Half Man"
         },
         "title_type": {
           "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2023
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bronca",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bronca",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bronca",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bronca",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Acharnés",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Acharnés",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Awantura",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Balhé",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bất Hoà",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beef: Lo scontro",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Rixa",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Treta",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Грызня",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Сварка",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ビーフ",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "怒呛人生",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "怒嗆人生",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A minor conflict spirals into a consuming feud between two individuals, exposing pride, resentment, and hidden pain."
-          }
-        },
-        "primary_image": {
-          "id": "rm2973816578",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGNlNDkyYzItNTg5Yy00NGFiLWJhYTctODE5NjNkYjk4ZDUwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 67,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 10
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.0,
-          "vote_count": 163392
-        },
-        "release_date": {
-          "year": 2023,
-          "month": 4,
-          "day": 6
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Beef"
-        },
-        "runtime": {
-          "seconds": 1800
-        }
-      },
-      {
-        "id": "tt8772296",
-        "title_text": {
-          "text": "Euphoria"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2019
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "KR",
-                  "text": "South Korea"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euphoria",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euforija",
-                "country": {
-                  "id": "BA",
-                  "text": "Bosnia and Herzegovina"
-                },
-                "language": {
-                  "text": "Croatian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euforija",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euforija",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euforia",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euforia",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Eufória",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Eufória",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coşku",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Eufooria",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Euforie",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Phê Pha",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ευφορία",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ейфорія",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Еуфорија",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Еуфория",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Эйфория",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "نشوة",
-                "country": {
-                  "id": "AE",
-                  "text": "United Arab Emirates"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "亢奋",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "毒癮女孩",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "高校十八禁",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence."
-          }
-        },
-        "primary_image": {
-          "id": "rm3325023746",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzg5MTVmNjgtMGQ3Zi00YThlLWFjMzgtYzc2NGUyMzE2MWQ1XkEyXkFqcGc@._V1_.jpg",
-          "width": 510,
-          "height": 755
-        },
-        "meter_ranking": {
-          "current_rank": 6,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 5
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.2,
-          "vote_count": 297860
-        },
-        "release_date": {
-          "year": 2019,
-          "month": 6,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Euphoria"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt32612507",
-        "title_text": {
-          "text": "Lee Cronin's the Mummy"
-        },
-        "title_type": {
-          "id": "movie"
         },
         "release_year": {
           "year": 2026
@@ -1136,145 +251,7 @@
           "edges": [
             {
               "node": {
-                "text": "La posesión de la momia",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La posesión de la momia",
-                "country": {
-                  "id": "BO",
-                  "text": "Bolivia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La posesión de la momia",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La posesión de la momia",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La posesión de la momia",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La posesión de la momia",
-                "country": {
-                  "id": "UY",
-                  "text": "Uruguay"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La posesión de la momia",
-                "country": {
-                  "id": "VE",
-                  "text": "Venezuela"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's the Mummy",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's the Mummy",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's the Mummy",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's the Mummy",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's the Mummy",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's the Mummy",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's the Mummy",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin's The Mummy",
+                "text": "Half Man",
                 "country": {
                   "id": "AU",
                   "text": "Australia"
@@ -1283,7 +260,7 @@
             },
             {
               "node": {
-                "text": "Lee Cronin's The Mummy",
+                "text": "Half Man",
                 "country": {
                   "id": "CA",
                   "text": "Canada"
@@ -1295,7 +272,7 @@
             },
             {
               "node": {
-                "text": "Lee Cronin's The Mummy",
+                "text": "Half Man",
                 "country": {
                   "id": "DE",
                   "text": "Germany"
@@ -1304,7 +281,7 @@
             },
             {
               "node": {
-                "text": "Lee Cronin's The Mummy",
+                "text": "Half Man",
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
@@ -1313,7 +290,7 @@
             },
             {
               "node": {
-                "text": "Lee Cronin's The Mummy",
+                "text": "Half Man",
                 "country": {
                   "id": "IE",
                   "text": "Ireland"
@@ -1325,7 +302,61 @@
             },
             {
               "node": {
-                "text": "Lee Cronin's The Mummy",
+                "text": "Half Man",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lions",
                 "country": {
                   "id": "XWW",
                   "text": "World-wide"
@@ -1337,187 +368,7 @@
             },
             {
               "node": {
-                "text": "Lee Cronin: Mumie",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin: Mumie",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mumija: Film Leeja Cronina",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mumija: Film Leeja Cronina",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Mummy",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Mummy",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мумия Ли Кронина",
-                "country": {
-                  "id": "KG",
-                  "text": "Kyrgyzstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мумия Ли Кронина",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Múmia, de Lee Cronin",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La momia de Lee Cronin",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La momie: un film de Lee Cronin",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La mummia di Lee Cronin",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Posesión de la Monja",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Le réveil de la momie",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin: A múmia",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronin'den Mumya",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronini muumia",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lee Cronino MUMIJA",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Li Kroninin Mumiyası",
-                "country": {
-                  "id": "AZ",
-                  "text": "Azerbaijan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Maldição da Múmia",
+                "text": "Pela Metade",
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
@@ -1526,685 +377,44 @@
             },
             {
               "node": {
-                "text": "Một Bộ Phim Của Lee Cronin: Xác Ướp",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MUMIA de la Lee Cronin",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mumia: Film Lee Cronina",
+                "text": "Półbrat",
                 "country": {
                   "id": "PL",
                   "text": "Poland"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Mumija: Film Lija Kronina",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mūmija. Lī Kronina filma",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Η μούμια",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Η μούμια του Λι Κρόνιν",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мумія Лі Кроніна",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ली क्रोनिन्स द ममी",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ザ・マミー 棺の中の少女",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                }
-              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "The young daughter of a journalist disappears into the desert without a trace. Eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare."
+            "plain_text": "Ruben turns up at his estranged brother (Niall)'s wedding, acting as a catalyst for a revival of the last 40 years of their relationship."
           }
         },
         "primary_image": {
-          "id": "rm1691079682",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc@._V1_.jpg",
-          "width": 2024,
-          "height": 3000
+          "id": "rm1523832322",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTgyNDIxMDEtOTQ3OC00ZTBjLTllNTEtMDMxYmJhNjhlOTliXkEyXkFqcGc@._V1_.jpg",
+          "width": 720,
+          "height": 900
         },
         "meter_ranking": {
-          "current_rank": 15,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 37
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 6.4,
-          "vote_count": 623
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 4,
-          "day": 17
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Mummy"
-        },
-        "runtime": {
-          "seconds": 7980
-        }
-      },
-      {
-        "id": "tt27200708",
-        "title_text": {
-          "text": "Mother Mary"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mother Mary",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мать Мария",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "魅影巨星",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer, Sam Anselm, on the eve of her comeback performance."
-          }
-        },
-        "primary_image": {
-          "id": "rm488874242",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_.jpg",
-          "width": 3240,
-          "height": 4800
-        },
-        "meter_ranking": {
-          "current_rank": 88,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 39
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 3.5,
-          "vote_count": 472
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 4,
-          "day": 17
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Music"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Mother Mary"
-        },
-        "runtime": {
-          "seconds": 6720
-        }
-      },
-      {
-        "id": "tt31137273",
-        "title_text": {
-          "text": "Margo's Got Money Troubles"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo's Got Money Troubles",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo tiene problemas de dinero",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo tiene problemas de dinero",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo bajban van",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo e a Falta de Dinheiro",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margô Está em Apuros",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo jest spłukana",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Margo Tem Problemas de Dinheiro",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "У Марго проблеми з грошима",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "瑪歌沒錢途",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A young mother struggles to make ends meet. When her estranged father offers help, she starts an OnlyFans account using his advice from pro wrestling. Though successful, she wonders if Internet fame comes at too high a cost."
-          }
-        },
-        "primary_image": {
-          "id": "rm3714700802",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTI2NDRhZWUtZDQwOC00OTk1LTk3Y2QtNmFlZjczOTMyZjM5XkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 119,
+          "current_rank": 165,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 168
+            "change_direction": "DOWN",
+            "difference": 66
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.9,
-          "vote_count": 634
+          "vote_count": 0
         },
         "release_date": {
           "year": 2026,
           "month": 4,
-          "day": 15
+          "day": 23
         },
         "title_genres": {
           "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
             {
               "genre": {
                 "text": "Drama"
@@ -2216,10 +426,7 @@
           "rating": "TV-MA"
         },
         "original_title_text": {
-          "text": "Margo's Got Money Troubles"
-        },
-        "runtime": {
-          "seconds": 2400
+          "text": "Half Man"
         }
       },
       {
@@ -2342,6 +549,15 @@
             },
             {
               "node": {
+                "text": "Alfa",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Csúcsragadozó",
                 "country": {
                   "id": "HU",
@@ -2402,11 +618,11 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 128,
+          "current_rank": 106,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 119
+            "difference": 22
           }
         },
         "ratings_summary": {
@@ -2816,8 +1032,8 @@
           "current_rank": 10,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 32
+            "change_direction": "FLAT",
+            "difference": 0
           }
         },
         "ratings_summary": {
@@ -2860,6 +1076,1979 @@
         },
         "runtime": {
           "seconds": 7620
+        }
+      },
+      {
+        "id": "tt14403178",
+        "title_text": {
+          "text": "Beef"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2023
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bronca",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bronca",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bronca",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bronca",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Acharnés",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Acharnés",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Awantura",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Balhé",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bất Hoà",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beef: Lo scontro",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Rixa",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Treta",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Грызня",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Сварка",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ビーフ",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "怒呛人生",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "怒嗆人生",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A minor conflict spirals into a consuming feud between two individuals, exposing pride, resentment, and hidden pain."
+          }
+        },
+        "primary_image": {
+          "id": "rm2973816578",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGNlNDkyYzItNTg5Yy00NGFiLWJhYTctODE5NjNkYjk4ZDUwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 3,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 64
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.0,
+          "vote_count": 165213
+        },
+        "release_date": {
+          "year": 2023,
+          "month": 4,
+          "day": 6
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Beef"
+        },
+        "runtime": {
+          "seconds": 1800
+        }
+      },
+      {
+        "id": "tt8772296",
+        "title_text": {
+          "text": "Euphoria"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2019
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euphoria",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euforija",
+                "country": {
+                  "id": "BA",
+                  "text": "Bosnia and Herzegovina"
+                },
+                "language": {
+                  "text": "Croatian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euforija",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euforija",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euforia",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euforia",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Eufória",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Eufória",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coşku",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Eufooria",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Euforie",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Phê Pha",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ευφορία",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ейфорія",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Еуфорија",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Еуфория",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Эйфория",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "نشوة",
+                "country": {
+                  "id": "AE",
+                  "text": "United Arab Emirates"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "亢奋",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "毒癮女孩",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "高校十八禁",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence."
+          }
+        },
+        "primary_image": {
+          "id": "rm3325023746",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzg5MTVmNjgtMGQ3Zi00YThlLWFjMzgtYzc2NGUyMzE2MWQ1XkEyXkFqcGc@._V1_.jpg",
+          "width": 510,
+          "height": 755
+        },
+        "meter_ranking": {
+          "current_rank": 5,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 1
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.2,
+          "vote_count": 299004
+        },
+        "release_date": {
+          "year": 2019,
+          "month": 6,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Euphoria"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt32612507",
+        "title_text": {
+          "text": "Lee Cronin's The Mummy"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin's The Mummy",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La posesión de la momia",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La posesión de la momia",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La posesión de la momia",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La posesión de la momia",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La posesión de la momia",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La posesión de la momia",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La posesión de la momia",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin: Mumie",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin: Mumie",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mumija: Film Leeja Cronina",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mumija: Film Leeja Cronina",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Mummy",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Mummy",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мумия Ли Кронина",
+                "country": {
+                  "id": "KG",
+                  "text": "Kyrgyzstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мумия Ли Кронина",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Múmia, de Lee Cronin",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La momia de Lee Cronin",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La momie: un film de Lee Cronin",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La mummia di Lee Cronin",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Posesión de la Monja",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Le réveil de la momie",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin: A múmia",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronin'den Mumya",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronini muumia",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lee Cronino MUMIJA",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Li Kroninin Mumiyası",
+                "country": {
+                  "id": "AZ",
+                  "text": "Azerbaijan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Maldição da Múmia",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Một Bộ Phim Của Lee Cronin: Xác Ướp",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MUMIA de la Lee Cronin",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mumia: Film Lee Cronina",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mumija: Film Lija Kronina",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mūmija. Lī Kronina filma",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Mummy: A Lee Cronin Film",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Η μούμια",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Η μούμια του Λι Κρόνιν",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мумия",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мумія Лі Кроніна",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ली क्रोनिन्स द ममी",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ザ・マミー 棺の中の少女",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "李克寧 墓乃伊",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "The young daughter of a journalist disappears into the desert without a trace. Eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare."
+          }
+        },
+        "primary_image": {
+          "id": "rm1691079682",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWQ1NzI2YTUtN2E0ZS00YzVmLTkxNjktMWIzNTYwMzkyOTU0XkEyXkFqcGc@._V1_.jpg",
+          "width": 2024,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 2,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 13
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.4,
+          "vote_count": 8459
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 4,
+          "day": 17
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Mummy"
+        },
+        "runtime": {
+          "seconds": 8040
+        }
+      },
+      {
+        "id": "tt27200708",
+        "title_text": {
+          "text": "Mother Mary"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mother Mary",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Māte Marija",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Meryem Ana",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мать Мария",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "魅影巨星",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer, Sam Anselm, on the eve of her comeback performance."
+          }
+        },
+        "primary_image": {
+          "id": "rm488874242",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_.jpg",
+          "width": 3240,
+          "height": 4800
+        },
+        "meter_ranking": {
+          "current_rank": 44,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 44
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 5,
+          "day": 21
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Music"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Mother Mary"
+        },
+        "runtime": {
+          "seconds": 6720
+        }
+      },
+      {
+        "id": "tt31137273",
+        "title_text": {
+          "text": "Margo's Got Money Troubles"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo's Got Money Troubles",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo tiene problemas de dinero",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo tiene problemas de dinero",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo bajban van",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo e a Falta de Dinheiro",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margô Está em Apuros",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo ha problemi di soldi",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo jest spłukana",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Margo Tem Problemas de Dinheiro",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Only Margo",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "У Марго проблеми з грошима",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "У Марго проблемы с деньгами",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "瑪歌沒錢途",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A young mother struggles to make ends meet. When her estranged father offers help, she starts an OnlyFans account using his advice from pro wrestling. Though successful, she wonders if Internet fame comes at too high a cost."
+          }
+        },
+        "primary_image": {
+          "id": "rm3714700802",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTI2NDRhZWUtZDQwOC00OTk1LTk3Y2QtNmFlZjczOTMyZjM5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 7,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 112
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.0,
+          "vote_count": 1499
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 4,
+          "day": 15
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Margo's Got Money Troubles"
+        },
+        "runtime": {
+          "seconds": 2400
         }
       },
       {
@@ -2948,27 +3137,6 @@
               "node": {
                 "text": "The Boys",
                 "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Boys",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Boys",
-                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -2996,44 +3164,8 @@
               "node": {
                 "text": "The Boys",
                 "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Boys",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Boys",
-                "country": {
                   "id": "IE",
                   "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Boys",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
                 },
                 "language": {
                   "text": "English"
@@ -3107,6 +3239,18 @@
               "node": {
                 "text": "The Boys",
                 "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Boys",
+                "country": {
                   "id": "PH",
                   "text": "Philippines"
                 },
@@ -3151,18 +3295,6 @@
                 "country": {
                   "id": "SG",
                   "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Boys",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
                 },
                 "language": {
                   "text": "English"
@@ -3390,13 +3522,13 @@
           "current_rank": 1,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 13
+            "change_direction": "FLAT",
+            "difference": 0
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.6,
-          "vote_count": 854192
+          "vote_count": 856944
         },
         "release_date": {
           "year": 2019,
@@ -3664,16 +3796,16 @@
           "height": 4000
         },
         "meter_ranking": {
-          "current_rank": 7,
+          "current_rank": 11,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 75
+            "change_direction": "DOWN",
+            "difference": 4
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 1708
+          "vote_count": 2191
         },
         "release_date": {
           "year": 2026,
@@ -3893,16 +4025,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 3821,
+          "current_rank": 3276,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 1846
+            "difference": 545
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.7,
-          "vote_count": 78
+          "aggregate_rating": 7.3,
+          "vote_count": 108
         },
         "release_date": {
           "year": 2026,
@@ -4089,16 +4221,16 @@
           "height": 4444
         },
         "meter_ranking": {
-          "current_rank": 141,
+          "current_rank": 78,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 98
+            "difference": 63
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.1,
-          "vote_count": 375
+          "aggregate_rating": 5.4,
+          "vote_count": 558
         },
         "release_date": {
           "year": 2026,
@@ -4578,16 +4710,16 @@
           "height": 2500
         },
         "meter_ranking": {
-          "current_rank": 3,
+          "current_rank": 6,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 1
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.4,
-          "vote_count": 33338
+          "vote_count": 37985
         },
         "release_date": {
           "year": 2026,
@@ -5032,16 +5164,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 4,
+          "current_rank": 7,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "FLAT",
-            "difference": 0
+            "change_direction": "DOWN",
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 26733
+          "vote_count": 32974
         },
         "release_date": {
           "year": 2026,
@@ -5197,6 +5329,42 @@
             },
             {
               "node": {
+                "text": "Your Friends & Neighbours",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbours",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbours",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Amigos e Vizinhos",
                 "country": {
                   "id": "PT",
@@ -5272,18 +5440,6 @@
             },
             {
               "node": {
-                "text": "Your Friends & Neighbours",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Znajomi i sąsiedzi",
                 "country": {
                   "id": "PL",
@@ -5341,16 +5497,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 18,
+          "current_rank": 15,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 5
+            "change_direction": "UP",
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 51378
+          "vote_count": 52019
         },
         "release_date": {
           "year": 2025,
@@ -5452,27 +5608,6 @@
               "node": {
                 "text": "Outlander",
                 "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Outlander",
-                "country": {
-                  "id": "EG",
-                  "text": "Egypt"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Outlander",
-                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -5500,20 +5635,8 @@
               "node": {
                 "text": "Outlander",
                 "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Outlander",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
+                  "id": "IE",
+                  "text": "Ireland"
                 },
                 "language": {
                   "text": "English"
@@ -5575,6 +5698,18 @@
               "node": {
                 "text": "Outlander",
                 "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Outlander",
+                "country": {
                   "id": "PH",
                   "text": "Philippines"
                 },
@@ -5607,18 +5742,6 @@
                 "country": {
                   "id": "SG",
                   "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Outlander",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
                 },
                 "language": {
                   "text": "English"
@@ -5885,16 +6008,16 @@
           "height": 1800
         },
         "meter_ranking": {
-          "current_rank": 37,
+          "current_rank": 26,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 3
+            "change_direction": "UP",
+            "difference": 11
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 199564
+          "vote_count": 199760
         },
         "release_date": {
           "year": 2014,
@@ -5937,6 +6060,174 @@
       }
     ],
     "names": [
+      {
+        "id": "nm6876120",
+        "name_text": {
+          "text": "Richard Gadd"
+        },
+        "primary_image": {
+          "id": "rm1574205441",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmJmMTJlNGUtOGNkOS00Mzc3LTk0YmEtMGU2YTY3ZTViMzdlXkEyXkFqcGc@._V1_.jpg",
+          "width": 5008,
+          "height": 6261
+        }
+      },
+      {
+        "id": "nm0068260",
+        "name_text": {
+          "text": "Jamie Bell"
+        },
+        "primary_image": {
+          "id": "rm1086162945",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzMyNjU5N2YtNDg5NC00YTMwLThiOTItMjEwYmQzM2Y3MGYwXkEyXkFqcGc@._V1_.jpg",
+          "width": 4000,
+          "height": 6000
+        }
+      },
+      {
+        "id": "nm0570679",
+        "name_text": {
+          "text": "Neve McIntosh"
+        },
+        "primary_image": {
+          "id": "rm3174934272",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY1MTgwMDEzMV5BMl5BanBnXkFtZTcwMDg2OTg1OQ@@._V1_.jpg",
+          "width": 472,
+          "height": 600
+        }
+      },
+      {
+        "id": "nm12794521",
+        "name_text": {
+          "text": "Mitchell Robertson"
+        },
+        "primary_image": {
+          "id": "rm1114887682",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmMwMzUyNjYtZWIyMC00ZWI1LTg4MmQtMjMyNjkxYTE2ODkyXkEyXkFqcGc@._V1_.jpg",
+          "width": 7812,
+          "height": 5207
+        }
+      },
+      {
+        "id": "nm5458478",
+        "name_text": {
+          "text": "Stuart Campbell"
+        },
+        "primary_image": {
+          "id": "rm3516059650",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTNhMmZmN2YtZTczYi00NDhjLTg0ZTMtZmZlZGZiOTdhYjc0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1920,
+          "height": 1280
+        }
+      },
+      {
+        "id": "nm0000234",
+        "name_text": {
+          "text": "Charlize Theron"
+        },
+        "primary_image": {
+          "id": "rm2942012672",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_.jpg",
+          "width": 300,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm5473782",
+        "name_text": {
+          "text": "Taron Egerton"
+        },
+        "primary_image": {
+          "id": "rm167604481",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGRmZTVmMTEtOGY5Yy00NTQ4LThjYmItYmQxYzlhMmY1YWZjXkEyXkFqcGc@._V1_.jpg",
+          "width": 4087,
+          "height": 5108
+        }
+      },
+      {
+        "id": "nm0051509",
+        "name_text": {
+          "text": "Eric Bana"
+        },
+        "primary_image": {
+          "id": "rm655430657",
+          "url": "https://m.media-amazon.com/images/M/MV5BODQ1ZDc2NWYtNzI0Yi00YTllLTgyMGQtZjMwNDcyOGE4OWQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2400,
+          "height": 3600
+        }
+      },
+      {
+        "id": "nm4170484",
+        "name_text": {
+          "text": "Jaafar Jackson"
+        },
+        "primary_image": {
+          "id": "rm904435458",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWFhZjFkOGItNGE5MC00M2Y0LWExN2MtMWZmZTI3MzkyOTVhXkEyXkFqcGc@._V1_CR331,11,1081,1621_.jpg",
+          "width": 1081,
+          "height": 1621
+        }
+      },
+      {
+        "id": "nm0231458",
+        "name_text": {
+          "text": "Colman Domingo"
+        },
+        "primary_image": {
+          "id": "rm460738817",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_.jpg",
+          "width": 1280,
+          "height": 852
+        }
+      },
+      {
+        "id": "nm0000505",
+        "name_text": {
+          "text": "Nia Long"
+        },
+        "primary_image": {
+          "id": "rm2190440449",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGE5ZWM5NjUtZDMzMi00OTY2LTg4MWEtNjljN2JhM2JjOTRmXkEyXkFqcGc@._V1_.jpg",
+          "width": 3336,
+          "height": 3600
+        }
+      },
+      {
+        "id": "nm1886602",
+        "name_text": {
+          "text": "Miles Teller"
+        },
+        "primary_image": {
+          "id": "rm462624001",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWI3YWY1NWQtNDVhMy00ZWE1LWI2MzUtOTczNTg5MTllZmNjXkEyXkFqcGc@._V1_.jpg",
+          "width": 2433,
+          "height": 3611
+        }
+      },
+      {
+        "id": "nm13303880",
+        "name_text": {
+          "text": "Juliano Valdi"
+        },
+        "primary_image": {
+          "id": "rm1531619586",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGE0N2U0MDgtYWViZC00ZThkLWExNjYtODc4OTBlYWVmODJiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1620
+        }
+      },
+      {
+        "id": "nm5637553",
+        "name_text": {
+          "text": "Laura Harrier"
+        },
+        "primary_image": {
+          "id": "rm4239296002",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTM4Nzg2YTMtZjMzMS00ZTdlLWFhNDgtN2FlMTM1YmU3OTI2XkEyXkFqcGc@._V1_.jpg",
+          "width": 3872,
+          "height": 5808
+        }
+      },
       {
         "id": "nm1209966",
         "name_text": {
@@ -6187,114 +6478,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMTk1MjM5NDg4MF5BMl5BanBnXkFtZTcwNDg1OTQ4Nw@@._V1_.jpg",
           "width": 1404,
           "height": 1902
-        }
-      },
-      {
-        "id": "nm0000234",
-        "name_text": {
-          "text": "Charlize Theron"
-        },
-        "primary_image": {
-          "id": "rm2942012672",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTk5Mzc4ODU0Ml5BMl5BanBnXkFtZTcwNjU1NTI0Mw@@._V1_.jpg",
-          "width": 300,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm5473782",
-        "name_text": {
-          "text": "Taron Egerton"
-        },
-        "primary_image": {
-          "id": "rm167604481",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGRmZTVmMTEtOGY5Yy00NTQ4LThjYmItYmQxYzlhMmY1YWZjXkEyXkFqcGc@._V1_.jpg",
-          "width": 4087,
-          "height": 5108
-        }
-      },
-      {
-        "id": "nm0051509",
-        "name_text": {
-          "text": "Eric Bana"
-        },
-        "primary_image": {
-          "id": "rm655430657",
-          "url": "https://m.media-amazon.com/images/M/MV5BODQ1ZDc2NWYtNzI0Yi00YTllLTgyMGQtZjMwNDcyOGE4OWQ5XkEyXkFqcGc@._V1_.jpg",
-          "width": 2400,
-          "height": 3600
-        }
-      },
-      {
-        "id": "nm4170484",
-        "name_text": {
-          "text": "Jaafar Jackson"
-        },
-        "primary_image": {
-          "id": "rm904435458",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWFhZjFkOGItNGE5MC00M2Y0LWExN2MtMWZmZTI3MzkyOTVhXkEyXkFqcGc@._V1_CR331,11,1081,1621_.jpg",
-          "width": 1081,
-          "height": 1621
-        }
-      },
-      {
-        "id": "nm0231458",
-        "name_text": {
-          "text": "Colman Domingo"
-        },
-        "primary_image": {
-          "id": "rm460738817",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_.jpg",
-          "width": 1280,
-          "height": 852
-        }
-      },
-      {
-        "id": "nm0000505",
-        "name_text": {
-          "text": "Nia Long"
-        },
-        "primary_image": {
-          "id": "rm2190440449",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGE5ZWM5NjUtZDMzMi00OTY2LTg4MWEtNjljN2JhM2JjOTRmXkEyXkFqcGc@._V1_.jpg",
-          "width": 3336,
-          "height": 3600
-        }
-      },
-      {
-        "id": "nm1886602",
-        "name_text": {
-          "text": "Miles Teller"
-        },
-        "primary_image": {
-          "id": "rm462624001",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWI3YWY1NWQtNDVhMy00ZWE1LWI2MzUtOTczNTg5MTllZmNjXkEyXkFqcGc@._V1_.jpg",
-          "width": 2433,
-          "height": 3611
-        }
-      },
-      {
-        "id": "nm13303880",
-        "name_text": {
-          "text": "Juliano Valdi"
-        },
-        "primary_image": {
-          "id": "rm1531619586",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGE0N2U0MDgtYWViZC00ZThkLWExNjYtODc4OTBlYWVmODJiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1620
-        }
-      },
-      {
-        "id": "nm5637553",
-        "name_text": {
-          "text": "Laura Harrier"
-        },
-        "primary_image": {
-          "id": "rm4239296002",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTM4Nzg2YTMtZjMzMS00ZTdlLWFhNDgtN2FlMTM1YmU3OTI2XkEyXkFqcGc@._V1_.jpg",
-          "width": 3872,
-          "height": 5808
         }
       },
       {
@@ -6757,6 +6940,24 @@
     "videos": [],
     "images": [
       {
+        "id": "rm3549614082",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIzZWM0MzQtOWM4ZC00ZDY5LTk5NzctNzJkMTA4MjAxNzk5XkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "id": "rm251110658",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDU0YjJiMDctMDI0Yy00ZjliLWExMzktNDA1MDFmNTFjMWMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 7200,
+        "height": 4800
+      },
+      {
+        "id": "rm2387400194",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWEwODdhODQtNTJiNC00YjlkLWI5ZjgtMGQ2MTYyZTY4MWMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 1996
+      },
+      {
         "id": "rm186505218",
         "url": "https://m.media-amazon.com/images/M/MV5BYzRhOTQxZDctNGM4MC00YWZkLTliNGItNDk2NTEwNmEwNzcyXkEyXkFqcGc@._V1_.jpg",
         "width": 4200,
@@ -6785,18 +6986,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BMWNmNTMwYTgtYzU0ZS00MWU1LTk1YjAtZmNjNjAwMjJmNTdjXkEyXkFqcGc@._V1_.jpg",
         "width": 6000,
         "height": 4000
-      },
-      {
-        "id": "rm251110658",
-        "url": "https://m.media-amazon.com/images/M/MV5BMDU0YjJiMDctMDI0Yy00ZjliLWExMzktNDA1MDFmNTFjMWMxXkEyXkFqcGc@._V1_.jpg",
-        "width": 7200,
-        "height": 4800
-      },
-      {
-        "id": "rm2387400194",
-        "url": "https://m.media-amazon.com/images/M/MV5BOWEwODdhODQtNTJiNC00YjlkLWI5ZjgtMGQ2MTYyZTY4MWMxXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 1996
       },
       {
         "id": "rm3799437314",
