@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-04-22 06:33:18",
+  "updated_at": "2026-04-25 14:47:52",
   "entries": [
+    {
+      "name": "Michael",
+      "ttconst": "tt11378946",
+      "rmconst": "rm2387400194",
+      "detail": "In theaters April 24",
+      "description": "Michael Jackson’s long-awaited big screen biopic finally lands in theaters this spring, and the stakes couldn’t be higher. As recent big-screen biopics <i>Bob Marley: One Love</i>, <i>Rocketman</i>, and <i>Bohemian Rhapsody</i> reinforced, fans will fill theaters to see their favorite music icons’ stories on the silver screen, and no musician has had a global impact like the King of Pop. Tracing the singer’s meteoric rise to stardom in the Jackson 5 to his unprecedented solo career, Jackson is played by real-life nephew Jaafar Jackson, whose performance dazzled attendees at Cinemacon back in April. Despite the positive buzz, <i>Michael</i> comes with some risk, as Lionsgate and director Antoine Fuqua (<i>Training Day</i>) attempt to give fans a spectacle that honors the star’s legacy while also addressing his real-life controversies. — <i>James</i>",
+      "relatedconst": [
+        "nm4170484",
+        "nm0231458",
+        "nm0000505",
+        "nm1886602",
+        "nm13303880",
+        "nm5637553"
+      ],
+      "viconst": "vi754633497"
+    },
     {
       "name": "Half Man",
       "ttconst": "tt32767294",
@@ -28,22 +44,6 @@
         "nm0051509"
       ],
       "viconst": "vi1890568985"
-    },
-    {
-      "name": "Michael",
-      "ttconst": "tt11378946",
-      "rmconst": "rm2387400194",
-      "detail": "In theaters April 24",
-      "description": "Michael Jackson’s long-awaited big screen biopic finally lands in theaters this spring, and the stakes couldn’t be higher. As recent big-screen biopics <i>Bob Marley: One Love</i>, <i>Rocketman</i>, and <i>Bohemian Rhapsody</i> reinforced, fans will fill theaters to see their favorite music icons’ stories on the silver screen, and no musician has had a global impact like the King of Pop. Tracing the singer’s meteoric rise to stardom in the Jackson 5 to his unprecedented solo career, Jackson is played by real-life nephew Jaafar Jackson, whose performance dazzled attendees at Cinemacon back in April. Despite the positive buzz, <i>Michael</i> comes with some risk, as Lionsgate and director Antoine Fuqua (<i>Training Day</i>) attempt to give fans a spectacle that honors the star’s legacy while also addressing his real-life controversies. — <i>James</i>",
-      "relatedconst": [
-        "nm4170484",
-        "nm0231458",
-        "nm0000505",
-        "nm1886602",
-        "nm13303880",
-        "nm5637553"
-      ],
-      "viconst": "vi754633497"
     },
     {
       "name": "Beef",
@@ -107,7 +107,7 @@
       "ttconst": "tt31137273",
       "rmconst": "rm3979978242",
       "detail": "Streaming on Apple TV+",
-      "description": "I’m no alchemist, but this new Elle Fanning dramedy feels like it has all the right ingredients to make TV gold. Aside from Elle (who we love, obvi), the show sports a whopping A-list cast and was written by David E. Kelly. If you don’t recognize his name, take a minute to scroll his IMDb page. He’s responsible for everything from “Big Little Lies” and “Love & Death” to “Nine Perfect Strangers” and “The Lincoln Lawyer,” so you know you’re going to be in good narrative hands. As for the plot of a young mother turning to Only Fans to make a living? In this economy? I say, get your money, girl. — <i>Adrienne</i>",
+      "description": "I’m no alchemist, but this new Elle Fanning dramedy feels like it has all the right ingredients to make TV gold. Aside from Elle (who we love, obvi), the show sports a whopping A-list cast and was written by David E. Kelly. If you don’t recognize his name, take a minute to scroll his IMDb page. He’s responsible for everything from “Big Little Lies” and “Love &amp; Death” to “Nine Perfect Strangers” and “The Lincoln Lawyer,” so you know you’re going to be in good narrative hands. As for the plot of a young mother turning to Only Fans to make a living? In this economy? I say, get your money, girl. — <i>Adrienne</i>",
       "relatedconst": [
         "nm1102577",
         "nm0644406",
@@ -236,424 +236,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt32767294",
-        "title_text": {
-          "text": "Half Man"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Half Man",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lions",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Pela Metade",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Półbrat",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Ruben turns up at his estranged brother (Niall)'s wedding, acting as a catalyst for a revival of the last 40 years of their relationship."
-          }
-        },
-        "primary_image": {
-          "id": "rm1523832322",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTgyNDIxMDEtOTQ3OC00ZTBjLTllNTEtMDMxYmJhNjhlOTliXkEyXkFqcGc@._V1_.jpg",
-          "width": 720,
-          "height": 900
-        },
-        "meter_ranking": {
-          "current_rank": 165,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 66
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 4,
-          "day": 23
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Half Man"
-        }
-      },
-      {
-        "id": "tt16431404",
-        "title_text": {
-          "text": "Apex"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Apex",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Alfa",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Csúcsragadozó",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Depredador dominante",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Jogo do Predador",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Predador Dominante",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "巅峰猎杀",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "When an adrenaline junkie sets out to conquer a menacing river, she discovers that nature isn't the only thing out for blood."
-          }
-        },
-        "primary_image": {
-          "id": "rm261346818",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjUzODE2ZWYtMDdiMS00ZTA0LWI4MzEtNDkyODNiNmIwMWY1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 106,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 22
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 4,
-          "day": 24
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Apex"
-        }
-      },
       {
         "id": "tt11378946",
         "title_text": {
@@ -938,6 +520,15 @@
               "node": {
                 "text": "Michael",
                 "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Michael",
+                "country": {
                   "id": "ZA",
                   "text": "South Africa"
                 },
@@ -1037,7 +628,8 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.6,
+          "vote_count": 11271
         },
         "release_date": {
           "year": 2026,
@@ -1076,6 +668,437 @@
         },
         "runtime": {
           "seconds": 7620
+        }
+      },
+      {
+        "id": "tt32767294",
+        "title_text": {
+          "text": "Half Man"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Half Man",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fivérség",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lions",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pela Metade",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Półbrat",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Ruben turns up at his estranged brother (Niall)'s wedding, acting as a catalyst for a revival of the last 40 years of their relationship."
+          }
+        },
+        "primary_image": {
+          "id": "rm2337262082",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmM3ZDgwNmItYTc4Mi00MTk4LWEwMWMtNjliZGQ4NTlkZGMzXkEyXkFqcGc@._V1_.jpg",
+          "width": 510,
+          "height": 755
+        },
+        "meter_ranking": {
+          "current_rank": 165,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 66
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.3,
+          "vote_count": 96
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 4,
+          "day": 23
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Half Man"
+        }
+      },
+      {
+        "id": "tt16431404",
+        "title_text": {
+          "text": "Apex"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Apex",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Alfa",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Csúcsragadozó",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Depredador dominante",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Jogo do Predador",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Predador Dominante",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "巅峰猎杀",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "When an adrenaline junkie sets out to conquer a menacing river, she discovers that nature isn't the only thing out for blood."
+          }
+        },
+        "primary_image": {
+          "id": "rm261346818",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjUzODE2ZWYtMDdiMS00ZTA0LWI4MzEtNDkyODNiNmIwMWY1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 106,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 22
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 4,
+          "day": 24
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Apex"
+        },
+        "runtime": {
+          "seconds": 5700
         }
       },
       {
@@ -1408,7 +1431,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.0,
-          "vote_count": 165213
+          "vote_count": 166290
         },
         "release_date": {
           "year": 2023,
@@ -1907,7 +1930,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.2,
-          "vote_count": 299004
+          "vote_count": 299594
         },
         "release_date": {
           "year": 2019,
@@ -2449,7 +2472,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.4,
-          "vote_count": 8459
+          "vote_count": 11043
         },
         "release_date": {
           "year": 2026,
@@ -2714,12 +2737,13 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 5.2,
+          "vote_count": 847
         },
         "release_date": {
           "year": 2026,
-          "month": 5,
-          "day": 21
+          "month": 4,
+          "day": 24
         },
         "title_genres": {
           "genres": [
@@ -3019,8 +3043,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.0,
-          "vote_count": 1499
+          "aggregate_rating": 7.1,
+          "vote_count": 1923
         },
         "release_date": {
           "year": 2026,
@@ -3528,7 +3552,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.6,
-          "vote_count": 856944
+          "vote_count": 858539
         },
         "release_date": {
           "year": 2019,
@@ -3593,15 +3617,6 @@
                 "country": {
                   "id": "AU",
                   "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Testaments",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
                 }
               }
             },
@@ -3739,6 +3754,15 @@
             },
             {
               "node": {
+                "text": "Os Testamentos: Das Filhas De Gilead",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Testamentumok",
                 "country": {
                   "id": "HU",
@@ -3805,7 +3829,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 2191
+          "vote_count": 2478
         },
         "release_date": {
           "year": 2026,
@@ -4033,8 +4057,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.3,
-          "vote_count": 108
+          "aggregate_rating": 7.4,
+          "vote_count": 116
         },
         "release_date": {
           "year": 2026,
@@ -4230,7 +4254,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 5.4,
-          "vote_count": 558
+          "vote_count": 610
         },
         "release_date": {
           "year": 2026,
@@ -4719,7 +4743,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.4,
-          "vote_count": 37985
+          "vote_count": 39356
         },
         "release_date": {
           "year": 2026,
@@ -5173,7 +5197,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 32974
+          "vote_count": 35327
         },
         "release_date": {
           "year": 2026,
@@ -5224,10 +5248,97 @@
           "edges": [
             {
               "node": {
-                "text": "Your Friends and Neighbors",
+                "text": "Your Friends & Neighbors",
                 "country": {
                   "id": "AU",
                   "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Your Friends & Neighbors",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -5262,15 +5373,6 @@
               "node": {
                 "text": "Your Friends and Neighbors",
                 "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends and Neighbors",
-                "country": {
                   "id": "IT",
                   "text": "Italy"
                 }
@@ -5282,84 +5384,6 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends & Neighbors",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends & Neighbors",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends & Neighbors",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends & Neighbors",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends & Neighbours",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends & Neighbours",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Your Friends & Neighbours",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -5506,7 +5530,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 52019
+          "vote_count": 52283
         },
         "release_date": {
           "year": 2025,
@@ -6017,7 +6041,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 199760
+          "vote_count": 199856
         },
         "release_date": {
           "year": 2014,
@@ -6060,6 +6084,78 @@
       }
     ],
     "names": [
+      {
+        "id": "nm4170484",
+        "name_text": {
+          "text": "Jaafar Jackson"
+        },
+        "primary_image": {
+          "id": "rm904435458",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWFhZjFkOGItNGE5MC00M2Y0LWExN2MtMWZmZTI3MzkyOTVhXkEyXkFqcGc@._V1_CR331,11,1081,1621_.jpg",
+          "width": 1081,
+          "height": 1621
+        }
+      },
+      {
+        "id": "nm0231458",
+        "name_text": {
+          "text": "Colman Domingo"
+        },
+        "primary_image": {
+          "id": "rm460738817",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_.jpg",
+          "width": 1280,
+          "height": 852
+        }
+      },
+      {
+        "id": "nm0000505",
+        "name_text": {
+          "text": "Nia Long"
+        },
+        "primary_image": {
+          "id": "rm2190440449",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGE5ZWM5NjUtZDMzMi00OTY2LTg4MWEtNjljN2JhM2JjOTRmXkEyXkFqcGc@._V1_.jpg",
+          "width": 3336,
+          "height": 3600
+        }
+      },
+      {
+        "id": "nm1886602",
+        "name_text": {
+          "text": "Miles Teller"
+        },
+        "primary_image": {
+          "id": "rm462624001",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWI3YWY1NWQtNDVhMy00ZWE1LWI2MzUtOTczNTg5MTllZmNjXkEyXkFqcGc@._V1_.jpg",
+          "width": 2433,
+          "height": 3611
+        }
+      },
+      {
+        "id": "nm13303880",
+        "name_text": {
+          "text": "Juliano Valdi"
+        },
+        "primary_image": {
+          "id": "rm1531619586",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGE0N2U0MDgtYWViZC00ZThkLWExNjYtODc4OTBlYWVmODJiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1620
+        }
+      },
+      {
+        "id": "nm5637553",
+        "name_text": {
+          "text": "Laura Harrier"
+        },
+        "primary_image": {
+          "id": "rm4239296002",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTM4Nzg2YTMtZjMzMS00ZTdlLWFhNDgtN2FlMTM1YmU3OTI2XkEyXkFqcGc@._V1_.jpg",
+          "width": 3872,
+          "height": 5808
+        }
+      },
       {
         "id": "nm6876120",
         "name_text": {
@@ -6154,78 +6250,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BODQ1ZDc2NWYtNzI0Yi00YTllLTgyMGQtZjMwNDcyOGE4OWQ5XkEyXkFqcGc@._V1_.jpg",
           "width": 2400,
           "height": 3600
-        }
-      },
-      {
-        "id": "nm4170484",
-        "name_text": {
-          "text": "Jaafar Jackson"
-        },
-        "primary_image": {
-          "id": "rm904435458",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWFhZjFkOGItNGE5MC00M2Y0LWExN2MtMWZmZTI3MzkyOTVhXkEyXkFqcGc@._V1_CR331,11,1081,1621_.jpg",
-          "width": 1081,
-          "height": 1621
-        }
-      },
-      {
-        "id": "nm0231458",
-        "name_text": {
-          "text": "Colman Domingo"
-        },
-        "primary_image": {
-          "id": "rm460738817",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_.jpg",
-          "width": 1280,
-          "height": 852
-        }
-      },
-      {
-        "id": "nm0000505",
-        "name_text": {
-          "text": "Nia Long"
-        },
-        "primary_image": {
-          "id": "rm2190440449",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGE5ZWM5NjUtZDMzMi00OTY2LTg4MWEtNjljN2JhM2JjOTRmXkEyXkFqcGc@._V1_.jpg",
-          "width": 3336,
-          "height": 3600
-        }
-      },
-      {
-        "id": "nm1886602",
-        "name_text": {
-          "text": "Miles Teller"
-        },
-        "primary_image": {
-          "id": "rm462624001",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWI3YWY1NWQtNDVhMy00ZWE1LWI2MzUtOTczNTg5MTllZmNjXkEyXkFqcGc@._V1_.jpg",
-          "width": 2433,
-          "height": 3611
-        }
-      },
-      {
-        "id": "nm13303880",
-        "name_text": {
-          "text": "Juliano Valdi"
-        },
-        "primary_image": {
-          "id": "rm1531619586",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGE0N2U0MDgtYWViZC00ZThkLWExNjYtODc4OTBlYWVmODJiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1620
-        }
-      },
-      {
-        "id": "nm5637553",
-        "name_text": {
-          "text": "Laura Harrier"
-        },
-        "primary_image": {
-          "id": "rm4239296002",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTM4Nzg2YTMtZjMzMS00ZTdlLWFhNDgtN2FlMTM1YmU3OTI2XkEyXkFqcGc@._V1_.jpg",
-          "width": 3872,
-          "height": 5808
         }
       },
       {
@@ -6940,6 +6964,12 @@
     "videos": [],
     "images": [
       {
+        "id": "rm2387400194",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWEwODdhODQtNTJiNC00YjlkLWI5ZjgtMGQ2MTYyZTY4MWMxXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 1996
+      },
+      {
         "id": "rm3549614082",
         "url": "https://m.media-amazon.com/images/M/MV5BMjIzZWM0MzQtOWM4ZC00ZDY5LTk5NzctNzJkMTA4MjAxNzk5XkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
@@ -6950,12 +6980,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BMDU0YjJiMDctMDI0Yy00ZjliLWExMzktNDA1MDFmNTFjMWMxXkEyXkFqcGc@._V1_.jpg",
         "width": 7200,
         "height": 4800
-      },
-      {
-        "id": "rm2387400194",
-        "url": "https://m.media-amazon.com/images/M/MV5BOWEwODdhODQtNTJiNC00YjlkLWI5ZjgtMGQ2MTYyZTY4MWMxXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 1996
       },
       {
         "id": "rm186505218",
