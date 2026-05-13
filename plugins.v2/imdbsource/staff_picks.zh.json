@@ -1,12 +1,55 @@
 {
-  "updated_at": "2026-05-03 11:22:32",
+  "updated_at": "2026-05-14 06:33:19",
   "entries": [
+    {
+      "name": "真人快打2",
+      "ttconst": "tt17490712",
+      "rmconst": "rm1267323138",
+      "detail": "In theaters",
+      "description": "Karl Urban 加入这部 2021 年奇幻动作电影的续作，这种完美的选角正是我们所支持的。他饰演 Johnny Cage，如果这还不明显的话，他是一个过气的斗士，发现自己被卷入了一场拯救 Earthrealm 免受大反派 Shao Kahn（Outworld 的暴虐皇帝）侵害的战斗。这是第四部 MK 长篇电影，也是导演 Simon McQuoid 重启该系列的第二部。期待大量的动作戏和足以维持剧情推进的情节，看 Cage 和他的团队如何竞赛击败邪恶的皇帝，并希望能 <i>finish him</i>。— <i>Adrienne</i>",
+      "relatedconst": [
+        "nm0881631",
+        "nm3485108",
+        "nm6616259",
+        "nm0760796",
+        "nm3029144",
+        "nm2537621"
+      ],
+      "viconst": "vi1423100697"
+    },
+    {
+      "name": "校园之外",
+      "ttconst": "tt33546863",
+      "rmconst": "rm4072266754",
+      "detail": "Streaming on Prime Video",
+      "description": "虽然 “Off Campus” 正处于 “Heated Rivalry” 带来的聚光灯下，但这部浪漫剧集凭借自身的实力和优点稳稳立足。作家 Elle Kennedy 的小说在我们待在室内的那糟糕的两年里成为了 BookTok 的轰动之作，但至少我们在阅读。如果你对这些书完全陌生，第一部小说讲述了音乐系学生 Hannah Wells 和她大学里的明星冰球运动员 Garrett Graham 之间的假装关系。整个计划是一个诡计，目的是让 Hannah 真正暗恋的对象、同为音乐家和橄榄球运动员的 Justin Kohl 更多地关注她。对该剧的期待正达到 “The Summer I Turned Pretty” 的地位，希望不会出现随之而来的毒性粉丝圈。我的问题是：为什么他们三个人不能约会？现在是 2026 年。— <i>Arno</i>",
+      "relatedconst": [
+        "nm8855592",
+        "nm10155944",
+        "nm3100933",
+        "nm9822646",
+        "nm9780469",
+        "nm9654591"
+      ],
+      "viconst": "vi3442330393"
+    },
+    {
+      "name": "惩罚者：最后一击",
+      "ttconst": "tt36042156",
+      "rmconst": "rm4098085890",
+      "detail": "Streaming on Disney+",
+      "description": "我觉得 Frank Castle 是一个被低估的、道德模糊的银幕男友。说实话，对于这部一小时长的电视电影，我没有太多可说的，除了我爱 Castle，并喜欢看他把坏人打得落花流水。不要以为这是这位义警的最后一次行动，因为我们已经知道他是今年夏天 Spider-Man 全新一天的重要组成部分。— <i>Hillary</i>",
+      "relatedconst": [
+        "nm1256532"
+      ],
+      "viconst": "vi2250296089"
+    },
     {
       "name": "穿普拉达的女王2",
       "ttconst": "tt33612209",
       "rmconst": "rm2907088642",
-      "detail": "In theaters May 1",
-      "description": "这是我整个夏天都想生活在其中的世界版本，时尚界偶像 Miranda Priestly 与她的前助手 Andy 重聚，共同对阵 Miranda 的 <i>other</i> 前助手 Emily，后者已成为 Miranda 的主要竞争对手。这位传奇的 <i>Runway</i> 主编记不住她曾经的任何一名私人助理？这个笑话无懈可击。赞扬制片厂请回了导演 David Frankel 和编剧 Aline Brosh McKenna 拍摄续集，这部续集没有迷失在层层薄纱和 A 级大咖客串中，而是让这部剧情喜剧聚焦在让原版电影百看不厌的三位女性（以及 Stanley Tucci）身上。此外，我绝对不会想念 Nate。—— <i>Arno</i>",
+      "detail": "In theaters",
+      "description": "这是我愿意整个夏天都生活在其中的世界版本，在这个世界里，时尚界偶像 Miranda Priestly 与她的前助手 Andy 重聚，共同对付她的 <i>other</i> 前助手 Emily，后者已成为 Miranda 的主要竞争对手。那位传奇的 <i>Runway</i> 总编辑记不住她曾经的任何一名私人助理的笑话？完美无缺。感谢制片厂请回了导演 David Frankel 和编剧 Aline Brosh McKenna 拍摄续集，这部续集没有迷失在层层叠叠的薄纱和一线明星的客串中，而是让这部剧情喜剧聚焦于让原版电影永远值得重温的三位女性（以及 Stanley Tucci）。而且我完全不会想念 Nate。— <i>Arno</i>",
       "relatedconst": [
         "nm0000658",
         "nm0004266",
@@ -19,8 +62,8 @@
       "name": "幽旅巫咒",
       "ttconst": "tt35672862",
       "rmconst": "rm1782358274",
-      "detail": "In theaters May 1",
-      "description": "在看到第一个充满大眼兔男和幽闭恐惧症餐梯的梦幻预告片后，我就知道 <i>Oddity</i> 编剧兼导演 Damian McCarthy 的最新作品将成为我的必看清单首位。Adam Scott 饰演一位在祭奠已故父母的旅途中，在偏远的爱尔兰旅馆遇到灵异事件的作家。伙计们，我们要进入纯正的民俗恐怖领域了，我只能说算我一个。期待看到令人毛骨悚然的凝视村民、难以捉摸的凶兆警告，以及随着 Scott 螺旋式坠入地狱最黑暗角落的超现实闹鬼事件。—— <i>Adrienne</i>",
+      "detail": "In theaters",
+      "description": "在看到第一个充满大眼兔子人和幽闭恐怖食梯的梦幻预告片后，我就知道 <i>Oddity</i> 编剧兼导演 Damian McCarthy 的最新作品将排在我的 Watchlist 首位。Adam Scott 饰演一位在纪念已故父母的旅途中，在遥远的爱尔兰旅馆开始发生怪事的作家。伙计们，我们要进入纯粹的民俗恐怖领域了，我只能说算我一个。期待令人毛骨悚然的凝视村民、难以捉摸的凶兆，以及随着 Scott 坠入地狱最黑暗角落的超现实闹鬼事件。— <i>Adrienne</i>",
       "relatedconst": [
         "nm0004395",
         "nm0177742",
@@ -32,8 +75,8 @@
       "name": "蝇王",
       "ttconst": "tt27557666",
       "rmconst": "rm3582578946",
-      "detail": "Premieres on Netflix May 4",
-      "description": "海螺在我手里，我说现在正是重新改编 William Golding 关于迷途男孩及其残酷堕落至野蛮状态的经典故事的时候了。我并不孤单。剧集主创 Jack Thorne 表示赞同，他告诉 Netflix 的 Tudum：“作为一个社会，我们现在正在讨论男孩。我们正在失去一代男孩，我们失去他们是因为他们正在吸收仇恨——因为这是对他们孤独和孤立的回答。” Thorne 是曾获 Emmy 和 Golden Globe 的剧集 “Adolescence” 幕后创作二人组的一员，该剧在现代背景下探讨了类似的主题，这使他成为处理这一不幸且具有时效性话题的完美编剧。—— <i>Adrienne</i>",
+      "detail": "Streaming on Netflix",
+      "description": "我拿到了海螺，我说现在正是重新改编 William Golding 关于迷途少年及其残酷堕落为野蛮状态的经典故事的时候了。我并不孤单。剧集主创 Jack Thorne 表示赞同，他告诉 Netflix 的 Tudum，“作为一个社会，我们现在正在进行一场关于男孩的对话。我们正在失去一代男孩，我们失去他们是因为他们摄取的仇恨——因为这是对他们孤独和孤立的回答。” Thorne 是获得艾美奖和金球奖的剧集 “Adolescence” 背后创作双人组的一员，该剧在现代背景下探索了类似的主题，这使他成为处理这个不幸的合时宜话题的完美编剧。— <i>Adrienne</i>",
       "relatedconst": [
         "nm16498399",
         "nm16498397",
@@ -47,8 +90,8 @@
       "name": "极地恶灵",
       "ttconst": "tt2708480",
       "rmconst": "rm2776945922",
-      "detail": "Season 3 premieres May 7 on AMC+ and Shudder",
-      "description": "虽然背景和时期似乎没有联系，但一个主题贯穿于这个恐怖选集系列：当被困于超自然恐怖中时，人与怪物之间的界限开始模糊。第 3 季改编自 Victor LaValle 2012 年的恐怖小说 “Devil in Silver”，讲述了蓝领搬运工 Pepper (Dan Stevens) 的故事，他发现自己被错误地送进了 New Hyde 精神病院，这是一个充满了被社会遗忘的人，甚至可能还有 The Devil 本尊的机构。—— <i>Vanessa</i>",
+      "detail": "Season 3 streaming on AMC+ and Shudder",
+      "description": "虽然背景和时期看起来没有关联，但一个主题贯穿了这部恐怖选集剧集：当被超自然恐怖困住时，人与怪物之间的界限开始模糊。第 3 季改编自 Victor LaValle 2012 年的恐怖小说 “Devil in Silver”，讲述了 Pepper (Dan Stevens)，一个工人阶级的搬运工，发现自己被错误地关进了 New Hyde Psychiatric Hospital，这是一个充满了社会宁愿忘记的人，甚至可能还有魔鬼本人的机构。— <i>Vanessa</i>",
       "relatedconst": [
         "nm1405398",
         "nm0001634",
@@ -59,27 +102,11 @@
       "viconst": "vi623299353"
     },
     {
-      "name": "真人快打2",
-      "ttconst": "tt17490712",
-      "rmconst": "rm1267323138",
-      "detail": "In theaters May 8",
-      "description": "Karl Urban 加入这部 2021 年奇幻动作片的续集卡司，正是我们支持的那种完美选角。他饰演 Johnny Cage，如果这还不明显的话，他是一个过气的格斗家，发现自己被卷入了一场保护 Earthrealm 免受巫师 Shao Kahn 侵害的战斗，后者是 Outworld 的暴君。这是第四部 MK 长篇电影，也是导演 Simon McQuoid 重启该系列的第二部。期待大量的动作戏和足以维持剧情推进的情节，看 Cage 和他的团队如何竞赛击败邪恶的皇帝，并希望能够 <i>finish him</i>。—— <i>Adrienne</i>",
-      "relatedconst": [
-        "nm0881631",
-        "nm3485108",
-        "nm6616259",
-        "nm0760796",
-        "nm3029144",
-        "nm2537621"
-      ],
-      "viconst": "vi1423100697"
-    },
-    {
       "name": "绵羊侦探团",
       "ttconst": "tt32565993",
       "rmconst": "rm2885657602",
-      "detail": "In theaters May 8",
-      "description": "这部改编自小说 <i>Three Bags Full: A Sheep Detective Story</i> 的作品雇佣了年度最强卡司，讲述了一群羊调查它们心爱的牧羊人被杀案的故事。与演员阵容同样令人印象深刻的是，“Chernobyl”/”The Last of Us” 的主创 Craig Mazin 回归了他的喜剧本源来撰写剧本。这部由 Hugh Jackman 饰演被哀悼的牧羊人的电影，在某种程度上也是 X-Men 的重聚：Patrick Stewart 为 Sir Ritchfield 配音，这是一只以思想开小差而闻名的领头公羊。—— <i>Arno</i>",
+      "detail": "In theaters",
+      "description": "这部改编自小说 <i>Three Bags Full: A Sheep Detective Story</i> 的作品采用了年度最佳演员阵容，讲述了一群羊调查它们心爱的牧羊人被杀案的故事。与演员名单同样令人印象深刻的是，“Chernobyl”/”The Last of Us” 的创作者 Craig Mazin 回归了他的喜剧本源来编写剧本。这部由 Hugh Jackman 饰演受哀悼的牧羊人的电影，在某种程度上是 X-Men 的重聚：Patrick Stewart 为 Sir Ritchfield 献声，这是一只以思想开小差而闻名的领头公羊。— <i>Arno</i>",
       "relatedconst": [
         "nm0413168",
         "nm1002609",
@@ -91,22 +118,11 @@
       "viconst": "vi3536833305"
     },
     {
-      "name": "惩罚者：最后一击",
-      "ttconst": "tt36042156",
-      "rmconst": "rm4098085890",
-      "detail": "Premieres on Disney+ May 12",
-      "description": "我觉得 Frank Castle 是一个被低估的、道德模糊的银幕男友。坦白说，对于这部一小时长的电视电影，我没有太多可说的，除了我爱 Frank Castle 并且喜欢看他把坏蛋打得落花流水。别以为这是这位私刑者的最后一次登场，因为我们已经知道他是今年夏天 Spider-Man 全新篇章的重要组成部分。—— <i>Hillary</i>",
-      "relatedconst": [
-        "nm1256532"
-      ],
-      "viconst": "vi2250296089"
-    },
-    {
       "name": "好兆头",
       "ttconst": "tt1869454",
       "rmconst": "rm2539771138",
-      "detail": "Series finale premieres on Prime Video May 13",
-      "description": "这并不是我们想要告别“不可言说的丈夫们” Aziraphale 和 Crowley 的方式，但现实世界的干扰——针对主创 Neil Gaiman 的性行为不端指控，导致 “Good Omens” 的最终季被缩减为单集 90 分钟。剧集终章看起来将在第 2 季令人心碎的事件后不久展开，当时 Aziraphale 选择晋升为 Supreme Archangel，并拒绝了 Crowley 永恒相守的请求。在天堂失去 Jesus 的踪迹（Jesus 正在地球上被恶魔猎杀）后，不可避免的重聚发生了，这促使 Aziraphale 找回 Crowley，为拯救人类进行最后一次重大尝试。—— <i>Arno</i>",
+      "detail": "Streaming on Prime Video",
+      "description": "这不是我们想要告别 Ineffable Husbands Aziraphale 和 Crowley 的方式，但现实世界的干扰，针对创作者 Neil Gaiman 的性行为不端指控，导致 “Good Omens” 的最后一季被缩减为一集 90 分钟的剧集。剧终集看起来将在第 2 季令人心碎的事件发生后不久开始，当时 Aziraphale 选择晋升为 Supreme Archangel，并拒绝了 Crowley 永远在一起的请求。在天堂失去对 Jesus 的追踪后，不可避免的重聚发生了，Jesus 正在地球上被恶魔猎杀，导致 Aziraphale 再次找上 Crowley，为拯救人类进行最后一次大动作。— <i>Arno</i>",
       "relatedconst": [
         "nm0855039",
         "nm0790688",
@@ -122,7 +138,7 @@
       "ttconst": "tt14674086",
       "rmconst": "rm1295111426",
       "detail": "Season 5 premieres May 14 on Hulu",
-      "description": "非常令人上瘾的 “Welcome to Wrexham” 往往感觉更像是一个童话故事，而不是纪录片系列，这正是我在过去四季中一直投入其中的原因。Wrexham A.F.C. 不再是第 1 季中那支斗志昂扬的弱旅，他们在短短三次连续晋级中，从在第五级别的 National League 中待了 15 个赛季，跃升至第二级别的 EFL Championship。（顺便说一句，这也是一项纪录。）但既然他们已经实现了飞跃，他们能坚持住吗？随着该系列续订至 2029 年，我们将在可预见的未来继续支持 Rob、Ryan 和 The Reds。小镇加油！—— <i>Vanessa</i>",
+      "description": "极易上瘾的 “Welcome to Wrexham” 往往感觉更像是一个童话故事而不是纪录片系列，而这正是过去四季我一直投入其中的原因。Wrexham A.F.C. 不再是第 1 季中那些斗志昂扬的弱者，他们在短短三次连续升级中，从在第五级别的 National League 待了 15 个赛季，跃升到了第二级别的 EFL Championship。（顺便说一句，这也是一项纪录。）但既然他们已经实现了飞跃，他们能坚持住吗？随着该系列续订至 2029 年，在可预见的未来，我们将一直支持 Rob、Ryan 和 The Reds。加油，小镇！— <i>Vanessa</i>",
       "relatedconst": [
         "nm0005351",
         "nm0568390",
@@ -132,11 +148,26 @@
       "viconst": "vi1059638041"
     },
     {
-      "name": "着魔",
+      "name": "Dutton Ranch",
+      "ttconst": "tt34991493",
+      "rmconst": "rm2764953090",
+      "detail": "Series premieres May 15 on Paramount+",
+      "description": "“Yellowstone” 宇宙再次扩张，这一次我们将前往德克萨斯州，看看 Beth Dutton 和 Rip Wheeler 是否能在远离过去阴影的地方开启新生活。Kelly Reilly 和 Cole Hauser 回归了他们在七年 53 集 “Yellowstone” 中成名的角色，此外还有包括 Ed Harris、Annette Bening 和 Jai Courtney 在内的令人印象深刻的配角阵容。但改变的不仅仅是这部新剧的背景。虽然 Yellowstone 扩展宇宙的大部分作品都由系列主创 Taylor Sheridan 打造，但 “Dutton Ranch” 是由编剧兼制片人 Chad Feehan 创作的，他已经确认如果该剧续订第二季，他将不会回归。— <i>Adrienne</i>",
+      "relatedconst": [
+        "nm0717709",
+        "nm0369513",
+        "nm0000438",
+        "nm0000906",
+        "nm2541974"
+      ],
+      "viconst": "vi1763232537"
+    },
+    {
+      "name": "痴迷",
       "ttconst": "tt37287335",
       "rmconst": "rm77910018",
       "detail": "In theaters May 15",
-      "description": "这部电影前提的强大简洁性与其在审视核心概念时愿意表现出的怪异程度相匹配：当一个男孩希望一个女孩比世界上任何活着的人都更爱他的愿望成真时，会发生什么？在编剧/导演 Curry Barker 的恐怖长片处女作中，答案显然是“坏事”，该片在 TIFF、Fantastic Fest 和 SXSW 电影节上一直备受粉丝关注。Barker 最初凭借他的 YouTube 长片 <i>Milk &amp; Serial</i> 获得关注，其发展轨迹与 <i>Talk to Me</i> 的导演 Danny 和 Michael Philippou 相似；他刚被聘请执导 A24 重新构思的 <i>The Texas Chainsaw Massacre</i>。—— <i>James</i>",
+      "description": "这部电影前提的强大简洁性，与其在审问核心概念时愿意表现出的怪异程度相匹配：当一个男孩希望一个女孩比世界上任何人都更爱他的愿望成真时，会发生什么？在编剧/导演 Curry Barker 的首部恐怖长片中，答案显然是“坏事”，该片在 TIFF、Fantastic Fest 和 SXSW 引起了粉丝的关注。Barker 最初凭借他的 YouTube 长片 <i>Milk &amp; Serial</i> 获得关注，其发展轨迹与 <i>Talk to Me</i> 的导演 Danny 和 Michael Philippou 相似；他刚刚被聘请执导 A24 重新构思的 <i>The Texas Chainsaw Massacre</i>。— <i>James</i>",
       "relatedconst": [
         "nm5076257",
         "nm9984699",
@@ -150,7 +181,7 @@
       "ttconst": "tt27681354",
       "rmconst": "rm887345410",
       "detail": "In theaters May 15",
-      "description": "Jake Gyllenhaal、Eiza González 和 Henry Cavill 正在成为 Guy Richie 的常驻演员。三人组在 <i>In the Grey</i> 中联手，试图从一个拥有私人雇佣军团的暴君手中追回十亿美元，González 掌控全局，解救由 Gyllenhaal 和 Cavill 饰演的特种作战特工，他们之间有着预期的双雄搭档动态。这是 Richie 的标准风格，他已成为好莱坞最忙碌的动作片导演。虽然他最近在流媒体上凭借 “Young Sherlock” 和 “The Gentlemen” 取得了巨大成功，但 <i>In the Grey</i> 的票房前景看起来并不乐观，这可能是因为该片由 Black Bear 发行，这是一家资深的独立制片公司，刚刚开始作为一家成熟的发行公司起步。换句话说：<i>In the Grey</i> 将在流媒体上窃取数十亿。—— <i>Arno</i>",
+      "description": "Jake Gyllenhaal、Eiza González 和 Henry Cavill 正在成为 Guy Richie 的常客。三人组在 <i>In the Grey</i> 中联手，从一个拥有私人雇佣军军队的独裁者手中夺回十亿美元，González 掌控全局，解救由 Gyllenhaal 和 Cavill 饰演的特种作战特工，他们表现出预期的搭档警匪动态。这是 Richie 的标准风格，他已成为好莱坞可以说是最忙碌的动作片导演。虽然他最近在流媒体上凭借 “Young Sherlock” 和 “The Gentlemen” 取得了巨大成功，但 <i>In the Grey</i> 的票房前景看起来并不乐观，这可能是因为这部电影是由 Black Bear 发行的，这是一家资深的独立制作公司，刚刚开始作为一家成熟的发行公司起步。换句话说：<i>In the Grey</i> 将在流媒体上大赚特赚。— <i>Arno</i>",
       "relatedconst": [
         "nm0350453",
         "nm0147147",
@@ -166,7 +197,7 @@
       "ttconst": "tt34379307",
       "rmconst": "rm3384330754",
       "detail": "In theaters May 15",
-      "description": "在这个复仇故事中，Vivica A. Fox 饰演一位名叫 God 的被烧伤且卧床不起的母亲，她的女儿们（其中一个在小时候的一场火灾中毁容）寻求与她们的父亲清算，那个多年前纵火烧毁她们家园的男人。这是我今年看次数最多的预告片，同时避开了任何剧情/剧透细节。我只想看 Kara Young 和 Mallori Johnson 这两位在各自职业生涯中首次担任主角的演员，踏上追捕 Sterling K. Brown 的旅程。Aleshea Harris 也改编了她的剧本并完成了导演处女作。—— <i>Arno</i>",
+      "description": "Vivica A. Fox 在这个复仇故事中饰演一位名叫 God 的烧伤且卧床不起的母亲，她的女儿们（其中一个在小时候的一场火灾中毁容）寻求与她们的父亲结账，那个多年前纵火烧毁她们家园的男人。这是我今年看过的次数最多的预告片，同时避开了任何剧情/剧透细节。我只想看 Kara Young 和 Mallori Johnson 这两位在各自职业生涯中首次担任主角的女演员，踏上追捕 Sterling K. Brown 的旅程。Aleshea Harris 也改编了她的剧本以完成她的导演处女作。— <i>Arno</i>",
       "relatedconst": [
         "nm4526977",
         "nm12761494",
@@ -182,7 +213,7 @@
       "ttconst": "tt34378301",
       "rmconst": "rm3662075138",
       "detail": "Premieres on Prime Video May 20",
-      "description": "Jack Ryan 得到了 “Peaky Blinders” 式的待遇，这部单集电影的背景设定在 John Krasinski 的剧集结束大约三年后。在 <i>Ghost War</i> 中，这位前 CIA 特工回到了圈子里，几乎和他以前合作过的所有人（包括梦幻般的 Wendell Pierce）在一起，当时一支来自他过去的秘密行动小组重新出现。John Krasinski 在这里也获得了编剧署名（他不是该剧集的编剧）。尽管 Amazon MGM Studios 今年在院线发行上投入巨大，但这部电影将于 5 月 20 日在 Prime Video 首映，这合情合理。",
+      "description": "Jack Ryan 得到了 “Peaky Blinders” 式的待遇，这部单集电影的背景设定在 John Krasinski 的剧集结束大约三年后。<i>Ghost War</i> 发现这位前 CIA 特工回到了圈子里，几乎和他以前合作过的所有人在一起（包括梦想中的 Wendell Pierce），当时他过去的一支黑操作团队重新浮出面。Krasinski 在这里也获得了编剧署名（他不是该剧的编剧）。尽管 Amazon MGM Studios 今年在院线发行方面投入巨大，但这部电影将于 5 月 20 日在 Prime Video 首映，这合情合理。",
       "relatedconst": [
         "nm1024677",
         "nm0682495",
@@ -198,7 +229,7 @@
       "ttconst": "tt35946742",
       "rmconst": "rm3235566594",
       "detail": "Series premieres on Apple TV May 20",
-      "description": "向 “She-Hulk” 致歉，我等了将近十年才等到 Tatiana Maslany 回归电视荧屏，带来一部我想每周追看的剧集。在 “Maximum Pleasure Guaranteed” 中，这位前 “Black Mirror” 明星饰演一位负担过重的单亲母亲（因为显然没有其他类型的离婚妈妈），她在目睹了她认为是一场犯罪的事件后，进入了侦探/真实犯罪模式。宣传材料称该剧是一部基调较轻松的推理剧，但预告片中有一个使用电锯的场景让我感到毛骨悚然。第 1 季包含 10 集；前两集将于 5 月 20 日在 Apple TV 连续首映，随后每周三更新。—— <i>Arno</i>",
+      "description": "向 “She-Hulk” 表示万分歉意，但我等了近十年才等到 Tatiana Maslany 回归电视，带来一部我想每周追看的剧集。在 “Maximum Pleasure Guaranteed” 中，这位前 “Black Mirror” 明星饰演一位过度操劳的单亲母亲（因为显然没有其他类型的离婚妈妈），她在目击了她认为的一场犯罪后，进入了侦探/真实犯罪模式。宣传材料称该剧是一部轻快的侦探剧，但预告片中有一个电锯场景让我感到心惊肉跳。第 1 季由 10 集组成；前两集于 5 月 20 日在 Apple TV 连续首映，随后每周三更新。— <i>Arno</i>",
       "relatedconst": [
         "nm1137209",
         "nm2159926",
@@ -214,7 +245,7 @@
       "ttconst": "tt27557289",
       "rmconst": "rm2262160642",
       "detail": "Series premieres on Netflix May 21, 2026",
-      "description": "在这部来自 “The Dark Crystal: Age of Resistance” 创作者的新剧集中，是老年人对抗恐怖生物。由 Duffer Brothers 制作，这部八集剧集感觉有点像给 65 岁以上人群看的 “Stranger Things”。我们并不抱怨，尤其是拥有如此豪华的卡司：Bill Pullman、Geena Davis、Alfred Molina、Alfre Woodard、Jena Malone 和 Denis O’Hare 只是优秀群戏中的一小部分。这正是我们乐于加入的怪物狩猎队伍。—— <i>Adrienne</i>",
+      "description": "在这部来自 “The Dark Crystal: Age of Resistance” 创作者的新剧集中，老年人对抗幽灵生物。由 Duffer Brothers 制作，这部八集剧集感觉有点像 65 岁以上人群版的 “Stranger Things”。我们并不抱怨，尤其是拥有如此豪华的演员阵容：Bill Pullman、Geena Davis、Alfred Molina、Alfre Woodard、Jena Malone 和 Denis O’Hare 只是优秀群戏中的一员。那是一个我们乐于加入的怪物狩猎团队。— <i>Adrienne</i>",
       "relatedconst": [
         "nm0000547",
         "nm0000133",
@@ -230,7 +261,7 @@
       "ttconst": "tt30825738",
       "rmconst": "rm977643266",
       "detail": "In Theaters May 22",
-      "description": "虽然我们真的很想看到 “Awesome Space Dad” 的第四季，但我们很高兴能有更多时间跟随 Din Djarin 和 Grogu 的冒险。“The Mandalorian” 的结局给我们留下了 Din Djarin 利用他的赏金猎人天赋为新共和国服务的承诺，追捕散布在银河系各处的帝国军阀，而这正是 <i>Star Wars: The Mandalorian and Grogu</i> 想要呈现的内容。Sigourney Weaver 加入卡司饰演军事领袖兼星际战斗机飞行员 Colonel Ward，留意听 Jeremy Allen White 为军阀 Rotta the Hutt 配音，以及 Martin Scorsese 饰演一名 Ardennian 炸薯条厨师。—— <i>Vanessa</i>",
+      "description": "虽然我们真的很想看第四季的 “Awesome Space Dad”，但我们很高兴能多花一点时间关注 Din Djarin 和 Grogu 的冒险经历。“The Mandalorian” 的大结局留给我们的承诺是，Djarin 将利用他的赏金猎人天赋为 New Republic 效力，追捕散布在银河系各处的 Imperial 军阀，而这正是 <i>Star Wars: The Mandalorian and Grogu</i> 想要呈现的。Sigourney Weaver 加入剧组，饰演军事领袖和星际战斗机飞行员 Colonel Ward，并留意 Jeremy Allen White 为军阀 Rotta the Hutt 配音，以及 Martin Scorsese 饰演一名 Ardennian 炸薯条厨师。— <i>Vanessa</i>",
       "relatedconst": [
         "nm0050959",
         "nm0000244",
@@ -244,7 +275,7 @@
       "ttconst": "tt30827810",
       "rmconst": "rm568252162",
       "detail": "In theaters May 22",
-      "description": "我爱 Boots Riley。作为一名电影制作人和音乐家。<i>Sorry to Bother You</i>，我至今仍推荐它。（“I’m a Virgo” 第一次看时对我不起作用，但朋友建议再给它一次机会。）但自从宣布 Keke Palmer 将领导 Velvet Gang（一个偷窃并转售属于某个特定时装设计师衣服的扒手团伙）以来，<i>I Love Boosters</i> 一直在我必看清单的首位。既然知道 Demi Moore 与 Keke 演对手戏，还需要别的理由让你走进电影院吗？—— <i>Arno</i>",
+      "description": "我爱 Boots Riley。作为一名电影制作人和一名音乐家。<i>Sorry to Bother You</i>，我至今仍推荐它。（“I’m a Virgo” 第一次看对我来说不太奏效，但朋友们建议给它第二次机会。）但自从宣布 Keke Palmer 将领导 Velvet Gang（一群偷窃并转售属于某一个特定时装设计师的衣服的扒手团伙）以来，<i>I Love Boosters</i> 一直排在我的 Watchlist 首位。既然 Demi Moore 与 Keke 演对手戏，你还需要别的理由去电影院吗？— <i>Arno</i>",
       "relatedconst": [
         "nm1551130",
         "nm3666749",
@@ -260,7 +291,7 @@
       "ttconst": "tt30460310",
       "rmconst": "rm784063490",
       "detail": "Premieres on Prime Video May 27",
-      "description": "随着这部由 Nicolas Cage 主演的新剧集（这也是他首次担任电视主角），Spider-Man 真正进入了 Spider-Verse。“Spider-Noir” 讲述了落魄的私家侦探 Ben Reilly (Cage) 被迫重新披上他的超级英雄身份——The Spider，去解决一个扑朔迷离的案件。Spider-Man 粉丝会记得 Nicolas Cage 的角色是在动画电影 <i>Spider-Man: Into the Spider-Verse</i> 中引入的，我们期待看到 Nicolas Cage 将这个角色带到镜头前。说到镜头，这部八集剧集将以黑白形式发布，但也会有一个符合时代背景的彩色版本。这是否意味着特艺七彩的蛛丝发射？我们当然希望如此。—— <i>Adrienne</i>",
+      "description": "随着这部由 Nicolas Cage 主演、他职业生涯首个电视主角作品的新剧集的推出，Spider-Man 真正进入了 Spider-Verse。“Spider-Noir” 讲述了落魄的私家侦探 Ben Reilly (Cage) 被迫重新穿上他的超级英雄身份 The Spider 以解决一个谜案的故事。Spider 粉丝会记得 Cage 的角色在动画电影 <i>Spider-Man: Into the Spider-Verse</i> 中的首次亮相，我们期待看到 Cage 将这个角色带到镜头前。说到镜头，这部八集剧集将以黑白形式发布，但也会有一个符合时代背景的彩色版本。这是否意味着彩色蛛丝？我们当然希望如此。— <i>Adrienne</i>",
       "relatedconst": [
         "nm0000115",
         "nm2031358",
@@ -275,7 +306,7 @@
       "ttconst": "tt26657236",
       "rmconst": "rm2284967682",
       "detail": "In theaters May 29",
-      "description": "你是否去过一个感觉……不对劲的地方？编剧兼导演 Kane Parsons 准备带着他的电影长片处女作 <i>Backrooms</i> 带你进入原始的阈限空间。受病毒式传播的 creepypasta 和 Kane Parsons 原创短片的启发，这部 A24 恐怖片讲述了一个男人探索家具店地下室一扇奇怪门后的不可思议房间组。Kane Parsons 在 YouTube 上传他的第一部 <i>Backrooms</i> 短片时年仅 17 岁，并因其令人印象深刻的 VFX 技能和敏锐的导演眼光而走红。现在，仅仅三年后，这位年轻的艺术家正通过 A24 发布一部恐怖长片。依我看，这相当不错。—— <i>Adrienne</i>",
+      "description": "你是否曾经去过一个感觉……不对劲的地方？编剧兼导演 Kane Parsons 准备带你进入最初的阈限空间，带来他的长篇电影处女作 <i>Backrooms</i>。灵感来自病毒式传播的都市传说 creepypasta 和 Parsons 的原创短片，这部 A24 恐怖片讲述了一个男人探索家具店地下室一扇奇怪门后的不可思议房间的故事。Parsons 在 YouTube 上传他的第一部 Backrooms 短片时年仅 17 岁，并因其令人印象深刻的视觉特效技能和敏锐的导演眼光而走红。现在，仅仅三年后，这位年轻的艺术家正通过 A24 发行一部恐怖长片。依我看，这相当不错。— <i>Adrienne</i>",
       "relatedconst": [
         "nm0252230",
         "nm4561559",
@@ -290,7 +321,7 @@
       "ttconst": "tt32547691",
       "rmconst": "rm431344130",
       "detail": "In theaters May 29",
-      "description": "自从我们听到 <i>Hotel Mumbai</i> 编剧兼导演 Anthony Maras 的消息以来，已经过去了将近十年。这位电影人带着一部二战剧情片回归，描绘了 1944 年 6 月 D-Day（这场战役扭转了战争局势，使盟军获胜）前夕，美国总统 Eisenhower 与英国皇家空军上尉 James Stagg 之间的会面。这部电影为 Brendan Fraser (Eisenhower) 和 Andrew Scott (James Stagg) 提供了极具分量的角色，这可能会成为 2026 年的 <i>Nuremberg</i>；意思是，一部针对年长观众的电影，它在影院长期上映并稳步积累令人印象深刻的票房总额（<i>Nuremberg</i> 全球票房近 6000 万美元）。—— <i>Arno</i>",
+      "description": "自从我们听到 <i>Hotel Mumbai</i> 编剧兼导演 Anthony Maras 的消息以来，已经过去了近十年。这位电影人带着一部二战剧情片回归，描绘了 1944 年 6 月 D-Day 之前，美国总统 Eisenhower 与英国皇家空军上尉 James Stagg 之间的会面，这场战役扭转了战争局势，使其向有利于 Allies 的方向发展。这部电影为 Brendan Fraser (Eisenhower) 和 Andrew Scott (Stagg) 提供了极具声望的角色，这可能是 2026 年的 <i>Nuremberg</i>；这意味着，这是一部针对中老年观众的电影，在影院持久上映并稳步积累令人印象深刻的票房总额（<i>Nuremberg</i> 在全球获得了近 6000 万美元的票房）。— <i>Arno</i>",
       "relatedconst": [
         "nm0778831",
         "nm0000409",
@@ -305,7 +336,7 @@
       "ttconst": "tt34459219",
       "rmconst": "rm4043285506",
       "detail": "In theaters May 29",
-      "description": "Nate Barzgate 是世界上经济最成功的喜剧演员，他在 <i>The Breadwinner</i> 中首次将他那令人感同身受的喜剧风格带到大银幕。如果你是 80 年代的挂钥匙儿童，这部电影感觉就像是现代版的 <i>Mr. Mom</i>。从预告片来看，我感觉到 Nate Barzgate 饰演的那种爸爸似乎对如何打理家庭日常感到最困惑；当他那由永远受欢迎的 Mandy Moore 饰演的妻子，因其产品发明获得 Shark Tank 团队的支持而成为片名所指的养家糊口者时，他并没有感到压力。—— <i>Arno</i>",
+      "description": "世界上财务最成功的喜剧演员 Nate Barzgate 在 <i>The Breadwinner</i> 中首次将他那引起共鸣的喜剧风格带到了大银幕。如果你是 80 年代的挂钥匙儿童，这部电影感觉就像是现代版的 <i>Mr. Mom</i>。从预告片来看，我觉得 Barzgate 饰演的那种父亲似乎对如何打理日常家务感到最困惑；当他那由永远受欢迎的 Mandy Moore 饰演的妻子，因其发明的产品获得 “Shark Tank” 团队的支持而成为标题中的养家糊口者时，他并没有感到压力。— <i>Arno</i>",
       "relatedconst": [
         "nm2567088",
         "nm0601553",
@@ -321,7 +352,7 @@
       "ttconst": "tt32140872",
       "rmconst": "rm160486914",
       "detail": "Premieres on Apple TV+ May 29, 2026",
-      "description": "“For All Mankind” 的粉丝们今年大饱口福。他们不仅看到了 Ronald D. Moore 投机性替代历史剧的第五季，还看到了衍生剧 “Star City”。这部新剧带领观众回到太空竞赛时期，深入铁幕背后，探索负责首次登月的宇航员、工程师和情报官员的生活。—— <i>Adrienne</i>",
+      "description": "“For All Mankind” 的粉丝们今年大饱眼福。他们不仅看到了 Ronald D. Moore 推理替代历史的第五季，还看到了衍生剧 “Star City”。这部新剧将观众带回太空竞赛时期和铁幕背后，探索负责他们首次登月的宇航员、工程师和情报官员的生活。— <i>Adrienne</i>",
       "relatedconst": [
         "nm0406975",
         "nm1269412",
@@ -335,6 +366,965 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt17490712",
+        "title_text": {
+          "text": "Mortal Kombat II"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "CY",
+                  "text": "Cyprus"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat 2",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat 2",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat 2",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat 2",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мортал Комбат 2",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мортал Комбат 2",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat II.",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mortal Kombat: Cuộc Chiến Sinh Tử II",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мортал Камбат II",
+                "country": {
+                  "id": "BY",
+                  "text": "Belarus"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мортал Комбат II",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "मॉर्टल कॉमबैट II",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "モータルコンバット2",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "真人快打2",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "真人快打II",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "真人快打Ⅱ",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "备受粉丝喜爱的冠军们——现在有了 Johnny Cage 的加入——在终极战斗中相互对抗，以击败威胁 Earthrealm 及其守护者生存的 Shao Kahn 的黑暗统治。"
+          }
+        },
+        "primary_image": {
+          "id": "rm3984773634",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_.jpg",
+          "width": 2024,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 2,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 16
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.0,
+          "vote_count": 16245
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 5,
+          "day": 8
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Mortal Kombat II"
+        },
+        "runtime": {
+          "seconds": 6960
+        }
+      },
+      {
+        "id": "tt33546863",
+        "title_text": {
+          "text": "Off Campus"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kiss Me",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off Campus: Amores Improváveis",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Off-Campus",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "一部以大学为背景的浪漫剧，记录了音乐系学生和大学明星冰球运动员之间意想不到的爱情故事，通过深厚的友谊和持久的纽带探索爱情的主题和成年后的复杂性。"
+          }
+        },
+        "primary_image": {
+          "id": "rm1327745538",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDA0NzAzNDktYjBiOS00ZjFjLThhZTYtNzlkMDMzOTgxZTk5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 103,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 5
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 5,
+          "day": 13
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sport"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Off Campus"
+        }
+      },
+      {
+        "id": "tt36042156",
+        "title_text": {
+          "text": "The Punisher: One Last Kill"
+        },
+        "title_type": {
+          "id": "tvSpecial"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: One Last Kill",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Marvel Television Special Presentation: The Punisher: One Last Kill",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Marvel Television przedstawia - Punisher: Ostatnie starcie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Punisher: One Shot Special",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Punisher: Ostatnie starcie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Punisher: Posledné zúčtovanie",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Punisher: Poslední zúčtování",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: Az utolsó célpont",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Punisher: O ultimă lovitură",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Каратель: Останнє вбивство",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Каратель: Последнее убийство",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "制裁者：最後一擊",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "讲述了患有创伤后应激障碍的退伍军人 Frank Castle 的故事，当坐轮椅的犯罪女家长 Ma Gnucci 在他杀死她的儿子后寻求报复时，他重新投入行动，被迫击退降临在他身上的城市罪犯。"
+          }
+        },
+        "primary_image": {
+          "id": "rm4081308674",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzdhZTI5YWQtOTE5ZS00YmE1LTgxOWUtN2ZiMzYwOGU5OWNhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1086,
+          "height": 1609
+        },
+        "meter_ranking": {
+          "current_rank": 2992,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 2715
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.9,
+          "vote_count": 6982
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 5,
+          "day": 12
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "A Marvel Television Special Presentation: The Punisher: One Last Kill"
+        },
+        "runtime": {
+          "seconds": 3060
+        }
+      },
       {
         "id": "tt33612209",
         "title_text": {
@@ -473,10 +1463,31 @@
             },
             {
               "node": {
+                "text": "El diablo viste a la moda 2",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Der Teufel trägt Prada 2",
                 "country": {
                   "id": "AT",
                   "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Der Teufel trägt Prada 2",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
                 }
               }
             },
@@ -504,6 +1515,27 @@
                 "country": {
                   "id": "CO",
                   "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Le diable s'habille en Prada 2",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Le diable s'habille en Prada 2",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
                 }
               }
             },
@@ -624,15 +1656,6 @@
                 "country": {
                   "id": "LT",
                   "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Le diable s'habille en Prada 2",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
                 }
               }
             },
@@ -799,7 +1822,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Miranda Priestly 在传统杂志出版业衰落的背景下经营自己的事业，并与 Andy Sachs 重聚，对抗一位由前助手转变成的竞争对手。"
+            "plain_text": "Andy Sachs 与 Miranda Priestly 重聚，在传统杂志出版业衰落的背景下规划她们的职业生涯。"
           }
         },
         "primary_image": {
@@ -809,16 +1832,16 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 11,
+          "current_rank": 4,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 48
+            "change_direction": "DOWN",
+            "difference": 2
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.0,
-          "vote_count": 7583
+          "aggregate_rating": 6.7,
+          "vote_count": 36829
         },
         "release_date": {
           "year": 2026,
@@ -965,8 +1988,11 @@
               "node": {
                 "text": "Hokum",
                 "country": {
-                  "id": "MX",
-                  "text": "Mexico"
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -974,11 +2000,11 @@
               "node": {
                 "text": "Hokum",
                 "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
+                  "id": "TR",
+                  "text": "Turkey"
                 },
                 "language": {
-                  "text": "English"
+                  "text": "Turkish"
                 }
               }
             },
@@ -1005,6 +2031,60 @@
             },
             {
               "node": {
+                "text": "Hokum: La maldición de la bruja",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hokum: La maldición de la bruja",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hokum: La maldición de la bruja",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hokum: La maldición de la bruja",
+                "country": {
+                  "id": "DO",
+                  "text": "Dominican Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hokum: La maldición de la bruja",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hokum: La maldición de la bruja",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Хокум",
                 "country": {
                   "id": "KZ",
@@ -1023,6 +2103,15 @@
             },
             {
               "node": {
+                "text": "Ba Trợn",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Hockum - A Maldição Oculta",
                 "country": {
                   "id": "PT",
@@ -1032,19 +2121,19 @@
             },
             {
               "node": {
-                "text": "Hokum - O Pesadelo da Bruxa",
+                "text": "Hokum: la maldición de la bruja",
                 "country": {
-                  "id": "BR",
-                  "text": "Brazil"
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
             {
               "node": {
-                "text": "Hokum: La maldición de la bruja",
+                "text": "Hokum: La Maldición de la Bruja",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
+                  "id": "CL",
+                  "text": "Chile"
                 }
               }
             },
@@ -1062,10 +2151,28 @@
             },
             {
               "node": {
+                "text": "Hokum: O Pesadelo da Bruxa",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Hokum: Raganas murgs",
                 "country": {
                   "id": "LV",
                   "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "陰魂旅社",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
                 }
               }
             }
@@ -1073,7 +2180,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位恐怖小说作家访问了一家爱尔兰旅馆，去撒下他父母的骨灰，却不知道据说那里住着一个女巫。"
+            "plain_text": "一位恐怖小说作家访问一家爱尔兰旅馆，准备撒下父母的骨灰，却不知道据传这处房产被一名女巫占据。"
           }
         },
         "primary_image": {
@@ -1083,16 +2190,16 @@
           "height": 3600
         },
         "meter_ranking": {
-          "current_rank": 28,
+          "current_rank": 13,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 49
+            "change_direction": "DOWN",
+            "difference": 5
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.4,
-          "vote_count": 2057
+          "aggregate_rating": 7.3,
+          "vote_count": 10585
         },
         "release_date": {
           "year": 2026,
@@ -1104,6 +2211,11 @@
             {
               "genre": {
                 "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
               }
             }
           ]
@@ -1330,7 +2442,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "讲述了一群英国男孩被困在一个无人居住的热带岛屿上的故事，随着社会习俗的消失和负责任治理尝试的失败，他们逐渐陷入无政府状态。"
+            "plain_text": "一场空难使一群英国男孩困在了一座无人居住的热带岛屿上，随着社会习俗的消失和负责任统治的尝试将他们分裂成敌对派系，他们逐渐陷入无政府状态。"
           }
         },
         "primary_image": {
@@ -1340,16 +2452,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 386,
+          "current_rank": 17,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 217
+            "change_direction": "UP",
+            "difference": 158
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 3981
+          "vote_count": 5866
         },
         "release_date": {
           "year": 2026,
@@ -1796,7 +2908,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "超自然、半历史性质的恐怖选集系列，每一季的灵感都来自不同的臭名昭著或神秘的现实历史悲剧。"
+            "plain_text": "超自然、半历史性的恐怖选集系列，每一季的灵感都来自不同的臭名昭著或神秘的现实历史悲剧。"
           }
         },
         "primary_image": {
@@ -1806,16 +2918,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 217,
+          "current_rank": 60,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 128
+            "change_direction": "UP",
+            "difference": 121
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.8,
-          "vote_count": 61294
+          "vote_count": 61521
         },
         "release_date": {
           "year": 2018,
@@ -1854,466 +2966,6 @@
         },
         "runtime": {
           "seconds": 3600
-        }
-      },
-      {
-        "id": "tt17490712",
-        "title_text": {
-          "text": "Mortal Kombat II"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "CY",
-                  "text": "Cyprus"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat 2",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat 2",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat 2",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat 2",
-                "country": {
-                  "id": "UZ",
-                  "text": "Uzbekistan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мортал Комбат 2",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мортал Комбат 2",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat II.",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mortal Kombat: Cuộc Chiến Sinh Tử II",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ölümcül Dövüş II",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мортал Камбат II",
-                "country": {
-                  "id": "BY",
-                  "text": "Belarus"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мортал Комбат II",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "मॉर्टल कॉमबैट II",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "モータルコンバット2",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "真人快打2",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "真人快打Ⅱ",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "深受粉丝喜爱的冠军们——现在由 Johnny Cage 本人加入——在一场终极战斗中相互对抗，以击败威胁到 Earthrealm 及其守护者生存的 Shao Kahn 的黑暗统治。"
-          }
-        },
-        "primary_image": {
-          "id": "rm3984773634",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTg2YWNkN2EtMzc1Ny00ZTBhLWFmYTItMmMyNzhjNjhhNmVhXkEyXkFqcGc@._V1_.jpg",
-          "width": 2024,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 18,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 40
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 5,
-          "day": 8
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Mortal Kombat II"
-        },
-        "runtime": {
-          "seconds": 6960
         }
       },
       {
@@ -2423,11 +3075,29 @@
               "node": {
                 "text": "Las ovejas detectives",
                 "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Las ovejas detectives",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 },
                 "language": {
                   "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Las ovejas detectives",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
                 }
               }
             },
@@ -2772,6 +3442,15 @@
             },
             {
               "node": {
+                "text": "Ovce detektivke",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Ovce na stope",
                 "country": {
                   "id": "SK",
@@ -2796,42 +3475,12 @@
                   "text": "Norway"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Sprawiedliwość owiec",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Three Bags Full: A Sheep Detective Movie",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Turma vede urma",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "每天晚上，一位牧羊人都会大声朗读一部谋杀悬疑小说，假装他的羊能听懂。当他被发现死亡时，羊群立刻意识到这是一场谋杀，并认为它们知道解决此案的一切方法。"
+            "plain_text": "每天晚上，一位牧羊人都会大声朗读一部谋杀悬疑小说，假装他的羊能听懂。当他被发现死亡时，羊群立刻意识到这是一场谋杀，并认为它们知道如何解决这个案件。"
           }
         },
         "primary_image": {
@@ -2841,15 +3490,16 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 85,
+          "current_rank": 8,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 46
+            "difference": 12
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.7,
+          "vote_count": 5291
         },
         "release_date": {
           "year": 2026,
@@ -2888,264 +3538,6 @@
         },
         "runtime": {
           "seconds": 6540
-        }
-      },
-      {
-        "id": "tt36042156",
-        "title_text": {
-          "text": "The Punisher: One Last Kill"
-        },
-        "title_type": {
-          "id": "tvSpecial"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: One Last Kill",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Marvel Television Special Presentation: The Punisher: One Last Kill",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Marvel Television przedstawia - Punisher: Ostatnie starcie",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Punisher: One Shot Special",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Punisher: Ostatnie starcie",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Punisher: Posledné zúčtovanie",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Punisher: Poslední zúčtování",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: Az utolsó célpont",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Punisher: O ultimă lovitură",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Каратель: Останнє вбивство",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "制裁者：最後一擊",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "当 Frank Castle 在复仇之外寻找意义时，一股意想不到的力量将他拉回了战斗。"
-          }
-        },
-        "primary_image": {
-          "id": "rm4081308674",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzdhZTI5YWQtOTE5ZS00YmE1LTgxOWUtN2ZiMzYwOGU5OWNhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1086,
-          "height": 1609
-        },
-        "meter_ranking": {
-          "current_rank": 2992,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 2715
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 5,
-          "day": 12
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "The Punisher: One Last Kill"
-        },
-        "runtime": {
-          "seconds": 3600
         }
       },
       {
@@ -3558,7 +3950,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "世界末日即将来临，这意味着一个挑剔的天使和一个生活放荡的恶魔（他们已经变得过于热爱地球生活）被迫结成一个不太可能的联盟来阻止世界末日。"
+            "plain_text": "世界末日即将到来，这意味着一个挑剔的天使和一个放荡不羁的恶魔——他们已经变得过于热爱地球上的生活——被迫组成一个不太可能的联盟来阻止 Armageddon。"
           }
         },
         "primary_image": {
@@ -3568,16 +3960,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 343,
+          "current_rank": 288,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 203
+            "difference": 19
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.0,
-          "vote_count": 123434
+          "vote_count": 123710
         },
         "release_date": {
           "year": 2019,
@@ -3960,7 +4352,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "这部纪录片系列记录了两位好莱坞演员 Ryan Reynolds 和 Rob McElhenney 对职业足球最古老的俱乐部之一 Wrexham AFC 的收购和管理。"
+            "plain_text": "纪录片系列，记录了两名好莱坞演员 Ryan Reynolds 和 Rob McElhenney 对 Wrexham AFC（职业足球最古老的俱乐部之一）的收购和管理。"
           }
         },
         "primary_image": {
@@ -3970,16 +4362,16 @@
           "height": 2592
         },
         "meter_ranking": {
-          "current_rank": 1388,
+          "current_rank": 938,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 226
+            "change_direction": "DOWN",
+            "difference": 375
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 25042
+          "vote_count": 25097
         },
         "release_date": {
           "year": 2022,
@@ -4013,6 +4405,189 @@
         },
         "runtime": {
           "seconds": 1800
+        }
+      },
+      {
+        "id": "tt34991493",
+        "title_text": {
+          "text": "Dutton Ranch"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dutton Ranch",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ranczo Duttonów",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ранчо Даттонов",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Beth Dutton 和 Rip Wheeler 在艰难时期和激烈的竞争中，为保卫他们珍爱的 7000 英亩牧场而战，同时确保年轻的 Carter 成为他应该成为的人。"
+          }
+        },
+        "primary_image": {
+          "id": "rm895535106",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzk0YTExY2EtYzI1NS00M2ZlLWFjOGUtMTQyMDY1MmE2ZGViXkEyXkFqcGc@._V1_.jpg",
+          "width": 447,
+          "height": 661
+        },
+        "meter_ranking": {
+          "current_rank": 39,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 83
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 5,
+          "day": 15
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Western"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Dutton Ranch"
         }
       },
       {
@@ -4058,6 +4633,15 @@
                 },
                 "language": {
                   "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Obsession",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -4240,6 +4824,15 @@
             },
             {
               "node": {
+                "text": "Obsesja",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Obsessão",
                 "country": {
                   "id": "BR",
@@ -4258,6 +4851,42 @@
             },
             {
               "node": {
+                "text": "Opsesija",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Posadnutosť",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Posedlost",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zaluđenost",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "愛你致死不渝",
                 "country": {
                   "id": "TW",
@@ -4269,7 +4898,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在折断神秘的 “One Wish Willow” 以赢得暗恋对象的心后，一个无可救药的浪漫主义者发现自己得到了他想要的一切，但很快发现有些欲望伴随着黑暗、邪恶的代价。"
+            "plain_text": "在折断神秘的 \"One Wish Willow\" 以赢得暗恋对象的心后，一个无可救药的浪漫主义者发现自己得到了他想要的一切，但很快发现有些愿望是以黑暗、邪恶为代价的。"
           }
         },
         "primary_image": {
@@ -4279,16 +4908,16 @@
           "height": 1600
         },
         "meter_ranking": {
-          "current_rank": 94,
+          "current_rank": 16,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 13
+            "difference": 21
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.6,
-          "vote_count": 720
+          "aggregate_rating": 7.7,
+          "vote_count": 1193
         },
         "release_date": {
           "year": 2026,
@@ -4336,6 +4965,15 @@
               "node": {
                 "text": "In the Grey",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "In the Grey",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -4366,8 +5004,8 @@
               "node": {
                 "text": "In the Grey",
                 "country": {
-                  "id": "ES",
-                  "text": "Spain"
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -4502,6 +5140,24 @@
             },
             {
               "node": {
+                "text": "En la zona gris",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "En la zona gris",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Грязные деньги",
                 "country": {
                   "id": "KZ",
@@ -4527,15 +5183,6 @@
                 "country": {
                   "id": "PT",
                   "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "En la zona gris",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
                 }
               }
             },
@@ -4622,7 +5269,16 @@
             },
             {
               "node": {
-                "text": "Szara strefa",
+                "text": "Szürke zóna",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zawodowcy",
                 "country": {
                   "id": "PL",
                   "text": "Poland"
@@ -4631,10 +5287,10 @@
             },
             {
               "node": {
-                "text": "Szürke zóna",
+                "text": "Γκρίζα ζώνη",
                 "country": {
-                  "id": "HU",
-                  "text": "Hungary"
+                  "id": "GR",
+                  "text": "Greece"
                 }
               }
             },
@@ -4654,7 +5310,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一支由精锐特工组成的秘密团队生活在阴影中。当一个残忍的暴君窃取了价值十亿美元的财富时，他们被派去夺回它——这是一场演变成策略、欺骗和生存的致命游戏的绝不可能的劫案。"
+            "plain_text": "一支由精锐特工组成的秘密团队生活在阴影中。当一个无情的独裁者偷走了一笔十亿美元的财富时，他们被派去夺回它——这是一场演变成策略、欺骗和生存的致命游戏的绝不可能的劫案。"
           }
         },
         "primary_image": {
@@ -4664,16 +5320,16 @@
           "height": 1600
         },
         "meter_ranking": {
-          "current_rank": 92,
+          "current_rank": 32,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 3
+            "difference": 31
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.8,
-          "vote_count": 141
+          "aggregate_rating": 7.3,
+          "vote_count": 283
         },
         "release_date": {
           "year": 2026,
@@ -4822,7 +5478,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "两姐妹踏上了一段史诗般的复仇之旅；面对一段充满张力的家族历史，这将促使她们付出非同寻常的努力。"
+            "plain_text": "两姐妹踏上了一场史诗般的复仇之旅；面对充满张力的家族历史，这将把她们推向非凡的境地。"
           }
         },
         "primary_image": {
@@ -4832,11 +5488,11 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 652,
+          "current_rank": 219,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 420
+            "difference": 130
           }
         },
         "ratings_summary": {
@@ -5011,7 +5667,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "讲述了 Jack Ryan 与 CIA 特工重聚，在一个背叛的险恶网络中穿行，对抗一个了解他们一举一动的敌人，面对一段他们本以为早已尘封的过去。"
+            "plain_text": "讲述了 Jack Ryan 与 CIA 特工重聚，在背叛的诡谲网络中对抗一个了解他们一举一动的敌人，面对他们原以为早已尘封的过去。"
           }
         },
         "primary_image": {
@@ -5021,11 +5677,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 79,
+          "current_rank": 280,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 1223
+            "difference": 12
           }
         },
         "ratings_summary": {
@@ -5209,12 +5865,21 @@
                   "text": "Argentina"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Pełna przyjemność gwarantowana",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位离婚妈妈卷入了一个充满敲诈、谋杀和青少年足球的危险网络。"
+            "plain_text": "一位离婚的母亲陷入了勒索、谋杀和青少年足球的危险网络中。"
           }
         },
         "primary_image": {
@@ -5224,11 +5889,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 536,
+          "current_rank": 657,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 369
+            "change_direction": "DOWN",
+            "difference": 185
           }
         },
         "ratings_summary": {
@@ -5302,15 +5967,6 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Boroughs",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
                 }
               }
             },
@@ -5400,10 +6056,10 @@
             },
             {
               "node": {
-                "text": "Phiến Quân Tóc Xám",
+                "text": "The Boroughs: Jubilación rebelde",
                 "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
+                  "id": "AR",
+                  "text": "Argentina"
                 }
               }
             },
@@ -5411,8 +6067,17 @@
               "node": {
                 "text": "The Boroughs: Jubilación rebelde",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Phiến Quân Tóc Xám",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
                 }
               }
             },
@@ -5429,7 +6094,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在一个看似如画的退休社区，一群意想不到的英雄必须团结起来，阻止来自异世界的威胁窃取他们唯一没有的东西——时间。"
+            "plain_text": "在一个看似如画的退休社区，一群意想不到的英雄必须团结起来，阻止一个超自然的威胁偷走他们唯一没有的东西——时间。"
           }
         },
         "primary_image": {
@@ -5439,11 +6104,11 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 278,
+          "current_rank": 81,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 153
+            "change_direction": "UP",
+            "difference": 198
           }
         },
         "ratings_summary": {
@@ -5546,6 +6211,18 @@
               "node": {
                 "text": "The Mandalorian and Grogu",
                 "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Mandalorian and Grogu",
+                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -5560,6 +6237,18 @@
                 "country": {
                   "id": "IN",
                   "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Mandalorian and Grogu",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
                 },
                 "language": {
                   "text": "English"
@@ -5621,6 +6310,24 @@
               "node": {
                 "text": "Star Wars: The Mandalorian and Grogu",
                 "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Wars: The Mandalorian and Grogu",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Wars: The Mandalorian and Grogu",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -5639,6 +6346,24 @@
               "node": {
                 "text": "Star Wars: The Mandalorian and Grogu",
                 "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Wars: The Mandalorian and Grogu",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Wars: The Mandalorian and Grogu",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -5646,19 +6371,10 @@
             },
             {
               "node": {
-                "text": "The Mandalorian & Grogu",
+                "text": "Мандалорец и Грогу",
                 "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Mandalorian & Grogu",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
+                  "id": "BY",
+                  "text": "Belarus"
                 }
               }
             },
@@ -5680,6 +6396,24 @@
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Mandalorian & Grogu",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Mandalorian & Grogu",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
                 }
               }
             },
@@ -5728,6 +6462,15 @@
                 "country": {
                   "id": "CZ",
                   "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mandalorian i Grogu",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
                 }
               }
             },
@@ -5811,6 +6554,18 @@
             },
             {
               "node": {
+                "text": "Междузвездни войни: Мандалореца и Грогу",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "スター・ウォーズ／マンダロリアン・アンド・グローグー",
                 "country": {
                   "id": "JP",
@@ -5825,7 +6580,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "曾经的孤独赏金猎人，Mandalorian Din Djarin 和他的学徒 Grogu 踏上了一段令人兴奋的新 Star Wars 冒险。"
+            "plain_text": "曾经的孤独赏金猎人，Mandalorian Din Djarin 和他的学徒 Grogu 开启了一段令人兴奋的全新 Star Wars 冒险。"
           }
         },
         "primary_image": {
@@ -5835,11 +6590,11 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 72,
+          "current_rank": 31,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 11
+            "change_direction": "UP",
+            "difference": 16
           }
         },
         "ratings_summary": {
@@ -6032,7 +6787,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一群扒手瞄准了一位冷酷无情的时尚达人。"
+            "plain_text": "一群扒手瞄准了一位残酷的时尚达人，偷走她的衣服并以较低的价格转售，他们称之为“时尚前卫的慈善事业”。"
           }
         },
         "primary_image": {
@@ -6042,16 +6797,16 @@
           "height": 12000
         },
         "meter_ranking": {
-          "current_rank": 1071,
+          "current_rank": 427,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 451
+            "difference": 90
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.7,
-          "vote_count": 202
+          "aggregate_rating": 5.6,
+          "vote_count": 279
         },
         "release_date": {
           "year": 2026,
@@ -6286,7 +7041,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "20 世纪 30 年代纽约一位年迈且落魄的私家侦探被迫面对他作为该市唯一超级英雄的前世生活。"
+            "plain_text": "20 世纪 30 年代纽约一位年迈且落魄的私家侦探，被迫面对他作为该市唯一超级英雄的往昔生活。"
           }
         },
         "primary_image": {
@@ -6296,11 +7051,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 202,
+          "current_rank": 162,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 434
+            "change_direction": "DOWN",
+            "difference": 119
           }
         },
         "ratings_summary": {
@@ -6309,7 +7064,7 @@
         "release_date": {
           "year": 2026,
           "month": 5,
-          "day": 25
+          "day": 27
         },
         "title_genres": {
           "genres": [
@@ -6432,6 +7187,15 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Backrooms",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
                 }
               }
             },
@@ -6587,6 +7351,18 @@
             },
             {
               "node": {
+                "text": "Backrooms: les arrière-salles",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Backrooms: Um Não-Lugar",
                 "country": {
                   "id": "BR",
@@ -6644,7 +7420,7 @@
             },
             {
               "node": {
-                "text": "後室Backrooms",
+                "text": "後室",
                 "country": {
                   "id": "TW",
                   "text": "Taiwan"
@@ -6655,7 +7431,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在一名治疗师的病人消失在超越现实的维度后，她必须冒险进入未知世界去营救他。"
+            "plain_text": "在一名治疗师的病人消失在现实之外的维度后，她必须冒险进入未知世界去救他。"
           }
         },
         "primary_image": {
@@ -6665,11 +7441,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 66,
+          "current_rank": 27,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 15
+            "difference": 30
           }
         },
         "ratings_summary": {
@@ -6701,7 +7477,7 @@
           "text": "Backrooms"
         },
         "runtime": {
-          "seconds": 6300
+          "seconds": 6600
         }
       },
       {
@@ -6905,10 +7681,43 @@
             },
             {
               "node": {
+                "text": "Tiempo de victoria",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Давление",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "诺曼底72小时",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "諾曼第風暴",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
                 }
               }
             }
@@ -6916,7 +7725,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在 D-Day 前紧张的 72 小时内，General Dwight D. Eisenhower 和 Captain James Stagg 面临着一个不可能的选择——发动历史上最危险的海上入侵，或者冒着输掉整场战争的风险。"
+            "plain_text": "在 D-Day 前紧张的 72 小时内，General Dwight D. Eisenhower 和 Captain James Stagg 面临着一个不可能的选择——发动历史上最危险的海上入侵，或者冒着输掉整个战争的风险。"
           }
         },
         "primary_image": {
@@ -6926,11 +7735,11 @@
           "height": 1600
         },
         "meter_ranking": {
-          "current_rank": 580,
+          "current_rank": 148,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 66
+            "difference": 285
           }
         },
         "ratings_summary": {
@@ -7100,7 +7909,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一位超级妈妈在 Shark Tank 中达成了一笔交易，与她养家糊口的丈夫交换了角色。当他作为三个女儿的全职爸爸时，他努力适应这一角色。"
+            "plain_text": "一位超级妈妈获得了一笔 Shark Tank 交易，与她养家糊口的丈夫交换了角色。当他作为三个女儿的全职爸爸时，他努力适应。"
           }
         },
         "primary_image": {
@@ -7110,11 +7919,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 894,
+          "current_rank": 360,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 219
+            "difference": 37
           }
         },
         "ratings_summary": {
@@ -7247,6 +8056,24 @@
               "node": {
                 "text": "Star City",
                 "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star City",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star City",
+                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -7293,12 +8120,21 @@
                   "text": "Portugal"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Ciudad de las estrellas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "苏联宇航员、工程师和情报官员在一项旨在成为第一个登月的雄心勃勃的太空计划中冒着一切风险。"
+            "plain_text": "苏联宇航员、工程师和情报官员在旨在成为第一个登上月球的雄心勃勃的太空计划中冒着一切风险。"
           }
         },
         "primary_image": {
@@ -7308,16 +8144,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 74,
+          "current_rank": 543,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 801
+            "change_direction": "DOWN",
+            "difference": 282
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.8,
-          "vote_count": 23
+          "aggregate_rating": 7.2,
+          "vote_count": 52
         },
         "release_date": {
           "year": 2026,
@@ -7344,6 +8180,162 @@
       }
     ],
     "names": [
+      {
+        "id": "nm0881631",
+        "name_text": {
+          "text": "Karl Urban"
+        },
+        "primary_image": {
+          "id": "rm1140263424",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA1MTMwMjMxN15BMl5BanBnXkFtZTgwNjA1MTA1OTE@._V1_.jpg",
+          "width": 1364,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm3485108",
+        "name_text": {
+          "text": "Ludi Lin"
+        },
+        "primary_image": {
+          "id": "rm1114032897",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2NjNDM1ZmQtYTEyNy00MGZhLWJhOWYtNWE1NGI0YTZhMzgyXkEyXkFqcGc@._V1_.jpg",
+          "width": 3069,
+          "height": 3612
+        }
+      },
+      {
+        "id": "nm6616259",
+        "name_text": {
+          "text": "Tati Gabrielle"
+        },
+        "primary_image": {
+          "id": "rm2760469760",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjM5NDk3NDM4NV5BMl5BanBnXkFtZTgwMzU4Mzc1NzM@._V1_.jpg",
+          "width": 1360,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0760796",
+        "name_text": {
+          "text": "Hiroyuki Sanada"
+        },
+        "primary_image": {
+          "id": "rm2423153153",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGZhYTgwYmItZTI0NC00ZDNjLTkyZDgtNjc0YjQzNGY0ZjNhXkEyXkFqcGc@._V1_.jpg",
+          "width": 378,
+          "height": 567
+        }
+      },
+      {
+        "id": "nm3029144",
+        "name_text": {
+          "text": "Joe Taslim"
+        },
+        "primary_image": {
+          "id": "rm3458978306",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTFiYzhjMzYtOTQyOC00YWZhLTlkMmItOTA2ZjQ1YjRhMDcxXkEyXkFqcGc@._V1_.jpg",
+          "width": 5304,
+          "height": 7952
+        }
+      },
+      {
+        "id": "nm2537621",
+        "name_text": {
+          "text": "Jessica McNamee"
+        },
+        "primary_image": {
+          "id": "rm3905487873",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjU3YjZjNjMtMmJlZS00NTMwLWFjYjktZmY4OGUyMjg1N2JlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1163,
+          "height": 1454
+        }
+      },
+      {
+        "id": "nm8855592",
+        "name_text": {
+          "text": "Ella Bright"
+        },
+        "primary_image": {
+          "id": "rm1361083905",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzkwYTU4MDUtMzFjOC00N2M1LWEzZmEtZTg3ZTI4ZTM5MWZkXkEyXkFqcGc@._V1_.jpg",
+          "width": 4480,
+          "height": 6145
+        }
+      },
+      {
+        "id": "nm10155944",
+        "name_text": {
+          "text": "Belmont Cameli"
+        },
+        "primary_image": {
+          "id": "rm2811005954",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDVmOWE3ZTYtZDZiZC00MTQ4LWFkYWUtMjgwMDhjODZkMjkzXkEyXkFqcGc@._V1_CR406,183,2099,3149_.jpg",
+          "width": 2099,
+          "height": 3149
+        }
+      },
+      {
+        "id": "nm3100933",
+        "name_text": {
+          "text": "Mika Abdalla"
+        },
+        "primary_image": {
+          "id": "rm2092792577",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjg2ZTQwMmUtMTc3MS00N2VhLTg1ODctMThkY2JjMzkwNDA5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1425,
+          "height": 2137
+        }
+      },
+      {
+        "id": "nm9822646",
+        "name_text": {
+          "text": "Stephen Kalyn"
+        },
+        "primary_image": {
+          "id": "rm1602061570",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTFkYTY5NjEtMzhhNS00YjRmLWFlOGQtMGY3NjY5NGU0OTVkXkEyXkFqcGc@._V1_.jpg",
+          "width": 4480,
+          "height": 6720
+        }
+      },
+      {
+        "id": "nm9780469",
+        "name_text": {
+          "text": "Jalen Thomas Brooks"
+        },
+        "primary_image": {
+          "id": "rm1304733698",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDYxNzY2NGItODdkNi00NmM0LWFlMjEtNWI2ZjJjNmVkN2NlXkEyXkFqcGc@._V1_.jpg",
+          "width": 733,
+          "height": 1115
+        }
+      },
+      {
+        "id": "nm9654591",
+        "name_text": {
+          "text": "Antonio Cipriano"
+        },
+        "primary_image": {
+          "id": "rm243256066",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWFiMjUyYTYtOWU3OC00NjM5LWIyZjItZGMxNWRlNWYwMjk5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1788,
+          "height": 2678
+        }
+      },
+      {
+        "id": "nm1256532",
+        "name_text": {
+          "text": "Jon Bernthal"
+        },
+        "primary_image": {
+          "id": "rm558555904",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTcwNzA5MDg0OV5BMl5BanBnXkFtZTcwMTU2NjE0Nw@@._V1_.jpg",
+          "width": 640,
+          "height": 873
+        }
+      },
       {
         "id": "nm0000658",
         "name_text": {
@@ -7410,10 +8402,10 @@
           "text": "Peter Coonan"
         },
         "primary_image": {
-          "id": "rm1280297730",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmJmZDlmOGMtYjllYi00OGRmLWI0Y2MtYjc0ZGYxMDhmODY2XkEyXkFqcGc@._V1_.jpg",
-          "width": 1204,
-          "height": 1574
+          "id": "rm2101993472",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjYxODg4MDMxOV5BMl5BanBnXkFtZTgwOTUwNTgzNzE@._V1_.jpg",
+          "width": 1855,
+          "height": 2319
         }
       },
       {
@@ -7549,78 +8541,6 @@
         }
       },
       {
-        "id": "nm0881631",
-        "name_text": {
-          "text": "Karl Urban"
-        },
-        "primary_image": {
-          "id": "rm1140263424",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjA1MTMwMjMxN15BMl5BanBnXkFtZTgwNjA1MTA1OTE@._V1_.jpg",
-          "width": 1364,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm3485108",
-        "name_text": {
-          "text": "Ludi Lin"
-        },
-        "primary_image": {
-          "id": "rm1114032897",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2NjNDM1ZmQtYTEyNy00MGZhLWJhOWYtNWE1NGI0YTZhMzgyXkEyXkFqcGc@._V1_.jpg",
-          "width": 3069,
-          "height": 3612
-        }
-      },
-      {
-        "id": "nm6616259",
-        "name_text": {
-          "text": "Tati Gabrielle"
-        },
-        "primary_image": {
-          "id": "rm2760469760",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjM5NDk3NDM4NV5BMl5BanBnXkFtZTgwMzU4Mzc1NzM@._V1_.jpg",
-          "width": 1360,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0760796",
-        "name_text": {
-          "text": "Hiroyuki Sanada"
-        },
-        "primary_image": {
-          "id": "rm2423153153",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGZhYTgwYmItZTI0NC00ZDNjLTkyZDgtNjc0YjQzNGY0ZjNhXkEyXkFqcGc@._V1_.jpg",
-          "width": 378,
-          "height": 567
-        }
-      },
-      {
-        "id": "nm3029144",
-        "name_text": {
-          "text": "Joe Taslim"
-        },
-        "primary_image": {
-          "id": "rm3458978306",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTFiYzhjMzYtOTQyOC00YWZhLTlkMmItOTA2ZjQ1YjRhMDcxXkEyXkFqcGc@._V1_.jpg",
-          "width": 5304,
-          "height": 7952
-        }
-      },
-      {
-        "id": "nm2537621",
-        "name_text": {
-          "text": "Jessica McNamee"
-        },
-        "primary_image": {
-          "id": "rm3905487873",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjU3YjZjNjMtMmJlZS00NTMwLWFjYjktZmY4OGUyMjg1N2JlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1163,
-          "height": 1454
-        }
-      },
-      {
         "id": "nm0413168",
         "name_text": {
           "text": "Hugh Jackman"
@@ -7690,18 +8610,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BYjcyNjRkNDUtNDU5OS00ODY3LTk3ZTEtN2ZlODZjMzExY2E3XkEyXkFqcGc@._V1_.jpg",
           "width": 682,
           "height": 1024
-        }
-      },
-      {
-        "id": "nm1256532",
-        "name_text": {
-          "text": "Jon Bernthal"
-        },
-        "primary_image": {
-          "id": "rm558555904",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTcwNzA5MDg0OV5BMl5BanBnXkFtZTcwMTU2NjE0Nw@@._V1_.jpg",
-          "width": 640,
-          "height": 873
         }
       },
       {
@@ -7825,6 +8733,66 @@
         }
       },
       {
+        "id": "nm0717709",
+        "name_text": {
+          "text": "Kelly Reilly"
+        },
+        "primary_image": {
+          "id": "rm2384188928",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjgzMzk2MjEzM15BMl5BanBnXkFtZTgwMTkzMDEwMTE@._V1_.jpg",
+          "width": 1362,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0369513",
+        "name_text": {
+          "text": "Cole Hauser"
+        },
+        "primary_image": {
+          "id": "rm2376166400",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjM2MmIwYjEtNTA4NC00NjM5LWI5ZjktMmRjOGZhZmI1ODAwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1202,
+          "height": 1800
+        }
+      },
+      {
+        "id": "nm0000438",
+        "name_text": {
+          "text": "Ed Harris"
+        },
+        "primary_image": {
+          "id": "rm2527040512",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE4NDM4ODc2OV5BMl5BanBnXkFtZTcwNzA5NjQ5MQ@@._V1_.jpg",
+          "width": 289,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0000906",
+        "name_text": {
+          "text": "Annette Bening"
+        },
+        "primary_image": {
+          "id": "rm2400756992",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc4ODQ1ODM5Ml5BMl5BanBnXkFtZTcwOTU2NDk3OQ@@._V1_.jpg",
+          "width": 683,
+          "height": 1024
+        }
+      },
+      {
+        "id": "nm2541974",
+        "name_text": {
+          "text": "Jai Courtney"
+        },
+        "primary_image": {
+          "id": "rm2075773696",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkyNzE0OTg1MF5BMl5BanBnXkFtZTgwMDU1MDM0MTE@._V1_.jpg",
+          "width": 1363,
+          "height": 2048
+        }
+      },
+      {
         "id": "nm5076257",
         "name_text": {
           "text": "Michael Johnston"
@@ -7854,10 +8822,10 @@
           "text": "Cooper Tomlinson"
         },
         "primary_image": {
-          "id": "rm2196418818",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDJjN2JmZTItZmZiYS00MTMwLTg3M2ItMjZjOTMwZGQzMzJmXkEyXkFqcGc@._V1_.jpg",
-          "width": 3143,
-          "height": 4724
+          "id": "rm3830761730",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTY5ZDkwNTktNDgxOS00NmNiLTkzZGUtZjc2MDRkMDI2NGY4XkEyXkFqcGc@._V1_CR909,373,3333,5000_.jpg",
+          "width": 3333,
+          "height": 5000
         }
       },
       {
@@ -8680,6 +9648,24 @@
     "videos": [],
     "images": [
       {
+        "id": "rm1267323138",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjkwMWFiNDEtYjkxMC00NTA0LWI3MTYtYTdlOTJjNWZjOGQyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3400,
+        "height": 2200
+      },
+      {
+        "id": "rm4072266754",
+        "url": "https://m.media-amazon.com/images/M/MV5BODFlNGZmZGMtMzI0My00N2M1LTliNWEtNGUyZDdiNjJkNzRhXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2000
+      },
+      {
+        "id": "rm4098085890",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGYwZWU0M2EtYTYwOC00YzIwLTg2OGEtNjk1ZDMyN2QxYTRiXkEyXkFqcGc@._V1_.jpg",
+        "width": 4000,
+        "height": 1672
+      },
+      {
         "id": "rm2907088642",
         "url": "https://m.media-amazon.com/images/M/MV5BMWI1NjcxZjctOGRkZi00N2E3LTg1YjYtZjJkZGI5NDUwMGI1XkEyXkFqcGc@._V1_.jpg",
         "width": 8640,
@@ -8704,22 +9690,10 @@
         "height": 3000
       },
       {
-        "id": "rm1267323138",
-        "url": "https://m.media-amazon.com/images/M/MV5BZjkwMWFiNDEtYjkxMC00NTA0LWI3MTYtYTdlOTJjNWZjOGQyXkEyXkFqcGc@._V1_.jpg",
-        "width": 3400,
-        "height": 2200
-      },
-      {
         "id": "rm2885657602",
         "url": "https://m.media-amazon.com/images/M/MV5BM2YzNDNiMzgtOWZiNC00ODAzLWFkNDktMzY1N2JhOGQzYjBlXkEyXkFqcGc@._V1_.jpg",
         "width": 3456,
         "height": 1723
-      },
-      {
-        "id": "rm4098085890",
-        "url": "https://m.media-amazon.com/images/M/MV5BOGYwZWU0M2EtYTYwOC00YzIwLTg2OGEtNjk1ZDMyN2QxYTRiXkEyXkFqcGc@._V1_.jpg",
-        "width": 4000,
-        "height": 1672
       },
       {
         "id": "rm2539771138",
@@ -8732,6 +9706,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BMTUwOWFlZGYtZjliYS00NGU4LWE5NWMtY2Q1YWQ2MjI4NDVkXkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
         "height": 2000
+      },
+      {
+        "id": "rm2764953090",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmRjNjE4OGYtZmMyZS00Mzc5LWE4NjMtMjU3NjU0ZDU2NzZlXkEyXkFqcGc@._V1_.jpg",
+        "width": 6000,
+        "height": 4000
       },
       {
         "id": "rm77910018",
