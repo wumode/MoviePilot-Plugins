@@ -1,25 +1,11 @@
 {
-  "updated_at": "2026-06-05 06:35:27",
+  "updated_at": "2026-06-06 06:33:19",
   "entries": [
-    {
-      "name": "Scary Movie",
-      "ttconst": "tt32093575",
-      "rmconst": "rm2752039682",
-      "detail": "In theaters June 5",
-      "description": "To paraphrase film critic Joe Bob Briggs, there won’t be too much plot getting in the way of the movie for this sixth installment in the Scary Movie franchise. The Wayans return, alongside Regina Hall and Anna Faris, for another story of mayhem and madness made up of horror movie parodies. It’s been 13 years since the last flick, and there are <i>plenty</i> of high-quality horrors for the Wayans brothers to reference including <i>M3GAN</i>, <i>Heart Eyes</i>, <i>Get Out</i>, <i>Sinners</i>, the Halloween reboots, <i>Smile</i>, <i>Weapons</i>, <i>Longlegs</i>, <i>The Substance</i>, and <i>Terrifer 3</i>. And that’s just what I caught in the trailer. — <i>Adrienne</i>",
-      "relatedconst": [
-        "nm0356021",
-        "nm0267506",
-        "nm0005541",
-        "nm0915458"
-      ],
-      "viconst": "vi1824574233"
-    },
     {
       "name": "Office Romance",
       "ttconst": "tt33397980",
       "rmconst": "rm774294274",
-      "detail": "Premieres on Netflix June 5",
+      "detail": "Streaming on Netflix",
       "description": "You can't go wrong with a JLo rom-com (name a bad one besides <i>Gigli</i> ... I'll wait). Pair her with Brett Goldstein and we have the potential for rom-com gold. In addition to leading man-duty, Goldstein teams up with his “Ted Lasso” writer Joe Kelly, co-writing this charming and raunchy romantic comedy about a secret office romance between two workaholics who start thinking with their hearts. The cast includes Betty Gilpin, Bradley Whitford, Amy Sedaris, Tony Hale, and Edward James Olmos, reuniting with JLo (once again as her father) nearly 30 years after <i>Selena<i>. — <i>Vanessa</i>",
       "relatedconst": [
         "nm0000182",
@@ -32,10 +18,24 @@
       "viconst": "vi2048183065"
     },
     {
+      "name": "Scary Movie",
+      "ttconst": "tt32093575",
+      "rmconst": "rm2752039682",
+      "detail": "In theaters",
+      "description": "To paraphrase film critic Joe Bob Briggs, there won’t be too much plot getting in the way of the movie for this sixth installment in the Scary Movie franchise. The Wayans return, alongside Regina Hall and Anna Faris, for another story of mayhem and madness made up of horror movie parodies. It’s been 13 years since the last flick, and there are <i>plenty</i> of high-quality horrors for the Wayans brothers to reference including <i>M3GAN</i>, <i>Heart Eyes</i>, <i>Get Out</i>, <i>Sinners</i>, the Halloween reboots, <i>Smile</i>, <i>Weapons</i>, <i>Longlegs</i>, <i>The Substance</i>, and <i>Terrifer 3</i>. And that’s just what I caught in the trailer. — <i>Adrienne</i>",
+      "relatedconst": [
+        "nm0356021",
+        "nm0267506",
+        "nm0005541",
+        "nm0915458"
+      ],
+      "viconst": "vi1824574233"
+    },
+    {
       "name": "Masters of the Universe",
       "ttconst": "tt0427340",
       "rmconst": "rm1673320194",
-      "detail": "In theaters June 5",
+      "detail": "In theaters",
       "description": "Does Nicholas Galitzine have the star power to defend Castle Grayskull from Jared Leto <i>and</i> turn a mega-budgeted big-screen gamble into a blockbuster? <i>Masters of the Universe</i>, which carries a nearly $200 million price tag in production costs alone, is a faithful-looking update of He-Man's origin story as the guardian of Eternia. We loved Galitizine in <i>Bottoms</i> and <i>Red, White & Royal Blue</i>, and Leto takes on the role of Skeletor mere months after his villain turn in <i>Tron: Ares</i> fritzed out with moviegoers. Director Travis Knight successfully soft-rebooted the Transformers franchise with <i>Bumblebee</i>; can he summon the power to get the core audience, men and boys of all ages, to show up in theaters? — <i>Arno</i>",
       "relatedconst": [
         "nm5954280",
@@ -51,7 +51,7 @@
       "name": "Cape Fear",
       "ttconst": "tt34675596",
       "rmconst": "rm3723419394",
-      "detail": "Series premieres on Apple TV June 5",
+      "detail": "Streaming on Apple TV",
       "description": "Javier Bardem has big shoes to fill taking on the character of Max Cady, the psychotic ex-con out for revenge against his former defense lawyer in “Cape Fear.” First, Robert Mitchum oozed icy menace as Cady in the 1962 movie (“Children …”) . Then Robert De Niro turned the character into a savage predator in Martin Scorsese’s 1991 version (a performance that earned De Niro an Oscar nomination). Bardem has proven his ability to send chills down our spines as a villain (see <i>No Country for Old Men</i>), so buckle up as he terrorizes couple Patrick Wilson and Amy Adams (and daughter Lily Collias) in this limited series from showrunner Nick Atosca (“The Act,” “Brand New Cherry Flavor”). — <i>James</i>",
       "relatedconst": [
         "nm0000849",
@@ -255,6 +255,213 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt33397980",
+        "title_text": {
+          "text": "Office Romance"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Biurowy romans",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Paixão de Escritório",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Turbulencia en la oficina",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "同事以上，恋人未满",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested."
+          }
+        },
+        "primary_image": {
+          "id": "rm3643132674",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmM0MDlhOTMtNjYxYy00MGI4LWEwODQtZTEyOTFhZTUyMTllXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 193,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 466
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Office Romance"
+        }
+      },
       {
         "id": "tt32093575",
         "title_text": {
@@ -656,8 +863,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.1,
-          "vote_count": 1256
+          "aggregate_rating": 5.9,
+          "vote_count": 3094
         },
         "release_date": {
           "year": 2026,
@@ -686,213 +893,6 @@
         },
         "runtime": {
           "seconds": 5760
-        }
-      },
-      {
-        "id": "tt33397980",
-        "title_text": {
-          "text": "Office Romance"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Biurowy romans",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Paixão de Escritório",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Turbulencia en la oficina",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "同事以上，恋人未满",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested."
-          }
-        },
-        "primary_image": {
-          "id": "rm3643132674",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmM0MDlhOTMtNjYxYy00MGI4LWEwODQtZTEyOTFhZTUyMTllXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 193,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 466
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Office Romance"
         }
       },
       {
@@ -1094,6 +1094,15 @@
                 "country": {
                   "id": "CO",
                   "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del Universo",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
                 }
               }
             },
@@ -1335,8 +1344,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.0,
-          "vote_count": 2238
+          "aggregate_rating": 7.1,
+          "vote_count": 4283
         },
         "release_date": {
           "year": 2026,
@@ -1993,7 +2002,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 39839
+          "vote_count": 39868
         },
         "release_date": {
           "year": 2022,
@@ -3005,7 +3014,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 8312
+          "vote_count": 8318
         },
         "release_date": {
           "year": 2021,
@@ -3507,8 +3516,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.0,
-          "vote_count": 80
+          "aggregate_rating": 7.9,
+          "vote_count": 88
         },
         "release_date": {
           "year": 2026,
@@ -4298,8 +4307,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 4.9,
-          "vote_count": 674
+          "aggregate_rating": 5.0,
+          "vote_count": 690
         },
         "release_date": {
           "year": 2026,
@@ -4868,7 +4877,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 528838
+          "vote_count": 528918
         },
         "release_date": {
           "year": 2022,
@@ -5275,7 +5284,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 84951
+          "vote_count": 84964
         },
         "release_date": {
           "year": 2024,
@@ -5724,7 +5733,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.5,
-          "vote_count": 310269
+          "vote_count": 310313
         },
         "release_date": {
           "year": 2022,
@@ -6425,54 +6434,6 @@
     ],
     "names": [
       {
-        "id": "nm0356021",
-        "name_text": {
-          "text": "Regina Hall"
-        },
-        "primary_image": {
-          "id": "rm719164672",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjUyNjk2OF5BMl5BanBnXkFtZTcwNzEwMTYwMg@@._V1_.jpg",
-          "width": 275,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0267506",
-        "name_text": {
-          "text": "Anna Faris"
-        },
-        "primary_image": {
-          "id": "rm3450044672",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjA5MTY5NjMyMF5BMl5BanBnXkFtZTcwNjM0NTI4Mw@@._V1_.jpg",
-          "width": 376,
-          "height": 490
-        }
-      },
-      {
-        "id": "nm0005541",
-        "name_text": {
-          "text": "Marlon Wayans"
-        },
-        "primary_image": {
-          "id": "rm1242022657",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDU4OTdjMTAtY2VkNC00ZDg5LWI2N2MtNzQ4NzdkNmM0YmUwXkEyXkFqcGc@._V1_.jpg",
-          "width": 950,
-          "height": 1425
-        }
-      },
-      {
-        "id": "nm0915458",
-        "name_text": {
-          "text": "Damon Wayans Jr."
-        },
-        "primary_image": {
-          "id": "rm2681440256",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjY0MTA3MzQwM15BMl5BanBnXkFtZTcwMzU4OTc1Mg@@._V1_.jpg",
-          "width": 303,
-          "height": 400
-        }
-      },
-      {
         "id": "nm0000182",
         "name_text": {
           "text": "Jennifer Lopez"
@@ -6542,6 +6503,54 @@
           "url": "https://m.media-amazon.com/images/M/MV5BODIyNDE5NDg2OV5BMl5BanBnXkFtZTcwMDc0NDU5Ng@@._V1_.jpg",
           "width": 1555,
           "height": 2048
+        }
+      },
+      {
+        "id": "nm0356021",
+        "name_text": {
+          "text": "Regina Hall"
+        },
+        "primary_image": {
+          "id": "rm719164672",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjUyNjk2OF5BMl5BanBnXkFtZTcwNzEwMTYwMg@@._V1_.jpg",
+          "width": 275,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0267506",
+        "name_text": {
+          "text": "Anna Faris"
+        },
+        "primary_image": {
+          "id": "rm3450044672",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA5MTY5NjMyMF5BMl5BanBnXkFtZTcwNjM0NTI4Mw@@._V1_.jpg",
+          "width": 376,
+          "height": 490
+        }
+      },
+      {
+        "id": "nm0005541",
+        "name_text": {
+          "text": "Marlon Wayans"
+        },
+        "primary_image": {
+          "id": "rm1242022657",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDU4OTdjMTAtY2VkNC00ZDg5LWI2N2MtNzQ4NzdkNmM0YmUwXkEyXkFqcGc@._V1_.jpg",
+          "width": 950,
+          "height": 1425
+        }
+      },
+      {
+        "id": "nm0915458",
+        "name_text": {
+          "text": "Damon Wayans Jr."
+        },
+        "primary_image": {
+          "id": "rm2681440256",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjY0MTA3MzQwM15BMl5BanBnXkFtZTcwMzU4OTc1Mg@@._V1_.jpg",
+          "width": 303,
+          "height": 400
         }
       },
       {
@@ -7424,16 +7433,16 @@
     "videos": [],
     "images": [
       {
-        "id": "rm2752039682",
-        "url": "https://m.media-amazon.com/images/M/MV5BZThmMDQ2NTItYWY4OC00ZTFiLWFhNTAtYzc0ZGNiMWQ2MmEyXkEyXkFqcGc@._V1_.jpg",
-        "width": 2600,
-        "height": 1505
-      },
-      {
         "id": "rm774294274",
         "url": "https://m.media-amazon.com/images/M/MV5BYzkzYWYzMzAtNGU1Ny00YmFjLTlhYzktODQwNjM5NWVmNzkwXkEyXkFqcGc@._V1_.jpg",
         "width": 7200,
         "height": 4800
+      },
+      {
+        "id": "rm2752039682",
+        "url": "https://m.media-amazon.com/images/M/MV5BZThmMDQ2NTItYWY4OC00ZTFiLWFhNTAtYzc0ZGNiMWQ2MmEyXkEyXkFqcGc@._V1_.jpg",
+        "width": 2600,
+        "height": 1505
       },
       {
         "id": "rm1673320194",
