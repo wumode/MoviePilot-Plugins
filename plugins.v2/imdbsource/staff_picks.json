@@ -1,6 +1,89 @@
 {
-  "updated_at": "2026-06-06 06:33:19",
+  "updated_at": "2026-06-12 18:33:17",
   "entries": [
+    {
+      "name": "Disclosure Day",
+      "ttconst": "tt15047880",
+      "rmconst": "rm1881450242",
+      "detail": "In theaters",
+      "description": "<i>Disclosure Day</i> might not be the <i>Jaws</i> of 2026 in terms of its box office prospects, but Steven Spielberg has earned some of his best reviews in years with his return to all things extraterrestrial. It makes complete sense to me that an alien species would choose Emily Blunt to be one of their spokespeople, but I, perhaps like you, have stopped looking for clues and spoilers about the movie so I can simply ease into my seat and get at least one popcorn refill as Spielberg and David Koepp, one of the filmmaker’s go-to screenwriters harness their unique blend of wonder, mystery, romance, and sci-fi for the masses. — <i>Arno</i>",
+      "relatedconst": [
+        "nm1289434",
+        "nm4853066",
+        "nm0231458",
+        "nm0000147",
+        "nm0751518",
+        "nm2016723"
+      ],
+      "viconst": "vi3653421849"
+    },
+    {
+      "name": "Every Year After",
+      "ttconst": "tt33055254",
+      "rmconst": "rm751556098",
+      "detail": "Streaming on Prime Video",
+      "description": "The romance-book-to-screen pipeline has been booming for Prime Video. From the phenomenon that was “The Summer I Turned Pretty” to the recent virality of “Off Campus,” the streamer has the corner on the swoon-worthy series market. This month is no exception, as a new show adapted from Carley Fortune's “Every Summer After” drops all eight episodes just in time for summer break. Starring Sadie Soverall and Matt Cornett, the story spans six years and one week (they very specifically call that out btw) as two friends explore what it means to be soulmates. — <i>Adrienne</i>",
+      "relatedconst": [
+        "nm10082934",
+        "nm5486990",
+        "nm4563780",
+        "nm6792464"
+      ],
+      "viconst": "vi2434714393"
+    },
+    {
+      "name": "Power Book III: Raising Kanan S5",
+      "ttconst": "tt11761176",
+      "rmconst": "rm1702678274",
+      "detail": "Season 5 premieres on Starz June 12",
+      "description": "Set in the ever-expanding “Power” universe, “Raising Kanan” took us back to the '90s, following the journey of Kanan Stark from idealistic honor student to the ruthless kingpin we first met in “Power.” As the fifth and final season brings this chapter of Kanan's journey to a close, get ready for a wild ride as nothing will stand in the way of Kanan's pursuit of power.  — <i>Vanessa</i>",
+      "relatedconst": [
+        "nm5602074",
+        "nm5352388",
+        "nm2694974",
+        "nm5023615",
+        "nm4271336"
+      ],
+      "viconst": "vi1577437977"
+    },
+    {
+      "name": "The Vampire Lestat S3",
+      "ttconst": "tt3960394",
+      "rmconst": "rm3729705474",
+      "detail": "Season 3 streaming on AMC+",
+      "description": "Two years between seasons means nothing to a vampire. And there is no queer love on TV like the one between Lestat de Lioncourt and Louis de Pointe du Lac (I love “Heated Rivalry” but I mean, mortals). The storyline for the third season of “Interview with the Vampire” will go off book as Sam Reid’s Lestat transforms into a rock and roll star and some “uncomfortable things” happen to Louis, according to star Jacob Anderson. My love for Lestat and Louis is eternal, and this solo record from Lestat feels engineered to remind us humans who we belong to. I've set a reminder to re-subscribe to AMC+ starting June 7 and pause the account when the new season wraps in July because I finally did that thing where you learn just how much you were spending on streaming services. — <i>Arno</i>",
+      "relatedconst": []
+    },
+    {
+      "name": "Cape Fear",
+      "ttconst": "tt34675596",
+      "rmconst": "rm3723419394",
+      "detail": "Streaming on Apple TV",
+      "description": "Javier Bardem has big shoes to fill taking on the character of Max Cady, the psychotic ex-con out for revenge against his former defense lawyer in “Cape Fear.” First, Robert Mitchum oozed icy menace as Cady in the 1962 movie (“Children …”) . Then Robert De Niro turned the character into a savage predator in Martin Scorsese’s 1991 version (a performance that earned De Niro an Oscar nomination). Bardem has proven his ability to send chills down our spines as a villain (see <i>No Country for Old Men</i>), so buckle up as he terrorizes couple Patrick Wilson and Amy Adams (and daughter Lily Collias) in this limited series from showrunner Nick Atosca (“The Act,” “Brand New Cherry Flavor”). — <i>James</i>",
+      "relatedconst": [
+        "nm0000849",
+        "nm0010736",
+        "nm0933940",
+        "nm9917159"
+      ],
+      "viconst": "vi2115685145"
+    },
+    {
+      "name": "Masters of the Universe",
+      "ttconst": "tt0427340",
+      "rmconst": "rm1673320194",
+      "detail": "In theaters",
+      "description": "Does Nicholas Galitzine have the star power to defend Castle Grayskull from Jared Leto <i>and</i> turn a mega-budgeted big-screen gamble into a blockbuster? <i>Masters of the Universe</i>, which carries a nearly $200 million price tag in production costs alone, is a faithful-looking update of He-Man's origin story as the guardian of Eternia. We loved Galitizine in <i>Bottoms</i> and <i>Red, White & Royal Blue</i>, and Leto takes on the role of Skeletor mere months after his villain turn in <i>Tron: Ares</i> fritzed out with moviegoers. Director Travis Knight successfully soft-rebooted the Transformers franchise with <i>Bumblebee</i>; can he summon the power to get the core audience, men and boys of all ages, to show up in theaters? — <i>Arno</i>",
+      "relatedconst": [
+        "nm5954280",
+        "nm6161516",
+        "nm0001467",
+        "nm0252961",
+        "nm1555340",
+        "nm2731660"
+      ],
+      "viconst": "vi1082903321"
+    },
     {
       "name": "Office Romance",
       "ttconst": "tt33397980",
@@ -30,89 +113,6 @@
         "nm0915458"
       ],
       "viconst": "vi1824574233"
-    },
-    {
-      "name": "Masters of the Universe",
-      "ttconst": "tt0427340",
-      "rmconst": "rm1673320194",
-      "detail": "In theaters",
-      "description": "Does Nicholas Galitzine have the star power to defend Castle Grayskull from Jared Leto <i>and</i> turn a mega-budgeted big-screen gamble into a blockbuster? <i>Masters of the Universe</i>, which carries a nearly $200 million price tag in production costs alone, is a faithful-looking update of He-Man's origin story as the guardian of Eternia. We loved Galitizine in <i>Bottoms</i> and <i>Red, White & Royal Blue</i>, and Leto takes on the role of Skeletor mere months after his villain turn in <i>Tron: Ares</i> fritzed out with moviegoers. Director Travis Knight successfully soft-rebooted the Transformers franchise with <i>Bumblebee</i>; can he summon the power to get the core audience, men and boys of all ages, to show up in theaters? — <i>Arno</i>",
-      "relatedconst": [
-        "nm5954280",
-        "nm6161516",
-        "nm0001467",
-        "nm0252961",
-        "nm1555340",
-        "nm2731660"
-      ],
-      "viconst": "vi1082903321"
-    },
-    {
-      "name": "Cape Fear",
-      "ttconst": "tt34675596",
-      "rmconst": "rm3723419394",
-      "detail": "Streaming on Apple TV",
-      "description": "Javier Bardem has big shoes to fill taking on the character of Max Cady, the psychotic ex-con out for revenge against his former defense lawyer in “Cape Fear.” First, Robert Mitchum oozed icy menace as Cady in the 1962 movie (“Children …”) . Then Robert De Niro turned the character into a savage predator in Martin Scorsese’s 1991 version (a performance that earned De Niro an Oscar nomination). Bardem has proven his ability to send chills down our spines as a villain (see <i>No Country for Old Men</i>), so buckle up as he terrorizes couple Patrick Wilson and Amy Adams (and daughter Lily Collias) in this limited series from showrunner Nick Atosca (“The Act,” “Brand New Cherry Flavor”). — <i>James</i>",
-      "relatedconst": [
-        "nm0000849",
-        "nm0010736",
-        "nm0933940",
-        "nm9917159"
-      ],
-      "viconst": "vi2115685145"
-    },
-    {
-      "name": "The Vampire Lestat S3",
-      "ttconst": "tt3960394",
-      "rmconst": "rm3729705474",
-      "detail": "Season 3 premieres on AMC+ June 7",
-      "description": "Two years between seasons means nothing to a vampire. And there is no queer love on TV like the one between Lestat de Lioncourt and Louis de Pointe du Lac (I love “Heated Rivalry” but I mean, mortals). The storyline for the third season of “Interview with the Vampire” will go off book as Sam Reid’s Lestat transforms into a rock and roll star and some “uncomfortable things” happen to Louis, according to star Jacob Anderson. My love for Lestat and Louis is eternal, and this solo record from Lestat feels engineered to remind us humans who we belong to. I've set a reminder to re-subscribe to AMC+ starting June 7 and pause the account when the new season wraps in July because I finally did that thing where you learn just how much you were spending on streaming services. — <i>Arno</i>",
-      "relatedconst": []
-    },
-    {
-      "name": "Every Year After",
-      "ttconst": "tt33055254",
-      "rmconst": "rm751556098",
-      "detail": "Series premieres on Prime Video June 10",
-      "description": "The romance-book-to-screen pipeline has been booming for Prime Video. From the phenomenon that was “The Summer I Turned Pretty” to the recent virality of “Off Campus,” the streamer has the corner on the swoon-worthy series market. This month is no exception, as a new show adapted from Carley Fortune's “Every Summer After” drops all eight episodes just in time for summer break. Starring Sadie Soverall and Matt Cornett, the story spans six years and one week (they very specifically call that out btw) as two friends explore what it means to be soulmates. — <i>Adrienne</i>",
-      "relatedconst": [
-        "nm10082934",
-        "nm5486990",
-        "nm4563780",
-        "nm6792464"
-      ],
-      "viconst": "vi2434714393"
-    },
-    {
-      "name": "Disclosure Day",
-      "ttconst": "tt15047880",
-      "rmconst": "rm1881450242",
-      "detail": "In theaters June 12",
-      "description": "<i>Disclosure Day</i> might not be the <i>Jaws</i> of 2026 in terms of its box office prospects, but Steven Spielberg has earned some of his best reviews in years with his return to all things extraterrestrial. It makes complete sense to me that an alien species would choose Emily Blunt to be one of their spokespeople, but I, perhaps like you, have stopped looking for clues and spoilers about the movie so I can simply ease into my seat and get at least one popcorn refill as Spielberg and David Koepp, one of the filmmaker’s go-to screenwriters harness their unique blend of wonder, mystery, romance, and sci-fi for the masses. — <i>Arno</i>",
-      "relatedconst": [
-        "nm1289434",
-        "nm4853066",
-        "nm0231458",
-        "nm0000147",
-        "nm0751518",
-        "nm2016723"
-      ],
-      "viconst": "vi3653421849"
-    },
-    {
-      "name": "Power Book III: Raising Kanan S5",
-      "ttconst": "tt11761176",
-      "rmconst": "rm1702678274",
-      "detail": "Season 5 premieres on Starz June 12",
-      "description": "Set in the ever-expanding “Power” universe, “Raising Kanan” took us back to the '90s, following the journey of Kanan Stark from idealistic honor student to the ruthless kingpin we first met in “Power.” As the fifth and final season brings this chapter of Kanan's journey to a close, get ready for a wild ride as nothing will stand in the way of Kanan's pursuit of power.  — <i>Vanessa</i>",
-      "relatedconst": [
-        "nm5602074",
-        "nm5352388",
-        "nm2694974",
-        "nm5023615",
-        "nm4271336"
-      ],
-      "viconst": "vi1577437977"
     },
     {
       "name": "I Will Find You",
@@ -255,1977 +255,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt33397980",
-        "title_text": {
-          "text": "Office Romance"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Office Romance",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Biurowy romans",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Paixão de Escritório",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Turbulencia en la oficina",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "同事以上，恋人未满",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested."
-          }
-        },
-        "primary_image": {
-          "id": "rm3643132674",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmM0MDlhOTMtNjYxYy00MGI4LWEwODQtZTEyOTFhZTUyMTllXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 193,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 466
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Office Romance"
-        }
-      },
-      {
-        "id": "tt32093575",
-        "title_text": {
-          "text": "Scary Movie"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie 6",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie 6",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie 6",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie 6",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie 6",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie 6",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie 6",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Очень страшное кино",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Очень страшное кино",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Film de peur",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Horrorra akadva",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Korkunç Bir Film",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Korkunç Bir Film 6",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mrak film 6",
-                "country": {
-                  "id": "BA",
-                  "text": "Bosnia and Herzegovina"
-                },
-                "language": {
-                  "text": "Bosnian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Phim Kinh Dị 6",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Šausmenīte 6",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "SCARY MOVIE 6",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie VI",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie: Terroríficamente incorrecta",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scary Movie: What's Up?",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Straszny film",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Todo Mundo em Pânico",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Untitled Scary Movie 6 Film",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Дуже страшне кіно 6",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мрак филм",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "驚聲尖笑",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Two friends find themselves caught up in mayhem involving killers, monsters and supernatural creatures once again."
-          }
-        },
-        "primary_image": {
-          "id": "rm1248839682",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_.jpg",
-          "width": 878,
-          "height": 1300
-        },
-        "meter_ranking": {
-          "current_rank": 27,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 18
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 5.9,
-          "vote_count": 3094
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Scary Movie"
-        },
-        "runtime": {
-          "seconds": 5760
-        }
-      },
-      {
-        "id": "tt0427340",
-        "title_text": {
-          "text": "Masters of the Universe"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of the Universe",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amos del universo",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amos del universo",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amos del universo",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amos del universo",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amos del Universo",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amos del Universo",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amos del Universo",
-                "country": {
-                  "id": "UY",
-                  "text": "Uruguay"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "He-Man and the Masters of the Universe",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "He-Man and the Masters of the Universe",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Les Maîtres de l'univers",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Les Maîtres de l'univers",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Властелины вселенной",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Властелины вселенной",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Az univerzum védelmezői",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Grayskull",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "He-Man",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "He-Man và Những Chiến Binh Vũ Trụ",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "He-Man y los Masters del Universo",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Masters of The Universe",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mestres do Universo",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Universumi isandad",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Visatos valdovai",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Visuma valdnieki",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vládcovia vesmíru",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Władcy wszechświata",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ही-मैन एंड द मास्टर्स ऑफ़ द यूनिवर्स",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "マスターズ・オブ・ユニバース",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "太空超人",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "宇宙天王",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A young man on Earth discovers a fabulous secret legacy as the prince of an alien planet, and must recover a magic sword and return home to protect his kingdom."
-          }
-        },
-        "primary_image": {
-          "id": "rm845203458",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_.jpg",
-          "width": 2765,
-          "height": 4096
-        },
-        "meter_ranking": {
-          "current_rank": 12,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 11
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.1,
-          "vote_count": 4283
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "Masters of the Universe"
-        },
-        "runtime": {
-          "seconds": 8400
-        }
-      },
-      {
-        "id": "tt34675596",
-        "title_text": {
-          "text": "Cape Fear"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cape Fear",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cabo de miedo",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cabo do Medo",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Przylądek strachu",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мис страху",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A happily married couple faces a growing threat when a notorious killer from their past, Max Cady, is released from prison and seeks revenge."
-          }
-        },
-        "primary_image": {
-          "id": "rm1836698626",
-          "url": "https://m.media-amazon.com/images/M/MV5BYmZkOTkxNjAtZDY2MS00NTM3LTgwYWItMmNhMzFjMTBlOGI5XkEyXkFqcGc@._V1_.jpg",
-          "width": 2160,
-          "height": 3840
-        },
-        "meter_ranking": {
-          "current_rank": 64,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 138
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Cape Fear"
-        },
-        "runtime": {
-          "seconds": 3300
-        }
-      },
-      {
-        "id": "tt3960394",
-        "title_text": {
-          "text": "Interview with the Vampire"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2022
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "AE",
-                  "text": "United Arab Emirates"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "KR",
-                  "text": "South Korea"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview with the Vampire",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Entrevista con el vampiro",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Entrevista con el vampiro",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Vampire Chronicles"
-              }
-            },
-            {
-              "node": {
-                "text": "The Vampire Chronicles",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Anne Rice's Interview with the Vampire",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Entretien avec un vampire",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Entrevista com o Vampiro",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Entrevista con el Vampiro",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interjú a vámpírral",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Interview s upírom",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Intervista col Vampiro",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Vampire Lestat",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wywiad z wampirem",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Συνέντευξη με έναν βρικόλακα",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Интервью с вампиром",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Інтерв'ю з вампіром",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "インタビュー・ウィズ・ヴァンパイア",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "夜訪吸血鬼",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A vampire tells his epic story of love, blood, and the perils of immortality to a journalist."
-          }
-        },
-        "primary_image": {
-          "id": "rm1247530754",
-          "url": "https://m.media-amazon.com/images/M/MV5BYmE0MjUzY2YtYTU3Yi00ZGUzLWE3MmQtM2M2Y2QyYWZmYjkwXkEyXkFqcGc@._V1_.jpg",
-          "width": 510,
-          "height": 755
-        },
-        "meter_ranking": {
-          "current_rank": 207,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 98
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.6,
-          "vote_count": 39868
-        },
-        "release_date": {
-          "year": 2022,
-          "month": 10,
-          "day": 2
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Interview with the Vampire"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt33055254",
-        "title_text": {
-          "text": "Every Year After"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Every Year After",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cada año que pasé contigo",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Depois Daquele Ano",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Two lifelong friends explore the enduring question - what if your first love was destined to be your soulmate? A sweeping romantic tale about love's timeless possibilities."
-          }
-        },
-        "primary_image": {
-          "id": "rm3932408066",
-          "url": "https://m.media-amazon.com/images/M/MV5BODJmYjdlMGEtZTVhZS00MDAyLTkxMDMtZWJmMDFhMmQ2ODgyXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1920
-        },
-        "meter_ranking": {
-          "current_rank": 366,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 65
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 10
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Every Year After"
-        }
-      },
       {
         "id": "tt15047880",
         "title_text": {
@@ -2412,6 +441,24 @@
             },
             {
               "node": {
+                "text": "El día de la revelación",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El día de la revelación",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Disclosure Day - Der Tag der Wahrheit",
                 "country": {
                   "id": "AT",
@@ -2497,6 +544,33 @@
                 "country": {
                   "id": "EE",
                   "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dan razotkrivanja",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Den odhalení",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Deň odhalenia",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
                 }
               }
             },
@@ -2649,15 +723,16 @@
           "height": 2500
         },
         "meter_ranking": {
-          "current_rank": 10,
+          "current_rank": 8,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 25
+            "difference": 2
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.9,
+          "vote_count": 6214
         },
         "release_date": {
           "year": 2026,
@@ -2668,7 +743,17 @@
           "genres": [
             {
               "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
                 "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
               }
             },
             {
@@ -2691,6 +776,199 @@
         },
         "runtime": {
           "seconds": 8700
+        }
+      },
+      {
+        "id": "tt33055254",
+        "title_text": {
+          "text": "Every Year After"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Every Year After",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cada año que pasé contigo",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Depois Daquele Ano",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Two lifelong friends explore the enduring question - what if your first love was destined to be your soulmate? A sweeping romantic tale about love's timeless possibilities."
+          }
+        },
+        "primary_image": {
+          "id": "rm3932408066",
+          "url": "https://m.media-amazon.com/images/M/MV5BODJmYjdlMGEtZTVhZS00MDAyLTkxMDMtZWJmMDFhMmQ2ODgyXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1920
+        },
+        "meter_ranking": {
+          "current_rank": 149,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 217
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.2,
+          "vote_count": 559
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 10
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Every Year After"
         }
       },
       {
@@ -3005,16 +1283,16 @@
           "height": 1800
         },
         "meter_ranking": {
-          "current_rank": 988,
+          "current_rank": 573,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 208
+            "difference": 415
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 8318
+          "vote_count": 8342
         },
         "release_date": {
           "year": 2021,
@@ -3043,6 +1321,1949 @@
         },
         "runtime": {
           "seconds": 3600
+        }
+      },
+      {
+        "id": "tt3960394",
+        "title_text": {
+          "text": "Interview with the Vampire"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2022
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "AE",
+                  "text": "United Arab Emirates"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview with the Vampire",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Entrevista con el vampiro",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Entrevista con el vampiro",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Vampire Chronicles"
+              }
+            },
+            {
+              "node": {
+                "text": "The Vampire Chronicles",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Vampire Lestat",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Vampire Lestat",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Anne Rice's Interview with the Vampire",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Entretien avec un vampire",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Entrevista com o Vampiro",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Entrevista con el Vampiro",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interjú a vámpírral",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Interview s upírom",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Intervista col Vampiro",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wywiad z wampirem",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Συνέντευξη με έναν βρικόλακα",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Интервью с вампиром",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Інтерв'ю з вампіром",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "インタビュー・ウィズ・ヴァンパイア",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "夜訪吸血鬼",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A vampire tells his epic story of love, blood, and the perils of immortality to a journalist."
+          }
+        },
+        "primary_image": {
+          "id": "rm1247530754",
+          "url": "https://m.media-amazon.com/images/M/MV5BYmE0MjUzY2YtYTU3Yi00ZGUzLWE3MmQtM2M2Y2QyYWZmYjkwXkEyXkFqcGc@._V1_.jpg",
+          "width": 510,
+          "height": 755
+        },
+        "meter_ranking": {
+          "current_rank": 62,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 145
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.6,
+          "vote_count": 40254
+        },
+        "release_date": {
+          "year": 2022,
+          "month": 10,
+          "day": 2
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Interview with the Vampire"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt34675596",
+        "title_text": {
+          "text": "Cape Fear"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cabo de miedo",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cabo de miedo",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cabo do Medo",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cape Fear - Les Nerfs à vif",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dòng Sông Tội Ác",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Przylądek strachu",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мис страху",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мыс страха",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A happily married couple faces a growing threat when a notorious killer from their past, Max Cady, is released from prison and seeks revenge."
+          }
+        },
+        "primary_image": {
+          "id": "rm1836698626",
+          "url": "https://m.media-amazon.com/images/M/MV5BYmZkOTkxNjAtZDY2MS00NTM3LTgwYWItMmNhMzFjMTBlOGI5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2160,
+          "height": 3840
+        },
+        "meter_ranking": {
+          "current_rank": 3,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 61
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.2,
+          "vote_count": 2259
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Cape Fear"
+        },
+        "runtime": {
+          "seconds": 3300
+        }
+      },
+      {
+        "id": "tt0427340",
+        "title_text": {
+          "text": "Masters of the Universe"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Masters of the Universe",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del universo",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del universo",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del universo",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del universo",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del Universo",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del Universo",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amos del Universo",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "He-Man and the Masters of the Universe",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "He-Man and the Masters of the Universe",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les Maîtres de l'univers",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les Maîtres de l'univers",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Властелины вселенной",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Властелины вселенной",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Az univerzum védelmezői",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Grayskull",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "He-Man",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "He-Man và Những Chiến Binh Vũ Trụ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "He-Man y los Masters del Universo",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mestres do Universo",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Universumi isandad",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Visatos valdovai",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Visuma valdnieki",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vládcovia vesmíru",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Władcy wszechświata",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ही-मैन एंड द मास्टर्स ऑफ़ द यूनिवर्स",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "マスターズ・オブ・ユニバース",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "太空超人",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "宇宙天王",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A young man on Earth discovers a fabulous secret legacy as the prince of an alien planet, and must recover a magic sword and return home to protect his kingdom."
+          }
+        },
+        "primary_image": {
+          "id": "rm845203458",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2765,
+          "height": 4096
+        },
+        "meter_ranking": {
+          "current_rank": 3,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 9
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.1,
+          "vote_count": 21312
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "Masters of the Universe"
+        },
+        "runtime": {
+          "seconds": 8400
+        }
+      },
+      {
+        "id": "tt33397980",
+        "title_text": {
+          "text": "Office Romance"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Office Romance",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Turbulencia en la oficina",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Turbulencia en la oficina",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Turbulencia en la oficina",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Biurowy romans",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Munkahelyi románc",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Paixão de Escritório",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Romance no Escritório",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tarnybinis romanas",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Офісний роман",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Служебный роман",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "同事以上，恋人未满",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees, which is severely tested when a sexy new lawyer begins working for her."
+          }
+        },
+        "primary_image": {
+          "id": "rm3643132674",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmM0MDlhOTMtNjYxYy00MGI4LWEwODQtZTEyOTFhZTUyMTllXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 5,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 188
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 5.9,
+          "vote_count": 9738
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Office Romance"
+        },
+        "runtime": {
+          "seconds": 6840
+        }
+      },
+      {
+        "id": "tt32093575",
+        "title_text": {
+          "text": "Scary Movie"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie 6",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie 6",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie 6",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie 6",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie 6",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie 6",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie 6",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie: Terroríficamente Incorrecta",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie: Terroríficamente Incorrecta",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Очень страшное кино",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Очень страшное кино",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Film de peur",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Horrorra akadva",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Korkunç Bir Film",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Korkunç Bir Film 6",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mrak film 6",
+                "country": {
+                  "id": "BA",
+                  "text": "Bosnia and Herzegovina"
+                },
+                "language": {
+                  "text": "Bosnian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pats baisiausias filmas 6",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Phim Kinh Dị 6",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Šausmenīte 6",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "SCARY MOVIE 6",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie VI",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie: Terroríficamente incorrecta",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scary Movie: What's Up?",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Straszny film",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Todo Mundo em Pânico",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Scary Movie 6 Film",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дуже страшне кіно 6",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мрак филм",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "驚聲尖笑",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Two friends find themselves caught up in mayhem involving killers, monsters and supernatural creatures once again."
+          }
+        },
+        "primary_image": {
+          "id": "rm1248839682",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTJjMDk1NzAtMGVmNS00NTFmLWFlOTQtZDk5M2I2NjZiZDdlXkEyXkFqcGc@._V1_.jpg",
+          "width": 878,
+          "height": 1300
+        },
+        "meter_ranking": {
+          "current_rank": 4,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 23
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 5.5,
+          "vote_count": 16882
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Scary Movie"
+        },
+        "runtime": {
+          "seconds": 5760
         }
       },
       {
@@ -3147,6 +3368,33 @@
             },
             {
               "node": {
+                "text": "Te encontraré",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Te encontraré",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Du lever",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Eu Vou Encontrar-te",
                 "country": {
                   "id": "PT",
@@ -3192,15 +3440,6 @@
             },
             {
               "node": {
-                "text": "Te encontraré",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Te voi găsi",
                 "country": {
                   "id": "RO",
@@ -3214,6 +3453,15 @@
                 "country": {
                   "id": "SE",
                   "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Za wszelką cenę",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             }
@@ -3231,11 +3479,11 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 460,
+          "current_rank": 145,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 76
+            "difference": 315
           }
         },
         "ratings_summary": {
@@ -3294,6 +3542,15 @@
               "node": {
                 "text": "The Death of Robin Hood",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Death of Robin Hood",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -3317,6 +3574,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Death of Robin Hood",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -3418,6 +3684,24 @@
             },
             {
               "node": {
+                "text": "A Morte de Robin Hood",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Morte de Robin Hood",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "La muerte de Robin Hood",
                 "country": {
                   "id": "AR",
@@ -3431,15 +3715,6 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Morte de Robin Hood",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
                 }
               }
             },
@@ -3470,6 +3745,15 @@
                 "country": {
                   "id": "FR",
                   "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Robin Hood: Koniec legendy",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
                 }
               }
             },
@@ -3508,16 +3792,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 85,
+          "current_rank": 58,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 18
+            "difference": 27
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.9,
-          "vote_count": 88
+          "aggregate_rating": 7.4,
+          "vote_count": 143
         },
         "release_date": {
           "year": 2026,
@@ -3572,6 +3856,15 @@
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Toy Story 5",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
                 }
               }
             },
@@ -4072,11 +4365,11 @@
           "height": 1610
         },
         "meter_ranking": {
-          "current_rank": 32,
+          "current_rank": 25,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 50
+            "difference": 7
           }
         },
         "ratings_summary": {
@@ -4229,15 +4522,6 @@
               "node": {
                 "text": "Leviticus",
                 "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Leviticus",
-                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -4278,6 +4562,15 @@
             },
             {
               "node": {
+                "text": "Leviticus - Ritual de sangre",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Левит",
                 "country": {
                   "id": "RU",
@@ -4299,16 +4592,16 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 119,
+          "current_rank": 106,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 97
+            "difference": 13
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.0,
-          "vote_count": 690
+          "aggregate_rating": 5.3,
+          "vote_count": 896
         },
         "release_date": {
           "year": 2026,
@@ -4868,16 +5161,16 @@
           "height": 6000
         },
         "meter_ranking": {
-          "current_rank": 17,
+          "current_rank": 22,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 42
+            "change_direction": "DOWN",
+            "difference": 5
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 528918
+          "vote_count": 529819
         },
         "release_date": {
           "year": 2022,
@@ -5275,16 +5568,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 233,
+          "current_rank": 197,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 114
+            "change_direction": "UP",
+            "difference": 36
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 84964
+          "vote_count": 85093
         },
         "release_date": {
           "year": 2024,
@@ -5724,16 +6017,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 74,
+          "current_rank": 63,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 3
+            "difference": 11
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.5,
-          "vote_count": 310313
+          "vote_count": 310654
         },
         "release_date": {
           "year": 2022,
@@ -5781,6 +6074,15 @@
               "node": {
                 "text": "Supergirl",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -5816,6 +6118,15 @@
                 },
                 "language": {
                   "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
                 }
               }
             },
@@ -5985,11 +6296,38 @@
               "node": {
                 "text": "Supergirl",
                 "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
                   "id": "ZA",
                   "text": "South Africa"
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl: Woman of Tomorrow",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl: Woman of Tomorrow",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
                 }
               }
             },
@@ -6008,15 +6346,6 @@
                 "country": {
                   "id": "RU",
                   "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl: Woman of Tomorrow",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
                 }
               }
             },
@@ -6118,11 +6447,11 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 62,
+          "current_rank": 27,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 14
+            "difference": 35
           }
         },
         "ratings_summary": {
@@ -6164,7 +6493,7 @@
           "text": "Supergirl"
         },
         "runtime": {
-          "seconds": 6600
+          "seconds": 6420
         }
       },
       {
@@ -6231,6 +6560,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
                 }
               }
             },
@@ -6320,24 +6658,6 @@
             },
             {
               "node": {
-                "text": "Jackass: La última y nos vamos",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: La última y nos vamos",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Jackass: La Última y Nos Vamos",
                 "country": {
                   "id": "EC",
@@ -6360,6 +6680,27 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: La última y nos vamos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: le meilleur pour la fin",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
@@ -6395,11 +6736,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 821,
+          "current_rank": 409,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 121
+            "change_direction": "UP",
+            "difference": 412
           }
         },
         "ratings_summary": {
@@ -6424,6 +6765,9 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "R"
+        },
         "original_title_text": {
           "text": "Jackass: Best and Last"
         },
@@ -6433,6 +6777,306 @@
       }
     ],
     "names": [
+      {
+        "id": "nm1289434",
+        "name_text": {
+          "text": "Emily Blunt"
+        },
+        "primary_image": {
+          "id": "rm3068181760",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
+          "width": 1272,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm4853066",
+        "name_text": {
+          "text": "Josh O'Connor"
+        },
+        "primary_image": {
+          "id": "rm913199616",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjExNDkwMDIzNF5BMl5BanBnXkFtZTgwMzk0MjA1NDM@._V1_.jpg",
+          "width": 1387,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0231458",
+        "name_text": {
+          "text": "Colman Domingo"
+        },
+        "primary_image": {
+          "id": "rm460738817",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_.jpg",
+          "width": 1280,
+          "height": 852
+        }
+      },
+      {
+        "id": "nm0000147",
+        "name_text": {
+          "text": "Colin Firth"
+        },
+        "primary_image": {
+          "id": "rm232034048",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUxMDMwMTI4MF5BMl5BanBnXkFtZTcwMzE2MzQxMw@@._V1_.jpg",
+          "width": 287,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0751518",
+        "name_text": {
+          "text": "Wyatt Russell"
+        },
+        "primary_image": {
+          "id": "rm744868865",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGU1NzkzZGQtNWY2NC00NDZhLWE2YzgtMTU3MDE0MzkxNDg5XkEyXkFqcGc@._V1_.jpg",
+          "width": 349,
+          "height": 524
+        }
+      },
+      {
+        "id": "nm2016723",
+        "name_text": {
+          "text": "Eve Hewson"
+        },
+        "primary_image": {
+          "id": "rm1934102017",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWIyYTU5NWItNGVhMS00YjhlLTlkN2UtNzA4NzI2NTE3ZDEzXkEyXkFqcGc@._V1_.jpg",
+          "width": 1183,
+          "height": 1573
+        }
+      },
+      {
+        "id": "nm10082934",
+        "name_text": {
+          "text": "Sadie Soverall"
+        },
+        "primary_image": {
+          "id": "rm3853151233",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTBlZmUyMjctZTc5NC00ODg5LWFhYTItZjBiNDQ2MDA1OTQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 414,
+          "height": 623
+        }
+      },
+      {
+        "id": "nm5486990",
+        "name_text": {
+          "text": "Matt Cornett"
+        },
+        "primary_image": {
+          "id": "rm2856616706",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjhiMjYyNDYtODE1Yy00MzM4LTk4YTYtNjgxYmUyZWQyYjZmXkEyXkFqcGc@._V1_.jpg",
+          "width": 854,
+          "height": 1280
+        }
+      },
+      {
+        "id": "nm4563780",
+        "name_text": {
+          "text": "Aurora Perrineau"
+        },
+        "primary_image": {
+          "id": "rm4283864322",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjQxNzk3ZTAtOTc2MS00OTEwLWFiZDgtNzc2N2U2NGYwYWM0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1529,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm6792464",
+        "name_text": {
+          "text": "Abigail Cowen"
+        },
+        "primary_image": {
+          "id": "rm1244124417",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWRlYzRkMjEtNWJjNS00MmI5LTk1YjUtYTRjZjUwZTBlZDJhXkEyXkFqcGc@._V1_.jpg",
+          "width": 5792,
+          "height": 7240
+        }
+      },
+      {
+        "id": "nm5602074",
+        "name_text": {
+          "text": "Mekai Curtis"
+        },
+        "primary_image": {
+          "id": "rm3261875457",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmQ0ODYxNDYtODc1Mi00ODUxLWJlNmEtYzJhMjk3MTVmOTQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 806,
+          "height": 766
+        }
+      },
+      {
+        "id": "nm5352388",
+        "name_text": {
+          "text": "Joey Bada$$"
+        },
+        "primary_image": {
+          "id": "rm481957632",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTQ0NDM0NzcyMl5BMl5BanBnXkFtZTgwMjM3ODMyOTE@._V1_.jpg",
+          "width": 1000,
+          "height": 668
+        }
+      },
+      {
+        "id": "nm2694974",
+        "name_text": {
+          "text": "Patina Miller"
+        },
+        "primary_image": {
+          "id": "rm1047338240",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTYyNzE5MjY5N15BMl5BanBnXkFtZTgwMzQyMjc2ODE@._V1_.jpg",
+          "width": 424,
+          "height": 594
+        }
+      },
+      {
+        "id": "nm5023615",
+        "name_text": {
+          "text": "London Brown"
+        },
+        "primary_image": {
+          "id": "rm2002783232",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzMzODQ4ODQxNF5BMl5BanBnXkFtZTgwNjUwNTUwMDI@._V1_.jpg",
+          "width": 2795,
+          "height": 4200
+        }
+      },
+      {
+        "id": "nm4271336",
+        "name_text": {
+          "text": "Shameik Moore"
+        },
+        "primary_image": {
+          "id": "rm1778187520",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDU2OTc5M15BMl5BanBnXkFtZTgwOTk0ODMyNDE@._V1_.jpg",
+          "width": 2400,
+          "height": 3600
+        }
+      },
+      {
+        "id": "nm0000849",
+        "name_text": {
+          "text": "Javier Bardem"
+        },
+        "primary_image": {
+          "id": "rm335591936",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY1NTc4NTYzMF5BMl5BanBnXkFtZTcwNDIwOTY1NA@@._V1_.jpg",
+          "width": 1370,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0010736",
+        "name_text": {
+          "text": "Amy Adams"
+        },
+        "primary_image": {
+          "id": "rm3448061696",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
+          "width": 1340,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0933940",
+        "name_text": {
+          "text": "Patrick Wilson"
+        },
+        "primary_image": {
+          "id": "rm4115253760",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkzNzcxNzcxMF5BMl5BanBnXkFtZTgwOTM1ODUzMTE@._V1_.jpg",
+          "width": 1404,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm9917159",
+        "name_text": {
+          "text": "Lily Collias"
+        },
+        "primary_image": {
+          "id": "rm1328427265",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTU4M2UwMTYtZWZlZi00MDM1LTgzMDYtYWI4ZmQ3ZGVhNzE2XkEyXkFqcGc@._V1_.jpg",
+          "width": 4000,
+          "height": 4929
+        }
+      },
+      {
+        "id": "nm5954280",
+        "name_text": {
+          "text": "Nicholas Galitzine"
+        },
+        "primary_image": {
+          "id": "rm80623617",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDI0MWFhMDgtOTY0MS00MWRkLTljYmItYTBlNDg3NzI0N2U1XkEyXkFqcGc@._V1_.jpg",
+          "width": 842,
+          "height": 1054
+        }
+      },
+      {
+        "id": "nm6161516",
+        "name_text": {
+          "text": "Camila Mendes"
+        },
+        "primary_image": {
+          "id": "rm1363234049",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjdmNzIyYzMtMTY4ZS00NDI3LWFkYWUtZTNmNmUwZGI3YjNiXkEyXkFqcGc@._V1_.jpg",
+          "width": 2236,
+          "height": 2905
+        }
+      },
+      {
+        "id": "nm0001467",
+        "name_text": {
+          "text": "Jared Leto"
+        },
+        "primary_image": {
+          "id": "rm1170786816",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTczMjUwNDUzMF5BMl5BanBnXkFtZTgwNDA4OTAzMTE@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0252961",
+        "name_text": {
+          "text": "Idris Elba"
+        },
+        "primary_image": {
+          "id": "rm1950723072",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_.jpg",
+          "width": 1363,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm1555340",
+        "name_text": {
+          "text": "Alison Brie"
+        },
+        "primary_image": {
+          "id": "rm3395385856",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGZjM2Q3ZWMtMTliNC00ZDMwLWE0MTAtNDhlZTMxYzg4YTVmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1454,
+          "height": 2000
+        }
+      },
+      {
+        "id": "nm2731660",
+        "name_text": {
+          "text": "Charlotte Riley"
+        },
+        "primary_image": {
+          "id": "rm2928194816",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTgxODk4NzUwMF5BMl5BanBnXkFtZTcwMTc1MDQ4Nw@@._V1_.jpg",
+          "width": 1609,
+          "height": 2048
+        }
+      },
       {
         "id": "nm0000182",
         "name_text": {
@@ -6551,306 +7195,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMjY0MTA3MzQwM15BMl5BanBnXkFtZTcwMzU4OTc1Mg@@._V1_.jpg",
           "width": 303,
           "height": 400
-        }
-      },
-      {
-        "id": "nm5954280",
-        "name_text": {
-          "text": "Nicholas Galitzine"
-        },
-        "primary_image": {
-          "id": "rm80623617",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDI0MWFhMDgtOTY0MS00MWRkLTljYmItYTBlNDg3NzI0N2U1XkEyXkFqcGc@._V1_.jpg",
-          "width": 842,
-          "height": 1054
-        }
-      },
-      {
-        "id": "nm6161516",
-        "name_text": {
-          "text": "Camila Mendes"
-        },
-        "primary_image": {
-          "id": "rm1363234049",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjdmNzIyYzMtMTY4ZS00NDI3LWFkYWUtZTNmNmUwZGI3YjNiXkEyXkFqcGc@._V1_.jpg",
-          "width": 2236,
-          "height": 2905
-        }
-      },
-      {
-        "id": "nm0001467",
-        "name_text": {
-          "text": "Jared Leto"
-        },
-        "primary_image": {
-          "id": "rm1170786816",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTczMjUwNDUzMF5BMl5BanBnXkFtZTgwNDA4OTAzMTE@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0252961",
-        "name_text": {
-          "text": "Idris Elba"
-        },
-        "primary_image": {
-          "id": "rm1950723072",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_.jpg",
-          "width": 1363,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm1555340",
-        "name_text": {
-          "text": "Alison Brie"
-        },
-        "primary_image": {
-          "id": "rm3395385856",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGZjM2Q3ZWMtMTliNC00ZDMwLWE0MTAtNDhlZTMxYzg4YTVmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1454,
-          "height": 2000
-        }
-      },
-      {
-        "id": "nm2731660",
-        "name_text": {
-          "text": "Charlotte Riley"
-        },
-        "primary_image": {
-          "id": "rm2928194816",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTgxODk4NzUwMF5BMl5BanBnXkFtZTcwMTc1MDQ4Nw@@._V1_.jpg",
-          "width": 1609,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000849",
-        "name_text": {
-          "text": "Javier Bardem"
-        },
-        "primary_image": {
-          "id": "rm335591936",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY1NTc4NTYzMF5BMl5BanBnXkFtZTcwNDIwOTY1NA@@._V1_.jpg",
-          "width": 1370,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0010736",
-        "name_text": {
-          "text": "Amy Adams"
-        },
-        "primary_image": {
-          "id": "rm3448061696",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
-          "width": 1340,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0933940",
-        "name_text": {
-          "text": "Patrick Wilson"
-        },
-        "primary_image": {
-          "id": "rm4115253760",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkzNzcxNzcxMF5BMl5BanBnXkFtZTgwOTM1ODUzMTE@._V1_.jpg",
-          "width": 1404,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm9917159",
-        "name_text": {
-          "text": "Lily Collias"
-        },
-        "primary_image": {
-          "id": "rm1328427265",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTU4M2UwMTYtZWZlZi00MDM1LTgzMDYtYWI4ZmQ3ZGVhNzE2XkEyXkFqcGc@._V1_.jpg",
-          "width": 4000,
-          "height": 4929
-        }
-      },
-      {
-        "id": "nm10082934",
-        "name_text": {
-          "text": "Sadie Soverall"
-        },
-        "primary_image": {
-          "id": "rm3853151233",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTBlZmUyMjctZTc5NC00ODg5LWFhYTItZjBiNDQ2MDA1OTQ5XkEyXkFqcGc@._V1_.jpg",
-          "width": 414,
-          "height": 623
-        }
-      },
-      {
-        "id": "nm5486990",
-        "name_text": {
-          "text": "Matt Cornett"
-        },
-        "primary_image": {
-          "id": "rm2856616706",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjhiMjYyNDYtODE1Yy00MzM4LTk4YTYtNjgxYmUyZWQyYjZmXkEyXkFqcGc@._V1_.jpg",
-          "width": 854,
-          "height": 1280
-        }
-      },
-      {
-        "id": "nm4563780",
-        "name_text": {
-          "text": "Aurora Perrineau"
-        },
-        "primary_image": {
-          "id": "rm4283864322",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjQxNzk3ZTAtOTc2MS00OTEwLWFiZDgtNzc2N2U2NGYwYWM0XkEyXkFqcGc@._V1_.jpg",
-          "width": 1529,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm6792464",
-        "name_text": {
-          "text": "Abigail Cowen"
-        },
-        "primary_image": {
-          "id": "rm1244124417",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWRlYzRkMjEtNWJjNS00MmI5LTk1YjUtYTRjZjUwZTBlZDJhXkEyXkFqcGc@._V1_.jpg",
-          "width": 5792,
-          "height": 7240
-        }
-      },
-      {
-        "id": "nm1289434",
-        "name_text": {
-          "text": "Emily Blunt"
-        },
-        "primary_image": {
-          "id": "rm3068181760",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTUxNDY4MTMzM15BMl5BanBnXkFtZTcwMjg5NzM2Ng@@._V1_.jpg",
-          "width": 1272,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm4853066",
-        "name_text": {
-          "text": "Josh O'Connor"
-        },
-        "primary_image": {
-          "id": "rm913199616",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjExNDkwMDIzNF5BMl5BanBnXkFtZTgwMzk0MjA1NDM@._V1_.jpg",
-          "width": 1387,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0231458",
-        "name_text": {
-          "text": "Colman Domingo"
-        },
-        "primary_image": {
-          "id": "rm460738817",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmI2NTQ4YmItYWZmMS00ZjE0LWEyZGItZWFhZmRmY2QxZjljXkEyXkFqcGc@._V1_.jpg",
-          "width": 1280,
-          "height": 852
-        }
-      },
-      {
-        "id": "nm0000147",
-        "name_text": {
-          "text": "Colin Firth"
-        },
-        "primary_image": {
-          "id": "rm232034048",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTUxMDMwMTI4MF5BMl5BanBnXkFtZTcwMzE2MzQxMw@@._V1_.jpg",
-          "width": 287,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0751518",
-        "name_text": {
-          "text": "Wyatt Russell"
-        },
-        "primary_image": {
-          "id": "rm744868865",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGU1NzkzZGQtNWY2NC00NDZhLWE2YzgtMTU3MDE0MzkxNDg5XkEyXkFqcGc@._V1_.jpg",
-          "width": 349,
-          "height": 524
-        }
-      },
-      {
-        "id": "nm2016723",
-        "name_text": {
-          "text": "Eve Hewson"
-        },
-        "primary_image": {
-          "id": "rm1934102017",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWIyYTU5NWItNGVhMS00YjhlLTlkN2UtNzA4NzI2NTE3ZDEzXkEyXkFqcGc@._V1_.jpg",
-          "width": 1183,
-          "height": 1573
-        }
-      },
-      {
-        "id": "nm5602074",
-        "name_text": {
-          "text": "Mekai Curtis"
-        },
-        "primary_image": {
-          "id": "rm3261875457",
-          "url": "https://m.media-amazon.com/images/M/MV5BNmQ0ODYxNDYtODc1Mi00ODUxLWJlNmEtYzJhMjk3MTVmOTQ5XkEyXkFqcGc@._V1_.jpg",
-          "width": 806,
-          "height": 766
-        }
-      },
-      {
-        "id": "nm5352388",
-        "name_text": {
-          "text": "Joey Bada$$"
-        },
-        "primary_image": {
-          "id": "rm481957632",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTQ0NDM0NzcyMl5BMl5BanBnXkFtZTgwMjM3ODMyOTE@._V1_.jpg",
-          "width": 1000,
-          "height": 668
-        }
-      },
-      {
-        "id": "nm2694974",
-        "name_text": {
-          "text": "Patina Miller"
-        },
-        "primary_image": {
-          "id": "rm1047338240",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTYyNzE5MjY5N15BMl5BanBnXkFtZTgwMzQyMjc2ODE@._V1_.jpg",
-          "width": 424,
-          "height": 594
-        }
-      },
-      {
-        "id": "nm5023615",
-        "name_text": {
-          "text": "London Brown"
-        },
-        "primary_image": {
-          "id": "rm2002783232",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzMzODQ4ODQxNF5BMl5BanBnXkFtZTgwNjUwNTUwMDI@._V1_.jpg",
-          "width": 2795,
-          "height": 4200
-        }
-      },
-      {
-        "id": "nm4271336",
-        "name_text": {
-          "text": "Shameik Moore"
-        },
-        "primary_image": {
-          "id": "rm1778187520",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDU2OTc5M15BMl5BanBnXkFtZTgwOTk0ODMyNDE@._V1_.jpg",
-          "width": 2400,
-          "height": 3600
         }
       },
       {
@@ -7433,6 +7777,42 @@
     "videos": [],
     "images": [
       {
+        "id": "rm1881450242",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQ2OTk4ZmEtMTI2NS00N2QxLTlmZjQtY2E1MmEwODE3NWU2XkEyXkFqcGc@._V1_.jpg",
+        "width": 5143,
+        "height": 3459
+      },
+      {
+        "id": "rm751556098",
+        "url": "https://m.media-amazon.com/images/M/MV5BYTBhZTIxYTItMTg1My00YTFlLThiYTgtOTg4ZTg0NGUwNzgxXkEyXkFqcGc@._V1_.jpg",
+        "width": 3900,
+        "height": 2601
+      },
+      {
+        "id": "rm1702678274",
+        "url": "https://m.media-amazon.com/images/M/MV5BMWE5NmM3NWMtZTU4MS00OGJiLTkwZjktMTAyZTU4YzM0YjhlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1800,
+        "height": 1200
+      },
+      {
+        "id": "rm3729705474",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjZhMjU3NWMtNmZhOS00MTRjLWEwNGQtMjllODY0OGY1MTkwXkEyXkFqcGc@._V1_.jpg",
+        "width": 6848,
+        "height": 4565
+      },
+      {
+        "id": "rm3723419394",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzdiYzgzZGUtOWI5Ny00OWJlLWJhMmEtNmJhMzcwNDM1MDZmXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1625
+      },
+      {
+        "id": "rm1673320194",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2MxNGI1NmMtOGY0NC00NzAzLTk5NDMtNzEzYTU3Yzc3MGMyXkEyXkFqcGc@._V1_.jpg",
+        "width": 6000,
+        "height": 3375
+      },
+      {
         "id": "rm774294274",
         "url": "https://m.media-amazon.com/images/M/MV5BYzkzYWYzMzAtNGU1Ny00YmFjLTlhYzktODQwNjM5NWVmNzkwXkEyXkFqcGc@._V1_.jpg",
         "width": 7200,
@@ -7443,42 +7823,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZThmMDQ2NTItYWY4OC00ZTFiLWFhNTAtYzc0ZGNiMWQ2MmEyXkEyXkFqcGc@._V1_.jpg",
         "width": 2600,
         "height": 1505
-      },
-      {
-        "id": "rm1673320194",
-        "url": "https://m.media-amazon.com/images/M/MV5BY2MxNGI1NmMtOGY0NC00NzAzLTk5NDMtNzEzYTU3Yzc3MGMyXkEyXkFqcGc@._V1_.jpg",
-        "width": 6000,
-        "height": 3375
-      },
-      {
-        "id": "rm3723419394",
-        "url": "https://m.media-amazon.com/images/M/MV5BYzdiYzgzZGUtOWI5Ny00OWJlLWJhMmEtNmJhMzcwNDM1MDZmXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1625
-      },
-      {
-        "id": "rm3729705474",
-        "url": "https://m.media-amazon.com/images/M/MV5BYjZhMjU3NWMtNmZhOS00MTRjLWEwNGQtMjllODY0OGY1MTkwXkEyXkFqcGc@._V1_.jpg",
-        "width": 6848,
-        "height": 4565
-      },
-      {
-        "id": "rm751556098",
-        "url": "https://m.media-amazon.com/images/M/MV5BYTBhZTIxYTItMTg1My00YTFlLThiYTgtOTg4ZTg0NGUwNzgxXkEyXkFqcGc@._V1_.jpg",
-        "width": 3900,
-        "height": 2601
-      },
-      {
-        "id": "rm1881450242",
-        "url": "https://m.media-amazon.com/images/M/MV5BYzQ2OTk4ZmEtMTI2NS00N2QxLTlmZjQtY2E1MmEwODE3NWU2XkEyXkFqcGc@._V1_.jpg",
-        "width": 5143,
-        "height": 3459
-      },
-      {
-        "id": "rm1702678274",
-        "url": "https://m.media-amazon.com/images/M/MV5BMWE5NmM3NWMtZTU4MS00OGJiLTkwZjktMTAyZTU4YzM0YjhlXkEyXkFqcGc@._V1_.jpg",
-        "width": 1800,
-        "height": 1200
       },
       {
         "id": "rm3677538306",
