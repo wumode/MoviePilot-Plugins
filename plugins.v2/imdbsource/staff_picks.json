@@ -1,6 +1,67 @@
 {
-  "updated_at": "2026-06-25 08:38:41",
+  "updated_at": "2026-06-26 18:34:22",
   "entries": [
+    {
+      "name": "Supergirl",
+      "ttconst": "tt8814476",
+      "rmconst": "rm441567234",
+      "detail": "In theaters",
+      "description": "Milly Alcock was introduced as Kara Zor-El/Supergirl at the end of last year's <i>Superman</i>, where she got caught up in some of the negative fan reactions to the DC Universe franchise reboot. So it’s been an uphill battle for <i>Supergirl</i>, James Gunn's second entry in the DCU, which arrives as the Paramount-Warner Bros. merger has created its own ‘verse of rumors and conjecture, including unsubstantiated whispers about Gunn potentially exiting the franchise he’s lovingly mapped out for the next decade plus. The business of it all has obscured what looks to be a super summery popcorn movie that will tell Supergirl’s dark origin story and how it bonds her with Lobo, the fan favorite interstellar bounty hunter that’ll be played by Jason Momoa. <i>— Arno</i>",
+      "relatedconst": [
+        "nm6854116",
+        "nm0774386",
+        "nm12302417",
+        "nm0472710",
+        "nm0597388",
+        "nm2387806"
+      ],
+      "viconst": "vi1224657689"
+    },
+    {
+      "name": "The Bear",
+      "ttconst": "tt14452776",
+      "rmconst": "rm4017868546",
+      "detail": "Season 5 streaming on Hulu",
+      "description": "After the surprise “Gary” prequel episode (and that cliffhanger!) dropped on May 5, we're heading into the fifth and final season of “The Bear” with all new worries but also plenty of hope that the series will stick the landing. After four seasons of kitchen chaos, personal breakdowns, family drama, and so much screaming, balanced by personal triumphs and enduring friendships, Carmy, Sydney, Richie, and the entire Bear crew are so close to fulfilling the dream of turning their family beef stand into a fine-dining restaurant. Now, we just want them to win. — <i>Vanessa</i>",
+      "relatedconst": [
+        "nm2087739",
+        "nm8731249",
+        "nm0609114",
+        "nm1154919",
+        "nm2212031",
+        "nm8274309"
+      ],
+      "viconst": "vi2777466905"
+    },
+    {
+      "name": "Avatar: The Last Airbender",
+      "ttconst": "tt9018736",
+      "rmconst": "rm1316736514",
+      "detail": "Season 2 streaming on Netflix",
+      "description": "We’re headed to the Earth Kingdom in Season 2 of this highly anticipated Netflix adaptation. Last season ended in a bittersweet victory when Ang and his friends saved the Northern Water Tribe from the invading Fire Nation. Now, they’re on a mission to convince the Earth King (Justin Chien) to help them battle the formidable Fire Lord Ozai (Daniel Dae Kim). Along the way, Ang and the gang will meet earthbender Toph Beifong (Miyako), a fan favorite character from the original animated series. — <i>Adrienne</i>",
+      "relatedconst": [
+        "nm11139032",
+        "nm11019407",
+        "nm8207735",
+        "nm4020501",
+        "nm4020501"
+      ],
+      "viconst": "vi1560791833"
+    },
+    {
+      "name": "Jackass: Best and Last",
+      "ttconst": "tt39316472",
+      "rmconst": "rm565955330",
+      "detail": "In theaters",
+      "description": "Believe it or not, Jackass has now been around for over a quarter century. If you’ve even read this far, it’s possible your idea of fun is watching a middle-aged Steve-O receive a prostate exam. In that case, allow me to welcome you to Summer Movie Season. — <i>James</i>",
+      "relatedconst": [
+        "nm0424216",
+        "nm0828177",
+        "nm0690686",
+        "nm0010338"
+      ],
+      "viconst": "vi823249689"
+    },
     {
       "name": "House of the Dragon",
       "ttconst": "tt11198330",
@@ -63,67 +124,6 @@
         "nm2016723"
       ],
       "viconst": "vi3653421849"
-    },
-    {
-      "name": "Avatar: The Last Airbender",
-      "ttconst": "tt9018736",
-      "rmconst": "rm1316736514",
-      "detail": "Season 2 premieres on Netflix June 25",
-      "description": "We’re headed to the Earth Kingdom in Season 2 of this highly anticipated Netflix adaptation. Last season ended in a bittersweet victory when Ang and his friends saved the Northern Water Tribe from the invading Fire Nation. Now, they’re on a mission to convince the Earth King (Justin Chien) to help them battle the formidable Fire Lord Ozai (Daniel Dae Kim). Along the way, Ang and the gang will meet earthbender Toph Beifong (Miyako), a fan favorite character from the original animated series. — <i>Adrienne</i>",
-      "relatedconst": [
-        "nm11139032",
-        "nm11019407",
-        "nm8207735",
-        "nm4020501",
-        "nm4020501"
-      ],
-      "viconst": "vi1560791833"
-    },
-    {
-      "name": "The Bear",
-      "ttconst": "tt14452776",
-      "rmconst": "rm4017868546",
-      "detail": "Season 5 premieres on Hulu June 25",
-      "description": "After the surprise “Gary” prequel episode (and that cliffhanger!) dropped on May 5, we're heading into the fifth and final season of “The Bear” with all new worries but also plenty of hope that the series will stick the landing. After four seasons of kitchen chaos, personal breakdowns, family drama, and so much screaming, balanced by personal triumphs and enduring friendships, Carmy, Sydney, Richie, and the entire Bear crew are so close to fulfilling the dream of turning their family beef stand into a fine-dining restaurant. Now, we just want them to win. — <i>Vanessa</i>",
-      "relatedconst": [
-        "nm2087739",
-        "nm8731249",
-        "nm0609114",
-        "nm1154919",
-        "nm2212031",
-        "nm8274309"
-      ],
-      "viconst": "vi2777466905"
-    },
-    {
-      "name": "Supergirl",
-      "ttconst": "tt8814476",
-      "rmconst": "rm441567234",
-      "detail": "In theaters June 26",
-      "description": "Milly Alcock was introduced as Kara Zor-El/Supergirl at the end of last year's <i>Superman</i>, where she got caught up in some of the negative fan reactions to the DC Universe franchise reboot. So it’s been an uphill battle for <i>Supergirl</i>, James Gunn's second entry in the DCU, which arrives as the Paramount-Warner Bros. merger has created its own ‘verse of rumors and conjecture, including unsubstantiated whispers about Gunn potentially exiting the franchise he’s lovingly mapped out for the next decade plus. The business of it all has obscured what looks to be a super summery popcorn movie that will tell Supergirl’s dark origin story and how it bonds her with Lobo, the fan favorite interstellar bounty hunter that’ll be played by Jason Momoa. <i>— Arno</i>",
-      "relatedconst": [
-        "nm6854116",
-        "nm0774386",
-        "nm12302417",
-        "nm0472710",
-        "nm0597388",
-        "nm2387806"
-      ],
-      "viconst": "vi1224657689"
-    },
-    {
-      "name": "Jackass: Best and Last",
-      "ttconst": "tt39316472",
-      "rmconst": "rm565955330",
-      "detail": "In theaters June 26",
-      "description": "Believe it or not, Jackass has now been around for over a quarter century. If you’ve even read this far, it’s possible your idea of fun is watching a middle-aged Steve-O receive a prostate exam. In that case, allow me to welcome you to Summer Movie Season. — <i>James</i>",
-      "relatedconst": [
-        "nm0424216",
-        "nm0828177",
-        "nm0690686",
-        "nm0010338"
-      ],
-      "viconst": "vi823249689"
     },
     {
       "name": "Cape Fear",
@@ -255,6 +255,1664 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt8814476",
+        "title_text": {
+          "text": "Supergirl"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl: Woman of Tomorrow",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supergirl: Woman of Tomorrow",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Супергёрл",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Супергёрл",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supermeitene",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Supermergina",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Суперґьорл",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Супердевојка",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "सुपरगर्ल",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "スーパーガール",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "超女",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "超少女",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "超级少女",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Kara Zor-El, aka Supergirl, joins forces with an unlikely companion on an interstellar journey of vengeance and justice when an unexpected adversary strikes too close to home."
+          }
+        },
+        "primary_image": {
+          "id": "rm3462054402",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_.jpg",
+          "width": 1012,
+          "height": 1500
+        },
+        "meter_ranking": {
+          "current_rank": 14,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 7
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 5.9,
+          "vote_count": 4206
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 26
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "Supergirl"
+        },
+        "runtime": {
+          "seconds": 6420
+        }
+      },
+      {
+        "id": "tt14452776",
+        "title_text": {
+          "text": "The Bear"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2022
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "AE",
+                  "text": "United Arab Emirates"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El oso",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El oso",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A mackó",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Karu",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lokys",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Medvěd",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Misiek",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Urso",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Bear: sur place ou à emporter",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ведмідь",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Медвед",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Медведь",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "一流シェフのファミリーレストラン",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "大熊餐廳",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "熊家餐馆",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop."
+          }
+        },
+        "primary_image": {
+          "id": "rm2791032834",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjk2NWI5OTctODcwYy00NGRmLWFmN2YtOTZiNzFiYjVlODBkXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 35,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 10
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.5,
+          "vote_count": 311592
+        },
+        "release_date": {
+          "year": 2022,
+          "month": 6,
+          "day": 23
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "The Bear"
+        },
+        "runtime": {
+          "seconds": 1800
+        }
+      },
+      {
+        "id": "tt9018736",
+        "title_text": {
+          "text": "Avatar: The Last Airbender"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The Last Airbender",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: La leyenda de Aang",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: La leyenda de Aang",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatár - Az utolsó léghajlító",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar - Der Herr der Elemente",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar - La leggenda di Aang",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar, le dernier maître de l'air",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: Le dernier maître de l'air",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: O Último Mestre do Ar",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: Posledný vládca vetra",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: Posljednji gospodar zraka",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Avatar: The last airbender",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Awatar: Ostatni władca wiatru",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Thế Thần: Ngự Khí Sư Cuối Cùng",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ο τελευταίος μαχητής του ανέμου",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Аватар: Аанг туралы аңыз",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Аватар: Легенда об Аанге",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Аватар: Легендата за Анг",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Аватар: Останній захисник",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Аватар: Последњи владар ветрова",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "アバター: 伝説の少年アン",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "降世神通：最后的气宗",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "降世神通：最後的氣宗",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "降世神通真人版剧集",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A young boy known as the Avatar must master the four elemental powers to save the world, and fight against an enemy bent on stopping him."
+          }
+        },
+        "primary_image": {
+          "id": "rm1443483138",
+          "url": "https://m.media-amazon.com/images/M/MV5BY2Y5OTM0MDAtOWZkNS00MWIyLWIxMzItYzY3ODljMTY3ODNlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 179,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 41
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.2,
+          "vote_count": 85437
+        },
+        "release_date": {
+          "year": 2024,
+          "month": 2,
+          "day": 22
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Family"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-PG"
+        },
+        "original_title_text": {
+          "text": "Avatar: The Last Airbender"
+        },
+        "runtime": {
+          "seconds": 3300
+        }
+      },
+      {
+        "id": "tt39316472",
+        "title_text": {
+          "text": "Jackass: Best and Last"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Best and Last",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Einer geht noch",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Einer geht noch",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Einer geht noch",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: La Última y Nos Vamos",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: La Última y Nos Vamos",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass 5: Einer geht noch",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "jackass la última y nos vamos",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: la última y nos vamos",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: La última y nos vamos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: le meilleur pour la fin",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Lo Mejor Para el Final",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Último Shot de Loucura",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jackass: Најбоље за крај",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Чудаки. Лучшее и последнее",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Follows the Jackass crew as they perform their final series of dangerous stunts and pranks, marking the end of the franchise."
+          }
+        },
+        "primary_image": {
+          "id": "rm3697790722",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_.jpg",
+          "width": 2025,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 144,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 71
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 6,
+          "day": 26
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Documentary"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Jackass: Best and Last"
+        },
+        "runtime": {
+          "seconds": 5520
+        }
+      },
       {
         "id": "tt11198330",
         "title_text": {
@@ -783,7 +2441,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 534425
+          "vote_count": 535214
         },
         "release_date": {
           "year": 2022,
@@ -1370,7 +3028,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 19103
+          "vote_count": 22648
         },
         "release_date": {
           "year": 2026,
@@ -1536,6 +3194,15 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Te encontraré",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -1712,7 +3379,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.3,
-          "vote_count": 9520
+          "vote_count": 12503
         },
         "release_date": {
           "year": 2026,
@@ -2260,7 +3927,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.7,
-          "vote_count": 61493
+          "vote_count": 64253
         },
         "release_date": {
           "year": 2026,
@@ -2304,1627 +3971,6 @@
         },
         "runtime": {
           "seconds": 8700
-        }
-      },
-      {
-        "id": "tt9018736",
-        "title_text": {
-          "text": "Avatar: The Last Airbender"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2024
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The Last Airbender",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: La leyenda de Aang",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: La leyenda de Aang",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatár - Az utolsó léghajlító",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar - Der Herr der Elemente",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar - La leggenda di Aang",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar, le dernier maître de l'air",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: Le dernier maître de l'air",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: O Último Mestre do Ar",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: Posledný vládca vetra",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: Posljednji gospodar zraka",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Avatar: The last airbender",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Awatar: Ostatni władca wiatru",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Thế Thần: Ngự Khí Sư Cuối Cùng",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ο τελευταίος μαχητής του ανέμου",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Аватар: Аанг туралы аңыз",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Аватар: Легенда об Аанге",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Аватар: Легендата за Анг",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Аватар: Останній захисник",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Аватар: Последњи владар ветрова",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "アバター: 伝説の少年アン",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "降世神通：最后的气宗",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "降世神通：最後的氣宗",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "降世神通真人版剧集",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A young boy known as the Avatar must master the four elemental powers to save the world, and fight against an enemy bent on stopping him."
-          }
-        },
-        "primary_image": {
-          "id": "rm1443483138",
-          "url": "https://m.media-amazon.com/images/M/MV5BY2Y5OTM0MDAtOWZkNS00MWIyLWIxMzItYzY3ODljMTY3ODNlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 179,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 41
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 85303
-        },
-        "release_date": {
-          "year": 2024,
-          "month": 2,
-          "day": 22
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Family"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-PG"
-        },
-        "original_title_text": {
-          "text": "Avatar: The Last Airbender"
-        },
-        "runtime": {
-          "seconds": 3300
-        }
-      },
-      {
-        "id": "tt14452776",
-        "title_text": {
-          "text": "The Bear"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2022
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "AE",
-                  "text": "United Arab Emirates"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "KR",
-                  "text": "South Korea"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El oso",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El oso",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A mackó",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Karu",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lokys",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Medvěd",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Misiek",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Urso",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Bear: sur place ou à emporter",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ведмідь",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Медвед",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Медведь",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "一流シェフのファミリーレストラン",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "大熊餐廳",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "熊家餐馆",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A young chef from the fine dining world returns to Chicago to run his family's sandwich shop."
-          }
-        },
-        "primary_image": {
-          "id": "rm2791032834",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjk2NWI5OTctODcwYy00NGRmLWFmN2YtOTZiNzFiYjVlODBkXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 35,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 10
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.5,
-          "vote_count": 311444
-        },
-        "release_date": {
-          "year": 2022,
-          "month": 6,
-          "day": 23
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "The Bear"
-        },
-        "runtime": {
-          "seconds": 1800
-        }
-      },
-      {
-        "id": "tt8814476",
-        "title_text": {
-          "text": "Supergirl"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl: Woman of Tomorrow",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supergirl: Woman of Tomorrow",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Супергёрл",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Супергёрл",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Supermergina",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Суперґьорл",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Супердевојка",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "सुपरगर्ल",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "スーパーガール",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "超女",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "超少女",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "超级少女",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Kara Zor-El, aka Supergirl, joins forces with an unlikely companion on an interstellar journey of vengeance and justice when an unexpected adversary strikes too close to home."
-          }
-        },
-        "primary_image": {
-          "id": "rm3462054402",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_.jpg",
-          "width": 1012,
-          "height": 1500
-        },
-        "meter_ranking": {
-          "current_rank": 14,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 7
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 26
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "Supergirl"
-        },
-        "runtime": {
-          "seconds": 6420
-        }
-      },
-      {
-        "id": "tt39316472",
-        "title_text": {
-          "text": "Jackass: Best and Last"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Best and Last",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Einer geht noch",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Einer geht noch",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "German"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Einer geht noch",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: La Última y Nos Vamos",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: La Última y Nos Vamos",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass 5: Einer geht noch",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "jackass la última y nos vamos",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: La última y nos vamos",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: le meilleur pour la fin",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Lo Mejor Para el Final",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Último Shot de Loucura",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jackass: Најбоље за крај",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Follows the Jackass crew as they perform their final series of dangerous stunts and pranks, marking the end of the franchise."
-          }
-        },
-        "primary_image": {
-          "id": "rm3697790722",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTRlYzQwYjItNDljNC00YmI2LWEwYmEtMjhhM2NiMGFhNTYyXkEyXkFqcGc@._V1_.jpg",
-          "width": 2025,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 144,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 71
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 6,
-          "day": 26
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Documentary"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Jackass: Best and Last"
-        },
-        "runtime": {
-          "seconds": 5520
         }
       },
       {
@@ -4176,7 +4222,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 4546
+          "vote_count": 4736
         },
         "release_date": {
           "year": 2026,
@@ -4434,7 +4480,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.3,
-          "vote_count": 4020
+          "vote_count": 4260
         },
         "release_date": {
           "year": 2026,
@@ -4783,7 +4829,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 8420
+          "vote_count": 8432
         },
         "release_date": {
           "year": 2021,
@@ -5241,7 +5287,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 40847
+          "vote_count": 40940
         },
         "release_date": {
           "year": 2022,
@@ -5741,7 +5787,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 32937
+          "vote_count": 34049
         },
         "release_date": {
           "year": 2026,
@@ -6073,7 +6119,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 5.8,
-          "vote_count": 16624
+          "vote_count": 16940
         },
         "release_date": {
           "year": 2026,
@@ -6533,7 +6579,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 5.3,
-          "vote_count": 25198
+          "vote_count": 25890
         },
         "release_date": {
           "year": 2026,
@@ -6822,6 +6868,24 @@
             },
             {
               "node": {
+                "text": "Robina Huda nāve",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Robino Hudo mirtis",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Смерть Робина Гуда",
                 "country": {
                   "id": "RU",
@@ -6861,7 +6925,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.4,
-          "vote_count": 2182
+          "vote_count": 2626
         },
         "release_date": {
           "year": 2026,
@@ -6894,7 +6958,7 @@
           "text": "The Death of Robin Hood"
         },
         "runtime": {
-          "seconds": 7380
+          "seconds": 7320
         }
       },
       {
@@ -6937,6 +7001,15 @@
                 "country": {
                   "id": "CL",
                   "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Leviticus",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
                 }
               }
             },
@@ -7053,6 +7126,33 @@
             },
             {
               "node": {
+                "text": "Leviticus: Ritual de sangre",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Leviticus: Ritual de sangre",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Leviticus: Ritual de sangre",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Левит",
                 "country": {
                   "id": "RS",
@@ -7071,6 +7171,15 @@
             },
             {
               "node": {
+                "text": "A Léviták könyve",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Bóng Quỷ",
                 "country": {
                   "id": "VN",
@@ -7084,15 +7193,6 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Leviticus: Ritual de sangre",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
                 }
               }
             }
@@ -7118,8 +7218,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.7,
-          "vote_count": 2879
+          "aggregate_rating": 6.8,
+          "vote_count": 3358
         },
         "release_date": {
           "year": 2026,
@@ -7162,6 +7262,258 @@
       }
     ],
     "names": [
+      {
+        "id": "nm6854116",
+        "name_text": {
+          "text": "Milly Alcock"
+        },
+        "primary_image": {
+          "id": "rm979881730",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDYxMTAwY2QtZjA5NS00NjEyLTllOWItNTM4NzNlZWY4MTBiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1040,
+          "height": 1300
+        }
+      },
+      {
+        "id": "nm0774386",
+        "name_text": {
+          "text": "Matthias Schoenaerts"
+        },
+        "primary_image": {
+          "id": "rm1296674560",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjMyNTQ0MDgwOF5BMl5BanBnXkFtZTcwOTUxNzA3OA@@._V1_.jpg",
+          "width": 1544,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm12302417",
+        "name_text": {
+          "text": "Eve Ridley"
+        },
+        "primary_image": {
+          "id": "rm1374921730",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTEyZTg2OWMtMjgyMS00YzFjLWFlMmUtMzEyMmIwZmRjZmFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 5504,
+          "height": 7035
+        }
+      },
+      {
+        "id": "nm0472710",
+        "name_text": {
+          "text": "David Krumholtz"
+        },
+        "primary_image": {
+          "id": "rm4188507394",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGNlMjQzMGItMmNmYi00OTM5LWJlMWMtMTdjYTE5NDdhZjA1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2700,
+          "height": 2700
+        }
+      },
+      {
+        "id": "nm0597388",
+        "name_text": {
+          "text": "Jason Momoa"
+        },
+        "primary_image": {
+          "id": "rm3488789505",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTBhMTQxZWMtYTE5ZC00NTk4LWEyYjItZTc0Nzg5YjZkMDI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1800,
+          "height": 1200
+        }
+      },
+      {
+        "id": "nm2387806",
+        "name_text": {
+          "text": "Emily Beecham"
+        },
+        "primary_image": {
+          "id": "rm1338576385",
+          "url": "https://m.media-amazon.com/images/M/MV5BYmI5MjliMzQtZmVlMS00ODQyLWJiN2ItNmIxYTFiNDk4M2NmXkEyXkFqcGc@._V1_.jpg",
+          "width": 6192,
+          "height": 8256
+        }
+      },
+      {
+        "id": "nm2087739",
+        "name_text": {
+          "text": "Jeremy Allen White"
+        },
+        "primary_image": {
+          "id": "rm4164957953",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDU3OTU5MTQtNTY1My00OWViLTg2OTktNjM3NjhjZjgzNWE0XkEyXkFqcGc@._V1_.jpg",
+          "width": 2942,
+          "height": 2305
+        }
+      },
+      {
+        "id": "nm8731249",
+        "name_text": {
+          "text": "Ayo Edebiri"
+        },
+        "primary_image": {
+          "id": "rm3917362433",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzM0NTVkZjctZDcwNi00MGMxLWEyZDktNDkyNGNmNTU1ZjFiXkEyXkFqcGc@._V1_.jpg",
+          "width": 3415,
+          "height": 5120
+        }
+      },
+      {
+        "id": "nm0609114",
+        "name_text": {
+          "text": "Ebon Moss-Bachrach"
+        },
+        "primary_image": {
+          "id": "rm2151167489",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGQ2NzYzMzMtYjQxNy00MDI1LTkxODMtMDhkNjg0YjQ5MzIxXkEyXkFqcGc@._V1_.jpg",
+          "width": 3000,
+          "height": 2000
+        }
+      },
+      {
+        "id": "nm1154919",
+        "name_text": {
+          "text": "Liza Colón-Zayas"
+        },
+        "primary_image": {
+          "id": "rm2739133953",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWY1NjRhMjYtNTYyYi00MmM2LTk2ZjctZjI0ZDhkZmFmNDQyXkEyXkFqcGc@._V1_.jpg",
+          "width": 952,
+          "height": 1282
+        }
+      },
+      {
+        "id": "nm2212031",
+        "name_text": {
+          "text": "Abby Elliott"
+        },
+        "primary_image": {
+          "id": "rm1876643840",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTA5Mzg4MzU2MTdeQTJeQWpwZ15BbWU4MDM3MzIxNjQz._V1_.jpg",
+          "width": 1362,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm8274309",
+        "name_text": {
+          "text": "Matty Matheson"
+        },
+        "primary_image": {
+          "id": "rm851907585",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmU0ZTBjZDUtY2Q3NC00YzI0LWEyNWYtMzk0MTkxYjk3MTc0XkEyXkFqcGc@._V1_.jpg",
+          "width": 3000,
+          "height": 2001
+        }
+      },
+      {
+        "id": "nm11139032",
+        "name_text": {
+          "text": "Gordon Cormier"
+        },
+        "primary_image": {
+          "id": "rm1022874882",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWNmYzYyMWMtNTE0MS00MGJjLWE5MGYtMWE2MjI5MDM4NGNmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1179,
+          "height": 1460
+        }
+      },
+      {
+        "id": "nm11019407",
+        "name_text": {
+          "text": "Kiawentiio"
+        },
+        "primary_image": {
+          "id": "rm3569501953",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWNiOWYxZWYtMzdmNi00YmYxLTgxMGYtMTlhYTVlOTYxMjk5XkEyXkFqcGc@._V1_CR20,83,1176,1764_.jpg",
+          "width": 1176,
+          "height": 1764
+        }
+      },
+      {
+        "id": "nm8207735",
+        "name_text": {
+          "text": "Ian Ousley"
+        },
+        "primary_image": {
+          "id": "rm1122712833",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGM2MjBlZjUtMmM4Yy00YmUwLTgxN2UtODQyM2Y2NWRlZjNhXkEyXkFqcGc@._V1_.jpg",
+          "width": 2355,
+          "height": 3532
+        }
+      },
+      {
+        "id": "nm4020501",
+        "name_text": {
+          "text": "Dallas Liu"
+        },
+        "primary_image": {
+          "id": "rm1705889025",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjViMmEyNWMtYWFhOS00OWNlLWE2NjUtM2MwMWZjZjQ2YzkzXkEyXkFqcGc@._V1_.jpg",
+          "width": 2240,
+          "height": 3360
+        }
+      },
+      {
+        "id": "nm4020501",
+        "name_text": {
+          "text": "Dallas Liu"
+        },
+        "primary_image": {
+          "id": "rm1705889025",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjViMmEyNWMtYWFhOS00OWNlLWE2NjUtM2MwMWZjZjQ2YzkzXkEyXkFqcGc@._V1_.jpg",
+          "width": 2240,
+          "height": 3360
+        }
+      },
+      {
+        "id": "nm0424216",
+        "name_text": {
+          "text": "Johnny Knoxville"
+        },
+        "primary_image": {
+          "id": "rm4294089472",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTE5Mjk5OTMxMV5BMl5BanBnXkFtZTYwODMyNDE0._V1_.jpg",
+          "width": 292,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0828177",
+        "name_text": {
+          "text": "Steve-O"
+        },
+        "primary_image": {
+          "id": "rm4281695745",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWI1YTgzMzctNWIxMi00NDE3LTkwMWEtYjY2MDFkMjBlNWM3XkEyXkFqcGc@._V1_.jpg",
+          "width": 2215,
+          "height": 3000
+        }
+      },
+      {
+        "id": "nm0690686",
+        "name_text": {
+          "text": "Chris Pontius"
+        },
+        "primary_image": {
+          "id": "rm4152741633",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWM3ZTRiMjAtZjY1OS00YTVjLTlkMzMtNGZkYzE0YjRiYzc1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2035,
+          "height": 2351
+        }
+      },
+      {
+        "id": "nm0010338",
+        "name_text": {
+          "text": "Jason 'Wee Man' Acuña"
+        },
+        "primary_image": {
+          "id": "rm2778437376",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzIyMjQ1Ml5BMl5BanBnXkFtZTcwMzg5MDU3MQ@@._V1_.jpg",
+          "width": 360,
+          "height": 540
+        }
+      },
       {
         "id": "nm8458664",
         "name_text": {
@@ -7436,258 +7788,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BZWIyYTU5NWItNGVhMS00YjhlLTlkN2UtNzA4NzI2NTE3ZDEzXkEyXkFqcGc@._V1_.jpg",
           "width": 1183,
           "height": 1573
-        }
-      },
-      {
-        "id": "nm11139032",
-        "name_text": {
-          "text": "Gordon Cormier"
-        },
-        "primary_image": {
-          "id": "rm1022874882",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWNmYzYyMWMtNTE0MS00MGJjLWE5MGYtMWE2MjI5MDM4NGNmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1179,
-          "height": 1460
-        }
-      },
-      {
-        "id": "nm11019407",
-        "name_text": {
-          "text": "Kiawentiio"
-        },
-        "primary_image": {
-          "id": "rm3569501953",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWNiOWYxZWYtMzdmNi00YmYxLTgxMGYtMTlhYTVlOTYxMjk5XkEyXkFqcGc@._V1_CR20,83,1176,1764_.jpg",
-          "width": 1176,
-          "height": 1764
-        }
-      },
-      {
-        "id": "nm8207735",
-        "name_text": {
-          "text": "Ian Ousley"
-        },
-        "primary_image": {
-          "id": "rm1122712833",
-          "url": "https://m.media-amazon.com/images/M/MV5BNGM2MjBlZjUtMmM4Yy00YmUwLTgxN2UtODQyM2Y2NWRlZjNhXkEyXkFqcGc@._V1_.jpg",
-          "width": 2355,
-          "height": 3532
-        }
-      },
-      {
-        "id": "nm4020501",
-        "name_text": {
-          "text": "Dallas Liu"
-        },
-        "primary_image": {
-          "id": "rm1705889025",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjViMmEyNWMtYWFhOS00OWNlLWE2NjUtM2MwMWZjZjQ2YzkzXkEyXkFqcGc@._V1_.jpg",
-          "width": 2240,
-          "height": 3360
-        }
-      },
-      {
-        "id": "nm4020501",
-        "name_text": {
-          "text": "Dallas Liu"
-        },
-        "primary_image": {
-          "id": "rm1705889025",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjViMmEyNWMtYWFhOS00OWNlLWE2NjUtM2MwMWZjZjQ2YzkzXkEyXkFqcGc@._V1_.jpg",
-          "width": 2240,
-          "height": 3360
-        }
-      },
-      {
-        "id": "nm2087739",
-        "name_text": {
-          "text": "Jeremy Allen White"
-        },
-        "primary_image": {
-          "id": "rm4164957953",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDU3OTU5MTQtNTY1My00OWViLTg2OTktNjM3NjhjZjgzNWE0XkEyXkFqcGc@._V1_.jpg",
-          "width": 2942,
-          "height": 2305
-        }
-      },
-      {
-        "id": "nm8731249",
-        "name_text": {
-          "text": "Ayo Edebiri"
-        },
-        "primary_image": {
-          "id": "rm3917362433",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzM0NTVkZjctZDcwNi00MGMxLWEyZDktNDkyNGNmNTU1ZjFiXkEyXkFqcGc@._V1_.jpg",
-          "width": 3415,
-          "height": 5120
-        }
-      },
-      {
-        "id": "nm0609114",
-        "name_text": {
-          "text": "Ebon Moss-Bachrach"
-        },
-        "primary_image": {
-          "id": "rm2151167489",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGQ2NzYzMzMtYjQxNy00MDI1LTkxODMtMDhkNjg0YjQ5MzIxXkEyXkFqcGc@._V1_.jpg",
-          "width": 3000,
-          "height": 2000
-        }
-      },
-      {
-        "id": "nm1154919",
-        "name_text": {
-          "text": "Liza Colón-Zayas"
-        },
-        "primary_image": {
-          "id": "rm2739133953",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWY1NjRhMjYtNTYyYi00MmM2LTk2ZjctZjI0ZDhkZmFmNDQyXkEyXkFqcGc@._V1_.jpg",
-          "width": 952,
-          "height": 1282
-        }
-      },
-      {
-        "id": "nm2212031",
-        "name_text": {
-          "text": "Abby Elliott"
-        },
-        "primary_image": {
-          "id": "rm1876643840",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTA5Mzg4MzU2MTdeQTJeQWpwZ15BbWU4MDM3MzIxNjQz._V1_.jpg",
-          "width": 1362,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm8274309",
-        "name_text": {
-          "text": "Matty Matheson"
-        },
-        "primary_image": {
-          "id": "rm851907585",
-          "url": "https://m.media-amazon.com/images/M/MV5BNmU0ZTBjZDUtY2Q3NC00YzI0LWEyNWYtMzk0MTkxYjk3MTc0XkEyXkFqcGc@._V1_.jpg",
-          "width": 3000,
-          "height": 2001
-        }
-      },
-      {
-        "id": "nm6854116",
-        "name_text": {
-          "text": "Milly Alcock"
-        },
-        "primary_image": {
-          "id": "rm979881730",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDYxMTAwY2QtZjA5NS00NjEyLTllOWItNTM4NzNlZWY4MTBiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1040,
-          "height": 1300
-        }
-      },
-      {
-        "id": "nm0774386",
-        "name_text": {
-          "text": "Matthias Schoenaerts"
-        },
-        "primary_image": {
-          "id": "rm1296674560",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjMyNTQ0MDgwOF5BMl5BanBnXkFtZTcwOTUxNzA3OA@@._V1_.jpg",
-          "width": 1544,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm12302417",
-        "name_text": {
-          "text": "Eve Ridley"
-        },
-        "primary_image": {
-          "id": "rm1374921730",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTEyZTg2OWMtMjgyMS00YzFjLWFlMmUtMzEyMmIwZmRjZmFhXkEyXkFqcGc@._V1_.jpg",
-          "width": 5504,
-          "height": 7035
-        }
-      },
-      {
-        "id": "nm0472710",
-        "name_text": {
-          "text": "David Krumholtz"
-        },
-        "primary_image": {
-          "id": "rm4188507394",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGNlMjQzMGItMmNmYi00OTM5LWJlMWMtMTdjYTE5NDdhZjA1XkEyXkFqcGc@._V1_.jpg",
-          "width": 2700,
-          "height": 2700
-        }
-      },
-      {
-        "id": "nm0597388",
-        "name_text": {
-          "text": "Jason Momoa"
-        },
-        "primary_image": {
-          "id": "rm3488789505",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTBhMTQxZWMtYTE5ZC00NTk4LWEyYjItZTc0Nzg5YjZkMDI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1800,
-          "height": 1200
-        }
-      },
-      {
-        "id": "nm2387806",
-        "name_text": {
-          "text": "Emily Beecham"
-        },
-        "primary_image": {
-          "id": "rm1338576385",
-          "url": "https://m.media-amazon.com/images/M/MV5BYmI5MjliMzQtZmVlMS00ODQyLWJiN2ItNmIxYTFiNDk4M2NmXkEyXkFqcGc@._V1_.jpg",
-          "width": 6192,
-          "height": 8256
-        }
-      },
-      {
-        "id": "nm0424216",
-        "name_text": {
-          "text": "Johnny Knoxville"
-        },
-        "primary_image": {
-          "id": "rm4294089472",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTE5Mjk5OTMxMV5BMl5BanBnXkFtZTYwODMyNDE0._V1_.jpg",
-          "width": 292,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0828177",
-        "name_text": {
-          "text": "Steve-O"
-        },
-        "primary_image": {
-          "id": "rm4281695745",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWI1YTgzMzctNWIxMi00NDE3LTkwMWEtYjY2MDFkMjBlNWM3XkEyXkFqcGc@._V1_.jpg",
-          "width": 2215,
-          "height": 3000
-        }
-      },
-      {
-        "id": "nm0690686",
-        "name_text": {
-          "text": "Chris Pontius"
-        },
-        "primary_image": {
-          "id": "rm4152741633",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWM3ZTRiMjAtZjY1OS00YTVjLTlkMzMtNGZkYzE0YjRiYzc1XkEyXkFqcGc@._V1_.jpg",
-          "width": 2035,
-          "height": 2351
-        }
-      },
-      {
-        "id": "nm0010338",
-        "name_text": {
-          "text": "Jason 'Wee Man' Acuña"
-        },
-        "primary_image": {
-          "id": "rm2778437376",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzIyMjQ1Ml5BMl5BanBnXkFtZTcwMzg5MDU3MQ@@._V1_.jpg",
-          "width": 360,
-          "height": 540
         }
       },
       {
@@ -8162,6 +8262,30 @@
     "videos": [],
     "images": [
       {
+        "id": "rm441567234",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTBiNWUzMzItMjk5YS00N2VmLWE5ZDMtYjg0NzJiZjlhMzUxXkEyXkFqcGc@._V1_.jpg",
+        "width": 4312,
+        "height": 2251
+      },
+      {
+        "id": "rm4017868546",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2UxODgyMWQtZmY2YS00YWY5LThjMzgtZGMyNWFhMmNmOGZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 1688
+      },
+      {
+        "id": "rm1316736514",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWM5NjBiMGUtZjRkYi00ZWIyLTg2OGEtYjY3YmIxZTA3ZDVmXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 2400
+      },
+      {
+        "id": "rm565955330",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGYwZTkxZDEtZjc5Ni00ODJiLTllOWItOTcxZjRjMDliNDAyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2005
+      },
+      {
         "id": "rm2999441154",
         "url": "https://m.media-amazon.com/images/M/MV5BODk5ZTk1OTItNGU2Yi00Y2E2LTg1ZTYtYzNlYjhmMGFhNGQyXkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
@@ -8184,30 +8308,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BYzQ2OTk4ZmEtMTI2NS00N2QxLTlmZjQtY2E1MmEwODE3NWU2XkEyXkFqcGc@._V1_.jpg",
         "width": 5143,
         "height": 3459
-      },
-      {
-        "id": "rm1316736514",
-        "url": "https://m.media-amazon.com/images/M/MV5BZWM5NjBiMGUtZjRkYi00ZWIyLTg2OGEtYjY3YmIxZTA3ZDVmXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 2400
-      },
-      {
-        "id": "rm4017868546",
-        "url": "https://m.media-amazon.com/images/M/MV5BN2UxODgyMWQtZmY2YS00YWY5LThjMzgtZGMyNWFhMmNmOGZiXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 1688
-      },
-      {
-        "id": "rm441567234",
-        "url": "https://m.media-amazon.com/images/M/MV5BZTBiNWUzMzItMjk5YS00N2VmLWE5ZDMtYjg0NzJiZjlhMzUxXkEyXkFqcGc@._V1_.jpg",
-        "width": 4312,
-        "height": 2251
-      },
-      {
-        "id": "rm565955330",
-        "url": "https://m.media-amazon.com/images/M/MV5BZGYwZTkxZDEtZjc5Ni00ODJiLTllOWItOTcxZjRjMDliNDAyXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 2005
       },
       {
         "id": "rm3723419394",
