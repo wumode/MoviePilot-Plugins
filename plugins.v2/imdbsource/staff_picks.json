@@ -1,11 +1,54 @@
 {
-  "updated_at": "2026-07-02 12:33:25",
+  "updated_at": "2026-07-11 12:33:17",
   "entries": [
+    {
+      "name": "Evil Dead Burn",
+      "ttconst": "tt31170389",
+      "rmconst": "rm4050634754",
+      "detail": "In theaters",
+      "description": "I’m not sure what to make of this latest entry into Sam Raimi’s seminal story of psychos from beyond the grave. The vibes feel very early 2000s, thanks to the dingy color grading and general Rob Zombie-style hillbilly family dinner scene in the trailer. But that styling might work in <i>Evil Dead Burn</i>’s favor. Things were already heading that direction with the last flick, <i>Evil Dead Rise</i>, which has a decidedly Y2K-goth-girl-goes-crazy energy that could have easily been fan edited into a TikTok scored by Evanescence (extreme complimentary), and that movie was a hit. This time, we'll follow a widow whose visit with her in-laws gets goopy when they all start to transform into deadites. Director Sébastien Vanicek has only one other feature to his name, so my guess is he’s going to come out swinging with this one. Frankly, it kinda sounds groovy. — Adrienne",
+      "relatedconst": [
+        "nm5547023",
+        "nm4578161",
+        "nm9113893"
+      ],
+      "viconst": "vi2249902873"
+    },
+    {
+      "name": "Little House on the Prairie",
+      "ttconst": "tt2431250",
+      "rmconst": "rm3202927874",
+      "detail": "Streaming on Netflix",
+      "description": "Encountering Laura Ingalls Wilder’s seminal book series about life in the American West has been a formative experience for multiple generations of little girls. Both Gen X and (elder) Millennials even got to see the Ingalls family on the small screen in a TV series that lasted nearly 10 years. Now a whole new generation gets to enjoy the adventures of Laura, Mary, Ma, Pa, and even Nellie in the Netflix series that will adapt the third book in the series (that’s the one that’s actually about the prairie, iykyk) and also expand beyond the family’s journey to include a larger picture of life on the frontier. — Adrienne",
+      "relatedconst": [
+        "nm14097149",
+        "nm12468359",
+        "nm3478396",
+        "nm5075588",
+        "nm14308094"
+      ],
+      "viconst": "vi1635568409"
+    },
+    {
+      "name": "Moana",
+      "ttconst": "tt27419466",
+      "rmconst": "rm58696450",
+      "detail": "In theaters",
+      "description": "If you’re not a parent (or a Disney adult), you’d be forgiven for asking how there could possibly be another Moana movie on the way. As <i>The Lion King</i>, <i>Lilo & Stitch</i>, and 2024’s <i>Moana 2</i> demonstrated, live-action Disney remakes and Moana sequels have the potential for billion-dollar returns at the box office. But after recent live-action misfires (<i>The Little Mermaid</i>, <i>Snow White</i>), what reasons do we have to believe this version will be a hit? For starters, the Moana franchise is still incredibly popular. Last year, <i>Moana 2</i> was the #2 most streamed movie across all platforms, and the original <i>Moana</i> was at #4 with 5.8 billion minutes watched, according to Nielsen. Unless Dwayne Johnson’s hair negates his box office power (like Samson in reverse), <i>Moana</i> is likely to sail right to the bank.",
+      "relatedconst": [
+        "nm15077498",
+        "nm0425005",
+        "nm1732270",
+        "nm4213877",
+        "nm0654240"
+      ],
+      "viconst": "vi4258188057"
+    },
     {
       "name": "Minions & Monsters",
       "ttconst": "tt32890033",
       "rmconst": "rm232380162",
-      "detail": "In theaters July 1",
+      "detail": "In theaters",
       "description": "The Minions are already an instant win for children everywhere, so we’re going to focus on what you big kids (aka adults) might like to know. The latest Despicable Me spin-off is set in 1920s Hollywood where everyone’s favorite henchmen will set out to find the perfect lead actor for their new monster movie. Franchise mastermind Pierre Coffin returns as both writer-director and the voice of the Minions, and keep an ear out for the A-list voice cast, which includes Jeff Bridges, Allison Janney, Jesse Eisenberg, and Christoph Waltz, among others. — Adrienne",
       "relatedconst": [
         "nm0000313",
@@ -20,7 +63,7 @@
       "name": "Elle",
       "ttconst": "tt32020831",
       "rmconst": "rm979093506",
-      "detail": "Series premieres July 1 on Prime Video",
+      "detail": "Streaming on Prime Video",
       "description": "This <i>Legally Blonde</i> prequel series gives Elle Woods' teen years a light facelift by relocating the high schooler and future lobbyist from Bel-Air to 1990s grunge-era Seattle. Lexi Minetree plays the young fish out of water, and showrunner Laura Kittrell was a writer/producer on Issa Rae’s “Insecure.” — James",
       "relatedconst": [
         "nm8482772",
@@ -36,7 +79,7 @@
       "name": "X-Men 97",
       "ttconst": "tt16026746",
       "rmconst": "rm1874644994",
-      "detail": "Season 2 premieres July 1 on Disney+",
+      "detail": "Season 2 Streaming on Prime Video",
       "description": "Fans have patiently waited two years to find out what will happen after the cliffhanger finale of Season 1, which left several of our mutant heroes lost in time, and in a post-credit sequence, revealed X-Men supervillain Apocalypse lying in wait. The first three (of nine) episodes drop July 1 on Disney+, and good news! The series was already renewed for a third season. — James",
       "relatedconst": [
         "nm2616557",
@@ -50,7 +93,7 @@
       "name": "Enola Holmes 3",
       "ttconst": "tt32278481",
       "rmconst": "rm1516621058",
-      "detail": "Premieres July 1 on Netflix",
+      "detail": "Streaming on Netflix",
       "description": "Enola Holmes is back with a third adventure this month that will take the youngest Holmes from the altar all the way to the cliffs of Malta. Millie Bobby Brown reprises her role as the young detective, who looks to be headed for a life of domestic bliss until her older brother Sherlock is kidnapped just before the plucky gumshoe is about to say, “I do.” It’s always fun to see Millie do her thing alongside her talented returning cast, including Henry Cavill, Helena Bonham Carter, Sharon Duncan-Brewster, Himesh Patel, and Louis Partridge, among others. — Adrienne",
       "relatedconst": [
         "nm5611121",
@@ -66,7 +109,7 @@
       "name": "Human Vapor",
       "ttconst": "tt33083249",
       "rmconst": "rm2990719746",
-      "detail": "Premieres July 2 on Netflix",
+      "detail": "Streaming on Netflix",
       "description": "Yeon Sang-ho, the creator of <i>Train to Busan</i>, has reimagined Ishirō Honda's 1960 sci-fi thriller as a TV series where a figure called the Human Vapor publicly announces he's the entity who is responsible for a series of killings across Japan. To cause further panic and chaos, he announces each target in advance. The show is the first partnership between Netflix and the truly legendary Japanese studio, Toho. — Arno",
       "relatedconst": [
         "nm1040419",
@@ -79,7 +122,7 @@
       "name": "Silo",
       "ttconst": "tt14688458",
       "rmconst": "rm3598630402",
-      "detail": "Season 3 premieres July 3 on Apple TV",
+      "detail": "Season 3 Streaming on on Apple TV",
       "description": "“Silo,” one of your fave series (and ours), splits its timeline in half for Season 3. In the present, Juliette (Rebecca Ferguson) returns to her silo after her forced “cleaning” at the end of Season 2. While Juliette copes with memory loss, rebounding from the rebellion, and a new threat (of course), the storyline will travel back to the “Before Times,” where a journalist and Congressman uncover a conspiracy that leads up to the construction of ... well, you know. Season 3 premieres on July 3 and weekly episodes will drop through September 4. — Arno",
       "relatedconst": [
         "nm0272581",
@@ -90,49 +133,6 @@
         "nm2842232"
       ],
       "viconst": "vi3245525785"
-    },
-    {
-      "name": "Little House on the Prairie",
-      "ttconst": "tt2431250",
-      "rmconst": "rm3202927874",
-      "detail": "Series premieres July 9 on Netflix",
-      "description": "Encountering Laura Ingalls Wilder’s seminal book series about life in the American West has been a formative experience for multiple generations of little girls. Both Gen X and (elder) Millennials even got to see the Ingalls family on the small screen in a TV series that lasted nearly 10 years. Now a whole new generation gets to enjoy the adventures of Laura, Mary, Ma, Pa, and even Nellie in the Netflix series that will adapt the third book in the series (that’s the one that’s actually about the prairie, iykyk) and also expand beyond the family’s journey to include a larger picture of life on the frontier. — Adrienne",
-      "relatedconst": [
-        "nm14097149",
-        "nm12468359",
-        "nm3478396",
-        "nm5075588",
-        "nm14308094"
-      ],
-      "viconst": "vi1635568409"
-    },
-    {
-      "name": "Moana",
-      "ttconst": "tt27419466",
-      "rmconst": "rm58696450",
-      "detail": "In theaters July 10",
-      "description": "If you’re not a parent (or a Disney adult), you’d be forgiven for asking how there could possibly be another Moana movie on the way. As <i>The Lion King</i>, <i>Lilo & Stitch</i>, and 2024’s <i>Moana 2</i> demonstrated, live-action Disney remakes and Moana sequels have the potential for billion-dollar returns at the box office. But after recent live-action misfires (<i>The Little Mermaid</i>, <i>Snow White</i>), what reasons do we have to believe this version will be a hit? For starters, the Moana franchise is still incredibly popular. Last year, <i>Moana 2</i> was the #2 most streamed movie across all platforms, and the original <i>Moana</i> was at #4 with 5.8 billion minutes watched, according to Nielsen. Unless Dwayne Johnson’s hair negates his box office power (like Samson in reverse), <i>Moana</i> is likely to sail right to the bank.",
-      "relatedconst": [
-        "nm15077498",
-        "nm0425005",
-        "nm1732270",
-        "nm4213877",
-        "nm0654240"
-      ],
-      "viconst": "vi4258188057"
-    },
-    {
-      "name": "Evil Dead Burn",
-      "ttconst": "tt31170389",
-      "rmconst": "rm4050634754",
-      "detail": "In theaters July 10",
-      "description": "I’m not sure what to make of this latest entry into Sam Raimi’s seminal story of psychos from beyond the grave. The vibes feel very early 2000s, thanks to the dingy color grading and general Rob Zombie-style hillbilly family dinner scene in the trailer. But that styling might work in <i>Evil Dead Burn</i>’s favor. Things were already heading that direction with the last flick, <i>Evil Dead Rise</i>, which has a decidedly Y2K-goth-girl-goes-crazy energy that could have easily been fan edited into a TikTok scored by Evanescence (extreme complimentary), and that movie was a hit. This time, we'll follow a widow whose visit with her in-laws gets goopy when they all start to transform into deadites. Director Sébastien Vanicek has only one other feature to his name, so my guess is he’s going to come out swinging with this one. Frankly, it kinda sounds groovy. — Adrienne",
-      "relatedconst": [
-        "nm5547023",
-        "nm4578161",
-        "nm9113893"
-      ],
-      "viconst": "vi2249902873"
     },
     {
       "name": "Lucky",
@@ -311,6 +311,1319 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt31170389",
+        "title_text": {
+          "text": "Evil Dead Burn"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead Burn",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: En llamas",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: En llamas",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: En llamas",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: En llamas",
+                "country": {
+                  "id": "CR",
+                  "text": "Costa Rica"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: En llamas",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: En llamas",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Зловещие мертвецы: Пекло",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Зловещие мертвецы: Пекло",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Morte do Demônio: Em Chamas",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cartea morților: Focul din iad",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: en llamas",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: En Llamas",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Evil Dead: Zhor v pekle",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gonosz halott: Égj!",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kötü Ruh: Cehennem Ateşi",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kurjad surnud põlevad",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "L'opéra de la terreur: l'embrasement",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Casa: Il rogo del male",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ļaunie miroņi deg",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ma Cây: Lửa Địa Ngục",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Martwe zło: Ogień",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Piktieji numirėliai dega",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Posesion infernal: En llamas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Smrtelné zlo: V plamenech",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Evil Dead Spin-Off",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zlobni mrtveci gorijo",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Зли мртви: Спаљивање",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Злите мъртви Изпепеляване",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Зловісні мерці у вогні",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "屍變焚場",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "鬼玩人：煉獄",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death."
+          }
+        },
+        "primary_image": {
+          "id": "rm2238695426",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_.jpg",
+          "width": 2764,
+          "height": 4096
+        },
+        "meter_ranking": {
+          "current_rank": 36,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 36
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.9,
+          "vote_count": 3113
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 10
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Evil Dead Burn"
+        },
+        "runtime": {
+          "seconds": 6600
+        }
+      },
+      {
+        "id": "tt2431250",
+        "title_text": {
+          "text": "Little House on the Prairie"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La casa de la pradera",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La casa de la pradera",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A farm, ahol élünk",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Det vesle huset på prærien",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Domek na prerii",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Küçük Ev",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La casa nella prateria",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Petite Maison dans la prairie",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lilla huset på prärien",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Uma Casa na Pradaria",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unsere kleine Farm",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Мала кућа у прерији",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "The Ingalls family lives and works on a farm in Midwestern America during the late 19th century."
+          }
+        },
+        "primary_image": {
+          "id": "rm1943393538",
+          "url": "https://m.media-amazon.com/images/M/MV5BODQyNzI4Y2EtODE4ZC00MjFjLTg1ZjMtYzJkNDYwZjUxZjQ1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 156,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 149
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.7,
+          "vote_count": 596
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 9
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Family"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Western"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-PG"
+        },
+        "original_title_text": {
+          "text": "Little House on the Prairie"
+        },
+        "runtime": {
+          "seconds": 3000
+        }
+      },
+      {
+        "id": "tt27419466",
+        "title_text": {
+          "text": "Moana"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "XAS",
+                  "text": "Asia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Моана",
+                "country": {
+                  "id": "BY",
+                  "text": "Belarus"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Моана",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Моана",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hành Trình Của Moana",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "HU Vaiana",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Oceania",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odvážná Vaiana",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana: La Légende du bout du monde",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vajana",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Вајана",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ваяна",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Смелата Ваяна",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ໂມອານາ",
+                "country": {
+                  "id": "LA",
+                  "text": "Laos"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "モアナと伝説の海",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "海洋奇緣",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "魔海奇緣",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Live-action adaptation of the 2016 Disney animated film 'Moana.'"
+          }
+        },
+        "primary_image": {
+          "id": "rm2163529218",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1086,
+          "height": 1609
+        },
+        "meter_ranking": {
+          "current_rank": 31,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 23
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 5.6,
+          "vote_count": 1466
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 10
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Family"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Musical"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG"
+        },
+        "original_title_text": {
+          "text": "Moana"
+        },
+        "runtime": {
+          "seconds": 6900
+        }
+      },
       {
         "id": "tt32890033",
         "title_text": {
@@ -839,16 +2152,16 @@
           "height": 5000
         },
         "meter_ranking": {
-          "current_rank": 29,
+          "current_rank": 14,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 45
+            "difference": 15
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.4,
-          "vote_count": 1245
+          "aggregate_rating": 6.6,
+          "vote_count": 9373
         },
         "release_date": {
           "year": 2026,
@@ -946,6 +2259,15 @@
               "node": {
                 "text": "Elle",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Elle",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -1028,6 +2350,33 @@
             },
             {
               "node": {
+                "text": "Elle: Legalmente rubia",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Elle: Legalmente rubia",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Elle: Legalmente Loira",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Ел",
                 "country": {
                   "id": "RS",
@@ -1058,15 +2407,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 201,
+          "current_rank": 8,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 323
+            "difference": 193
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.9,
+          "vote_count": 3319
         },
         "release_date": {
           "year": 2026,
@@ -1379,16 +2729,16 @@
           "height": 1610
         },
         "meter_ranking": {
-          "current_rank": 268,
+          "current_rank": 17,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 25
+            "change_direction": "UP",
+            "difference": 251
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.7,
-          "vote_count": 54055
+          "vote_count": 55049
         },
         "release_date": {
           "year": 2024,
@@ -1451,8 +2801,26 @@
               "node": {
                 "text": "Enola Holmes 3",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Enola Holmes 3",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Enola Holmes 3",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
                 }
               }
             },
@@ -1474,6 +2842,24 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Enola Holmes 3",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Enola Holmes 3",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
                 }
               }
             },
@@ -1523,6 +2909,15 @@
               "node": {
                 "text": "Enola Holmes 3",
                 "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Enola Holmes 3",
+                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -1563,6 +2958,24 @@
             },
             {
               "node": {
+                "text": "Енола Холмс 3",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Енола Холмс 3",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Enola Holmes 3.",
                 "country": {
                   "id": "HU",
@@ -1572,10 +2985,19 @@
             },
             {
               "node": {
-                "text": "Енола Холмс 3",
+                "text": "Энола Холмс 3",
                 "country": {
-                  "id": "RS",
-                  "text": "Serbia"
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "天才少女福爾摩斯3",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
                 }
               }
             }
@@ -1593,15 +3015,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 169,
+          "current_rank": 9,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 199
+            "difference": 160
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 5.8,
+          "vote_count": 14255
         },
         "release_date": {
           "year": 2026,
@@ -1669,6 +3092,90 @@
               "node": {
                 "text": "Human Vapor",
                 "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
                   "id": "SE",
                   "text": "Sweden"
                 }
@@ -1697,10 +3204,49 @@
             },
             {
               "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "El Hombre Vapor",
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Hombre Vapor",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Człowiek para",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gőzember",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
@@ -1750,7 +3296,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Follows a man who gains the ability to transform into a gaseous state and uses his powers for bank robberies."
+            "plain_text": "A man gains the ability to transform into a gaseous state uses his powers for bank robberies."
           }
         },
         "primary_image": {
@@ -1760,15 +3306,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 1393,
+          "current_rank": 36,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 358
+            "difference": 1357
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.6,
+          "vote_count": 930
         },
         "release_date": {
           "year": 2026,
@@ -1809,8 +3356,14 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-MA"
+        },
         "original_title_text": {
           "text": "Gasu Ningen"
+        },
+        "runtime": {
+          "seconds": 3000
         }
       },
       {
@@ -2194,16 +3747,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 30,
+          "current_rank": 5,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 11
+            "difference": 25
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 216993
+          "vote_count": 218752
         },
         "release_date": {
           "year": 2023,
@@ -2237,1218 +3790,6 @@
         },
         "runtime": {
           "seconds": 2940
-        }
-      },
-      {
-        "id": "tt2431250",
-        "title_text": {
-          "text": "Little House on the Prairie"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Little House on the Prairie",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La casa de la pradera",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La casa de la pradera",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Det vesle huset på prærien",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Domek na prerii",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Küçük Ev",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La casa nella prateria",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Petite Maison dans la prairie",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lilla huset på prärien",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Uma Casa na Pradaria",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unsere kleine Farm",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Мала кућа у прерији",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "The Ingalls family lives and works on a farm in Midwestern America during the late 19th century."
-          }
-        },
-        "primary_image": {
-          "id": "rm1943393538",
-          "url": "https://m.media-amazon.com/images/M/MV5BODQyNzI4Y2EtODE4ZC00MjFjLTg1ZjMtYzJkNDYwZjUxZjQ1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 305,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 11
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.3,
-          "vote_count": 41
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 9
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Family"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            },
-            {
-              "genre": {
-                "text": "Western"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Little House on the Prairie"
-        }
-      },
-      {
-        "id": "tt27419466",
-        "title_text": {
-          "text": "Moana"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "XAS",
-                  "text": "Asia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moana",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Моана",
-                "country": {
-                  "id": "BY",
-                  "text": "Belarus"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Моана",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Моана",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hành Trình Của Moana",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Oceania",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Odvážná Vaiana",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vaiana: La Légende du bout du monde",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Вајана",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ваяна",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "モアナと伝説の海",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "海洋奇緣",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "魔海奇緣",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Live-action adaptation of the 2016 Disney animated film 'Moana.'"
-          }
-        },
-        "primary_image": {
-          "id": "rm2163529218",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1086,
-          "height": 1609
-        },
-        "meter_ranking": {
-          "current_rank": 54,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 1
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 10
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Family"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Musical"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG"
-        },
-        "original_title_text": {
-          "text": "Moana"
-        },
-        "runtime": {
-          "seconds": 6900
-        }
-      },
-      {
-        "id": "tt31170389",
-        "title_text": {
-          "text": "Evil Dead Burn"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead Burn",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead: En llamas",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead: En llamas",
-                "country": {
-                  "id": "BO",
-                  "text": "Bolivia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead: En llamas",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead: En llamas",
-                "country": {
-                  "id": "CR",
-                  "text": "Costa Rica"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead: En llamas",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Зловещие мертвецы: Пламя смерти",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Зловещие мертвецы: Пламя смерти",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Morte do Demônio: Em Chamas",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cartea morților: Focul din iad",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead en llamas",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead: En Llamas",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Evil Dead: Zhor v pekle",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gonosz halott: Égj!",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kötü Ruh: Cehennem Ateşi",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kurjad surnud põlevad",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "L'opéra de la terreur: l'embrasement",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Casa: Il rogo del male",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ļaunie miroņi deg",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ma Cây: Lửa Địa Ngục",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Martwe zło: Ogień",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Piktieji numirėliai dega",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Posesion infernal: En llamas",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Smrtelné zlo: V plamenech",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Untitled Evil Dead Spin-Off",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Zlobni mrtveci gorijo",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Зли мртви: Спаљивање",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Злите мъртви Изпепеляване",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Зловісні мерці у вогні",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "屍變焚場",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "鬼玩人：煉獄",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death."
-          }
-        },
-        "primary_image": {
-          "id": "rm2238695426",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_.jpg",
-          "width": 2764,
-          "height": 4096
-        },
-        "meter_ranking": {
-          "current_rank": 72,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 8
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 10
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Evil Dead Burn"
-        },
-        "runtime": {
-          "seconds": 6600
         }
       },
       {
@@ -3619,11 +3960,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 273,
+          "current_rank": 102,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 89
+            "change_direction": "UP",
+            "difference": 171
           }
         },
         "ratings_summary": {
@@ -3801,6 +4142,15 @@
                   "text": "Brazil"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Яструб",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
             }
           ]
         },
@@ -3816,11 +4166,11 @@
           "height": 1500
         },
         "meter_ranking": {
-          "current_rank": 369,
+          "current_rank": 304,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 163
+            "difference": 65
           }
         },
         "ratings_summary": {
@@ -3880,6 +4230,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -4221,15 +4580,6 @@
             },
             {
               "node": {
-                "text": "Odysseen",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Η Οδύσσεια",
                 "country": {
                   "id": "GR",
@@ -4293,11 +4643,11 @@
           "height": 5000
         },
         "meter_ranking": {
-          "current_rank": 15,
+          "current_rank": 5,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 2
+            "change_direction": "UP",
+            "difference": 10
           }
         },
         "ratings_summary": {
@@ -4457,6 +4807,15 @@
             },
             {
               "node": {
+                "text": "Descendentes: País das Maravilhas Malvado",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Następcy: Klątwa Krainy Czarów",
                 "country": {
                   "id": "PL",
@@ -4487,11 +4846,11 @@
           "height": 1875
         },
         "meter_ranking": {
-          "current_rank": 94,
+          "current_rank": 317,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 738
+            "change_direction": "DOWN",
+            "difference": 223
           }
         },
         "ratings_summary": {
@@ -4752,11 +5111,11 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 2264,
+          "current_rank": 1281,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 669
+            "change_direction": "UP",
+            "difference": 983
           }
         },
         "ratings_summary": {
@@ -4970,7 +5329,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Comic book store owner Stuart Bloom from The Big Bang Theory (2007) returns in a new series where he attempts - and apparently fails - to save the universe, staying true to his unlucky nature."
+            "plain_text": "Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts--and apparently fails--to save the universe, staying true to his unlucky nature."
           }
         },
         "primary_image": {
@@ -4980,11 +5339,11 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 277,
+          "current_rank": 289,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 516
+            "change_direction": "DOWN",
+            "difference": 12
           }
         },
         "ratings_summary": {
@@ -5162,11 +5521,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 126,
+          "current_rank": 538,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 4131
+            "change_direction": "DOWN",
+            "difference": 412
           }
         },
         "ratings_summary": {
@@ -5465,16 +5824,16 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 631,
+          "current_rank": 444,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 80
+            "change_direction": "UP",
+            "difference": 187
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 35036
+          "vote_count": 35141
         },
         "release_date": {
           "year": 2023,
@@ -5596,30 +5955,6 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -5991,7 +6326,7 @@
           "height": 889
         },
         "meter_ranking": {
-          "current_rank": 16,
+          "current_rank": 24,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
@@ -6037,7 +6372,7 @@
           "text": "Spider-Man: Brand New Day"
         },
         "runtime": {
-          "seconds": 9000
+          "seconds": 8700
         }
       },
       {
@@ -6059,6 +6394,15 @@
                 "country": {
                   "id": "AU",
                   "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
                 }
               }
             },
@@ -6175,6 +6519,15 @@
                   "text": "English"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Tahan sinult seksi",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
             }
           ]
         },
@@ -6190,11 +6543,11 @@
           "height": 1353
         },
         "meter_ranking": {
-          "current_rank": 131,
+          "current_rank": 119,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 27
+            "change_direction": "UP",
+            "difference": 12
           }
         },
         "ratings_summary": {
@@ -6494,16 +6847,16 @@
           "height": 700
         },
         "meter_ranking": {
-          "current_rank": 574,
+          "current_rank": 637,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 896
+            "change_direction": "DOWN",
+            "difference": 63
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 16816
+          "vote_count": 16908
         },
         "release_date": {
           "year": 2024,
@@ -6556,6 +6909,162 @@
       }
     ],
     "names": [
+      {
+        "id": "nm5547023",
+        "name_text": {
+          "text": "Hunter Doohan"
+        },
+        "primary_image": {
+          "id": "rm3832405249",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGQ3NGRlZTYtZDM0NC00NzliLWJkOWYtZDkwNmI2Y2RhMDU5XkEyXkFqcGc@._V1_.jpg",
+          "width": 853,
+          "height": 1280
+        }
+      },
+      {
+        "id": "nm4578161",
+        "name_text": {
+          "text": "Luciane Buchanan"
+        },
+        "primary_image": {
+          "id": "rm38055938",
+          "url": "https://m.media-amazon.com/images/M/MV5BYThlOGNjZGMtNzNkZi00NjJhLWI0NmEtNTgwMTE1YzYyYjY5XkEyXkFqcGc@._V1_.jpg",
+          "width": 8742,
+          "height": 11656
+        }
+      },
+      {
+        "id": "nm9113893",
+        "name_text": {
+          "text": "Souheila Yacoub"
+        },
+        "primary_image": {
+          "id": "rm962143489",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjZmZDJiMzAtOTY4MS00ZDg4LTk4NDctNTYzMzg1NDJiODRhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1440
+        }
+      },
+      {
+        "id": "nm14097149",
+        "name_text": {
+          "text": "Alice Halsey"
+        },
+        "primary_image": {
+          "id": "rm3033586178",
+          "url": "https://m.media-amazon.com/images/M/MV5BN2U5ZTYzODItMzI4Ni00ZGQ2LWJlNDItYzQ5NzNjNzhiMGFkXkEyXkFqcGc@._V1_.jpg",
+          "width": 1301,
+          "height": 1950
+        }
+      },
+      {
+        "id": "nm12468359",
+        "name_text": {
+          "text": "Skywalker Hughes"
+        },
+        "primary_image": {
+          "id": "rm4221479938",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjU2YTliMmMtNzdjMC00M2IzLTg5Y2EtYjIxOTFjM2M4ZjkwXkEyXkFqcGc@._V1_.jpg",
+          "width": 4912,
+          "height": 7360
+        }
+      },
+      {
+        "id": "nm3478396",
+        "name_text": {
+          "text": "Luke Bracey"
+        },
+        "primary_image": {
+          "id": "rm2940773121",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTRjODRhYzMtYjJmOC00ZjBkLWIwNDUtMjE2MmE0NzAwMTIyXkEyXkFqcGc@._V1_.jpg",
+          "width": 625,
+          "height": 716
+        }
+      },
+      {
+        "id": "nm5075588",
+        "name_text": {
+          "text": "Crosby Fitzgerald"
+        },
+        "primary_image": {
+          "id": "rm1331377153",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDA1YjQ0ZjUtOWY4OC00ZTJmLThiOTYtYWI5OGZhYzA4YmZjXkEyXkFqcGc@._V1_.jpg",
+          "width": 4574,
+          "height": 6854
+        }
+      },
+      {
+        "id": "nm14308094",
+        "name_text": {
+          "text": "Willa Dunn"
+        },
+        "primary_image": {
+          "id": "rm1055641346",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWFkMzMzMGQtMmE0Yy00NjQzLTg2NTQtOWFhMzQ2ZjRiM2M0XkEyXkFqcGc@._V1_.jpg",
+          "width": 4640,
+          "height": 6960
+        }
+      },
+      {
+        "id": "nm15077498",
+        "name_text": {
+          "text": "Catherine Laga'aia"
+        },
+        "primary_image": {
+          "id": "rm3572396289",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTE4MTBkZjMtMzAwZC00NjdjLTk4M2MtZjRlNjJlMjJiY2Y5XkEyXkFqcGc@._V1_.jpg",
+          "width": 5464,
+          "height": 8192
+        }
+      },
+      {
+        "id": "nm0425005",
+        "name_text": {
+          "text": "Dwayne Johnson"
+        },
+        "primary_image": {
+          "id": "rm3445314305",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg",
+          "width": 5464,
+          "height": 8192
+        }
+      },
+      {
+        "id": "nm1732270",
+        "name_text": {
+          "text": "John Tui"
+        },
+        "primary_image": {
+          "id": "rm2832841473",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGIyMDk5OGMtOWQyNC00M2Y0LWI0ODMtMjUyODc5NDhkODQ2XkEyXkFqcGc@._V1_.jpg",
+          "width": 4000,
+          "height": 2667
+        }
+      },
+      {
+        "id": "nm4213877",
+        "name_text": {
+          "text": "Frankie Adams"
+        },
+        "primary_image": {
+          "id": "rm3675802369",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjA2OWUzZjQtODM3NC00NGU2LWJlMDMtMDE1YjNhYzhmYjc2XkEyXkFqcGc@._V1_.jpg",
+          "width": 1800,
+          "height": 2699
+        }
+      },
+      {
+        "id": "nm0654240",
+        "name_text": {
+          "text": "Rena Owen"
+        },
+        "primary_image": {
+          "id": "rm2323979521",
+          "url": "https://m.media-amazon.com/images/M/MV5BY2Y1ZjI2NzItNWY2Zi00ZWJjLTg1ZjQtOGUzOTJiNDI5MGYyXkEyXkFqcGc@._V1_.jpg",
+          "width": 1668,
+          "height": 2500
+        }
+      },
       {
         "id": "nm0000313",
         "name_text": {
@@ -6914,162 +7423,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BNDViZTFlYWEtNDdmYi00MTBiLWFmYjktMTQwY2VhMTJmMjNkXkEyXkFqcGc@._V1_.jpg",
           "width": 1001,
           "height": 1251
-        }
-      },
-      {
-        "id": "nm14097149",
-        "name_text": {
-          "text": "Alice Halsey"
-        },
-        "primary_image": {
-          "id": "rm3033586178",
-          "url": "https://m.media-amazon.com/images/M/MV5BN2U5ZTYzODItMzI4Ni00ZGQ2LWJlNDItYzQ5NzNjNzhiMGFkXkEyXkFqcGc@._V1_.jpg",
-          "width": 1301,
-          "height": 1950
-        }
-      },
-      {
-        "id": "nm12468359",
-        "name_text": {
-          "text": "Skywalker Hughes"
-        },
-        "primary_image": {
-          "id": "rm4221479938",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjU2YTliMmMtNzdjMC00M2IzLTg5Y2EtYjIxOTFjM2M4ZjkwXkEyXkFqcGc@._V1_.jpg",
-          "width": 4912,
-          "height": 7360
-        }
-      },
-      {
-        "id": "nm3478396",
-        "name_text": {
-          "text": "Luke Bracey"
-        },
-        "primary_image": {
-          "id": "rm2940773121",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTRjODRhYzMtYjJmOC00ZjBkLWIwNDUtMjE2MmE0NzAwMTIyXkEyXkFqcGc@._V1_.jpg",
-          "width": 625,
-          "height": 716
-        }
-      },
-      {
-        "id": "nm5075588",
-        "name_text": {
-          "text": "Crosby Fitzgerald"
-        },
-        "primary_image": {
-          "id": "rm1331377153",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDA1YjQ0ZjUtOWY4OC00ZTJmLThiOTYtYWI5OGZhYzA4YmZjXkEyXkFqcGc@._V1_.jpg",
-          "width": 4574,
-          "height": 6854
-        }
-      },
-      {
-        "id": "nm14308094",
-        "name_text": {
-          "text": "Willa Dunn"
-        },
-        "primary_image": {
-          "id": "rm1055641346",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWFkMzMzMGQtMmE0Yy00NjQzLTg2NTQtOWFhMzQ2ZjRiM2M0XkEyXkFqcGc@._V1_.jpg",
-          "width": 4640,
-          "height": 6960
-        }
-      },
-      {
-        "id": "nm15077498",
-        "name_text": {
-          "text": "Catherine Laga'aia"
-        },
-        "primary_image": {
-          "id": "rm3572396289",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTE4MTBkZjMtMzAwZC00NjdjLTk4M2MtZjRlNjJlMjJiY2Y5XkEyXkFqcGc@._V1_.jpg",
-          "width": 5464,
-          "height": 8192
-        }
-      },
-      {
-        "id": "nm0425005",
-        "name_text": {
-          "text": "Dwayne Johnson"
-        },
-        "primary_image": {
-          "id": "rm3445314305",
-          "url": "https://m.media-amazon.com/images/M/MV5BOWUzNzIzMzQtNzMxYi00OWRiLTlhZjEtZTRjYWVkYzI4ZjMwXkEyXkFqcGc@._V1_.jpg",
-          "width": 5464,
-          "height": 8192
-        }
-      },
-      {
-        "id": "nm1732270",
-        "name_text": {
-          "text": "John Tui"
-        },
-        "primary_image": {
-          "id": "rm2832841473",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGIyMDk5OGMtOWQyNC00M2Y0LWI0ODMtMjUyODc5NDhkODQ2XkEyXkFqcGc@._V1_.jpg",
-          "width": 4000,
-          "height": 2667
-        }
-      },
-      {
-        "id": "nm4213877",
-        "name_text": {
-          "text": "Frankie Adams"
-        },
-        "primary_image": {
-          "id": "rm3675802369",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjA2OWUzZjQtODM3NC00NGU2LWJlMDMtMDE1YjNhYzhmYjc2XkEyXkFqcGc@._V1_.jpg",
-          "width": 1800,
-          "height": 2699
-        }
-      },
-      {
-        "id": "nm0654240",
-        "name_text": {
-          "text": "Rena Owen"
-        },
-        "primary_image": {
-          "id": "rm2323979521",
-          "url": "https://m.media-amazon.com/images/M/MV5BY2Y1ZjI2NzItNWY2Zi00ZWJjLTg1ZjQtOGUzOTJiNDI5MGYyXkEyXkFqcGc@._V1_.jpg",
-          "width": 1668,
-          "height": 2500
-        }
-      },
-      {
-        "id": "nm5547023",
-        "name_text": {
-          "text": "Hunter Doohan"
-        },
-        "primary_image": {
-          "id": "rm3832405249",
-          "url": "https://m.media-amazon.com/images/M/MV5BNGQ3NGRlZTYtZDM0NC00NzliLWJkOWYtZDkwNmI2Y2RhMDU5XkEyXkFqcGc@._V1_.jpg",
-          "width": 853,
-          "height": 1280
-        }
-      },
-      {
-        "id": "nm4578161",
-        "name_text": {
-          "text": "Luciane Buchanan"
-        },
-        "primary_image": {
-          "id": "rm38055938",
-          "url": "https://m.media-amazon.com/images/M/MV5BYThlOGNjZGMtNzNkZi00NjJhLWI0NmEtNTgwMTE1YzYyYjY5XkEyXkFqcGc@._V1_.jpg",
-          "width": 8742,
-          "height": 11656
-        }
-      },
-      {
-        "id": "nm9113893",
-        "name_text": {
-          "text": "Souheila Yacoub"
-        },
-        "primary_image": {
-          "id": "rm962143489",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjZmZDJiMzAtOTY4MS00ZDg4LTk4NDctNTYzMzg1NDJiODRhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1440
         }
       },
       {
@@ -7844,6 +8197,24 @@
     "videos": [],
     "images": [
       {
+        "id": "rm4050634754",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDEyZDE1MDAtMjNiYy00NzljLTg3YWUtNDFjYWFlNzBjMzU4XkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 1716
+      },
+      {
+        "id": "rm3202927874",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ2YjdjYjQtZWYwOS00ZThiLWExYTItNjE5MjIxMzY3OWIzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 2396
+      },
+      {
+        "id": "rm58696450",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjc1ZDgwYmQtZjljNy00NDU5LWIxNzUtMzlmNTk3Zjk1YWJhXkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 1716
+      },
+      {
         "id": "rm232380162",
         "url": "https://m.media-amazon.com/images/M/MV5BYjg4MDkyYzgtMWM3NS00Mzg4LThmNTctZjc0MzhlNGM0ODIwXkEyXkFqcGc@._V1_.jpg",
         "width": 2967,
@@ -7878,24 +8249,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BODRjYjViNjQtYzc2ZC00NmRkLThiNWQtMWQ2MTA2NmZmM2UzXkEyXkFqcGc@._V1_.jpg",
         "width": 1280,
         "height": 720
-      },
-      {
-        "id": "rm3202927874",
-        "url": "https://m.media-amazon.com/images/M/MV5BMjQ2YjdjYjQtZWYwOS00ZThiLWExYTItNjE5MjIxMzY3OWIzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 2396
-      },
-      {
-        "id": "rm58696450",
-        "url": "https://m.media-amazon.com/images/M/MV5BZjc1ZDgwYmQtZjljNy00NDU5LWIxNzUtMzlmNTk3Zjk1YWJhXkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 1716
-      },
-      {
-        "id": "rm4050634754",
-        "url": "https://m.media-amazon.com/images/M/MV5BMDEyZDE1MDAtMjNiYy00NzljLTg3YWUtNDFjYWFlNzBjMzU4XkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 1716
       },
       {
         "id": "rm3155615234",
