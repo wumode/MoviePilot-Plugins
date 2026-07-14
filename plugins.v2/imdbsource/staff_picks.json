@@ -1,6 +1,53 @@
 {
-  "updated_at": "2026-07-11 12:33:17",
+  "updated_at": "2026-07-15 06:33:16",
   "entries": [
+    {
+      "name": "Lucky",
+      "ttconst": "tt34866681",
+      "rmconst": "rm3155615234",
+      "detail": "Series premieres July 15 on Apple TV",
+      "description": "Anya Taylor-Joy reteams with Apple TV after <i>The Gorge</i> earned Perfect B-movie status last year. In this crime-thriller series, AT-J plays a reformed criminal who’s forced to return to her ways (this always happens) after what was supposed to be a seamless multi-million-dollar heist goes sideways. We’re kinda jealous she’s pursued by Annette Bening tbh. AT-V drops the first two episodes on July 15, and Season 1 will wrap on August 19. — Arno",
+      "relatedconst": [
+        "nm5896355",
+        "nm0000906",
+        "nm0648249",
+        "nm0254712",
+        "nm6481846"
+      ],
+      "viconst": "vi3463695129"
+    },
+    {
+      "name": "The Hawk",
+      "ttconst": "tt27550719",
+      "rmconst": "rm22399234",
+      "detail": "Series premieres July 16 on Netflix",
+      "description": "Will Ferrell returns to your smaller screens in this ensemble comedy series that hauls out the trusty sports comeback story trope and reunites him with his former \"SNL\" co-stars Molly Shannon and Chris Parnell. Ferrell handled writing duties on his own and stars as Lonnie \"The Hawk\" Hawkins, a top golfer years past his heyday who wants back inside the winner's circle. Netflix will drop alllllllll 10 episodes on July 16. — Arno",
+      "relatedconst": [
+        "nm0002071",
+        "nm0788340",
+        "nm0663177",
+        "nm0005561",
+        "nm3833084",
+        "nm5555161"
+      ],
+      "viconst": "vi1516882713"
+    },
+    {
+      "name": "The Odyssey",
+      "ttconst": "tt33764258",
+      "rmconst": "rm3342378754",
+      "detail": "In theaters July 17",
+      "description": "Summer movie season doesn’t get more epic than a new Christopher Nolan film based on one of the most well-known stories in history, filmed entirely in 70mm IMAX. Matt Damon leads a stacked cast as the Greek king Odysseus as he journeys home to reunite with his wife, Penelope (Anne Hathaway). This will be the most fantastical story we’ve seen from Nolan, and with an estimated $250 million budget, his cinematic interpretations of things like the Trojan Horse, Greek gods, sirens, and mythical beasts should make for some eye-popping spectacle worthy of a trip to the cinema. — James",
+      "relatedconst": [
+        "nm0000354",
+        "nm0004266",
+        "nm4043618",
+        "nm3918035",
+        "nm1500155",
+        "nm2143282"
+      ],
+      "viconst": "vi766298905"
+    },
     {
       "name": "Evil Dead Burn",
       "ttconst": "tt31170389",
@@ -135,53 +182,6 @@
       "viconst": "vi3245525785"
     },
     {
-      "name": "Lucky",
-      "ttconst": "tt34866681",
-      "rmconst": "rm3155615234",
-      "detail": "Series premieres July 15 on Apple TV",
-      "description": "Anya Taylor-Joy reteams with Apple TV after <i>The Gorge</i> earned Perfect B-movie status last year. In this crime-thriller series, AT-J plays a reformed criminal who’s forced to return to her ways (this always happens) after what was supposed to be a seamless multi-million-dollar heist goes sideways. We’re kinda jealous she’s pursued by Annette Bening tbh. AT-V drops the first two episodes on July 15, and Season 1 will wrap on August 19. — Arno",
-      "relatedconst": [
-        "nm5896355",
-        "nm0000906",
-        "nm0648249",
-        "nm0254712",
-        "nm6481846"
-      ],
-      "viconst": "vi3463695129"
-    },
-    {
-      "name": "The Hawk",
-      "ttconst": "tt27550719",
-      "rmconst": "rm22399234",
-      "detail": "Series premieres July 16 on Netflix",
-      "description": "Will Ferrell returns to your smaller screens in this ensemble comedy series that hauls out the trusty sports comeback story trope and reunites him with his former \"SNL\" co-stars Molly Shannon and Chris Parnell. Ferrell handled writing duties on his own and stars as Lonnie \"The Hawk\" Hawkins, a top golfer years past his heyday who wants back inside the winner's circle. Netflix will drop alllllllll 10 episodes on July 16. — Arno",
-      "relatedconst": [
-        "nm0002071",
-        "nm0788340",
-        "nm0663177",
-        "nm0005561",
-        "nm3833084",
-        "nm5555161"
-      ],
-      "viconst": "vi1516882713"
-    },
-    {
-      "name": "The Odyssey",
-      "ttconst": "tt33764258",
-      "rmconst": "rm3342378754",
-      "detail": "In theaters July 17",
-      "description": "Summer movie season doesn’t get more epic than a new Christopher Nolan film based on one of the most well-known stories in history, filmed entirely in 70mm IMAX. Matt Damon leads a stacked cast as the Greek king Odysseus as he journeys home to reunite with his wife, Penelope (Anne Hathaway). This will be the most fantastical story we’ve seen from Nolan, and with an estimated $250 million budget, his cinematic interpretations of things like the Trojan Horse, Greek gods, sirens, and mythical beasts should make for some eye-popping spectacle worthy of a trip to the cinema. — James",
-      "relatedconst": [
-        "nm0000354",
-        "nm0004266",
-        "nm4043618",
-        "nm3918035",
-        "nm1500155",
-        "nm2143282"
-      ],
-      "viconst": "vi766298905"
-    },
-    {
       "name": "Descendants: Wicked Wonderland\"",
       "ttconst": "tt34477910",
       "rmconst": "rm2223947778",
@@ -311,6 +311,906 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt34866681",
+        "title_text": {
+          "text": "Lucky"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лаки",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Щасливиця",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A reformed criminal is forced to confront her past and return to illicit activities for one final job, hoping to secure her freedom and leave her former life behind for good."
+          }
+        },
+        "primary_image": {
+          "id": "rm1875758338",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 76,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 26
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 15
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Lucky"
+        }
+      },
+      {
+        "id": "tt27550719",
+        "title_text": {
+          "text": "The Hawk"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Halcón",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Falcão do Golfe",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Яструб",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Follows Lonnie Hawkins, 2004's top golfer, as he struggles to recapture his magic late in his career, refusing to believe he's anything other than one stroke away from golf's greatest comeback."
+          }
+        },
+        "primary_image": {
+          "id": "rm3148075010",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjA5MDAyYjgtMmQ2ZS00YzRmLWE1ODUtNTg3M2VkZGMxZjEwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1012,
+          "height": 1500
+        },
+        "meter_ranking": {
+          "current_rank": 180,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 124
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sport"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "The Hawk"
+        }
+      },
+      {
+        "id": "tt33764258",
+        "title_text": {
+          "text": "The Odyssey"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Odyssey",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Odisea",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Odisea",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Odisea",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Odisea",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Odisea",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Die Odyssee",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Die Odyssee",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Die Odyssee",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "L'Odyssée",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "L'Odyssée",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "L'Odyssée",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Odisseia",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Odisseia",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Одиссея",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Одиссея",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "奧德賽",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "奧德賽",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "L'odyssée",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odiseja",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odisėja",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odissea",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odüsseia",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odüsszeia",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odyseja",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Η Οδύσσεια",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Одисеја",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Одіссея",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "द ओडिसी",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "奥德赛",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way."
+          }
+        },
+        "primary_image": {
+          "id": "rm1030735874",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_.jpg",
+          "width": 3158,
+          "height": 5000
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 4
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 17
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Odyssey"
+        },
+        "runtime": {
+          "seconds": 10800
+        }
+      },
       {
         "id": "tt31170389",
         "title_text": {
@@ -785,16 +1685,16 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 36,
+          "current_rank": 5,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 36
+            "difference": 31
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.9,
-          "vote_count": 3113
+          "aggregate_rating": 6.8,
+          "vote_count": 11025
         },
         "release_date": {
           "year": 2026,
@@ -950,6 +1850,24 @@
             },
             {
               "node": {
+                "text": "Uma Casa na Pradaria",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Uma Casa na Pradaria",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "A farm, ahol élünk",
                 "country": {
                   "id": "HU",
@@ -1016,15 +1934,6 @@
             },
             {
               "node": {
-                "text": "Uma Casa na Pradaria",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Unsere kleine Farm",
                 "country": {
                   "id": "DE",
@@ -1055,16 +1964,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 156,
+          "current_rank": 2,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 149
+            "difference": 154
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.7,
-          "vote_count": 596
+          "aggregate_rating": 7.1,
+          "vote_count": 2467
         },
         "release_date": {
           "year": 2026,
@@ -1081,6 +1990,11 @@
             {
               "genre": {
                 "text": "Family"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
               }
             },
             {
@@ -1365,6 +2279,15 @@
               "node": {
                 "text": "Vaiana",
                 "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vaiana",
+                "country": {
                   "id": "NO",
                   "text": "Norway"
                 }
@@ -1540,6 +2463,18 @@
             },
             {
               "node": {
+                "text": "海洋奇缘：启航",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "魔海奇緣",
                 "country": {
                   "id": "HK",
@@ -1564,16 +2499,16 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 31,
+          "current_rank": 6,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 23
+            "difference": 25
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.6,
-          "vote_count": 1466
+          "aggregate_rating": 5.7,
+          "vote_count": 5318
         },
         "release_date": {
           "year": 2026,
@@ -2152,16 +3087,16 @@
           "height": 5000
         },
         "meter_ranking": {
-          "current_rank": 14,
+          "current_rank": 15,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 15
+            "change_direction": "DOWN",
+            "difference": 1
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.6,
-          "vote_count": 9373
+          "aggregate_rating": 6.5,
+          "vote_count": 11747
         },
         "release_date": {
           "year": 2026,
@@ -2187,17 +3122,7 @@
             },
             {
               "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
                 "text": "Family"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
               }
             }
           ]
@@ -2407,16 +3332,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 8,
+          "current_rank": 11,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 193
+            "change_direction": "DOWN",
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.9,
-          "vote_count": 3319
+          "vote_count": 4344
         },
         "release_date": {
           "year": 2026,
@@ -2729,16 +3654,16 @@
           "height": 1610
         },
         "meter_ranking": {
-          "current_rank": 17,
+          "current_rank": 21,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 251
+            "change_direction": "DOWN",
+            "difference": 4
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.7,
-          "vote_count": 55049
+          "vote_count": 55404
         },
         "release_date": {
           "year": 2024,
@@ -3015,16 +3940,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 9,
+          "current_rank": 17,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 160
+            "change_direction": "DOWN",
+            "difference": 8
           }
         },
         "ratings_summary": {
           "aggregate_rating": 5.8,
-          "vote_count": 14255
+          "vote_count": 17824
         },
         "release_date": {
           "year": 2026,
@@ -3306,16 +4231,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 36,
+          "current_rank": 79,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 1357
+            "change_direction": "DOWN",
+            "difference": 43
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 930
+          "vote_count": 1290
         },
         "release_date": {
           "year": 2026,
@@ -3747,16 +4672,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 5,
+          "current_rank": 4,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 25
+            "difference": 1
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 218752
+          "vote_count": 219664
         },
         "release_date": {
           "year": 2023,
@@ -3793,907 +4718,12 @@
         }
       },
       {
-        "id": "tt34866681",
-        "title_text": {
-          "text": "Lucky"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Лаки",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Щасливиця",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A reformed criminal is forced to confront her past and return to illicit activities for one final job, hoping to secure her freedom and leave her former life behind for good."
-          }
-        },
-        "primary_image": {
-          "id": "rm1875758338",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 102,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 171
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 15
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Lucky"
-        }
-      },
-      {
-        "id": "tt27550719",
-        "title_text": {
-          "text": "The Hawk"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El Halcón",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Falcão do Golfe",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Яструб",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Follows Lonnie Hawkins, 2004's top golfer, as he struggles to recapture his magic late in his career, refusing to believe he's anything other than one stroke away from golf's greatest comeback."
-          }
-        },
-        "primary_image": {
-          "id": "rm3148075010",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjA5MDAyYjgtMmQ2ZS00YzRmLWE1ODUtNTg3M2VkZGMxZjEwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1012,
-          "height": 1500
-        },
-        "meter_ranking": {
-          "current_rank": 304,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 65
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sport"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "The Hawk"
-        }
-      },
-      {
-        "id": "tt33764258",
-        "title_text": {
-          "text": "The Odyssey"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "FI",
-                  "text": "Finland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Odyssey",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Odisea",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Odisea",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Odisea",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Odisea",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Odisea",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Die Odyssee",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Die Odyssee",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "German"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Die Odyssee",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "L'Odyssée",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "L'Odyssée",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "L'Odyssée",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Odisseia",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Odisseia",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Одиссея",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Одиссея",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "奧德賽",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "奧德賽",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "L'odyssée",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Odiseja",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Odisėja",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Odissea",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Odüsseia",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Odüsszeia",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Odyseja",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Η Οδύσσεια",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Одисеја",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Одіссея",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "द ओडिसी",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "奥德赛",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way."
-          }
-        },
-        "primary_image": {
-          "id": "rm1030735874",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_.jpg",
-          "width": 3158,
-          "height": 5000
-        },
-        "meter_ranking": {
-          "current_rank": 5,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 10
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 17
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Odyssey"
-        },
-        "runtime": {
-          "seconds": 10320
-        }
-      },
-      {
         "id": "tt34477910",
         "title_text": {
           "text": "Descendants: Wicked Wonderland"
         },
         "title_type": {
-          "id": "movie"
+          "id": "tvMovie"
         },
         "release_year": {
           "year": 2026
@@ -4846,11 +4876,11 @@
           "height": 1875
         },
         "meter_ranking": {
-          "current_rank": 317,
+          "current_rank": 385,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 223
+            "difference": 68
           }
         },
         "ratings_summary": {
@@ -4859,7 +4889,7 @@
         "release_date": {
           "year": 2026,
           "month": 7,
-          "day": 17
+          "day": 16
         },
         "title_genres": {
           "genres": [
@@ -5111,11 +5141,11 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 1281,
+          "current_rank": 928,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 983
+            "difference": 353
           }
         },
         "ratings_summary": {
@@ -5273,6 +5303,15 @@
             },
             {
               "node": {
+                "text": "Stuart Cứu Vũ Trụ Bất Thành",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Stuart nie ratuje wszechświata",
                 "country": {
                   "id": "PL",
@@ -5339,11 +5378,11 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 289,
+          "current_rank": 319,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 12
+            "difference": 30
           }
         },
         "ratings_summary": {
@@ -5500,6 +5539,15 @@
             },
             {
               "node": {
+                "text": "Dink",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "The Dink: Pasión por el pickleball",
                 "country": {
                   "id": "AR",
@@ -5521,11 +5569,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 538,
+          "current_rank": 503,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 412
+            "change_direction": "UP",
+            "difference": 35
           }
         },
         "ratings_summary": {
@@ -5824,16 +5872,16 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 444,
+          "current_rank": 338,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 187
+            "difference": 106
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 35141
+          "vote_count": 35205
         },
         "release_date": {
           "year": 2023,
@@ -6326,11 +6374,11 @@
           "height": 889
         },
         "meter_ranking": {
-          "current_rank": 24,
+          "current_rank": 20,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 8
+            "change_direction": "UP",
+            "difference": 4
           }
         },
         "ratings_summary": {
@@ -6522,6 +6570,15 @@
             },
             {
               "node": {
+                "text": "Es gribu tikai seksu",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Tahan sinult seksi",
                 "country": {
                   "id": "EE",
@@ -6543,11 +6600,11 @@
           "height": 1353
         },
         "meter_ranking": {
-          "current_rank": 119,
+          "current_rank": 105,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 12
+            "difference": 14
           }
         },
         "ratings_summary": {
@@ -6705,6 +6762,15 @@
               "node": {
                 "text": "Batman: Caped Crusader",
                 "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
                   "id": "SE",
                   "text": "Sweden"
                 }
@@ -6746,15 +6812,6 @@
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader Chronicles",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
                 }
               }
             },
@@ -6847,16 +6904,16 @@
           "height": 700
         },
         "meter_ranking": {
-          "current_rank": 637,
+          "current_rank": 792,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 63
+            "difference": 155
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 16908
+          "vote_count": 16933
         },
         "release_date": {
           "year": 2024,
@@ -6909,6 +6966,210 @@
       }
     ],
     "names": [
+      {
+        "id": "nm5896355",
+        "name_text": {
+          "text": "Anya Taylor-Joy"
+        },
+        "primary_image": {
+          "id": "rm4152883713",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGZjYzcxNDEtNTU1Yi00Nzc3LTlhZjQtZTUwZDQxNjQ5MDIzXkEyXkFqcGc@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000906",
+        "name_text": {
+          "text": "Annette Bening"
+        },
+        "primary_image": {
+          "id": "rm406898178",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjkzMmEwNDItZDViZC00ODM4LWE3ZWUtODM2OGQxMjhjZmFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 4912,
+          "height": 7360
+        }
+      },
+      {
+        "id": "nm0648249",
+        "name_text": {
+          "text": "Timothy Olyphant"
+        },
+        "primary_image": {
+          "id": "rm1880726016",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzY0OTA2Ml5BMl5BanBnXkFtZTYwNDYzODgz._V1_.jpg",
+          "width": 281,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0254712",
+        "name_text": {
+          "text": "Aunjanue Ellis-Taylor"
+        },
+        "primary_image": {
+          "id": "rm1785567744",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg2Mzk4NjQ3NF5BMl5BanBnXkFtZTYwMjE5MjIz._V1_.jpg",
+          "width": 269,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm6481846",
+        "name_text": {
+          "text": "Drew Starkey"
+        },
+        "primary_image": {
+          "id": "rm2619545345",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzJiNGQyOTQtMGIzYy00ZTJlLWJmZmMtNTcyYTIyMDVkOWYyXkEyXkFqcGc@._V1_.jpg",
+          "width": 3264,
+          "height": 4928
+        }
+      },
+      {
+        "id": "nm0002071",
+        "name_text": {
+          "text": "Will Ferrell"
+        },
+        "primary_image": {
+          "id": "rm4021585920",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTMxMDIzMDEzNF5BMl5BanBnXkFtZTcwODcxMjE2Mg@@._V1_.jpg",
+          "width": 276,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0788340",
+        "name_text": {
+          "text": "Molly Shannon"
+        },
+        "primary_image": {
+          "id": "rm683049472",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDk3MDMyMDQ5MV5BMl5BanBnXkFtZTcwNTc5Mzk0Mw@@._V1_.jpg",
+          "width": 267,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0663177",
+        "name_text": {
+          "text": "Chris Parnell"
+        },
+        "primary_image": {
+          "id": "rm3883860737",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWJjN2RkOTYtYTk4NS00ZDhjLWFmMDMtM2JmMGZjMTAxYmQ4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1074,
+          "height": 1414
+        }
+      },
+      {
+        "id": "nm0005561",
+        "name_text": {
+          "text": "Luke Wilson"
+        },
+        "primary_image": {
+          "id": "rm1881539328",
+          "url": "https://m.media-amazon.com/images/M/MV5BN2FkNDc5YjktNTY2Yi00ZDljLTliNjUtNjQ5YmUxYTAzZDE4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1023,
+          "height": 1332
+        }
+      },
+      {
+        "id": "nm3833084",
+        "name_text": {
+          "text": "Fortune Feimster"
+        },
+        "primary_image": {
+          "id": "rm3863296257",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGYwZjBjY2EtNmJhYi00MGIwLWFkYzgtMjU5ZmY0MjI1NmYwXkEyXkFqcGc@._V1_.jpg",
+          "width": 5616,
+          "height": 3744
+        }
+      },
+      {
+        "id": "nm5555161",
+        "name_text": {
+          "text": "Jimmy Tatro"
+        },
+        "primary_image": {
+          "id": "rm908490497",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWUxMDg0MWItZmZlMC00ZThjLWJlZjMtYmJiYzdlZWU3YmMxXkEyXkFqcGc@._V1_CR220,0,1505,2258_.jpg",
+          "width": 1505,
+          "height": 2258
+        }
+      },
+      {
+        "id": "nm0000354",
+        "name_text": {
+          "text": "Matt Damon"
+        },
+        "primary_image": {
+          "id": "rm3809120000",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_.jpg",
+          "width": 447,
+          "height": 600
+        }
+      },
+      {
+        "id": "nm0004266",
+        "name_text": {
+          "text": "Anne Hathaway"
+        },
+        "primary_image": {
+          "id": "rm352898562",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWQ5MzViNjUtODdmMi00MjYxLTg0OTItM2NkOTg1YzFjYjMxXkEyXkFqcGc@._V1_CR427,126,1366,2049_.jpg",
+          "width": 1366,
+          "height": 2049
+        }
+      },
+      {
+        "id": "nm4043618",
+        "name_text": {
+          "text": "Tom Holland"
+        },
+        "primary_image": {
+          "id": "rm662558465",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzU3NWRhMjgtNmNmMS00YjQ1LWIyYzgtYzdkYjRjNWEzM2E3XkEyXkFqcGc@._V1_.jpg",
+          "width": 3648,
+          "height": 5472
+        }
+      },
+      {
+        "id": "nm3918035",
+        "name_text": {
+          "text": "Zendaya"
+        },
+        "primary_image": {
+          "id": "rm1855008256",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjM5N2U3MzQtZWU5My00YzE0LThmZTgtYjE1NDJjNmIzZmIxXkEyXkFqcGc@._V1_.jpg",
+          "width": 780,
+          "height": 1040
+        }
+      },
+      {
+        "id": "nm1500155",
+        "name_text": {
+          "text": "Robert Pattinson"
+        },
+        "primary_image": {
+          "id": "rm2444987904",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
+          "width": 301,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm2143282",
+        "name_text": {
+          "text": "Lupita Nyong'o"
+        },
+        "primary_image": {
+          "id": "rm493411840",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_.jpg",
+          "width": 1360,
+          "height": 2048
+        }
+      },
       {
         "id": "nm5547023",
         "name_text": {
@@ -7191,10 +7452,10 @@
           "text": "Jacob Moskovitz"
         },
         "primary_image": {
-          "id": "rm2025836034",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDNmOGYwNDMtYzY2My00N2NkLWE4NDMtYWY2MmE2MDVmYTE2XkEyXkFqcGc@._V1_CR206,69,980,1470_.jpg",
-          "width": 980,
-          "height": 1470
+          "id": "rm3216623106",
+          "url": "https://m.media-amazon.com/images/M/MV5BN2UwNGUxYzItNDA4MS00MTM3LWEwNDItZWU3MGNiMTczM2M4XkEyXkFqcGc@._V1_CR1496,1802,2180,3270_.jpg",
+          "width": 2180,
+          "height": 3270
         }
       },
       {
@@ -7426,210 +7687,6 @@
         }
       },
       {
-        "id": "nm5896355",
-        "name_text": {
-          "text": "Anya Taylor-Joy"
-        },
-        "primary_image": {
-          "id": "rm4152883713",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGZjYzcxNDEtNTU1Yi00Nzc3LTlhZjQtZTUwZDQxNjQ5MDIzXkEyXkFqcGc@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000906",
-        "name_text": {
-          "text": "Annette Bening"
-        },
-        "primary_image": {
-          "id": "rm2400756992",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTc4ODQ1ODM5Ml5BMl5BanBnXkFtZTcwOTU2NDk3OQ@@._V1_.jpg",
-          "width": 683,
-          "height": 1024
-        }
-      },
-      {
-        "id": "nm0648249",
-        "name_text": {
-          "text": "Timothy Olyphant"
-        },
-        "primary_image": {
-          "id": "rm1880726016",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzY0OTA2Ml5BMl5BanBnXkFtZTYwNDYzODgz._V1_.jpg",
-          "width": 281,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0254712",
-        "name_text": {
-          "text": "Aunjanue Ellis-Taylor"
-        },
-        "primary_image": {
-          "id": "rm1785567744",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg2Mzk4NjQ3NF5BMl5BanBnXkFtZTYwMjE5MjIz._V1_.jpg",
-          "width": 269,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm6481846",
-        "name_text": {
-          "text": "Drew Starkey"
-        },
-        "primary_image": {
-          "id": "rm2619545345",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzJiNGQyOTQtMGIzYy00ZTJlLWJmZmMtNTcyYTIyMDVkOWYyXkEyXkFqcGc@._V1_.jpg",
-          "width": 3264,
-          "height": 4928
-        }
-      },
-      {
-        "id": "nm0002071",
-        "name_text": {
-          "text": "Will Ferrell"
-        },
-        "primary_image": {
-          "id": "rm4021585920",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTMxMDIzMDEzNF5BMl5BanBnXkFtZTcwODcxMjE2Mg@@._V1_.jpg",
-          "width": 276,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0788340",
-        "name_text": {
-          "text": "Molly Shannon"
-        },
-        "primary_image": {
-          "id": "rm683049472",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDk3MDMyMDQ5MV5BMl5BanBnXkFtZTcwNTc5Mzk0Mw@@._V1_.jpg",
-          "width": 267,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0663177",
-        "name_text": {
-          "text": "Chris Parnell"
-        },
-        "primary_image": {
-          "id": "rm3883860737",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWJjN2RkOTYtYTk4NS00ZDhjLWFmMDMtM2JmMGZjMTAxYmQ4XkEyXkFqcGc@._V1_.jpg",
-          "width": 1074,
-          "height": 1414
-        }
-      },
-      {
-        "id": "nm0005561",
-        "name_text": {
-          "text": "Luke Wilson"
-        },
-        "primary_image": {
-          "id": "rm1881539328",
-          "url": "https://m.media-amazon.com/images/M/MV5BN2FkNDc5YjktNTY2Yi00ZDljLTliNjUtNjQ5YmUxYTAzZDE4XkEyXkFqcGc@._V1_.jpg",
-          "width": 1023,
-          "height": 1332
-        }
-      },
-      {
-        "id": "nm3833084",
-        "name_text": {
-          "text": "Fortune Feimster"
-        },
-        "primary_image": {
-          "id": "rm3863296257",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGYwZjBjY2EtNmJhYi00MGIwLWFkYzgtMjU5ZmY0MjI1NmYwXkEyXkFqcGc@._V1_.jpg",
-          "width": 5616,
-          "height": 3744
-        }
-      },
-      {
-        "id": "nm5555161",
-        "name_text": {
-          "text": "Jimmy Tatro"
-        },
-        "primary_image": {
-          "id": "rm908490497",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWUxMDg0MWItZmZlMC00ZThjLWJlZjMtYmJiYzdlZWU3YmMxXkEyXkFqcGc@._V1_CR220,0,1505,2258_.jpg",
-          "width": 1505,
-          "height": 2258
-        }
-      },
-      {
-        "id": "nm0000354",
-        "name_text": {
-          "text": "Matt Damon"
-        },
-        "primary_image": {
-          "id": "rm3809120000",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_.jpg",
-          "width": 447,
-          "height": 600
-        }
-      },
-      {
-        "id": "nm0004266",
-        "name_text": {
-          "text": "Anne Hathaway"
-        },
-        "primary_image": {
-          "id": "rm352898562",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWQ5MzViNjUtODdmMi00MjYxLTg0OTItM2NkOTg1YzFjYjMxXkEyXkFqcGc@._V1_CR427,126,1366,2049_.jpg",
-          "width": 1366,
-          "height": 2049
-        }
-      },
-      {
-        "id": "nm4043618",
-        "name_text": {
-          "text": "Tom Holland"
-        },
-        "primary_image": {
-          "id": "rm662558465",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzU3NWRhMjgtNmNmMS00YjQ1LWIyYzgtYzdkYjRjNWEzM2E3XkEyXkFqcGc@._V1_.jpg",
-          "width": 3648,
-          "height": 5472
-        }
-      },
-      {
-        "id": "nm3918035",
-        "name_text": {
-          "text": "Zendaya"
-        },
-        "primary_image": {
-          "id": "rm1855008256",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjM5N2U3MzQtZWU5My00YzE0LThmZTgtYjE1NDJjNmIzZmIxXkEyXkFqcGc@._V1_.jpg",
-          "width": 780,
-          "height": 1040
-        }
-      },
-      {
-        "id": "nm1500155",
-        "name_text": {
-          "text": "Robert Pattinson"
-        },
-        "primary_image": {
-          "id": "rm2444987904",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
-          "width": 301,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm2143282",
-        "name_text": {
-          "text": "Lupita Nyong'o"
-        },
-        "primary_image": {
-          "id": "rm493411840",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_.jpg",
-          "width": 1360,
-          "height": 2048
-        }
-      },
-      {
         "id": "nm8492826",
         "name_text": {
           "text": "Kylie Cantrall"
@@ -7660,9 +7717,9 @@
         },
         "primary_image": {
           "id": "rm1588775682",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjBmNDgxMWQtYzIzNy00NGM1LWExYWUtNmYzZTE2YmI5MGQzXkEyXkFqcGc@._V1_CR990,1,2612,3918_.jpg",
-          "width": 2612,
-          "height": 3918
+          "url": "https://m.media-amazon.com/images/M/MV5BYjBmNDgxMWQtYzIzNy00NGM1LWExYWUtNmYzZTE2YmI5MGQzXkEyXkFqcGc@._V1_CR849,0,2959,4439_.jpg",
+          "width": 2959,
+          "height": 4439
         }
       },
       {
@@ -8197,6 +8254,24 @@
     "videos": [],
     "images": [
       {
+        "id": "rm3155615234",
+        "url": "https://m.media-amazon.com/images/M/MV5BNTYyMTg3NmYtYzdkYi00MjNmLWE3YzgtM2Q0MjhkZmE2ZGJhXkEyXkFqcGc@._V1_.jpg",
+        "width": 8640,
+        "height": 5760
+      },
+      {
+        "id": "rm22399234",
+        "url": "https://m.media-amazon.com/images/M/MV5BYmFhYzVjZDktZjdjNy00ZGFlLThlNWQtOWY4NDgzYzlmODIzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 2400
+      },
+      {
+        "id": "rm3342378754",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjYyMmEwYjUtYzk5Mi00NTM4LThjMjEtMzRmNGUwMTM3MThiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 720
+      },
+      {
         "id": "rm4050634754",
         "url": "https://m.media-amazon.com/images/M/MV5BMDEyZDE1MDAtMjNiYy00NzljLTg3YWUtNDFjYWFlNzBjMzU4XkEyXkFqcGc@._V1_.jpg",
         "width": 4096,
@@ -8248,24 +8323,6 @@
         "id": "rm3598630402",
         "url": "https://m.media-amazon.com/images/M/MV5BODRjYjViNjQtYzc2ZC00NmRkLThiNWQtMWQ2MTA2NmZmM2UzXkEyXkFqcGc@._V1_.jpg",
         "width": 1280,
-        "height": 720
-      },
-      {
-        "id": "rm3155615234",
-        "url": "https://m.media-amazon.com/images/M/MV5BNTYyMTg3NmYtYzdkYi00MjNmLWE3YzgtM2Q0MjhkZmE2ZGJhXkEyXkFqcGc@._V1_.jpg",
-        "width": 8640,
-        "height": 5760
-      },
-      {
-        "id": "rm22399234",
-        "url": "https://m.media-amazon.com/images/M/MV5BYmFhYzVjZDktZjdjNy00ZGFlLThlNWQtOWY4NDgzYzlmODIzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 2400
-      },
-      {
-        "id": "rm3342378754",
-        "url": "https://m.media-amazon.com/images/M/MV5BYjYyMmEwYjUtYzk5Mi00NTM4LThjMjEtMzRmNGUwMTM3MThiXkEyXkFqcGc@._V1_.jpg",
-        "width": 1080,
         "height": 720
       },
       {
