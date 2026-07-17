@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-15 06:33:16",
+  "updated_at": "2026-07-18 00:33:21",
   "entries": [
+    {
+      "name": "奥德赛",
+      "ttconst": "tt33764258",
+      "rmconst": "rm3342378754",
+      "detail": "In theaters",
+      "description": "夏季电影季再没有比 Christopher Nolan 基于历史上最著名的故事之一、完全采用 70mm IMAX 拍摄的新片更宏大的了。Matt Damon 领衔全明星阵容饰演希腊国王 Odysseus，讲述他踏上归途与妻子 Penelope (Anne Hathaway) 团聚的故事。这将是我们见过的来自 Nolan 的最奇幻的故事，凭借约 2.5 亿美元的预算，他对 Trojan Horse、Greek gods、sirens 和神话野兽等事物的电影化诠释，应该会带来值得去电影院观看的惊人视觉盛宴。 — James",
+      "relatedconst": [
+        "nm0000354",
+        "nm0004266",
+        "nm4043618",
+        "nm3918035",
+        "nm1500155",
+        "nm2143282"
+      ],
+      "viconst": "vi766298905"
+    },
     {
       "name": "幸运女神",
       "ttconst": "tt34866681",
       "rmconst": "rm3155615234",
-      "detail": "Series premieres July 15 on Apple TV",
-      "description": "Anya Taylor-Joy 在 <i>The Gorge</i> 去年获得完美 B 级片地位后，再次与 Apple TV 合作。在这部犯罪惊悚剧集中，AT-J 饰演一名改邪归正的罪犯，在一次本应天衣无缝的数百万美元抢劫案出差错后，她被迫重操旧业（这种情况总是会发生）。老实说，我们挺嫉妒她被 Annette Bening 追捕的。Apple TV 将于 7 月 15 日上线前两集，第一季将于 8 月 19 日完结。— Arno",
+      "detail": "Season 1 streaming on Apple TV",
+      "description": "Anya Taylor-Joy 在 <i>The Gorge</i> 去年获得“完美 B 级片”地位后，再次与 Apple TV 合作。在这部犯罪惊悚剧集中，AT-J 饰演一名改过自新的罪犯，在一次本应天衣无缝的数百万美元抢劫案出错后，她被迫重操旧业（这种情况总是发生）。坦白说，我们有点嫉妒她被 Annette Bening 追捕。Apple TV 将于 7 月 15 日上线前两集，第一季将于 8 月 19 日完结。 — Arno",
       "relatedconst": [
         "nm5896355",
         "nm0000906",
@@ -20,8 +36,8 @@
       "name": "高球鹰雄",
       "ttconst": "tt27550719",
       "rmconst": "rm22399234",
-      "detail": "Series premieres July 16 on Netflix",
-      "description": "Will Ferrell 回归小荧幕，出演这部群像喜剧剧集，该剧采用了经典的运动励志回归套路，并让他与前 \"SNL\" 搭档 Molly Shannon 和 Chris Parnell 重聚。Ferrell 独自承担了编剧工作，并饰演 Lonnie \"The Hawk\" Hawkins，一位早已过了巅峰期但渴望重返冠军圈的顶级高尔夫球手。Netflix 将于 7 月 16 日上线全部 10 集。— Arno",
+      "detail": "Season 1 streaming on Netflix",
+      "description": "Will Ferrell 回到你的小荧幕，出演这部群戏喜剧剧集，该剧采用了可靠的体育回归故事套路，并让他与前 \"SNL\" 拍档 Molly Shannon 和 Chris Parnell 重聚。Ferrell 亲自操刀剧本，并饰演 Lonnie \"The Hawk\" Hawkins，一位巅峰期已过的顶级高尔夫球手，渴望重回胜者圈。Netflix 将于 7 月 16 日上线全部 10 集。 — Arno",
       "relatedconst": [
         "nm0002071",
         "nm0788340",
@@ -33,27 +49,59 @@
       "viconst": "vi1516882713"
     },
     {
-      "name": "奥德赛",
-      "ttconst": "tt33764258",
-      "rmconst": "rm3342378754",
-      "detail": "In theaters July 17",
-      "description": "暑期档电影季没有比 Christopher Nolan 的新片更宏大的了，该片改编自历史上最著名的故事之一，完全采用 70mm IMAX 拍摄。Matt Damon 领衔全明星阵容饰演希腊国王 Odysseus，讲述他踏上归途与妻子 Penelope (Anne Hathaway) 重聚的故事。这将是我们见过的 Nolan 最具奇幻色彩的故事，凭借估计 2.5 亿美元的预算，他对特洛伊木马、希腊众神、塞壬和神话怪兽等事物的电影化诠释，应该会打造出值得去电影院观看的惊人视觉盛宴。— James",
+      "name": "心跳为你停：直到永远",
+      "ttconst": "tt36619926",
+      "rmconst": "rm2758656514",
+      "detail": "Streaming on Netflix",
+      "description": "是时候和 Nick 和 Charlie 告别了。在经历了三季的浪漫、友谊和成长之后，这部根据原著漫画作者 Alice Oseman 的作品改编的剧集将以电影 <i>Heartstopper Forever</i> 完结。这部 Netflix 原创电影将跟随我们幸福的一对，面对高中毕业后异地恋可能带来的挑战。这是 Charlie 和 Nick 爱情故事的终点吗？还是真爱能在最后一通铃声响起后找到长久的方法？ — Adrienne",
       "relatedconst": [
-        "nm0000354",
-        "nm0004266",
-        "nm4043618",
-        "nm3918035",
-        "nm1500155",
-        "nm2143282"
+        "nm12509469",
+        "nm5598573",
+        "nm1269412",
+        "nm4445388",
+        "nm10354428",
+        "nm12510592"
       ],
-      "viconst": "vi766298905"
+      "viconst": "vi123849497"
+    },
+    {
+      "name": "星光继承者：暗黑仙境",
+      "ttconst": "tt34477910",
+      "rmconst": "rm2223947778",
+      "detail": "Streaming on Disney+",
+      "description": "对于那些关注该系列的人来说，这是关于经典 Disney 反派后代的超人气音乐电影系列的第五部。在这一集中，Red (Kylie Cantrell) 和 Chloe (Malia Baker) 联手阻止新反派 Maddox Hatter (Brendon Tremblay)，因为他抓走了 Red 的母亲 (Queen of Hearts) 并威胁到整个 Wonderland。 — James",
+      "relatedconst": [
+        "nm8492826",
+        "nm10453571",
+        "nm11281430",
+        "nm1357683",
+        "nm5377144",
+        "nm0005275"
+      ],
+      "viconst": "vi896191257"
+    },
+    {
+      "name": "末日地堡",
+      "ttconst": "tt14688458",
+      "rmconst": "rm3598630402",
+      "detail": "Season 3 Streaming on on Apple TV",
+      "description": "“Silo” 是你（也是我们）最喜欢的剧集之一，其第三季将时间线一分为二。在现在，Juliette (Rebecca Ferguson) 在第二季末被迫“清理”后回到了她的 silo。当 Juliette 应对记忆丧失、从反抗中恢复以及新的威胁（当然）时，故事情节将回到“以前的时代”，在那里，一名记者和一名国会议员揭开了一个导致建造……好吧，你懂的阴谋。第三季于 7 月 3 日首播，每周更新一集，直到 9 月 4 日。 — Arno",
+      "relatedconst": [
+        "nm0272581",
+        "nm0996669",
+        "nm0000209",
+        "nm0910040",
+        "nm3725055",
+        "nm2842232"
+      ],
+      "viconst": "vi3245525785"
     },
     {
       "name": "鬼玩人：炼狱",
       "ttconst": "tt31170389",
       "rmconst": "rm4050634754",
       "detail": "In theaters",
-      "description": "我不确定该如何评价 Sam Raimi 关于来自坟墓之外的疯子的开创性故事的最新作品。由于昏暗的调色和预告片中典型的 Rob Zombie 式乡巴佬家庭晚宴场景，氛围感觉非常像 2000 年代初期。但这种风格可能会对 <i>Evil Dead Burn</i> 有利。上一部影片 <i>Evil Dead Rise</i> 已经朝着这个方向发展了，它具有明显的千禧年哥特女孩发狂的能量，很容易被粉丝剪辑成配有 Evanescence 音乐的 TikTok 视频（极高的赞美），而且那部电影很成功。这一次，我们将跟随一位遗孀，她在探望姻亲时，当所有人都开始转化为亡灵时，情况变得一团糟。导演 Sébastien Vanicek 名下只有另一部长片，所以我猜他会在这部作品中全力以赴。坦白说，这听起来挺酷的。— Adrienne",
+      "description": "我不确定该如何评价 Sam Raimi 关于来自坟墓之外的疯子的开创性故事的最新篇章。由于阴暗的调色和预告片中整体 Rob Zombie 风格的乡巴佬家庭晚餐场景，氛围感觉非常像 2000 年代初期。但这种风格可能会对 <i>Evil Dead Burn</i> 有利。上一部电影 <i>Evil Dead Rise</i> 已经朝着这个方向发展了，它有一种明显的 Y2K 哥特女孩发疯的能量，很容易被粉丝剪辑成一段以 Evanescence 为背景音乐的 TikTok 视频（极高的赞美），而且那部电影很成功。这一次，我们将跟随一位寡妇，她在探望姻亲时，当他们都开始变成 deadites，事情变得棘手起来。导演 Sébastien Vanicek 名下只有另一部长片，所以我猜他这次会大展身手。坦率地说，这听起来有点酷。 — Adrienne",
       "relatedconst": [
         "nm5547023",
         "nm4578161",
@@ -66,7 +114,7 @@
       "ttconst": "tt2431250",
       "rmconst": "rm3202927874",
       "detail": "Streaming on Netflix",
-      "description": "接触 Laura Ingalls Wilder 关于美国西部生活的开创性系列丛书，是几代小女孩成长过程中的重要经历。X 世代和（年长的）千禧一代甚至在长达近 10 年的电视剧中在小荧幕上看到了 Ingalls 一家。现在，全新的一代可以在 Netflix 剧集中享受 Laura、Mary、Ma、Pa 甚至 Nellie 的冒险故事，该剧将改编系列丛书的第三部（那部才是真正关于大草原的，懂的都懂），并扩展到家庭旅程之外，展现更广阔的边疆生活图景。— Adrienne",
+      "description": "接触 Laura Ingalls Wilder 关于美国西部生活的开创性系列丛书对几代小女孩来说都是一段成长的经历。Gen X 和（年长的）Millennials 甚至在一部持续了近 10 年的电视剧中在小荧幕上看到了 Ingalls 一家。现在，全新的一代可以在 Netflix 剧集中享受 Laura、Mary、Ma、Pa 甚至 Nellie 的冒险，该剧将改编系列丛书的第三本（就是那本真正关于大草原的书，懂的都懂），并将视野扩展到家庭旅程之外，以包含更宏大的边疆生活图景。 — Adrienne",
       "relatedconst": [
         "nm14097149",
         "nm12468359",
@@ -81,7 +129,7 @@
       "ttconst": "tt27419466",
       "rmconst": "rm58696450",
       "detail": "In theaters",
-      "description": "如果你不是家长（或迪士尼成年粉丝），你问怎么可能又有一部 Moana 电影在筹备中是可以理解的。正如 <i>The Lion King</i>、<i>Lilo & Stitch</i> 以及 2024 年的 <i>Moana 2</i> 所证明的那样，迪士尼真人翻拍版和 Moana 续集具有获得十亿美元票房回报的潜力。但在最近的真人版失利（<i>The Little Mermaid</i>、<i>Snow White</i>）之后，我们有什么理由相信这个版本会成功呢？首先，Moana 系列仍然非常受欢迎。根据 Nielsen 的数据，去年 <i>Moana 2</i> 是所有平台上流媒体播放量排名第二的电影，而原版 <i>Moana</i> 以 58 亿分钟的观看时长排名第四。除非 Dwayne Johnson 的头发抵消了他的票房号召力（就像反向的参孙一样），否则 <i>Moana</i> 很可能会大获成功。",
+      "description": "如果你不是家长（或 Disney 成年粉丝），你可能会问怎么可能又有一部 Moana 电影要上映。正如 <i>The Lion King</i>、<i>Lilo & Stitch</i> 和 2024 年的 <i>Moana 2</i> 所证明的那样，Disney 真人翻拍版和 Moana 续集具有在票房上获得数十亿美元回报的潜力。但在最近的真人电影失利（<i>The Little Mermaid</i>、<i>Snow White</i>）之后，我们有什么理由相信这个版本会成功呢？首先，Moana 系列仍然非常受欢迎。根据 Nielsen 的数据，去年 <i>Moana 2</i> 是所有平台上观看次数第二多的电影，而原版 <i>Moana</i> 以 58 亿分钟的观看时长排名第四。除非 Dwayne Johnson 的头发抵消了他的票房号召力（像反向的 Samson），否则 <i>Moana</i> 很可能会赚得盆满钵满。",
       "relatedconst": [
         "nm15077498",
         "nm0425005",
@@ -96,7 +144,7 @@
       "ttconst": "tt32890033",
       "rmconst": "rm232380162",
       "detail": "In theaters",
-      "description": "Minions 已经是世界各地孩子们的心头好，所以我们将重点关注你们这些大孩子（即成年人）可能想知道的内容。最新的 Despicable Me 衍生剧背景设定在 20 世纪 20 年代的 Hollywood，大家最喜欢的跟班们将出发为他们的新怪兽电影寻找完美的男主角。系列主创 Pierre Coffin 回归担任编剧兼导演，并为 Minions 配音，同时留意那些一线配音阵容，其中包括 Jeff Bridges、Allison Janney、Jesse Eisenberg 和 Christoph Waltz 等。— Adrienne",
+      "description": "Minions 已经是各地孩子们的瞬间胜利，所以我们将专注于你们这些大孩子（又名成年人）可能想知道的事情。最新的 Despicable Me 衍生剧背景设定在 1920 年代的 Hollywood，大家最喜欢的追随者们将出发为他们的新怪兽电影寻找完美的男主角。系列主创 Pierre Coffin 回归担任编剧兼导演以及 Minions 的配音，并留意顶级配音阵容，其中包括 Jeff Bridges、Allison Janney、Jesse Eisenberg 和 Christoph Waltz 等。 — Adrienne",
       "relatedconst": [
         "nm0000313",
         "nm0005049",
@@ -111,7 +159,7 @@
       "ttconst": "tt32020831",
       "rmconst": "rm979093506",
       "detail": "Streaming on Prime Video",
-      "description": "这部 <i>Legally Blonde</i> 前传剧集通过将这位高中生兼未来的游说者从 Bel-Air 搬到 20 世纪 90 年代垃圾摇滚时代的 Seattle，为 Elle Woods 的青少年时期带来了全新的面貌。Lexi Minetree 饰演这位年轻的初来乍到者，剧集主管 Laura Kittrell 曾是 Issa Rae 的 “Insecure” 的编剧/制片人。— James",
+      "description": "这部 <i>Legally Blonde</i> 前传剧集通过将这位高中生和未来的游说者从 Bel-Air 搬到 1990 年代垃圾摇滚时代的 Seattle，对 Elle Woods 的青少年时期进行了轻微的改动。Lexi Minetree 饰演这位年轻的初来乍到者，剧集主管 Laura Kittrell 曾是 Issa Rae 的 “Insecure” 的编剧/制片人。 — James",
       "relatedconst": [
         "nm8482772",
         "nm2053085",
@@ -127,7 +175,7 @@
       "ttconst": "tt16026746",
       "rmconst": "rm1874644994",
       "detail": "Season 2 Streaming on Prime Video",
-      "description": "粉丝们耐心地等待了两年，想知道在第一季悬念迭起的结局之后会发生什么。结局中，几位变种人英雄迷失在时间中，而在片尾彩蛋中，揭示了 X-Men 超级反派 Apocalypse 正在伺机而动。前三集（共九集）将于 7 月 1 日在 Disney+ 上线，好消息是！该剧已经续订了第三季。— James",
+      "description": "粉丝们耐心地等待了两年，想知道第一季悬念结局之后会发生什么，那次结局让我们的几位变种人英雄迷失在时间中，并在片尾彩蛋中透露了 X-Men 超级反派 Apocalypse 正在潜伏。前三集（共九集）于 7 月 1 日在 Disney+ 上线，好消息是！该剧已经续订了第三季。 — James",
       "relatedconst": [
         "nm2616557",
         "nm0354937",
@@ -141,7 +189,7 @@
       "ttconst": "tt32278481",
       "rmconst": "rm1516621058",
       "detail": "Streaming on Netflix",
-      "description": "Enola Holmes 本月带着第三次冒险回归，这将带领最年轻的 Holmes 从祭坛一直走到 Malta 的悬崖。Millie Bobby Brown 再次饰演这位年轻的侦探，她似乎正走向幸福的家庭生活，直到她的哥哥 Sherlock 在这位勇敢的侦探即将说出“我愿意”之前被绑架。看到 Millie 与才华横溢的回归卡司一起大显身手总是很有趣，其中包括 Henry Cavill、Helena Bonham Carter、Sharon Duncan-Brewster、Himesh Patel 和 Louis Partridge 等。— Adrienne",
+      "description": "Enola Holmes 本月带着第三次冒险回归，这将带领最年轻的 Holmes 从祭坛一直走到 Malta 的悬崖。Millie Bobby Brown 再次饰演这位年轻的女侦探，她似乎正走向幸福的家庭生活，直到她的哥哥 Sherlock 在这位勇敢的侦探即将说出“我愿意”之前被绑架。看到 Millie 与她才华横溢的回归演员阵容一起表演总是很有趣，其中包括 Henry Cavill、Helena Bonham Carter、Sharon Duncan-Brewster、Himesh Patel 和 Louis Partridge 等。 — Adrienne",
       "relatedconst": [
         "nm5611121",
         "nm0147147",
@@ -157,7 +205,7 @@
       "ttconst": "tt33083249",
       "rmconst": "rm2990719746",
       "detail": "Streaming on Netflix",
-      "description": "<i>Train to Busan</i> 的创作者 Yeon Sang-ho 将本多猪四郎 1960 年的科幻惊悚片重新构思为一部电视剧，剧中一个被称为 Human Vapor 的人物公开宣称自己是对日本各地一系列谋杀案负责的实体。为了引起进一步的恐慌和混乱，他会提前宣布每个目标。该剧是 Netflix 与传奇日本工作室 Toho 的首次合作。— Arno",
+      "description": "<i>Train to Busan</i> 的创作者 Yeon Sang-ho 将 Ishirō Honda 1960 年的科幻惊悚片重新构思为一部电视剧，其中一个被称为 Human Vapor 的人物公开宣布他就是对日本各地发生的一系列谋杀案负责的实体。为了引起进一步的恐慌和混乱，他提前宣布了每个目标。该剧是 Netflix 与真正传奇的日本工作室 Toho 的首次合作。 — Arno",
       "relatedconst": [
         "nm1040419",
         "nm1066974",
@@ -166,59 +214,11 @@
       "viconst": "vi360303385"
     },
     {
-      "name": "末日地堡",
-      "ttconst": "tt14688458",
-      "rmconst": "rm3598630402",
-      "detail": "Season 3 Streaming on on Apple TV",
-      "description": "“Silo” 是你们（也是我们）最喜欢的剧集之一，它的第三季将时间线一分为二。在当下，Juliette (Rebecca Ferguson) 在第二季结束时被强行“清理”后回到了她的地堡。当 Juliette 应对失忆、从叛乱中恢复以及（当然还有）新的威胁时，故事情节将回到“以前的时代”，一名记者和一名国会议员揭开了一个导致建造……嗯，你懂的，的阴谋。第三季将于 7 月 3 日首播，每周更新一集，直到 9 月 4 日。— Arno",
-      "relatedconst": [
-        "nm0272581",
-        "nm0996669",
-        "nm0000209",
-        "nm0910040",
-        "nm3725055",
-        "nm2842232"
-      ],
-      "viconst": "vi3245525785"
-    },
-    {
-      "name": "Descendants: Wicked Wonderland",
-      "ttconst": "tt34477910",
-      "rmconst": "rm2223947778",
-      "detail": "Premieres July 17 on Disney+",
-      "description": "对于那些一直关注的人来说，这是关于经典迪士尼反派后代的超人气音乐剧系列的第五部电影。在这一集中，Red (Kylie Cantrell) 和 Chloe (Malia Baker) 联手阻止新反派 Maddox Hatter (Brendon Tremblay)，因为他抓住了 Red 的母亲 (the Queen of Hearts) 并威胁到整个 Wonderland。— James",
-      "relatedconst": [
-        "nm8492826",
-        "nm10453571",
-        "nm11281430",
-        "nm1357683",
-        "nm5377144",
-        "nm0005275"
-      ],
-      "viconst": "vi896191257"
-    },
-    {
-      "name": "心跳为你停：直到永远",
-      "ttconst": "tt36619926",
-      "rmconst": "rm2758656514",
-      "detail": "Premieres July 17 on Netflix",
-      "description": "是时候向 Nick 和 Charlie 告别了。在经历了三季的浪漫、友谊和成长之后，这部改编自原著漫画作者 Alice Oseman 作品的剧集将以电影 <i>Heartstopper Forever</i> 告终。这部 Netflix 原创电影将跟随我们幸福的一对，面对高中毕业后异地恋可能意味着什么的挑战。这是 Charlie 和 Nick 爱情故事的终点吗？还是真爱能在最后的铃声响起后找到长久的方法？— Adrienne",
-      "relatedconst": [
-        "nm12509469",
-        "nm5598573",
-        "nm1269412",
-        "nm4445388",
-        "nm10354428",
-        "nm12510592"
-      ],
-      "viconst": "vi123849497"
-    },
-    {
       "name": "Stuart Fails to Save the Universe",
       "ttconst": "tt27497393",
       "rmconst": "rm3697133826",
       "detail": "Series premieres July 23 on HBO Max",
-      "description": "顾名思义，Big Bang 系列正在扩张，而在 \"Stuart Fails to Save the Universe\" 中，它甚至跨越了现实。这次的故事聚焦于漫画店老板 Stuart Bloom，他在意外创造了一个新的多元宇宙后，必须在现实彻底崩溃之前追踪到一个量子干扰装置。如果从片名来看，我们不太确定事情是否会进展顺利。也可以期待一些熟悉的面孔，因为 \"Big Bang Theory\" 的老牌演员 Joshua Malina、John Ross Bowie, Lauren Lapkus、Wil Wheaton 和 Riki Lindhome 都将回归。— Vanessa",
+      "description": "顾名思义，Big Bang 系列正在扩张，而在 \"Stuart Fails to Save the Universe\" 的情况下，它甚至跨越了现实。这一次，故事聚焦于漫画店老板 Stuart Bloom，他在意外创造了一个新的多元宇宙后，必须在现实彻底崩溃之前追踪到一个量子干涉装置。如果剧名可以参考的话，我们不太确定事情是否会进展顺利。期待一些熟悉的面孔，因为 \"Big Bang Theory\" 的老牌演员 Joshua Malina、John Ross Bowie, Lauren Lapkus, Wil Wheaton 和 Riki Lindhome 都将回归。 — Vanessa",
       "relatedconst": [
         "nm0839934",
         "nm0101152",
@@ -234,7 +234,7 @@
       "ttconst": "tt33499146",
       "rmconst": "rm4287939330",
       "detail": "Premieres July 24 on Apple TV",
-      "description": "鉴于这项运动的普及程度，令人惊讶的是竟然没有更多关于匹克球的电影，但制片人 Ben Stiller (<i>Dodgeball</i>) 和导演 Josh Greenbaum (<i>Barb and Star Go to Vista Del Mar</i>) 正准备改变这一现状。Jake Johnson 饰演一名落魄的网球职业选手，在受伤后被迫接触匹克球，并在新搭档兼向导 (Mary Steenburgen) 的帮助下，不情愿地爱上了这项运动。全明星阵容包括 Patton Oswalt、Chloe Fineman、Chris Parnell、Aaron Chen 和 Ed Harris。— Vanessa",
+      "description": "鉴于这项运动的普及程度，令人惊讶的是目前还没有更多关于匹克球的电影，但制片人 Ben Stiller (<i>Dodgeball</i>) 和导演 Josh Greenbaum (<i>Barb and Star Go to Vista Del Mar</i>) 正准备改变这一现状。Jake Johnson 饰演一名落魄的网球职业选手，在受伤后被迫接触匹克球，并在他的新搭档兼向导 (Mary Steenburgen) 的帮助下，不情愿地爱上了这项运动。全明星阵容包括 Patton Oswalt, Chloe Fineman, Chris Parnell, Aaron Chen 和 Ed Harris。— Vanessa",
       "relatedconst": [
         "nm2159926",
         "nm0001774",
@@ -250,7 +250,7 @@
       "ttconst": "tt18546730",
       "rmconst": "rm1480835842",
       "detail": "Season 3 premieres July 26 on AMC+",
-      "description": "在经历了两个季度的明争暗斗后，Negan 和 Maggie 终于……结盟了？是的，但即使有这样一个充满希望的前提，你仍可以期待不断的痛扁丧尸、相互竞争的人类派系，甚至还有一集设定在平行现实中，这对奇特组合正试图在末日后的曼哈顿建立第一个繁荣的社区。Jimmi Simpson、Aimee Garcia、Raúl Castillo 和 Logan Kim 加入了第三季的卡司阵容。— Vanessa",
+      "description": "在经过两季的明争暗斗后，Negan 和 Maggie 终于……成了盟友？没错，但即便有了这个充满希望的前提，你仍可以期待不断的行尸砍杀、敌对的人类派系，甚至还有一集设定在平行现实中，因为这对奇怪的搭档试图在末日后的曼哈顿建立第一个繁荣的社区。Jimmi Simpson, Aimee Garcia, Raúl Castillo 和 Logan Kim 加入了第 3 季的演员阵容。— Vanessa",
       "relatedconst": [
         "nm1659348",
         "nm0604742",
@@ -266,7 +266,7 @@
       "ttconst": "tt22084616",
       "rmconst": "rm2730414338",
       "detail": "In theaters July 31",
-      "description": "如果你需要证据证明 <i>Spider-Man: Brand New Day</i> 可能是今年夏天最重磅的电影，它已经创下了有史以来预告片发布量最高的纪录。<i>Shang-Chi and the Legend of the Ten Rings</i> 和“Wonder Man”的导演 Destin Daniel Cretton 执导了 Spider-Man 的回归，故事接续 Peter Parker 被朋友们遗忘后的生活，他一边打击犯罪，直到一场令人惊讶的身体进化威胁到了他的生存。Tom Holland、Zendaya 和 Jacob Batalon 与 MCU 老将 Jon Bernthal 和 Mark Ruffalo 一起回归，此外（希望）还有 Sadie Sink。我们都非常希望那些关于 Jean Grey 的传闻是真的！",
+      "description": "如果你需要证据证明 <i>Spider-Man: Brand New Day</i> 可能是今年夏天最重磅的电影，它已经创下了史上最高预告片发布量的纪录。<i>Shang-Chi and the Legend of the Ten Rings</i> 和 “Wonder Man” 的导演 Destin Daniel Cretton 执导了 Spider-Man 的回归，故事紧接 Peter Parker 被朋友遗忘后，他继续打击犯罪，直到一次惊人的身体进化威胁到了他的生存。Tom Holland, Zendaya 和 Jacob Batalon 与 MCU 老面孔 Jon Bernthal 和 Mark Ruffalo 一同回归，此外（希望）还有 Sadie Sink。我们都非常希望关于 Jean Grey 的传闻是真的！",
       "relatedconst": [
         "nm4043618",
         "nm3918035",
@@ -282,7 +282,7 @@
       "ttconst": "tt32332915",
       "rmconst": "rm316909314",
       "detail": "In theaters July 31",
-      "description": "导演 Greg Araki 十年来的首部长片既像是一部性喜剧，又像是一部关于不道德安排的爱情剧，随着感情的介入，这种安排变得更加复杂。Olivia Wilde 饰演成功的千禧一代辣妹理想型，对性持有放任自流的态度，并带有大量的代际评判，而 Cooper Hoffman 则试图决定他想从一段已经出现重大危险信号的关系中得到什么，因为对方正是他的老板。准备好迎接粗俗的场景，同时也有 Hoffman 和 Wilde 挑战爱、同意和艺术极限的出色表演。— Adrienne",
+      "description": "导演 Greg Araki 十年来的首部故事片既像是一部性喜剧，又像是一部情感剧，讲述了一段不体面的安排如何在情感介入后演变成更深层的关系。Olivia Wilde 饰演成功的千禧一代辣妹理想型，对性持有放任自流的态度，并带着大量的代际偏见；而 Cooper Hoffman 则试图决定他想从一段已经出现重大红灯的关系中得到什么，因为对方正是他的老板。准备好迎接一些低俗场景，但也有 Hoffman 和 Wilde 在测试爱、同意和艺术界限时的精彩表演。— Adrienne",
       "relatedconst": [
         "nm1312575",
         "nm11866274",
@@ -298,7 +298,7 @@
       "ttconst": "tt14681596",
       "rmconst": "rm1887551490",
       "detail": "Season 2 premieres July 31 on Prime Video",
-      "description": "作为“Batman: The Animated Series”的精神续作，该剧在 Prime Video 的第一季取得了巨大成功，第二季承诺将会有重磅角色（The Riddler 和 Joker）以及来自 Dark Knight 反派库中重新设计的反派，如 Roxy Rocket 和性别转换后的 Mad Hatter。当全部 10 集在 7 月 31 日上线时，肯定会有更多惊喜嘉宾。— James",
+      "description": "这部 “Batman: The Animated Series” 的精神续作在 Prime Video 的第一季取得了巨大成功，第二季承诺将汇集重量级人物（The Riddler 和 Joker），以及来自 Dark Knight 反派库的翻新角色，如 Roxy Rocket 和性别转换后的 Mad Hatter。当全部 10 集在 7 月 31 日上线时，肯定会有更多惊喜嘉宾。— James",
       "relatedconst": [
         "nm0512934",
         "nm0914327",
@@ -311,413 +311,6 @@
   ],
   "imdb_items": {
     "titles": [
-      {
-        "id": "tt34866681",
-        "title_text": {
-          "text": "Lucky"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lucky",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Лаки",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Щасливиця",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "一名改邪归正的罪犯被迫面对她的过去，并为了最后一份工作重新回到非法活动中，希望能以此获得自由，彻底告别过去的生活。"
-          }
-        },
-        "primary_image": {
-          "id": "rm1875758338",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 76,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 26
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 15
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Lucky"
-        }
-      },
-      {
-        "id": "tt27550719",
-        "title_text": {
-          "text": "The Hawk"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Hawk",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El Halcón",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Falcão do Golfe",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Яструб",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "讲述了 2004 年的顶级高尔夫球手 Lonnie Hawkins 在职业生涯后期努力重现辉煌的故事，他拒绝相信自己距离高尔夫史上最伟大的回归不仅仅只有一杆之遥。"
-          }
-        },
-        "primary_image": {
-          "id": "rm3148075010",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjA5MDAyYjgtMmQ2ZS00YzRmLWE1ODUtNTg3M2VkZGMxZjEwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1012,
-          "height": 1500
-        },
-        "meter_ranking": {
-          "current_rank": 180,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 124
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sport"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "The Hawk"
-        }
-      },
       {
         "id": "tt33764258",
         "title_text": {
@@ -913,6 +506,15 @@
             },
             {
               "node": {
+                "text": "La Odisea",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Die Odyssee",
                 "country": {
                   "id": "AT",
@@ -1090,10 +692,40 @@
             },
             {
               "node": {
+                "text": "Odysea",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Odyseja",
                 "country": {
                   "id": "PL",
                   "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odyssea",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odyssey",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
                 }
               }
             },
@@ -1112,6 +744,18 @@
                 "country": {
                   "id": "RS",
                   "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Одисея",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
                 }
               }
             },
@@ -1138,6 +782,27 @@
             },
             {
               "node": {
+                "text": "ມະຫາກາບໂອດິສຊີ",
+                "country": {
+                  "id": "LA",
+                  "text": "Laos"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "オデュッセイア",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "奥德赛",
                 "country": {
                   "id": "CN",
@@ -1152,7 +817,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "特洛伊战争后，Odysseus 面临着返回 Ithaca 的危险航程，沿途遇到了独眼巨人 Polyphemus、塞壬和 Calypso 等生物。"
+            "plain_text": "特洛伊战争后，Odysseus 面临着返回 Ithaca 的危险航行，一路上遇到了 Cyclops Polyphemus、Sirens 和 Calypso 等生物。"
           }
         },
         "primary_image": {
@@ -1208,7 +873,1576 @@
           "text": "The Odyssey"
         },
         "runtime": {
-          "seconds": 10800
+          "seconds": 10320
+        }
+      },
+      {
+        "id": "tt34866681",
+        "title_text": {
+          "text": "Lucky"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лаки",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лаки",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Щасливиця",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "一名改过自新的罪犯被迫面对她的过去，为了最后一项工作重新从事非法活动，希望能获得自由并彻底告别过去的生活。"
+          }
+        },
+        "primary_image": {
+          "id": "rm1875758338",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGQ0MjkwOTUtMGMyYS00NzFhLTgxMjktNTAwOGViNWM2MWE1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 76,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 26
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.6,
+          "vote_count": 1049
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 15
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Lucky"
+        }
+      },
+      {
+        "id": "tt27550719",
+        "title_text": {
+          "text": "The Hawk"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Halcón",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hawk",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Falcão do Golfe",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sólyom a pályán",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Яструб",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "讲述 2004 年的顶级高尔夫球手 Lonnie Hawkins 在职业生涯后期努力重塑辉煌，拒绝相信自己除了距离高尔夫最伟大的复出只有一杆之遥外还有其他可能。"
+          }
+        },
+        "primary_image": {
+          "id": "rm3148075010",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjA5MDAyYjgtMmQ2ZS00YzRmLWE1ODUtNTg3M2VkZGMxZjEwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1012,
+          "height": 1500
+        },
+        "meter_ranking": {
+          "current_rank": 180,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 124
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.1,
+          "vote_count": 537
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sport"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "The Hawk"
+        }
+      },
+      {
+        "id": "tt36619926",
+        "title_text": {
+          "text": "Heartstopper Forever"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                },
+                "language": {
+                  "text": "Dutch"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "Indonesian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "Malay"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fluturi în stomac pentru totdeauna",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fülig beléd zúgtam: Mindörökké",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Para Sempre",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper para siempre",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper zauvijek",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper: Sonsuza Dek",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hjertestopper for alltid",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Navždy srdcerváči",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Коли завмирає серце: Назавжди",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Лептирићи заувек",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "עוצר נשימה לנצח",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "दिल थाम के बैठिए: हमेशा के लिए",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "เธอทำให้ใจฉันหยุดเต้น ตลอดไป",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "Thai"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "하트스토퍼 포에버",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "心跳为你停：直到永远",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Nick 和 Charlie 相爱了，但随着 Nick 准备去上大学，Charlie 在学校承担起新的责任，新的挑战就在眼前。"
+          }
+        },
+        "primary_image": {
+          "id": "rm2273493506",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjFiNjNlN2QtYWFlZC00OTc2LWFkOTEtM2ExNWNiM2U2MTI5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 928,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 353
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 17
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Heartstopper Forever"
+        }
+      },
+      {
+        "id": "tt34477910",
+        "title_text": {
+          "text": "Descendants: Wicked Wonderland"
+        },
+        "title_type": {
+          "id": "tvMovie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendants: Wicked Wonderland",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Descendentes: País das Maravilhas Malvado",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Następcy: Klątwa Krainy Czarów",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Os Descendentes: Viagem ao Mundo Sombrio",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "奇幻青少年系列的最新一作。当 Wonderland 举办 Kingdom Cup Games 时，Red 和 Chloe Charming 必须战斗以从意想不到的反派手中拯救所有人。"
+          }
+        },
+        "primary_image": {
+          "id": "rm3541353218",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjNjODhkYTEtZjkxNi00NzY0LTg3MDktNDRmZDg2NDcxYmNiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 1875
+        },
+        "meter_ranking": {
+          "current_rank": 385,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 68
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.3,
+          "vote_count": 155
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Family"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Musical"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-G"
+        },
+        "original_title_text": {
+          "text": "Descendants: Wicked Wonderland"
+        },
+        "runtime": {
+          "seconds": 5700
+        }
+      },
+      {
+        "id": "tt14688458",
+        "title_text": {
+          "text": "Silo"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2023
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silo",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Укрытие",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Укрытие",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A siló",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Boshpana",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mechanical",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Punkri saladus",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Silos",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wool",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Баспана",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Бункер",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Силоз",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Таємниця бункера",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "साइलो",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "サイロ",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "末日地堡",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "男男女女生活在地下一个巨大的 silo 中，那里有几项规定，他们认为这些规定是为了保护他们免受地表有毒和荒废世界的伤害。"
+          }
+        },
+        "primary_image": {
+          "id": "rm2371931138",
+          "url": "https://m.media-amazon.com/images/M/MV5BN2E5ODJmOTUtYTk0NS00NmFiLTk0MTgtZDRlNzE1YmExMjk4XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 4,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 1
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.1,
+          "vote_count": 220209
+        },
+        "release_date": {
+          "year": 2023,
+          "month": 5,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Silo"
+        },
+        "runtime": {
+          "seconds": 2940
         }
       },
       {
@@ -1675,7 +2909,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在失去丈夫后，一名女子向姻亲寻求安慰。随着他们一个个转化为亡灵，她发现她生前许下的誓言——即使在死后依然存在。"
+            "plain_text": "在失去丈夫后，一名女子向她的姻亲寻求慰藉。随着他们一个接一个地变成 deadites，她发现她在生活中许下的誓言——即使在死后也依然存在。"
           }
         },
         "primary_image": {
@@ -1693,8 +2927,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.8,
-          "vote_count": 11025
+          "aggregate_rating": 6.7,
+          "vote_count": 13998
         },
         "release_date": {
           "year": 2026,
@@ -1877,6 +3111,15 @@
             },
             {
               "node": {
+                "text": "Det lille hus på prærien",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Det vesle huset på prærien",
                 "country": {
                   "id": "NO",
@@ -1949,6 +3192,15 @@
                   "text": "Serbia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Маленький домик в прериях",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
             }
           ]
         },
@@ -1972,8 +3224,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.1,
-          "vote_count": 2467
+          "aggregate_rating": 7.2,
+          "vote_count": 3427
         },
         "release_date": {
           "year": 2026,
@@ -2164,6 +3416,18 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moana",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
                 }
               }
             },
@@ -2489,7 +3753,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "2016 年迪士尼动画电影 'Moana' 的真人版改编。"
+            "plain_text": "2016 年 Disney 动画电影 'Moana' 的真人改编版。"
           }
         },
         "primary_image": {
@@ -2508,7 +3772,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 5.7,
-          "vote_count": 5318
+          "vote_count": 6857
         },
         "release_date": {
           "year": 2026,
@@ -3077,7 +4341,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "讲述了 Minions 在 20 世纪 20 年代的 Hollywood 为他们的怪兽电影寻找可怕生物的故事，他们与一个绿色生物合作，并必须在释放怪兽后拯救地球。"
+            "plain_text": "讲述 Minions 在 1920 年代的 Hollywood 寻找可怕的生物来拍摄他们的怪兽电影，与一个绿色生物合作，并必须在释放怪兽后拯救地球。"
           }
         },
         "primary_image": {
@@ -3096,7 +4360,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.5,
-          "vote_count": 11747
+          "vote_count": 12823
         },
         "release_date": {
           "year": 2026,
@@ -3317,12 +4581,21 @@
                   "text": "Ukraine"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Эль",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "讲述了 Elle Woods 的高中历程，探索了将她塑造成标志性、自信的 \"Legally Blonde\" 角色的成长经历。"
+            "plain_text": "讲述 Elle Woods 的高中历程，探索塑造她成为标志性、自信的 \"Legally Blonde\" 角色的成长经历。"
           }
         },
         "primary_image": {
@@ -3341,7 +4614,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.9,
-          "vote_count": 4344
+          "vote_count": 4803
         },
         "release_date": {
           "year": 2026,
@@ -3644,7 +4917,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一群变种人利用他们不可思议的天赋来保护一个憎恨并恐惧他们的世界；他们面临着前所未有的挑战，被迫面对一个危险且意想不到的新未来。"
+            "plain_text": "一群变种人利用他们非凡的天赋来保护一个憎恨和恐惧他们的世界；他们面临着前所未有的挑战，被迫面对危险且意想不到的新未来。"
           }
         },
         "primary_image": {
@@ -3663,7 +4936,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.7,
-          "vote_count": 55404
+          "vote_count": 55625
         },
         "release_date": {
           "year": 2024,
@@ -3930,7 +5203,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "侦探 Enola Holmes 前往 Malta，在那里她的抱负与她迄今为止最复杂、最危险的案件交织在一起。"
+            "plain_text": "侦探 Enola Holmes 前往 Malta，在那里她的抱负融入了她最复杂、最危险的案件中。"
           }
         },
         "primary_image": {
@@ -3949,7 +5222,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 5.8,
-          "vote_count": 17824
+          "vote_count": 19119
         },
         "release_date": {
           "year": 2026,
@@ -4186,6 +5459,15 @@
             },
             {
               "node": {
+                "text": "Газовый человек",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "ガス人間",
                 "country": {
                   "id": "JP",
@@ -4221,7 +5503,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一个获得了转化为气态能力的人利用他的超能力抢劫银行。"
+            "plain_text": "一个获得了转化为气态能力的人利用他的力量抢劫银行。"
           }
         },
         "primary_image": {
@@ -4240,7 +5522,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 1290
+          "vote_count": 1438
         },
         "release_date": {
           "year": 2026,
@@ -4289,889 +5571,6 @@
         },
         "runtime": {
           "seconds": 3000
-        }
-      },
-      {
-        "id": "tt14688458",
-        "title_text": {
-          "text": "Silo"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2023
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silo",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Укрытие",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Укрытие",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A siló",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Boshpana",
-                "country": {
-                  "id": "UZ",
-                  "text": "Uzbekistan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mechanical",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Punkri saladus",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Silos",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wool",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Баспана",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Бункер",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Силоз",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Таємниця бункера",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "साइलो",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "サイロ",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "末日地堡",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "男男女女生活在一个巨大的地下地堡中，那里有几项规定，他们相信这些规定是为了保护他们免受地表有毒且荒废的世界的侵害。"
-          }
-        },
-        "primary_image": {
-          "id": "rm2371931138",
-          "url": "https://m.media-amazon.com/images/M/MV5BN2E5ODJmOTUtYTk0NS00NmFiLTk0MTgtZDRlNzE1YmExMjk4XkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 4,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 1
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.1,
-          "vote_count": 219664
-        },
-        "release_date": {
-          "year": 2023,
-          "month": 5,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Silo"
-        },
-        "runtime": {
-          "seconds": 2940
-        }
-      },
-      {
-        "id": "tt34477910",
-        "title_text": {
-          "text": "Descendants: Wicked Wonderland"
-        },
-        "title_type": {
-          "id": "tvMovie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants: Wicked Wonderland",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendants 5",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Descendentes: País das Maravilhas Malvado",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Następcy: Klątwa Krainy Czarów",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Os Descendentes: Viagem ao Mundo Sombrio",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "这部奇幻青少年系列的最新作品。当 Wonderland 主办王国杯比赛时，Red 和 Chloe Charming 必须战斗，从一个意想不到的反派手中拯救所有人。"
-          }
-        },
-        "primary_image": {
-          "id": "rm3541353218",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjNjODhkYTEtZjkxNi00NzY0LTg3MDktNDRmZDg2NDcxYmNiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 1875
-        },
-        "meter_ranking": {
-          "current_rank": 385,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 68
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Family"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Musical"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-G"
-        },
-        "original_title_text": {
-          "text": "Descendants: Wicked Wonderland"
-        },
-        "runtime": {
-          "seconds": 5700
-        }
-      },
-      {
-        "id": "tt36619926",
-        "title_text": {
-          "text": "Heartstopper Forever"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Forever",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper Para Sempre",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper para siempre",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Heartstopper: Sonsuza Dek",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hjertestopper - for alltid",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Лептирићи заувек",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Nick 和 Charlie 坠入爱河，但随着 Nick 准备去上大学，Charlie 在学校承担起新的责任，新的挑战也随之而来。"
-          }
-        },
-        "primary_image": {
-          "id": "rm2273493506",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjFiNjNlN2QtYWFlZC00OTc2LWFkOTEtM2ExNWNiM2U2MTI5XkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 928,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 353
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 17
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Heartstopper Forever"
         }
       },
       {
@@ -5368,7 +5767,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "来自 The Big Bang Theory (2007) 的漫画店老板 Stuart Bloom 在一部新剧集中回归，他在剧中试图——而且显然失败了——拯救宇宙，忠于他不走运的本性。"
+            "plain_text": "来自 The Big Bang Theory (2007) 的漫画店老板 Stuart Bloom 在一部新剧集中回归，他在剧中试图——而且显然失败了——拯救宇宙，忠于他不幸的本性。"
           }
         },
         "primary_image": {
@@ -5559,7 +5958,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一名落魄的网球职业选手试图通过勉强参加匹克球比赛来赢得父亲的尊重，从而挽救一家俱乐部。"
+            "plain_text": "一名落魄的网球职业选手试图通过不情愿地参加匹克球比赛来赢得父亲的尊重，并以此拯救一家俱乐部。"
           }
         },
         "primary_image": {
@@ -5862,7 +6261,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Maggie 和 Negan 前往早已与大陆隔绝的末日后曼哈顿。这座城市充满了死者和已经将纽约市变成自己世界的居民。"
+            "plain_text": "Maggie 和 Negan 前往早已与大陆隔绝的末世曼哈顿。这座城市充满了死者，以及将纽约市变成了属于他们自己世界的居民。"
           }
         },
         "primary_image": {
@@ -5881,7 +6280,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 35205
+          "vote_count": 35228
         },
         "release_date": {
           "year": 2023,
@@ -6364,7 +6763,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "被遗忘的 Peter Parker 独自生活，全职担任 Spider-Man，直到日益增长的压力引发了危险的变化，一个强大的新敌人随之出现。"
+            "plain_text": "被遗忘的 Peter Parker 独自生活，全身心投入 Spider-Man 的身份，直到日益增长的压力触发了一场危险的转变，一个强大的新敌人随之出现。"
           }
         },
         "primary_image": {
@@ -6590,7 +6989,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Elliot 为 Erika Tracy 工作，担任她的性灵感缪斯。"
+            "plain_text": "Elliot 为 Erika Tracy 工作，成为了她的性灵感缪斯。"
           }
         },
         "primary_image": {
@@ -6894,7 +7293,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在遭遇家庭悲剧后，富有的慈善家 Bruce Wayne 化身为 The Batman，他为正义而战的征程引发了无法预料的后果。"
+            "plain_text": "在遭遇家庭悲剧后，富有慈善家 Bruce Wayne 化身为 The Batman，他为正义而战的行动引发了意想不到的后果。"
           }
         },
         "primary_image": {
@@ -6913,7 +7312,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 16933
+          "vote_count": 16951
         },
         "release_date": {
           "year": 2024,
@@ -6966,6 +7365,78 @@
       }
     ],
     "names": [
+      {
+        "id": "nm0000354",
+        "name_text": {
+          "text": "Matt Damon"
+        },
+        "primary_image": {
+          "id": "rm3809120000",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_.jpg",
+          "width": 447,
+          "height": 600
+        }
+      },
+      {
+        "id": "nm0004266",
+        "name_text": {
+          "text": "Anne Hathaway"
+        },
+        "primary_image": {
+          "id": "rm352898562",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWQ5MzViNjUtODdmMi00MjYxLTg0OTItM2NkOTg1YzFjYjMxXkEyXkFqcGc@._V1_CR427,126,1366,2049_.jpg",
+          "width": 1366,
+          "height": 2049
+        }
+      },
+      {
+        "id": "nm4043618",
+        "name_text": {
+          "text": "Tom Holland"
+        },
+        "primary_image": {
+          "id": "rm662558465",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzU3NWRhMjgtNmNmMS00YjQ1LWIyYzgtYzdkYjRjNWEzM2E3XkEyXkFqcGc@._V1_.jpg",
+          "width": 3648,
+          "height": 5472
+        }
+      },
+      {
+        "id": "nm3918035",
+        "name_text": {
+          "text": "Zendaya"
+        },
+        "primary_image": {
+          "id": "rm1855008256",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjM5N2U3MzQtZWU5My00YzE0LThmZTgtYjE1NDJjNmIzZmIxXkEyXkFqcGc@._V1_.jpg",
+          "width": 780,
+          "height": 1040
+        }
+      },
+      {
+        "id": "nm1500155",
+        "name_text": {
+          "text": "Robert Pattinson"
+        },
+        "primary_image": {
+          "id": "rm2444987904",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
+          "width": 301,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm2143282",
+        "name_text": {
+          "text": "Lupita Nyong'o"
+        },
+        "primary_image": {
+          "id": "rm493411840",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_.jpg",
+          "width": 1360,
+          "height": 2048
+        }
+      },
       {
         "id": "nm5896355",
         "name_text": {
@@ -7099,75 +7570,219 @@
         }
       },
       {
-        "id": "nm0000354",
+        "id": "nm12509469",
         "name_text": {
-          "text": "Matt Damon"
+          "text": "Joe Locke"
         },
         "primary_image": {
-          "id": "rm3809120000",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTM0NzYzNDgxMl5BMl5BanBnXkFtZTcwMDg2MTMyMw@@._V1_.jpg",
-          "width": 447,
-          "height": 600
+          "id": "rm104536065",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTVhYWZiYmYtNzhlOS00OTI0LWEwNGEtY2RiZjVjZGUxYWU3XkEyXkFqcGc@._V1_.jpg",
+          "width": 957,
+          "height": 1435
         }
       },
       {
-        "id": "nm0004266",
+        "id": "nm5598573",
         "name_text": {
-          "text": "Anne Hathaway"
+          "text": "Kit Connor"
         },
         "primary_image": {
-          "id": "rm352898562",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWQ5MzViNjUtODdmMi00MjYxLTg0OTItM2NkOTg1YzFjYjMxXkEyXkFqcGc@._V1_CR427,126,1366,2049_.jpg",
+          "id": "rm2244313858",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmEzZGIyN2UtNTU5NC00M2QzLTk1ODgtY2QxMTcyYzUwYThhXkEyXkFqcGc@._V1_.jpg",
+          "width": 498,
+          "height": 661
+        }
+      },
+      {
+        "id": "nm1269412",
+        "name_text": {
+          "text": "Anna Maxwell Martin"
+        },
+        "primary_image": {
+          "id": "rm12434176",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjI2NzU5NDYzN15BMl5BanBnXkFtZTcwNDgzODc2NA@@._V1_.jpg",
+          "width": 2048,
+          "height": 1365
+        }
+      },
+      {
+        "id": "nm4445388",
+        "name_text": {
+          "text": "Darragh Hand"
+        },
+        "primary_image": {
+          "id": "rm261526018",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTVmMWQyMDgtZmZhYy00NDViLWFiYjYtOWUxNWNkZTA3NjI4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1206,
+          "height": 1484
+        }
+      },
+      {
+        "id": "nm10354428",
+        "name_text": {
+          "text": "Jack Barton"
+        },
+        "primary_image": {
+          "id": "rm2435161346",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDE4ZmZhZjgtNmEzZC00OGQwLThjYTEtYWNhNWExOWM4MjhmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1000,
+          "height": 1500
+        }
+      },
+      {
+        "id": "nm12510592",
+        "name_text": {
+          "text": "Yasmin Finney"
+        },
+        "primary_image": {
+          "id": "rm4222126338",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTA3YjgzZmEtMjdhMS00ZmExLWE5M2UtZTM0YWE2NTIxY2U5XkEyXkFqcGc@._V1_.jpg",
           "width": 1366,
-          "height": 2049
+          "height": 2048
         }
       },
       {
-        "id": "nm4043618",
+        "id": "nm8492826",
         "name_text": {
-          "text": "Tom Holland"
+          "text": "Kylie Cantrall"
         },
         "primary_image": {
-          "id": "rm662558465",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzU3NWRhMjgtNmNmMS00YjQ1LWIyYzgtYzdkYjRjNWEzM2E3XkEyXkFqcGc@._V1_.jpg",
-          "width": 3648,
-          "height": 5472
+          "id": "rm3878774785",
+          "url": "https://m.media-amazon.com/images/M/MV5BODc5ZGMyMWEtOTcxYS00ZDkyLWI0OWItYmVkY2ZhMjAyMzJlXkEyXkFqcGc@._V1_.jpg",
+          "width": 2488,
+          "height": 3730
         }
       },
       {
-        "id": "nm3918035",
+        "id": "nm10453571",
         "name_text": {
-          "text": "Zendaya"
+          "text": "Malia Baker"
         },
         "primary_image": {
-          "id": "rm1855008256",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjM5N2U3MzQtZWU5My00YzE0LThmZTgtYjE1NDJjNmIzZmIxXkEyXkFqcGc@._V1_.jpg",
-          "width": 780,
-          "height": 1040
+          "id": "rm1376351233",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzVkMTBkMTQtYTI5Ny00MmRhLTgwN2ItMWM5NDZlZGZjNmI2XkEyXkFqcGc@._V1_.jpg",
+          "width": 1179,
+          "height": 1515
         }
       },
       {
-        "id": "nm1500155",
+        "id": "nm11281430",
         "name_text": {
-          "text": "Robert Pattinson"
+          "text": "Brendon Tremblay"
         },
         "primary_image": {
-          "id": "rm2444987904",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
-          "width": 301,
+          "id": "rm3856844546",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjFiNTNjMTAtNjc0Mi00YWQ2LTk4MWQtOTNmMzRmZjY0YWQyXkEyXkFqcGc@._V1_CR151,295,3053,4579_.jpg",
+          "width": 3053,
+          "height": 4579
+        }
+      },
+      {
+        "id": "nm1357683",
+        "name_text": {
+          "text": "Rita Ora"
+        },
+        "primary_image": {
+          "id": "rm456568578",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTQ5NzAxNTUtZDU5OC00MmFjLWI0YTctZGVlYWFmZmI1ODQ0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1080
+        }
+      },
+      {
+        "id": "nm5377144",
+        "name_text": {
+          "text": "Awkwafina"
+        },
+        "primary_image": {
+          "id": "rm712130304",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTUwNjkyN15BMl5BanBnXkFtZTgwMjM0NzEzMTI@._V1_.jpg",
+          "width": 1473,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0005275",
+        "name_text": {
+          "text": "Brandy Norwood"
+        },
+        "primary_image": {
+          "id": "rm284854016",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM4Mzg1MTM3N15BMl5BanBnXkFtZTcwMDk0MTMwNA@@._V1_.jpg",
+          "width": 266,
           "height": 400
         }
       },
       {
-        "id": "nm2143282",
+        "id": "nm0272581",
         "name_text": {
-          "text": "Lupita Nyong'o"
+          "text": "Rebecca Ferguson"
         },
         "primary_image": {
-          "id": "rm493411840",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_.jpg",
-          "width": 1360,
-          "height": 2048
+          "id": "rm4289232641",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDVlZjIzOTktYzNmZC00MjIzLTk1YTMtMzdlOTFiNzQ3ZGY0XkEyXkFqcGc@._V1_.jpg",
+          "width": 406,
+          "height": 464
+        }
+      },
+      {
+        "id": "nm0996669",
+        "name_text": {
+          "text": "Common"
+        },
+        "primary_image": {
+          "id": "rm886082816",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzg4MTk5NDM1MV5BMl5BanBnXkFtZTcwMTM5OTQzMw@@._V1_.jpg",
+          "width": 307,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0000209",
+        "name_text": {
+          "text": "Tim Robbins"
+        },
+        "primary_image": {
+          "id": "rm3789593344",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
+          "width": 311,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0910040",
+        "name_text": {
+          "text": "Harriet Walter"
+        },
+        "primary_image": {
+          "id": "rm2849558784",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTk1Nzc4Mjc4OF5BMl5BanBnXkFtZTcwNjE1OTEzNw@@._V1_.jpg",
+          "width": 2158,
+          "height": 3237
+        }
+      },
+      {
+        "id": "nm3725055",
+        "name_text": {
+          "text": "Jessica Henwick"
+        },
+        "primary_image": {
+          "id": "rm4064993536",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE3MzU5NDc0Nl5BMl5BanBnXkFtZTgwNDMzNjE1NzE@._V1_.jpg",
+          "width": 1000,
+          "height": 1333
+        }
+      },
+      {
+        "id": "nm2842232",
+        "name_text": {
+          "text": "Ashley Zukerman"
+        },
+        "primary_image": {
+          "id": "rm1784425729",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDViZTFlYWEtNDdmYi00MTBiLWFmYjktMTQwY2VhMTJmMjNkXkEyXkFqcGc@._V1_.jpg",
+          "width": 1001,
+          "height": 1251
         }
       },
       {
@@ -7615,222 +8230,6 @@
         }
       },
       {
-        "id": "nm0272581",
-        "name_text": {
-          "text": "Rebecca Ferguson"
-        },
-        "primary_image": {
-          "id": "rm4289232641",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDVlZjIzOTktYzNmZC00MjIzLTk1YTMtMzdlOTFiNzQ3ZGY0XkEyXkFqcGc@._V1_.jpg",
-          "width": 406,
-          "height": 464
-        }
-      },
-      {
-        "id": "nm0996669",
-        "name_text": {
-          "text": "Common"
-        },
-        "primary_image": {
-          "id": "rm886082816",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzg4MTk5NDM1MV5BMl5BanBnXkFtZTcwMTM5OTQzMw@@._V1_.jpg",
-          "width": 307,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0000209",
-        "name_text": {
-          "text": "Tim Robbins"
-        },
-        "primary_image": {
-          "id": "rm3789593344",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg",
-          "width": 311,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0910040",
-        "name_text": {
-          "text": "Harriet Walter"
-        },
-        "primary_image": {
-          "id": "rm2849558784",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTk1Nzc4Mjc4OF5BMl5BanBnXkFtZTcwNjE1OTEzNw@@._V1_.jpg",
-          "width": 2158,
-          "height": 3237
-        }
-      },
-      {
-        "id": "nm3725055",
-        "name_text": {
-          "text": "Jessica Henwick"
-        },
-        "primary_image": {
-          "id": "rm4064993536",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjE3MzU5NDc0Nl5BMl5BanBnXkFtZTgwNDMzNjE1NzE@._V1_.jpg",
-          "width": 1000,
-          "height": 1333
-        }
-      },
-      {
-        "id": "nm2842232",
-        "name_text": {
-          "text": "Ashley Zukerman"
-        },
-        "primary_image": {
-          "id": "rm1784425729",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDViZTFlYWEtNDdmYi00MTBiLWFmYjktMTQwY2VhMTJmMjNkXkEyXkFqcGc@._V1_.jpg",
-          "width": 1001,
-          "height": 1251
-        }
-      },
-      {
-        "id": "nm8492826",
-        "name_text": {
-          "text": "Kylie Cantrall"
-        },
-        "primary_image": {
-          "id": "rm3878774785",
-          "url": "https://m.media-amazon.com/images/M/MV5BODc5ZGMyMWEtOTcxYS00ZDkyLWI0OWItYmVkY2ZhMjAyMzJlXkEyXkFqcGc@._V1_.jpg",
-          "width": 2488,
-          "height": 3730
-        }
-      },
-      {
-        "id": "nm10453571",
-        "name_text": {
-          "text": "Malia Baker"
-        },
-        "primary_image": {
-          "id": "rm1376351233",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzVkMTBkMTQtYTI5Ny00MmRhLTgwN2ItMWM5NDZlZGZjNmI2XkEyXkFqcGc@._V1_.jpg",
-          "width": 1179,
-          "height": 1515
-        }
-      },
-      {
-        "id": "nm11281430",
-        "name_text": {
-          "text": "Brendon Tremblay"
-        },
-        "primary_image": {
-          "id": "rm1588775682",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjBmNDgxMWQtYzIzNy00NGM1LWExYWUtNmYzZTE2YmI5MGQzXkEyXkFqcGc@._V1_CR849,0,2959,4439_.jpg",
-          "width": 2959,
-          "height": 4439
-        }
-      },
-      {
-        "id": "nm1357683",
-        "name_text": {
-          "text": "Rita Ora"
-        },
-        "primary_image": {
-          "id": "rm456568578",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTQ5NzAxNTUtZDU5OC00MmFjLWI0YTctZGVlYWFmZmI1ODQ0XkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1080
-        }
-      },
-      {
-        "id": "nm5377144",
-        "name_text": {
-          "text": "Awkwafina"
-        },
-        "primary_image": {
-          "id": "rm712130304",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTUwNjkyN15BMl5BanBnXkFtZTgwMjM0NzEzMTI@._V1_.jpg",
-          "width": 1473,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0005275",
-        "name_text": {
-          "text": "Brandy Norwood"
-        },
-        "primary_image": {
-          "id": "rm284854016",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTM4Mzg1MTM3N15BMl5BanBnXkFtZTcwMDk0MTMwNA@@._V1_.jpg",
-          "width": 266,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm12509469",
-        "name_text": {
-          "text": "Joe Locke"
-        },
-        "primary_image": {
-          "id": "rm104536065",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTVhYWZiYmYtNzhlOS00OTI0LWEwNGEtY2RiZjVjZGUxYWU3XkEyXkFqcGc@._V1_.jpg",
-          "width": 957,
-          "height": 1435
-        }
-      },
-      {
-        "id": "nm5598573",
-        "name_text": {
-          "text": "Kit Connor"
-        },
-        "primary_image": {
-          "id": "rm2244313858",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmEzZGIyN2UtNTU5NC00M2QzLTk1ODgtY2QxMTcyYzUwYThhXkEyXkFqcGc@._V1_.jpg",
-          "width": 498,
-          "height": 661
-        }
-      },
-      {
-        "id": "nm1269412",
-        "name_text": {
-          "text": "Anna Maxwell Martin"
-        },
-        "primary_image": {
-          "id": "rm12434176",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjI2NzU5NDYzN15BMl5BanBnXkFtZTcwNDgzODc2NA@@._V1_.jpg",
-          "width": 2048,
-          "height": 1365
-        }
-      },
-      {
-        "id": "nm4445388",
-        "name_text": {
-          "text": "Darragh Hand"
-        },
-        "primary_image": {
-          "id": "rm261526018",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTVmMWQyMDgtZmZhYy00NDViLWFiYjYtOWUxNWNkZTA3NjI4XkEyXkFqcGc@._V1_.jpg",
-          "width": 1206,
-          "height": 1484
-        }
-      },
-      {
-        "id": "nm10354428",
-        "name_text": {
-          "text": "Jack Barton"
-        },
-        "primary_image": {
-          "id": "rm2435161346",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDE4ZmZhZjgtNmEzZC00OGQwLThjYTEtYWNhNWExOWM4MjhmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1000,
-          "height": 1500
-        }
-      },
-      {
-        "id": "nm12510592",
-        "name_text": {
-          "text": "Yasmin Finney"
-        },
-        "primary_image": {
-          "id": "rm4222126338",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTA3YjgzZmEtMjdhMS00ZmExLWE5M2UtZTM0YWE2NTIxY2U5XkEyXkFqcGc@._V1_.jpg",
-          "width": 1366,
-          "height": 2048
-        }
-      },
-      {
         "id": "nm0839934",
         "name_text": {
           "text": "Kevin Sussman"
@@ -8254,6 +8653,9 @@
     "videos": [],
     "images": [
       {
+        "id": "rm3342378754"
+      },
+      {
         "id": "rm3155615234",
         "url": "https://m.media-amazon.com/images/M/MV5BNTYyMTg3NmYtYzdkYi00MjNmLWE3YzgtM2Q0MjhkZmE2ZGJhXkEyXkFqcGc@._V1_.jpg",
         "width": 8640,
@@ -8266,9 +8668,21 @@
         "height": 2400
       },
       {
-        "id": "rm3342378754",
-        "url": "https://m.media-amazon.com/images/M/MV5BYjYyMmEwYjUtYzk5Mi00NTM4LThjMjEtMzRmNGUwMTM3MThiXkEyXkFqcGc@._V1_.jpg",
-        "width": 1080,
+        "id": "rm2758656514",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGMzZTM2YmEtYjYwZS00ZDc1LWE3OWQtMjg4MzdhNGQ3OTZmXkEyXkFqcGc@._V1_.jpg",
+        "width": 5635,
+        "height": 2818
+      },
+      {
+        "id": "rm2223947778",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzIxMTE4ZmItODQ0MS00YjI2LWJlN2ItMzAxMTA4M2VhMGYzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2000
+      },
+      {
+        "id": "rm3598630402",
+        "url": "https://m.media-amazon.com/images/M/MV5BODRjYjViNjQtYzc2ZC00NmRkLThiNWQtMWQ2MTA2NmZmM2UzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1280,
         "height": 720
       },
       {
@@ -8318,24 +8732,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZGExMmU2N2EtMTUyMi00YzZiLWIxYTUtMjRjNWVhZjhjMTUxXkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
         "height": 1080
-      },
-      {
-        "id": "rm3598630402",
-        "url": "https://m.media-amazon.com/images/M/MV5BODRjYjViNjQtYzc2ZC00NmRkLThiNWQtMWQ2MTA2NmZmM2UzXkEyXkFqcGc@._V1_.jpg",
-        "width": 1280,
-        "height": 720
-      },
-      {
-        "id": "rm2223947778",
-        "url": "https://m.media-amazon.com/images/M/MV5BMzIxMTE4ZmItODQ0MS00YjI2LWJlN2ItMzAxMTA4M2VhMGYzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 2000
-      },
-      {
-        "id": "rm2758656514",
-        "url": "https://m.media-amazon.com/images/M/MV5BOGMzZTM2YmEtYjYwZS00ZDc1LWE3OWQtMjg4MzdhNGQ3OTZmXkEyXkFqcGc@._V1_.jpg",
-        "width": 5635,
-        "height": 2818
       },
       {
         "id": "rm3697133826",
