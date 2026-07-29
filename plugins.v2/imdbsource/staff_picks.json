@@ -1,10 +1,57 @@
 {
-  "updated_at": "2026-07-18 00:33:21",
+  "updated_at": "2026-07-30 06:33:16",
   "entries": [
+    {
+      "name": "Spider-Man: Brand New Day",
+      "ttconst": "tt22084616",
+      "rmconst": "rm2730414338",
+      "detail": "In theaters July 31",
+      "description": "If you needed proof that <i>Spider-Man: Brand New Day</i> could be the biggest movie of the summer, it's already set the record for the biggest trailer launch ever. <i>Shang-Chi and the Legend of the Ten Rings</i> and “Wonder Man” director Destin Daniel Cretton helms Spider-Man's return, picking up with Peter Parker now forgotten by his friends and fighting crime until a surprising physical evolution threatens his existence. Tom Holland, Zendaya, and Jacob Batalon return alongside MCU alumni Jon Bernthal and Mark Ruffalo, plus (hopefully) Sadie Sink. We're all really hoping those Jean Grey rumors are true!",
+      "relatedconst": [
+        "nm4043618",
+        "nm3918035",
+        "nm8188622",
+        "nm5584750",
+        "nm1256532",
+        "nm0749263"
+      ],
+      "viconst": "vi2378812185"
+    },
+    {
+      "name": "I Want Your Sex",
+      "ttconst": "tt32332915",
+      "rmconst": "rm316909314",
+      "detail": "In theaters July 31",
+      "description": "Director Greg Araki’s first feature in a decade is kind of a sex comedy, kind of a relationship drama about an indecent arrangement that becomes something more as feelings find their way into the mix. Olivia Wilde plays the successful Millennial hot girl ideal, complete with laissez-faire attitudes about sex and a heaping helping of generational judgment, while Cooper Hoffman tries to decide what he wants out of a relationship that already has major red flags since it’s with his literal boss. Be ready for bawdy scenes but also some fantastic acting as Hoffman and Wilde test the limits of love, consent, and art. — Adrienne",
+      "relatedconst": [
+        "nm1312575",
+        "nm11866274",
+        "nm2864252",
+        "nm3681769",
+        "nm4377526",
+        "nm6424616"
+      ],
+      "viconst": "vi2774780697"
+    },
+    {
+      "name": "Batman: Caped Crusader",
+      "ttconst": "tt14681596",
+      "rmconst": "rm1887551490",
+      "detail": "Season 2 premieres July 31 on Prime Video",
+      "description": "This spiritual successor to “Batman: The Animated Series” was a huge success in its first season on Prime Video, and Season 2 promises a mix of heavy hitters (The Riddler and Joker) as well as re-vamped villains from the Dark Knight’s rogues gallery, like Roxy Rocket and a gender-swapped Mad Hatter. There are sure to be more surprise guests when alll 10 episodes drop on July 31. — James",
+      "relatedconst": [
+        "nm0512934",
+        "nm0914327",
+        "nm0000207",
+        "nm4424397",
+        "nm0094636"
+      ],
+      "viconst": "vi2418132505"
+    },
     {
       "name": "The Odyssey",
       "ttconst": "tt33764258",
-      "rmconst": "rm3342378754",
+      "rmconst": "rm1092470274",
       "detail": "In theaters",
       "description": "Summer movie season doesn’t get more epic than a new Christopher Nolan film based on one of the most well-known stories in history, filmed entirely in 70mm IMAX. Matt Damon leads a stacked cast as the Greek king Odysseus as he journeys home to reunite with his wife, Penelope (Anne Hathaway). This will be the most fantastical story we’ve seen from Nolan, and with an estimated $250 million budget, his cinematic interpretations of things like the Trojan Horse, Greek gods, sirens, and mythical beasts should make for some eye-popping spectacle worthy of a trip to the cinema. — James",
       "relatedconst": [
@@ -16,6 +63,22 @@
         "nm2143282"
       ],
       "viconst": "vi766298905"
+    },
+    {
+      "name": "The Walking Dead: Dead City",
+      "ttconst": "tt18546730",
+      "rmconst": "rm1480835842",
+      "detail": "Season 3 streaming on AMC+",
+      "description": "After two seasons of battling it out, Negan and Maggie are finally ... allies? Yep, but even with this hopeful premise, you can expect nonstop walker bashing, rival human factions, and even an episode set in an alternate reality as this odd couple attempts to build the first thriving community in Manhattan since the apocalypse. Jimmi Simpson, Aimee Garcia, Raúl Castillo, and Logan Kim join the cast for Season 3. — Vanessa",
+      "relatedconst": [
+        "nm1659348",
+        "nm0604742",
+        "nm0801051",
+        "nm10594234",
+        "nm0305083",
+        "nm1950004"
+      ],
+      "viconst": "vi830196505"
     },
     {
       "name": "Lucky",
@@ -217,7 +280,7 @@
       "name": "Stuart Fails to Save the Universe",
       "ttconst": "tt27497393",
       "rmconst": "rm3697133826",
-      "detail": "Series premieres July 23 on HBO Max",
+      "detail": "Streaming on HBO Max",
       "description": "True to its name, the Big Bang franchise is expanding, and in the case of \"Stuart Fails to Save the Universe,\" it's even jumping realities. This time the story zeroes in on comic book store owner Stuart Bloom, who after accidentally creating a new multiverse must track down a quantum-interference device before reality collapses for good. If the title is anything to go by, we're not so sure things will work out well. Expect some familiar faces too, as \"Big Bang Theory\" alums Joshua Malina, John Ross Bowie, Lauren Lapkus, Wil Wheaton, and Riki Lindhome are all set to return. — Vanessa",
       "relatedconst": [
         "nm0839934",
@@ -233,7 +296,7 @@
       "name": "The Dink",
       "ttconst": "tt33499146",
       "rmconst": "rm4287939330",
-      "detail": "Premieres July 24 on Apple TV",
+      "detail": "Streaming on Apple TV",
       "description": "Given the sport's popularity, it's surprising there aren't more pickleball movies out there, but producer Ben Stiller (<i>Dodgeball</i>) and director Josh Greenbaum (<i>Barb and Star Go to Vista Del Mar</i>) are here to change that. Jake Johnson stars as a washed-up tennis pro forced into pickleball after an injury, who reluctantly falls for the sport with the help of his new partner and guide (Mary Steenburgen). The all-star cast includes Patton Oswalt, Chloe Fineman, Chris Parnell, Aaron Chen, and Ed Harris. — Vanessa",
       "relatedconst": [
         "nm2159926",
@@ -244,73 +307,1095 @@
         "nm4806887"
       ],
       "viconst": "vi1080544025"
-    },
-    {
-      "name": "The Walking Dead: Dead City",
-      "ttconst": "tt18546730",
-      "rmconst": "rm1480835842",
-      "detail": "Season 3 premieres July 26 on AMC+",
-      "description": "After two seasons of battling it out, Negan and Maggie are finally ... allies? Yep, but even with this hopeful premise, you can expect nonstop walker bashing, rival human factions, and even an episode set in an alternate reality as this odd couple attempts to build the first thriving community in Manhattan since the apocalypse. Jimmi Simpson, Aimee Garcia, Raúl Castillo, and Logan Kim join the cast for Season 3. — Vanessa",
-      "relatedconst": [
-        "nm1659348",
-        "nm0604742",
-        "nm0801051",
-        "nm10594234",
-        "nm0305083",
-        "nm1950004"
-      ],
-      "viconst": "vi830196505"
-    },
-    {
-      "name": "Spider-Man: Brand New Day",
-      "ttconst": "tt22084616",
-      "rmconst": "rm2730414338",
-      "detail": "In theaters July 31",
-      "description": "If you needed proof that <i>Spider-Man: Brand New Day</i> could be the biggest movie of the summer, it's already set the record for the biggest trailer launch ever. <i>Shang-Chi and the Legend of the Ten Rings</i> and “Wonder Man” director Destin Daniel Cretton helms Spider-Man's return, picking up with Peter Parker now forgotten by his friends and fighting crime until a surprising physical evolution threatens his existence. Tom Holland, Zendaya, and Jacob Batalon return alongside MCU alumni Jon Bernthal and Mark Ruffalo, plus (hopefully) Sadie Sink. We're all really hoping those Jean Grey rumors are true!",
-      "relatedconst": [
-        "nm4043618",
-        "nm3918035",
-        "nm8188622",
-        "nm5584750",
-        "nm1256532",
-        "nm0749263"
-      ],
-      "viconst": "vi2378812185"
-    },
-    {
-      "name": "I Want Your Sex",
-      "ttconst": "tt32332915",
-      "rmconst": "rm316909314",
-      "detail": "In theaters July 31",
-      "description": "Director Greg Araki’s first feature in a decade is kind of a sex comedy, kind of a relationship drama about an indecent arrangement that becomes something more as feelings find their way into the mix. Olivia Wilde plays the successful Millennial hot girl ideal, complete with laissez-faire attitudes about sex and a heaping helping of generational judgment, while Cooper Hoffman tries to decide what he wants out of a relationship that already has major red flags since it’s with his literal boss. Be ready for bawdy scenes but also some fantastic acting as Hoffman and Wilde test the limits of love, consent, and art. — Adrienne",
-      "relatedconst": [
-        "nm1312575",
-        "nm11866274",
-        "nm2864252",
-        "nm3681769",
-        "nm4377526",
-        "nm6424616"
-      ],
-      "viconst": "vi2774780697"
-    },
-    {
-      "name": "Batman: Caped Crusader",
-      "ttconst": "tt14681596",
-      "rmconst": "rm1887551490",
-      "detail": "Season 2 premieres July 31 on Prime Video",
-      "description": "This spiritual successor to “Batman: The Animated Series” was a huge success in its first season on Prime Video, and Season 2 promises a mix of heavy hitters (The Riddler and Joker) as well as re-vamped villains from the Dark Knight’s rogues gallery, like Roxy Rocket and a gender-swapped Mad Hatter. There are sure to be more surprise guests when alll 10 episodes drop on July 31. — James",
-      "relatedconst": [
-        "nm0512934",
-        "nm0914327",
-        "nm0000207",
-        "nm4424397",
-        "nm0094636"
-      ],
-      "viconst": "vi2418132505"
     }
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt22084616",
+        "title_text": {
+          "text": "Spider-Man: Brand New Day"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Brand New Day",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man Un Nuevo Día",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man Un Nuevo Día",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man Un Nuevo Día",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Homem-Aranha: Um Novo Dia",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Homem-Aranha: Um Novo Dia",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Человек-паук: Новый день",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Человек-паук: Новый день",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Người Nhện: Khởi Đầu Mới",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O'rgimchak-odam: Yangi kun",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Omul-Păianjen: O nouă zi",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Örümcek-Adam: Yepyeni Bir Gün",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pókember: Vadonatúj nap",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man 4",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Całkiem nowy dzień",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Nový deň",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Un Jour Nouveau",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Un nuevo día",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Zbrusu nový den",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Spider-Man: Καινούργια μέρα",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Untitled Spider-Man Sequel",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zirnekļcilvēks: Jauna diena",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Žmogus-voras: nauja diena",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Людина-павук: Абсолютно новий день",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Өрмекші-адам: Жаңа күн",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Спајдермен: Нови дан",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ადამიანი ობობა: ახალი დღე",
+                "country": {
+                  "id": "GE",
+                  "text": "Georgia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "स्पाइडर-मैन: ब्रैंड न्यू डे",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ສະໄປເດີ-ແມນ ແບນ ນິວ ເດ",
+                "country": {
+                  "id": "LA",
+                  "text": "Laos"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "スパイダーマン：ブランド・ニュー・デイ",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "蜘蛛人：重生日",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "蜘蛛侠：崭新之日",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "蜘蛛俠：英雄重生",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges."
+          }
+        },
+        "primary_image": {
+          "id": "rm749131010",
+          "url": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg",
+          "width": 600,
+          "height": 889
+        },
+        "meter_ranking": {
+          "current_rank": 11,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 3
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 31
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "Spider-Man: Brand New Day"
+        },
+        "runtime": {
+          "seconds": 8700
+        }
+      },
+      {
+        "id": "tt32332915",
+        "title_text": {
+          "text": "I Want Your Sex"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "I Want Your Sex",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Es gribu tikai seksu",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tahan sinult seksi",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Желим секс",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Elliot lands a job for Erika Tracy as her sexual muse."
+          }
+        },
+        "primary_image": {
+          "id": "rm511298818",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTM4YmE0NDQtM2I4ZS00YTcyLTk5ZjEtMjdmOTYzYTYxY2RjXkEyXkFqcGc@._V1_.jpg",
+          "width": 1066,
+          "height": 1353
+        },
+        "meter_ranking": {
+          "current_rank": 59,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 51
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 31
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "I Want Your Sex"
+        },
+        "runtime": {
+          "seconds": 5400
+        }
+      },
+      {
+        "id": "tt14681596",
+        "title_text": {
+          "text": "Batman: Caped Crusader"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Caped Crusader",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman, le justicier masqué",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: A köpenyes lovag",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Cruzado Encapuzado",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: El cruzado enmascarado",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: el enmascarado",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: El enmascarado",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Batman: Mroczny mściciel",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Бэтмен: Крестоносец в плаще",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "バットマン：マントの戦士",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "蝙蝠俠披風戰士",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "After a family tragedy, affluent philanthropist Bruce Wayne transforms into The Batman, where his crusade for justice spawns unforeseen ramifications."
+          }
+        },
+        "primary_image": {
+          "id": "rm2773467906",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjI1Y2NmNDgtZDVmMy00MjcwLTgwNmItMTFmMjcxMWRlYzQwXkEyXkFqcGc@._V1_.jpg",
+          "width": 467,
+          "height": 700
+        },
+        "meter_ranking": {
+          "current_rank": 512,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 341
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.2,
+          "vote_count": 17101
+        },
+        "release_date": {
+          "year": 2024,
+          "month": 8,
+          "day": 1
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Animation"
+              }
+            },
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-14"
+        },
+        "original_title_text": {
+          "text": "Batman: Caped Crusader"
+        },
+        "runtime": {
+          "seconds": 1500
+        }
+      },
       {
         "id": "tt33764258",
         "title_text": {
@@ -596,6 +1681,24 @@
             },
             {
               "node": {
+                "text": "Odiseja",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Odiseja",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Одиссея",
                 "country": {
                   "id": "KZ",
@@ -647,10 +1750,10 @@
             },
             {
               "node": {
-                "text": "Odiseja",
+                "text": "La odisea",
                 "country": {
-                  "id": "LV",
-                  "text": "Latvia"
+                  "id": "UY",
+                  "text": "Uruguay"
                 }
               }
             },
@@ -770,6 +1873,18 @@
             },
             {
               "node": {
+                "text": "الأوديسة",
+                "country": {
+                  "id": "DZ",
+                  "text": "Algeria"
+                },
+                "language": {
+                  "text": "Arabic"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "द ओडिसी",
                 "country": {
                   "id": "IN",
@@ -788,10 +1903,205 @@
                   "text": "Laos"
                 }
               }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way."
+          }
+        },
+        "primary_image": {
+          "id": "rm2748892674",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 960,
+          "height": 1422
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "FLAT",
+            "difference": 0
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.5,
+          "vote_count": 280986
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 7,
+          "day": 17
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Odyssey"
+        },
+        "runtime": {
+          "seconds": 10380
+        }
+      },
+      {
+        "id": "tt18546730",
+        "title_text": {
+          "text": "The Walking Dead: Dead City"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2023
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
             },
             {
               "node": {
-                "text": "オデュッセイア",
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
                 "country": {
                   "id": "JP",
                   "text": "Japan"
@@ -803,13 +2113,103 @@
             },
             {
               "node": {
-                "text": "奥德赛",
+                "text": "The Walking Dead: Dead City",
                 "country": {
-                  "id": "CN",
-                  "text": "China"
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
                 },
                 "language": {
-                  "text": "Mandarin"
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Walking Dead: Dead City",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Elavad surnud: surnud linn",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "І мертві підуть: Мертве місто",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ходячие мертвецы: Мертвый город",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             }
@@ -817,33 +2217,39 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way."
+            "plain_text": "Maggie and Negan travel into a post-apocalyptic Manhattan long ago cut off from the mainland. The city is filled with the dead and denizens who have made New York City their own world."
           }
         },
         "primary_image": {
-          "id": "rm1030735874",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDY2NTkxMWQtMmNkMC00NmNjLWIzMmItNmEyMmRmMDk2YmY2XkEyXkFqcGc@._V1_.jpg",
-          "width": 3158,
-          "height": 5000
+          "id": "rm1363094785",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1382,
+          "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 1,
-          "meter_type": "MOVIE_METER",
+          "current_rank": 196,
+          "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 4
+            "difference": 196
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.0,
+          "vote_count": 35535
         },
         "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 17
+          "year": 2023,
+          "month": 6,
+          "day": 15
         },
         "title_genres": {
           "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
             {
               "genre": {
                 "text": "Adventure"
@@ -856,24 +2262,24 @@
             },
             {
               "genre": {
-                "text": "Fantasy"
+                "text": "Horror"
               }
             },
             {
               "genre": {
-                "text": "Romance"
+                "text": "Thriller"
               }
             }
           ]
         },
         "certificate": {
-          "rating": "R"
+          "rating": "TV-MA"
         },
         "original_title_text": {
-          "text": "The Odyssey"
+          "text": "The Walking Dead: Dead City"
         },
         "runtime": {
-          "seconds": 10320
+          "seconds": 2760
         }
       },
       {
@@ -911,6 +2317,15 @@
               "node": {
                 "text": "Lucky",
                 "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
                   "id": "CA",
                   "text": "Canada"
                 },
@@ -925,6 +2340,24 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
                 }
               }
             },
@@ -967,6 +2400,15 @@
                 "country": {
                   "id": "IT",
                   "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lucky",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -1053,16 +2495,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 76,
+          "current_rank": 9,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 26
+            "change_direction": "DOWN",
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 1049
+          "vote_count": 3364
         },
         "release_date": {
           "year": 2026,
@@ -1139,6 +2581,15 @@
               "node": {
                 "text": "The Hawk",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -1165,6 +2616,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Hawk",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
                 }
               }
             },
@@ -1223,6 +2683,15 @@
               "node": {
                 "text": "El Halcón",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Halcón",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -1257,6 +2726,24 @@
             },
             {
               "node": {
+                "text": "Јастреб",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ястреб",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Яструб",
                 "country": {
                   "id": "UA",
@@ -1278,16 +2765,16 @@
           "height": 1500
         },
         "meter_ranking": {
-          "current_rank": 180,
+          "current_rank": 2,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 124
+            "change_direction": "FLAT",
+            "difference": 0
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.1,
-          "vote_count": 537
+          "aggregate_rating": 6.4,
+          "vote_count": 6671
         },
         "release_date": {
           "year": 2026,
@@ -1313,6 +2800,9 @@
         },
         "original_title_text": {
           "text": "The Hawk"
+        },
+        "runtime": {
+          "seconds": 1800
         }
       },
       {
@@ -1328,6 +2818,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Heartstopper Forever",
@@ -1530,6 +3029,18 @@
               "node": {
                 "text": "Heartstopper Forever",
                 "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper Forever",
+                "country": {
                   "id": "PL",
                   "text": "Poland"
                 }
@@ -1645,6 +3156,30 @@
             },
             {
               "node": {
+                "text": "Heartstopper ハートストッパー: 僕たちのフォーエバー",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Heartstopper: Pour toujours",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Heartstopper: Sonsuza Dek",
                 "country": {
                   "id": "TR",
@@ -1675,6 +3210,15 @@
             },
             {
               "node": {
+                "text": "Trái tim ngừng nhịp: Mãi yêu",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Коли завмирає серце: Назавжди",
                 "country": {
                   "id": "UA",
@@ -1688,6 +3232,15 @@
                 "country": {
                   "id": "RS",
                   "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Трепет сердца навсегда",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             },
@@ -1762,15 +3315,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 928,
+          "current_rank": 132,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 353
+            "change_direction": "DOWN",
+            "difference": 102
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.0,
+          "vote_count": 5904
         },
         "release_date": {
           "year": 2026,
@@ -1791,8 +3345,14 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-MA"
+        },
         "original_title_text": {
           "text": "Heartstopper Forever"
+        },
+        "runtime": {
+          "seconds": 6840
         }
       },
       {
@@ -1924,6 +3484,15 @@
             },
             {
               "node": {
+                "text": "Los descendientes: Viaje al mundo oscuro",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Następcy: Klątwa Krainy Czarów",
                 "country": {
                   "id": "PL",
@@ -1937,6 +3506,15 @@
                 "country": {
                   "id": "PT",
                   "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Наследники: Злодейская Страна Чудес",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             }
@@ -1954,16 +3532,16 @@
           "height": 1875
         },
         "meter_ranking": {
-          "current_rank": 385,
+          "current_rank": 50,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 68
+            "difference": 37
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.3,
-          "vote_count": 155
+          "aggregate_rating": 5.4,
+          "vote_count": 1901
         },
         "release_date": {
           "year": 2026,
@@ -2346,6 +3924,15 @@
             },
             {
               "node": {
+                "text": "Силос",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Таємниця бункера",
                 "country": {
                   "id": "UA",
@@ -2404,12 +3991,12 @@
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 1
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 220209
+          "vote_count": 222960
         },
         "release_date": {
           "year": 2023,
@@ -2706,6 +4293,15 @@
             },
             {
               "node": {
+                "text": "Dead Burn",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Evil Dead: en llamas",
                 "country": {
                   "id": "MX",
@@ -2919,16 +4515,16 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 5,
+          "current_rank": 21,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 31
+            "change_direction": "DOWN",
+            "difference": 12
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.7,
-          "vote_count": 13998
+          "vote_count": 20874
         },
         "release_date": {
           "year": 2026,
@@ -2939,17 +4535,7 @@
           "genres": [
             {
               "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
                 "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
               }
             }
           ]
@@ -2995,6 +4581,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Little House on the Prairie",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
                 }
               }
             },
@@ -3079,6 +4674,15 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La casa de la pradera",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -3177,6 +4781,11 @@
             },
             {
               "node": {
+                "text": "Little House on the Prairie Reboot"
+              }
+            },
+            {
+              "node": {
                 "text": "Unsere kleine Farm",
                 "country": {
                   "id": "DE",
@@ -3216,16 +4825,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 2,
+          "current_rank": 14,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 154
+            "change_direction": "DOWN",
+            "difference": 11
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 3427
+          "aggregate_rating": 7.3,
+          "vote_count": 6029
         },
         "release_date": {
           "year": 2026,
@@ -3763,16 +5372,16 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 6,
+          "current_rank": 27,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 25
+            "change_direction": "DOWN",
+            "difference": 17
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.7,
-          "vote_count": 6857
+          "aggregate_rating": 5.8,
+          "vote_count": 11016
         },
         "release_date": {
           "year": 2026,
@@ -4255,6 +5864,18 @@
             },
             {
               "node": {
+                "text": "Minionim Oo'Miflatzot",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Minionki i straszydła",
                 "country": {
                   "id": "PL",
@@ -4324,18 +5945,6 @@
                   "text": "Colombia"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Minions 3: Yellow Movement",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
             }
           ]
         },
@@ -4351,16 +5960,16 @@
           "height": 5000
         },
         "meter_ranking": {
-          "current_rank": 15,
+          "current_rank": 53,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 1
+            "difference": 25
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.5,
-          "vote_count": 12823
+          "vote_count": 17113
         },
         "release_date": {
           "year": 2026,
@@ -4441,6 +6050,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Elle",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
                 }
               }
             },
@@ -4605,16 +6223,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 11,
+          "current_rank": 53,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 3
+            "difference": 30
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.9,
-          "vote_count": 4803
+          "vote_count": 6462
         },
         "release_date": {
           "year": 2026,
@@ -4927,16 +6545,16 @@
           "height": 1610
         },
         "meter_ranking": {
-          "current_rank": 21,
+          "current_rank": 49,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 4
+            "difference": 11
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.7,
-          "vote_count": 55625
+          "vote_count": 56468
         },
         "release_date": {
           "year": 2024,
@@ -5213,16 +6831,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 17,
+          "current_rank": 80,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 8
+            "difference": 44
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.8,
-          "vote_count": 19119
+          "aggregate_rating": 5.7,
+          "vote_count": 24479
         },
         "release_date": {
           "year": 2026,
@@ -5304,6 +6922,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Human Vapor",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
                 }
               }
             },
@@ -5425,6 +7052,15 @@
               "node": {
                 "text": "El Hombre Vapor",
                 "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El Hombre Vapor",
+                "country": {
                   "id": "MX",
                   "text": "Mexico"
                 }
@@ -5513,16 +7149,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 79,
+          "current_rank": 442,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 43
+            "difference": 225
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 1438
+          "vote_count": 1882
         },
         "release_date": {
           "year": 2026,
@@ -5702,10 +7338,46 @@
             },
             {
               "node": {
+                "text": "Стюарт Блум не смог спасти вселенную",
+                "country": {
+                  "id": "KG",
+                  "text": "Kyrgyzstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Стюарт Блум не смог спасти вселенную",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Stuart az univerzum ellen",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Stuart Cứu Vũ Trụ Bất Thành",
                 "country": {
                   "id": "VN",
                   "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Stuart Não Consegue Salvar o Universo",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
                 }
               }
             },
@@ -5767,7 +7439,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts--and apparently fails--to save the universe, staying true to his unlucky nature."
+            "plain_text": "Comic book store owner Stuart Bloom, from The Big Bang Theory (2007), returns in a new series where he attempts—and apparently fails—to save the universe, staying true to his unlucky nature."
           }
         },
         "primary_image": {
@@ -5777,15 +7449,16 @@
           "height": 1920
         },
         "meter_ranking": {
-          "current_rank": 319,
+          "current_rank": 8,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 30
+            "change_direction": "UP",
+            "difference": 153
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.0,
+          "vote_count": 1905
         },
         "release_date": {
           "year": 2026,
@@ -5811,11 +7484,14 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-MA"
+        },
         "original_title_text": {
           "text": "Stuart Fails to Save the Universe"
         },
         "runtime": {
-          "seconds": 3600
+          "seconds": 1800
         }
       },
       {
@@ -5940,8 +7616,44 @@
               "node": {
                 "text": "Dink",
                 "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dink",
+                "country": {
                   "id": "PL",
                   "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les fous du pickleball",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dink - A Última Chance",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dink: Mago del pickleball",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
                 }
               }
             },
@@ -5951,6 +7663,15 @@
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Динк",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             }
@@ -5968,15 +7689,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 503,
+          "current_rank": 9,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 35
+            "difference": 452
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.1,
+          "vote_count": 3809
         },
         "release_date": {
           "year": 2026,
@@ -5988,6 +7710,11 @@
             {
               "genre": {
                 "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
               }
             },
             {
@@ -6006,1365 +7733,213 @@
         "runtime": {
           "seconds": 6120
         }
-      },
-      {
-        "id": "tt18546730",
-        "title_text": {
-          "text": "The Walking Dead: Dead City"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2023
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Walking Dead: Dead City",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Elavad surnud: surnud linn",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "І мертві підуть: Мертве місто",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ходячие мертвецы: Мертвый город",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Maggie and Negan travel into a post-apocalyptic Manhattan long ago cut off from the mainland. The city is filled with the dead and denizens who have made New York City their own world."
-          }
-        },
-        "primary_image": {
-          "id": "rm1363094785",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWI0ZjgxYWYtODZmNi00ZWI0LWI4MmEtZDBmOTNmMTRlMjY0XkEyXkFqcGc@._V1_.jpg",
-          "width": 1382,
-          "height": 2048
-        },
-        "meter_ranking": {
-          "current_rank": 338,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 106
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.0,
-          "vote_count": 35228
-        },
-        "release_date": {
-          "year": 2023,
-          "month": 6,
-          "day": 15
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "The Walking Dead: Dead City"
-        },
-        "runtime": {
-          "seconds": 2760
-        }
-      },
-      {
-        "id": "tt22084616",
-        "title_text": {
-          "text": "Spider-Man: Brand New Day"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Brand New Day",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man Un Nuevo Día",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man Un Nuevo Día",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man Un Nuevo Día",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Homem-Aranha: Um Novo Dia",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Homem-Aranha: Um Novo Dia",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Человек-паук: Новый день",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Человек-паук: Новый день",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Người Nhện: Khởi Đầu Mới",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O'rgimchak-odam: Yangi kun",
-                "country": {
-                  "id": "UZ",
-                  "text": "Uzbekistan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Omul-Păianjen: O nouă zi",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Örümcek-Adam: Yepyeni Bir Gün",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Pókember: Vadonatúj nap",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man 4",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Całkiem nowy dzień",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Nový deň",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Un Jour Nouveau",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Un nuevo día",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Zbrusu nový den",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Spider-Man: Καινούργια μέρα",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Untitled Spider-Man Sequel",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Zirnekļcilvēks: Jauna diena",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Žmogus-voras: nauja diena",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Людина-павук: Абсолютно новий день",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Өрмекші-адам: Жаңа күн",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Спајдермен: Нови дан",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "स्पाइडर-मैन: ब्रैंड न्यू डे",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "スパイダーマン：ブランド・ニュー・デイ",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "蜘蛛人：重生日",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "蜘蛛俠：英雄重生",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges."
-          }
-        },
-        "primary_image": {
-          "id": "rm749131010",
-          "url": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg",
-          "width": 600,
-          "height": 889
-        },
-        "meter_ranking": {
-          "current_rank": 20,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 4
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 31
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "Spider-Man: Brand New Day"
-        },
-        "runtime": {
-          "seconds": 8700
-        }
-      },
-      {
-        "id": "tt32332915",
-        "title_text": {
-          "text": "I Want Your Sex"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "I Want Your Sex",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Es gribu tikai seksu",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tahan sinult seksi",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Elliot lands a job for Erika Tracy as her sexual muse."
-          }
-        },
-        "primary_image": {
-          "id": "rm511298818",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTM4YmE0NDQtM2I4ZS00YTcyLTk5ZjEtMjdmOTYzYTYxY2RjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1066,
-          "height": 1353
-        },
-        "meter_ranking": {
-          "current_rank": 105,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 14
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 7,
-          "day": 31
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "I Want Your Sex"
-        },
-        "runtime": {
-          "seconds": 5400
-        }
-      },
-      {
-        "id": "tt14681596",
-        "title_text": {
-          "text": "Batman: Caped Crusader"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2024
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Caped Crusader",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman, le justicier masqué",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: A köpenyes lovag",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Cruzado Encapuzado",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: El cruzado enmascarado",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: el enmascarado",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: El enmascarado",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Batman: Mroczny mściciel",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Бэтмен: Крестоносец в плаще",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "バットマン：マントの戦士",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "蝙蝠俠披風戰士",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "After a family tragedy, affluent philanthropist Bruce Wayne transforms into The Batman, where his crusade for justice spawns unforeseen ramifications."
-          }
-        },
-        "primary_image": {
-          "id": "rm2773467906",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjI1Y2NmNDgtZDVmMy00MjcwLTgwNmItMTFmMjcxMWRlYzQwXkEyXkFqcGc@._V1_.jpg",
-          "width": 467,
-          "height": 700
-        },
-        "meter_ranking": {
-          "current_rank": 792,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 155
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 16951
-        },
-        "release_date": {
-          "year": 2024,
-          "month": 8,
-          "day": 1
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Animation"
-              }
-            },
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-14"
-        },
-        "original_title_text": {
-          "text": "Batman: Caped Crusader"
-        },
-        "runtime": {
-          "seconds": 1500
-        }
       }
     ],
     "names": [
+      {
+        "id": "nm4043618",
+        "name_text": {
+          "text": "Tom Holland"
+        },
+        "primary_image": {
+          "id": "rm662558465",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzU3NWRhMjgtNmNmMS00YjQ1LWIyYzgtYzdkYjRjNWEzM2E3XkEyXkFqcGc@._V1_.jpg",
+          "width": 3648,
+          "height": 5472
+        }
+      },
+      {
+        "id": "nm3918035",
+        "name_text": {
+          "text": "Zendaya"
+        },
+        "primary_image": {
+          "id": "rm1855008256",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjM5N2U3MzQtZWU5My00YzE0LThmZTgtYjE1NDJjNmIzZmIxXkEyXkFqcGc@._V1_.jpg",
+          "width": 780,
+          "height": 1040
+        }
+      },
+      {
+        "id": "nm8188622",
+        "name_text": {
+          "text": "Jacob Batalon"
+        },
+        "primary_image": {
+          "id": "rm506911489",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjU5ZjQwMWEtOWM5OS00ODJmLThiZTMtODhkNTc2MWI3MWZjXkEyXkFqcGc@._V1_.jpg",
+          "width": 3725,
+          "height": 2507
+        }
+      },
+      {
+        "id": "nm5584750",
+        "name_text": {
+          "text": "Sadie Sink"
+        },
+        "primary_image": {
+          "id": "rm3602679553",
+          "url": "https://m.media-amazon.com/images/M/MV5BODI0ZTRlM2MtNDYxNy00MWFhLWI4ODItZjllN2RlN2I5NmY4XkEyXkFqcGc@._V1_.jpg",
+          "width": 2667,
+          "height": 4000
+        }
+      },
+      {
+        "id": "nm1256532",
+        "name_text": {
+          "text": "Jon Bernthal"
+        },
+        "primary_image": {
+          "id": "rm558555904",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTcwNzA5MDg0OV5BMl5BanBnXkFtZTcwMTU2NjE0Nw@@._V1_.jpg",
+          "width": 640,
+          "height": 873
+        }
+      },
+      {
+        "id": "nm0749263",
+        "name_text": {
+          "text": "Mark Ruffalo"
+        },
+        "primary_image": {
+          "id": "rm3824985089",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2JiYzA0ZGItNmFhYy00MjIyLWEwN2QtMzRmNDUyNjNiZjBiXkEyXkFqcGc@._V1_.jpg",
+          "width": 4912,
+          "height": 7360
+        }
+      },
+      {
+        "id": "nm1312575",
+        "name_text": {
+          "text": "Olivia Wilde"
+        },
+        "primary_image": {
+          "id": "rm3975188992",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTc1NzgwOV5BMl5BanBnXkFtZTcwMTcyMjIzMQ@@._V1_.jpg",
+          "width": 450,
+          "height": 563
+        }
+      },
+      {
+        "id": "nm11866274",
+        "name_text": {
+          "text": "Cooper Hoffman"
+        },
+        "primary_image": {
+          "id": "rm1471964161",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjJlYTVkNGYtMjZmMS00MzNlLWI5YmEtYjcwYWQ1YjcyZmE1XkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        }
+      },
+      {
+        "id": "nm2864252",
+        "name_text": {
+          "text": "Mason Gooding"
+        },
+        "primary_image": {
+          "id": "rm3813109505",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmQ0OWZmMDgtM2VhMS00MmEzLTk0Y2UtOGU2NDUwOGZhMmQ5XkEyXkFqcGc@._V1_CR102,1,419,629_.jpg",
+          "width": 419,
+          "height": 629
+        }
+      },
+      {
+        "id": "nm3681769",
+        "name_text": {
+          "text": "Chase Sui Wonders"
+        },
+        "primary_image": {
+          "id": "rm1843657473",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzQzZDViNjgtOWNjYy00MmJjLTlhMWMtZjBkZDg4ODlmMjViXkEyXkFqcGc@._V1_.jpg",
+          "width": 1113,
+          "height": 1790
+        }
+      },
+      {
+        "id": "nm4377526",
+        "name_text": {
+          "text": "Daveed Diggs"
+        },
+        "primary_image": {
+          "id": "rm2384663296",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzA2ODI1MV5BMl5BanBnXkFtZTgwMzg1OTg4ODE@._V1_.jpg",
+          "width": 625,
+          "height": 596
+        }
+      },
+      {
+        "id": "nm6424616",
+        "name_text": {
+          "text": "Charli XCX"
+        },
+        "primary_image": {
+          "id": "rm278032129",
+          "url": "https://m.media-amazon.com/images/M/MV5BNWNjN2QyMDItZDBlNS00OWE2LTk0MWItY2JkYmQxYTA0Mjc2XkEyXkFqcGc@._V1_.jpg",
+          "width": 3864,
+          "height": 5152
+        }
+      },
+      {
+        "id": "nm0512934",
+        "name_text": {
+          "text": "Hamish Linklater"
+        },
+        "primary_image": {
+          "id": "rm1898504960",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjEwNzE1Mjc1MV5BMl5BanBnXkFtZTgwNTgyMjgyNzE@._V1_.jpg",
+          "width": 1683,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0914327",
+        "name_text": {
+          "text": "Jason Watkins"
+        },
+        "primary_image": {
+          "id": "rm3550333698",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzM5NjA2MjAtNmI2Zi00Mjc4LWJiNGUtOTRhN2I2YzQ0OGU3XkEyXkFqcGc@._V1_.jpg",
+          "width": 960,
+          "height": 1200
+        }
+      },
+      {
+        "id": "nm0000207",
+        "name_text": {
+          "text": "Christina Ricci"
+        },
+        "primary_image": {
+          "id": "rm1744941312",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjUzMzk5NzcyNV5BMl5BanBnXkFtZTcwNzQ1NjkzNw@@._V1_.jpg",
+          "width": 1361,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm4424397",
+        "name_text": {
+          "text": "Krystal Joy Brown"
+        },
+        "primary_image": {
+          "id": "rm1621556225",
+          "url": "https://m.media-amazon.com/images/M/MV5BY2FiODMxM2QtMGVmYS00ZjNlLWIxZjgtMjk4ZmUyZmU5MjNhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1932,
+          "height": 2576
+        }
+      },
+      {
+        "id": "nm0094636",
+        "name_text": {
+          "text": "Michelle C. Bonilla"
+        },
+        "primary_image": {
+          "id": "rm529256706",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTljMWVmMzItOTNhNy00NGM2LWJkM2YtYjZiMzM4M2FlZGFiXkEyXkFqcGc@._V1_CR155,1,1853,2780_.jpg",
+          "width": 1853,
+          "height": 2780
+        }
+      },
       {
         "id": "nm0000354",
         "name_text": {
@@ -7435,6 +8010,78 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTQ4MDY2Nl5BMl5BanBnXkFtZTgwNDk1MTEyMDE@._V1_.jpg",
           "width": 1360,
           "height": 2048
+        }
+      },
+      {
+        "id": "nm1659348",
+        "name_text": {
+          "text": "Lauren Cohan"
+        },
+        "primary_image": {
+          "id": "rm1984428288",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MzgxOF5BMl5BanBnXkFtZTgwMzM5NDg1MzE@._V1_.jpg",
+          "width": 337,
+          "height": 427
+        }
+      },
+      {
+        "id": "nm0604742",
+        "name_text": {
+          "text": "Jeffrey Dean Morgan"
+        },
+        "primary_image": {
+          "id": "rm1803165185",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2IzMjM1MDktMmE0ZS00NjBkLWFkYTktOGNjYTc4MTI5MjVkXkEyXkFqcGc@._V1_.jpg",
+          "width": 3396,
+          "height": 4500
+        }
+      },
+      {
+        "id": "nm0801051",
+        "name_text": {
+          "text": "Jimmi Simpson"
+        },
+        "primary_image": {
+          "id": "rm3900408578",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjllNzcwMmYtOTAyZC00YzI1LTkwNjUtOGExNDI4YzEwYzY3XkEyXkFqcGc@._V1_CR227,68,520,780_.jpg",
+          "width": 520,
+          "height": 780
+        }
+      },
+      {
+        "id": "nm10594234",
+        "name_text": {
+          "text": "Logan Kim"
+        },
+        "primary_image": {
+          "id": "rm1030305537",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTBiNmQ3YzAtNzFlNy00ODRmLWEzMjMtNGI4YTNjMGZjNWQxXkEyXkFqcGc@._V1_.jpg",
+          "width": 4024,
+          "height": 4024
+        }
+      },
+      {
+        "id": "nm0305083",
+        "name_text": {
+          "text": "Aimee Garcia"
+        },
+        "primary_image": {
+          "id": "rm2173734146",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzM0OWNhMDYtOGNjYi00NjNlLTg2M2ItMjQzN2NkNTRhNDYyXkEyXkFqcGc@._V1_CR21,0,395,593_.jpg",
+          "width": 395,
+          "height": 593
+        }
+      },
+      {
+        "id": "nm1950004",
+        "name_text": {
+          "text": "Raúl Castillo"
+        },
+        "primary_image": {
+          "id": "rm383201281",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDI4NzdlNmMtYTcxNi00YThlLTg4MWMtOWU5ZGZjY2ViNzZhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1585,
+          "height": 1983
         }
       },
       {
@@ -7611,10 +8258,10 @@
           "text": "Darragh Hand"
         },
         "primary_image": {
-          "id": "rm261526018",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTVmMWQyMDgtZmZhYy00NDViLWFiYjYtOWUxNWNkZTA3NjI4XkEyXkFqcGc@._V1_.jpg",
+          "id": "rm227971586",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTY4Yzc3ZDItZDc0OC00MGQxLTkyMTctNjQ2OTU0ZmJiZTIxXkEyXkFqcGc@._V1_.jpg",
           "width": 1206,
-          "height": 1484
+          "height": 1485
         }
       },
       {
@@ -8372,288 +9019,39 @@
           "width": 544,
           "height": 741
         }
-      },
-      {
-        "id": "nm1659348",
-        "name_text": {
-          "text": "Lauren Cohan"
-        },
-        "primary_image": {
-          "id": "rm1984428288",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjA1MDg0MzgxOF5BMl5BanBnXkFtZTgwMzM5NDg1MzE@._V1_.jpg",
-          "width": 337,
-          "height": 427
-        }
-      },
-      {
-        "id": "nm0604742",
-        "name_text": {
-          "text": "Jeffrey Dean Morgan"
-        },
-        "primary_image": {
-          "id": "rm1803165185",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2IzMjM1MDktMmE0ZS00NjBkLWFkYTktOGNjYTc4MTI5MjVkXkEyXkFqcGc@._V1_.jpg",
-          "width": 3396,
-          "height": 4500
-        }
-      },
-      {
-        "id": "nm0801051",
-        "name_text": {
-          "text": "Jimmi Simpson"
-        },
-        "primary_image": {
-          "id": "rm3900408578",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjllNzcwMmYtOTAyZC00YzI1LTkwNjUtOGExNDI4YzEwYzY3XkEyXkFqcGc@._V1_CR227,68,520,780_.jpg",
-          "width": 520,
-          "height": 780
-        }
-      },
-      {
-        "id": "nm10594234",
-        "name_text": {
-          "text": "Logan Kim"
-        },
-        "primary_image": {
-          "id": "rm1030305537",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTBiNmQ3YzAtNzFlNy00ODRmLWEzMjMtNGI4YTNjMGZjNWQxXkEyXkFqcGc@._V1_.jpg",
-          "width": 4024,
-          "height": 4024
-        }
-      },
-      {
-        "id": "nm0305083",
-        "name_text": {
-          "text": "Aimee Garcia"
-        },
-        "primary_image": {
-          "id": "rm2173734146",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzM0OWNhMDYtOGNjYi00NjNlLTg2M2ItMjQzN2NkNTRhNDYyXkEyXkFqcGc@._V1_CR21,0,395,593_.jpg",
-          "width": 395,
-          "height": 593
-        }
-      },
-      {
-        "id": "nm1950004",
-        "name_text": {
-          "text": "Raúl Castillo"
-        },
-        "primary_image": {
-          "id": "rm383201281",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDI4NzdlNmMtYTcxNi00YThlLTg4MWMtOWU5ZGZjY2ViNzZhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1585,
-          "height": 1983
-        }
-      },
-      {
-        "id": "nm4043618",
-        "name_text": {
-          "text": "Tom Holland"
-        },
-        "primary_image": {
-          "id": "rm662558465",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzU3NWRhMjgtNmNmMS00YjQ1LWIyYzgtYzdkYjRjNWEzM2E3XkEyXkFqcGc@._V1_.jpg",
-          "width": 3648,
-          "height": 5472
-        }
-      },
-      {
-        "id": "nm3918035",
-        "name_text": {
-          "text": "Zendaya"
-        },
-        "primary_image": {
-          "id": "rm1855008256",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjM5N2U3MzQtZWU5My00YzE0LThmZTgtYjE1NDJjNmIzZmIxXkEyXkFqcGc@._V1_.jpg",
-          "width": 780,
-          "height": 1040
-        }
-      },
-      {
-        "id": "nm8188622",
-        "name_text": {
-          "text": "Jacob Batalon"
-        },
-        "primary_image": {
-          "id": "rm506911489",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjU5ZjQwMWEtOWM5OS00ODJmLThiZTMtODhkNTc2MWI3MWZjXkEyXkFqcGc@._V1_.jpg",
-          "width": 3725,
-          "height": 2507
-        }
-      },
-      {
-        "id": "nm5584750",
-        "name_text": {
-          "text": "Sadie Sink"
-        },
-        "primary_image": {
-          "id": "rm3602679553",
-          "url": "https://m.media-amazon.com/images/M/MV5BODI0ZTRlM2MtNDYxNy00MWFhLWI4ODItZjllN2RlN2I5NmY4XkEyXkFqcGc@._V1_.jpg",
-          "width": 2667,
-          "height": 4000
-        }
-      },
-      {
-        "id": "nm1256532",
-        "name_text": {
-          "text": "Jon Bernthal"
-        },
-        "primary_image": {
-          "id": "rm558555904",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTcwNzA5MDg0OV5BMl5BanBnXkFtZTcwMTU2NjE0Nw@@._V1_.jpg",
-          "width": 640,
-          "height": 873
-        }
-      },
-      {
-        "id": "nm0749263",
-        "name_text": {
-          "text": "Mark Ruffalo"
-        },
-        "primary_image": {
-          "id": "rm3824985089",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2JiYzA0ZGItNmFhYy00MjIyLWEwN2QtMzRmNDUyNjNiZjBiXkEyXkFqcGc@._V1_.jpg",
-          "width": 4912,
-          "height": 7360
-        }
-      },
-      {
-        "id": "nm1312575",
-        "name_text": {
-          "text": "Olivia Wilde"
-        },
-        "primary_image": {
-          "id": "rm3975188992",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTc1NzgwOV5BMl5BanBnXkFtZTcwMTcyMjIzMQ@@._V1_.jpg",
-          "width": 450,
-          "height": 563
-        }
-      },
-      {
-        "id": "nm11866274",
-        "name_text": {
-          "text": "Cooper Hoffman"
-        },
-        "primary_image": {
-          "id": "rm1471964161",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjJlYTVkNGYtMjZmMS00MzNlLWI5YmEtYjcwYWQ1YjcyZmE1XkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        }
-      },
-      {
-        "id": "nm2864252",
-        "name_text": {
-          "text": "Mason Gooding"
-        },
-        "primary_image": {
-          "id": "rm3813109505",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmQ0OWZmMDgtM2VhMS00MmEzLTk0Y2UtOGU2NDUwOGZhMmQ5XkEyXkFqcGc@._V1_CR102,1,419,629_.jpg",
-          "width": 419,
-          "height": 629
-        }
-      },
-      {
-        "id": "nm3681769",
-        "name_text": {
-          "text": "Chase Sui Wonders"
-        },
-        "primary_image": {
-          "id": "rm1843657473",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzQzZDViNjgtOWNjYy00MmJjLTlhMWMtZjBkZDg4ODlmMjViXkEyXkFqcGc@._V1_.jpg",
-          "width": 1113,
-          "height": 1790
-        }
-      },
-      {
-        "id": "nm4377526",
-        "name_text": {
-          "text": "Daveed Diggs"
-        },
-        "primary_image": {
-          "id": "rm2384663296",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY5NzA2ODI1MV5BMl5BanBnXkFtZTgwMzg1OTg4ODE@._V1_.jpg",
-          "width": 625,
-          "height": 596
-        }
-      },
-      {
-        "id": "nm6424616",
-        "name_text": {
-          "text": "Charli XCX"
-        },
-        "primary_image": {
-          "id": "rm278032129",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWNjN2QyMDItZDBlNS00OWE2LTk0MWItY2JkYmQxYTA0Mjc2XkEyXkFqcGc@._V1_.jpg",
-          "width": 3864,
-          "height": 5152
-        }
-      },
-      {
-        "id": "nm0512934",
-        "name_text": {
-          "text": "Hamish Linklater"
-        },
-        "primary_image": {
-          "id": "rm1898504960",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjEwNzE1Mjc1MV5BMl5BanBnXkFtZTgwNTgyMjgyNzE@._V1_.jpg",
-          "width": 1683,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0914327",
-        "name_text": {
-          "text": "Jason Watkins"
-        },
-        "primary_image": {
-          "id": "rm3550333698",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzM5NjA2MjAtNmI2Zi00Mjc4LWJiNGUtOTRhN2I2YzQ0OGU3XkEyXkFqcGc@._V1_.jpg",
-          "width": 960,
-          "height": 1200
-        }
-      },
-      {
-        "id": "nm0000207",
-        "name_text": {
-          "text": "Christina Ricci"
-        },
-        "primary_image": {
-          "id": "rm1744941312",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjUzMzk5NzcyNV5BMl5BanBnXkFtZTcwNzQ1NjkzNw@@._V1_.jpg",
-          "width": 1361,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm4424397",
-        "name_text": {
-          "text": "Krystal Joy Brown"
-        },
-        "primary_image": {
-          "id": "rm1621556225",
-          "url": "https://m.media-amazon.com/images/M/MV5BY2FiODMxM2QtMGVmYS00ZjNlLWIxZjgtMjk4ZmUyZmU5MjNhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1932,
-          "height": 2576
-        }
-      },
-      {
-        "id": "nm0094636",
-        "name_text": {
-          "text": "Michelle C. Bonilla"
-        },
-        "primary_image": {
-          "id": "rm529256706",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTljMWVmMzItOTNhNy00NGM2LWJkM2YtYjZiMzM4M2FlZGFiXkEyXkFqcGc@._V1_CR155,1,1853,2780_.jpg",
-          "width": 1853,
-          "height": 2780
-        }
       }
     ],
     "videos": [],
     "images": [
       {
-        "id": "rm3342378754"
+        "id": "rm2730414338",
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQyYWM3ZWEtNWUxNi00MWI2LWIwYzktYWRkNzQ3Y2M2MGUwXkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 838
+      },
+      {
+        "id": "rm316909314",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3YzM0ZjEtMjZhMy00MjUxLTg3OGQtOGVhYjAxYjg3ZTFkXkEyXkFqcGc@._V1_.jpg",
+        "width": 2560,
+        "height": 1440
+      },
+      {
+        "id": "rm1887551490",
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQxNTYxOTEtMTcyMi00NGFiLThmNzktNWMzYTM1YTcyZTMzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 1688
+      },
+      {
+        "id": "rm1092470274",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2VhNTYzZDAtZmJjOS00MzQ5LTljOTgtNzliYTNmMWE2ODhmXkEyXkFqcGc@._V1_.jpg",
+        "width": 2946,
+        "height": 2049
+      },
+      {
+        "id": "rm1480835842",
+        "url": "https://m.media-amazon.com/images/M/MV5BYWQ4NTcxYTAtODA1ZC00YTRmLTlmNWQtYTJkNjliMGE5NjRkXkEyXkFqcGc@._V1_.jpg",
+        "width": 4720,
+        "height": 3372
       },
       {
         "id": "rm3155615234",
@@ -8744,30 +9142,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BMWNmMzRiMWUtYjY0YS00NWI3LTkxNGItZDk5ZjQ1NmJhODQ1XkEyXkFqcGc@._V1_.jpg",
         "width": 4992,
         "height": 3328
-      },
-      {
-        "id": "rm1480835842",
-        "url": "https://m.media-amazon.com/images/M/MV5BYWQ4NTcxYTAtODA1ZC00YTRmLTlmNWQtYTJkNjliMGE5NjRkXkEyXkFqcGc@._V1_.jpg",
-        "width": 4720,
-        "height": 3372
-      },
-      {
-        "id": "rm2730414338",
-        "url": "https://m.media-amazon.com/images/M/MV5BYzQyYWM3ZWEtNWUxNi00MWI2LWIwYzktYWRkNzQ3Y2M2MGUwXkEyXkFqcGc@._V1_.jpg",
-        "width": 2000,
-        "height": 838
-      },
-      {
-        "id": "rm316909314",
-        "url": "https://m.media-amazon.com/images/M/MV5BMTM3YzM0ZjEtMjZhMy00MjUxLTg3OGQtOGVhYjAxYjg3ZTFkXkEyXkFqcGc@._V1_.jpg",
-        "width": 2560,
-        "height": 1440
-      },
-      {
-        "id": "rm1887551490",
-        "url": "https://m.media-amazon.com/images/M/MV5BMmQxNTYxOTEtMTcyMi00NGFiLThmNzktNWMzYTM1YTcyZTMzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 1688
       }
     ]
   }
