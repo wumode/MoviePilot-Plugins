@@ -1,68 +1,11 @@
 {
-  "updated_at": "2026-08-02 22:00:05",
+  "updated_at": "2026-08-13 06:54:19",
   "entries": [
-    {
-      "name": "Ted Lasso",
-      "ttconst": "tt10986410",
-      "rmconst": "rm645315842",
-      "detail": "Season 4 premieres August 5 on Apple TV+",
-      "description": "We all knew Ted would return to Richmond. The beloved coach is done with the Premiere League, however; instead, he will guide the newly forced AFC Richmond women’s soccer team through their inaugural season. Almost all the original cast will return in some form, but we’ve successfully dodged most spoilers as to who will fit neatly into the narrative this year. We do know that Season 5 is quietly in the works, but it is not yet confirmed by Apple TV. — Arno",
-      "relatedconst": [
-        "nm0837177",
-        "nm1821446",
-        "nm0402360",
-        "nm1017334",
-        "nm2073429",
-        "nm0842596"
-      ],
-      "viconst": "vi806538009"
-    },
-    {
-      "name": "My Life with the Walter Boys",
-      "ttconst": "tt8323628",
-      "rmconst": "rm4208772866",
-      "detail": "Season 3 premieres August 6 on Netflix",
-      "description": "The hit Netflix drama based on the beloved YA books returns to Silver Falls this August, picking up after the Alex-Cole-Jackie love triangle bombshell and a family crisis rocked the Walters. Expect a lot more drama this season as Alex and Cole channel their competitive streaks into new adrenaline-driven passions, and the life Jackie left behind becomes harder to forget when a childhood friend arrives from New York. If this season ends on a cliffhanger, no worries, as the series has already been renewed for a fourth season, which will air sometime in 2027. — Vanessa",
-      "relatedconst": [
-        "nm9058135",
-        "nm10840325",
-        "nm9841773"
-      ],
-      "viconst": "vi4092381209"
-    },
-    {
-      "name": "One Night Only",
-      "ttconst": "tt37853455",
-      "rmconst": "rm908378370",
-      "detail": "In theaters August 7",
-      "description": "Calling this “<i>The Purge</i> for sex” seems inevitable, but don’t let that wild association scare you away. The late summer rom-com about a world where single people can only have sex one day a year follows Monica Barbaro and Callum Turner as their chance meeting grows into something neither of them expected. Directed by Will Gluck with a 2024 Black List-topping script from Travis Braun, <i>One Night Only</i> looks like it could recapture the quirky absurdity that had audiences in a choke hold with Gluck’s box office-smashing movie <i>Anyone But You</i>. But it’s the cast that left me with my jaw on the floor with this one. Molly Ringwald, Maya Hawke, Julia Fox, LeVar Burton, Este Haim, Ziwe, and Ben Marshall will all lend their support to the two leads as they look for love on the least sexy night of the year. — Adrienne",
-      "relatedconst": [
-        "nm4360085",
-        "nm4834815",
-        "nm0000208",
-        "nm1638321"
-      ],
-      "viconst": "vi1293142809"
-    },
-    {
-      "name": "The Last House",
-      "ttconst": "tt32268156",
-      "rmconst": "rm1667943170",
-      "detail": "Premieres August 7 on Netflix",
-      "description": "Director Louis Leterrier, never a filmmaker to embrace subtlety, assembles a perfect fictional couple (Greta Lee + Wagner Moura forever) to lead his apocalyptic genre mash-up that should top Netflix’s movie chart for a spell. A family of four becomes sealed inside their home by some sort of threat (alien, maybe? probably) that first brings environmental chaos to our world. Feels like, in a quite welcome way, <i>A Quiet Place</i> meets all your favorite vintage disaster movies in one contemporary package. As seen in the trailer, we want to pull up our floorboards and grow food inside, no matter what’s happening outside. — Arno",
-      "relatedconst": [
-        "nm2336966",
-        "nm0609944",
-        "nm13054640",
-        "nm14607222"
-      ],
-      "viconst": "vi4118792985"
-    },
     {
       "name": "Reacher",
       "ttconst": "tt9288030",
       "rmconst": "rm1487374850",
-      "detail": "Season 4 premieres August 12 on Prime Video",
+      "detail": "Season 4 streaming on Prime Video",
       "description": "Alan Ritchson is back for a fourth season as Jack Reacher, the brawny ex-military hero of Lee Childs’ long-running book series. Season 4 is based on the novel “Gone Tomorrow,” which finds Reacher in NYC to solve the mystery of a woman who kills herself in front of him on the subway. With 30 novels to draw from, Prime Video is wasting no time giving fans as much of the “Reacher”-verse as possible. Season 5 is already in production, and the spin-off series “Neagley” will premiere on Sept. 16, the same day as the Season 4 finale. — James",
       "relatedconst": [
         "nm2024927",
@@ -113,6 +56,63 @@
         "nm0001473"
       ],
       "viconst": "vi33868569"
+    },
+    {
+      "name": "Ted Lasso",
+      "ttconst": "tt10986410",
+      "rmconst": "rm645315842",
+      "detail": "Season 4 streaming on Apple TV+",
+      "description": "We all knew Ted would return to Richmond. The beloved coach is done with the Premiere League, however; instead, he will guide the newly forced AFC Richmond women’s soccer team through their inaugural season. Almost all the original cast will return in some form, but we’ve successfully dodged most spoilers as to who will fit neatly into the narrative this year. We do know that Season 5 is quietly in the works, but it is not yet confirmed by Apple TV. — Arno",
+      "relatedconst": [
+        "nm0837177",
+        "nm1821446",
+        "nm0402360",
+        "nm1017334",
+        "nm2073429",
+        "nm0842596"
+      ],
+      "viconst": "vi806538009"
+    },
+    {
+      "name": "My Life with the Walter Boys",
+      "ttconst": "tt8323628",
+      "rmconst": "rm4208772866",
+      "detail": "Season 3 streaming on Netflix",
+      "description": "The hit Netflix drama based on the beloved YA books returns to Silver Falls this August, picking up after the Alex-Cole-Jackie love triangle bombshell and a family crisis rocked the Walters. Expect a lot more drama this season as Alex and Cole channel their competitive streaks into new adrenaline-driven passions, and the life Jackie left behind becomes harder to forget when a childhood friend arrives from New York. If this season ends on a cliffhanger, no worries, as the series has already been renewed for a fourth season, which will air sometime in 2027. — Vanessa",
+      "relatedconst": [
+        "nm9058135",
+        "nm10840325",
+        "nm9841773"
+      ],
+      "viconst": "vi4092381209"
+    },
+    {
+      "name": "One Night Only",
+      "ttconst": "tt37853455",
+      "rmconst": "rm908378370",
+      "detail": "In theaters",
+      "description": "Calling this “<i>The Purge</i> for sex” seems inevitable, but don’t let that wild association scare you away. The late summer rom-com about a world where single people can only have sex one day a year follows Monica Barbaro and Callum Turner as their chance meeting grows into something neither of them expected. Directed by Will Gluck with a 2024 Black List-topping script from Travis Braun, <i>One Night Only</i> looks like it could recapture the quirky absurdity that had audiences in a choke hold with Gluck’s box office-smashing movie <i>Anyone But You</i>. But it’s the cast that left me with my jaw on the floor with this one. Molly Ringwald, Maya Hawke, Julia Fox, LeVar Burton, Este Haim, Ziwe, and Ben Marshall will all lend their support to the two leads as they look for love on the least sexy night of the year. — Adrienne",
+      "relatedconst": [
+        "nm4360085",
+        "nm4834815",
+        "nm0000208",
+        "nm1638321"
+      ],
+      "viconst": "vi1293142809"
+    },
+    {
+      "name": "The Last House",
+      "ttconst": "tt32268156",
+      "rmconst": "rm1667943170",
+      "detail": "Streaming on Netflix",
+      "description": "Director Louis Leterrier, never a filmmaker to embrace subtlety, assembles a perfect fictional couple (Greta Lee + Wagner Moura forever) to lead his apocalyptic genre mash-up that should top Netflix’s movie chart for a spell. A family of four becomes sealed inside their home by some sort of threat (alien, maybe? probably) that first brings environmental chaos to our world. Feels like, in a quite welcome way, <i>A Quiet Place</i> meets all your favorite vintage disaster movies in one contemporary package. As seen in the trailer, we want to pull up our floorboards and grow food inside, no matter what’s happening outside. — Arno",
+      "relatedconst": [
+        "nm2336966",
+        "nm0609944",
+        "nm13054640",
+        "nm14607222"
+      ],
+      "viconst": "vi4118792985"
     },
     {
       "name": "Outer Banks",
@@ -261,6 +261,1374 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt9288030",
+        "title_text": {
+          "text": "Reacher"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2022
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "AE",
+                  "text": "United Arab Emirates"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Reacher",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Джек Ричер",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Джек Ричер",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cek Riçer",
+                "country": {
+                  "id": "AZ",
+                  "text": "Azerbaijan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Džekas Ryčeris",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jack Reacher",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Jek Richer",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ричер",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ричър",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Річер",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "리처",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ジャック・リーチャー ～正義のアウトロー～",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "神隱任務",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child."
+          }
+        },
+        "primary_image": {
+          "id": "rm899204866",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmE0YTA3MTItMjhiNC00MGQ3LTllZDktNGNiZWY1OWFmNmM1XkEyXkFqcGc@._V1_.jpg",
+          "width": 604,
+          "height": 755
+        },
+        "meter_ranking": {
+          "current_rank": 24,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 2
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.0,
+          "vote_count": 301192
+        },
+        "release_date": {
+          "year": 2022,
+          "month": 2,
+          "day": 4
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Reacher"
+        },
+        "runtime": {
+          "seconds": 3000
+        }
+      },
+      {
+        "id": "tt27165187",
+        "title_text": {
+          "text": "The End of Oak Street"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The End of Oak Street",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El final de la Calle Oak",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El final de la Calle Oak",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El final de la Calle Oak",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El final de la Calle Oak",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kraj Hrastove Ulice",
+                "country": {
+                  "id": "BA",
+                  "text": "Bosnia and Herzegovina"
+                },
+                "language": {
+                  "text": "Serbian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kraj Hrastove Ulice",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "На краю Оук-стрит",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "На краю Оук-стрит",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Au bout de Oak Street",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Az Oak Street vége",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Capătul Străzii Stejar",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El final de Oak Street",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Koniec ulicy Dębowej",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La fin d'Oak Street",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La fine di Oak Street",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ngày Tàn Của Phố Oak",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Fim da Rua",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Fim de Oak Street",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Oak Caddesi'nin Sonu",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ozolu ielas gals",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tamme tänava lõpp",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Крај Храстове улице",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "オークストリートの異変",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "末世橡樹街",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "橡樹街末日",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown."
+          }
+        },
+        "primary_image": {
+          "id": "rm3930904066",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1638,
+          "height": 2048
+        },
+        "meter_ranking": {
+          "current_rank": 21,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 18
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 14
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "The End of Oak Street"
+        },
+        "runtime": {
+          "seconds": 5940
+        }
+      },
+      {
+        "id": "tt35060353",
+        "title_text": {
+          "text": "The Wrong Girls"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Wrong Girls",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "As Garotas Erradas",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Two aimless young women inadvertently gain telepathic abilities after ingesting an experimental drug, pitting them against dangerous rivals pursuing the same powerful substance."
+          }
+        },
+        "primary_image": {
+          "id": "rm421052674",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDc5ZTZiMmQtMDRjYi00NDAzLWEyMTQtYWIxNTFkMmE5ZWZkXkEyXkFqcGc@._V1_.jpg",
+          "width": 4050,
+          "height": 6000
+        },
+        "meter_ranking": {
+          "current_rank": 408,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 318
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 14
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Wrong Girls"
+        },
+        "runtime": {
+          "seconds": 6000
+        }
+      },
+      {
+        "id": "tt26545992",
+        "title_text": {
+          "text": "Lanterns"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanternas",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Latarnie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фонари",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "綠光軍團",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland."
+          }
+        },
+        "primary_image": {
+          "id": "rm2473903874",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1396
+        },
+        "meter_ranking": {
+          "current_rank": 62,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 24
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Lanterns"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
       {
         "id": "tt10986410",
         "title_text": {
@@ -681,16 +2049,16 @@
           "height": 1000
         },
         "meter_ranking": {
-          "current_rank": 25,
+          "current_rank": 2,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "FLAT",
-            "difference": 0
+            "change_direction": "UP",
+            "difference": 13
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.7,
-          "vote_count": 452705
+          "vote_count": 455951
         },
         "release_date": {
           "year": 2020,
@@ -990,6 +2358,15 @@
             },
             {
               "node": {
+                "text": "Мој живот с Волтеровима",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Моя жизнь с мальчиками Уолтер",
                 "country": {
                   "id": "RU",
@@ -1044,16 +2421,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 368,
+          "current_rank": 18,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 111
+            "difference": 298
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 26773
+          "vote_count": 27346
         },
         "release_date": {
           "year": 2023,
@@ -1285,6 +2662,15 @@
             },
             {
               "node": {
+                "text": "Apenas Uma Noite",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Aventură de o noapte",
                 "country": {
                   "id": "RO",
@@ -1298,6 +2684,15 @@
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Một Đêm Duy Nhất",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
                 }
               }
             },
@@ -1319,15 +2714,6 @@
                 },
                 "language": {
                   "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Samo jedna noć",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
                 }
               }
             },
@@ -1399,6 +2785,24 @@
             },
             {
               "node": {
+                "text": "Всего одна ночь",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Само једна ноћ",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "一夜限定",
                 "country": {
                   "id": "TW",
@@ -1410,7 +2814,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Two New Yorkers search for love on the one night of the year when sex is legal."
+            "plain_text": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal."
           }
         },
         "primary_image": {
@@ -1420,15 +2824,16 @@
           "height": 1551
         },
         "meter_ranking": {
-          "current_rank": 97,
+          "current_rank": 8,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 54
+            "difference": 41
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.3,
+          "vote_count": 1997
         },
         "release_date": {
           "year": 2026,
@@ -1544,6 +2949,15 @@
               "node": {
                 "text": "The Last House",
                 "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Last House",
+                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -1584,6 +2998,24 @@
             },
             {
               "node": {
+                "text": "La última casa",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La última casa",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "11817",
                 "country": {
                   "id": "US",
@@ -1602,10 +3034,10 @@
             },
             {
               "node": {
-                "text": "La última casa",
+                "text": "Az utolsó ház",
                 "country": {
-                  "id": "ES",
-                  "text": "Spain"
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
@@ -1624,6 +3056,45 @@
                 "country": {
                   "id": "PL",
                   "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Son Ev",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Останній дім",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Последний дом",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Последња кућа",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
                 }
               }
             },
@@ -1653,15 +3124,16 @@
           "height": 1280
         },
         "meter_ranking": {
-          "current_rank": 224,
+          "current_rank": 3,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 223
+            "difference": 195
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 5.5,
+          "vote_count": 25047
         },
         "release_date": {
           "year": 2026,
@@ -1702,1308 +3174,9 @@
         },
         "original_title_text": {
           "text": "The Last House"
-        }
-      },
-      {
-        "id": "tt9288030",
-        "title_text": {
-          "text": "Reacher"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2022
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "AE",
-                  "text": "United Arab Emirates"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Reacher",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Джек Ричер",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Джек Ричер",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cek Riçer",
-                "country": {
-                  "id": "AZ",
-                  "text": "Azerbaijan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Džekas Ryčeris",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jack Reacher",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Jek Richer",
-                "country": {
-                  "id": "UZ",
-                  "text": "Uzbekistan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ричер",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ричър",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Річер",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "리처",
-                "country": {
-                  "id": "KR",
-                  "text": "South Korea"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ジャック・リーチャー ～正義のアウトロー～",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "神隱任務",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child."
-          }
-        },
-        "primary_image": {
-          "id": "rm899204866",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmE0YTA3MTItMjhiNC00MGQ3LTllZDktNGNiZWY1OWFmNmM1XkEyXkFqcGc@._V1_.jpg",
-          "width": 604,
-          "height": 755
-        },
-        "meter_ranking": {
-          "current_rank": 33,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 23
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.0,
-          "vote_count": 299427
-        },
-        "release_date": {
-          "year": 2022,
-          "month": 2,
-          "day": 4
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Reacher"
         },
         "runtime": {
-          "seconds": 3000
-        }
-      },
-      {
-        "id": "tt27165187",
-        "title_text": {
-          "text": "The End of Oak Street"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The End of Oak Street",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "На краю Оук-стрит",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "На краю Оук-стрит",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Au bout de Oak Street",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Az Oak Street vége",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El final de la calle Oak",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El Final De La Calle Oak",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El final de Oak Street",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Koniec ulicy Dębowej",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Fin d'Oak Street",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La fine di Oak Street",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ngày Tàn Của Phố Oak",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Fim da Rua",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Fim de Oak Street",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Oak Caddesi'nin Sonu",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ozolu ielas gals",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tamme tänava lõpp",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "オークストリートの異変",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "末世橡樹街",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "橡樹街末日",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown."
-          }
-        },
-        "primary_image": {
-          "id": "rm3930904066",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1638,
-          "height": 2048
-        },
-        "meter_ranking": {
-          "current_rank": 61,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 30
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 14
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "The End of Oak Street"
-        },
-        "runtime": {
-          "seconds": 6000
-        }
-      },
-      {
-        "id": "tt35060353",
-        "title_text": {
-          "text": "The Wrong Girls"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Wrong Girls",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "As Garotas Erradas",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Two aimless young women inadvertently gain telepathic abilities after ingesting an experimental drug, pitting them against dangerous rivals pursuing the same powerful substance."
-          }
-        },
-        "primary_image": {
-          "id": "rm421052674",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDc5ZTZiMmQtMDRjYi00NDAzLWEyMTQtYWIxNTFkMmE5ZWZkXkEyXkFqcGc@._V1_.jpg",
-          "width": 4050,
-          "height": 6000
-        },
-        "meter_ranking": {
-          "current_rank": 1357,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 62
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 14
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Wrong Girls"
-        },
-        "runtime": {
-          "seconds": 5940
-        }
-      },
-      {
-        "id": "tt26545992",
-        "title_text": {
-          "text": "Lanterns"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanternas",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Latarnie",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фонари",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "綠光軍團",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland."
-          }
-        },
-        "primary_image": {
-          "id": "rm2473903874",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1396
-        },
-        "meter_ranking": {
-          "current_rank": 7,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 387
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Lanterns"
-        },
-        "runtime": {
-          "seconds": 3600
+          "seconds": 6720
         }
       },
       {
@@ -3429,16 +3602,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 277,
+          "current_rank": 141,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 8
+            "change_direction": "UP",
+            "difference": 16
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 109448
+          "vote_count": 109952
         },
         "release_date": {
           "year": 2020,
@@ -3511,6 +3684,15 @@
               "node": {
                 "text": "Mutiny",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mutiny",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -3534,6 +3716,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mutiny",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -3680,6 +3871,27 @@
             },
             {
               "node": {
+                "text": "Mutinerie",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tàu Buôn Người",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Zendülés",
                 "country": {
                   "id": "HU",
@@ -3689,10 +3901,28 @@
             },
             {
               "node": {
+                "text": "Ανταρσια",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Мятеж",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Побуна",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
                 }
               }
             },
@@ -3731,11 +3961,11 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 221,
+          "current_rank": 173,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 192
+            "difference": 62
           }
         },
         "ratings_summary": {
@@ -3792,6 +4022,15 @@
               "node": {
                 "text": "Insidious: Out of the Further",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Insidious: Out of the Further",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -3815,6 +4054,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Insidious: Out of the Further",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -3907,24 +4155,6 @@
             },
             {
               "node": {
-                "text": "Astralna Podmuklost: Izvan Daljine",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Astralna Podmuklost: Izvan Daljine",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Астрал 6: Они уже здесь",
                 "country": {
                   "id": "KZ",
@@ -3950,6 +4180,15 @@
                 "country": {
                   "id": "EE",
                   "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Astralna Podmuklost: Izvan Daljine",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
                 }
               }
             },
@@ -4102,6 +4341,15 @@
             },
             {
               "node": {
+                "text": "Астрална подмуклост: Изван даљине",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "兒兇：屠出暗界",
                 "country": {
                   "id": "HK",
@@ -4135,11 +4383,11 @@
           "height": 2100
         },
         "meter_ranking": {
-          "current_rank": 249,
+          "current_rank": 128,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 189
+            "difference": 92
           }
         },
         "ratings_summary": {
@@ -4235,6 +4483,18 @@
               "node": {
                 "text": "The Dog Stars",
                 "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -4249,6 +4509,18 @@
                 "country": {
                   "id": "IN",
                   "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
                 },
                 "language": {
                   "text": "English"
@@ -4299,6 +4571,54 @@
             },
             {
               "node": {
+                "text": "Das Ende der Sterne",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Das Ende der Sterne",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Das Ende der Sterne",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Guerra De Los Últimos",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Guerra De Los Últimos",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Chòm Sao Bất Diệt",
                 "country": {
                   "id": "VN",
@@ -4308,10 +4628,10 @@
             },
             {
               "node": {
-                "text": "Das Ende der Sterne wie Big Hig sie kannte",
+                "text": "Constelația câinelui",
                 "country": {
-                  "id": "DE",
-                  "text": "Germany"
+                  "id": "RO",
+                  "text": "Romania"
                 }
               }
             },
@@ -4344,19 +4664,22 @@
             },
             {
               "node": {
-                "text": "La guerra de los últimos",
+                "text": "La constellation du chien",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
             {
               "node": {
-                "text": "La Guerra De Los Últimos",
+                "text": "La guerra de los últimos",
                 "country": {
-                  "id": "MX",
-                  "text": "Mexico"
+                  "id": "AR",
+                  "text": "Argentina"
                 }
               }
             },
@@ -4416,10 +4739,28 @@
             },
             {
               "node": {
+                "text": "Сазвежђе пса",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Созвездие пса",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Сузір'я великого пса",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             },
@@ -4470,11 +4811,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 116,
+          "current_rank": 62,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 64
+            "change_direction": "UP",
+            "difference": 24
           }
         },
         "ratings_summary": {
@@ -4671,6 +5012,15 @@
             },
             {
               "node": {
+                "text": "Riesgo Total Cliffhanger",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Risco Total",
                 "country": {
                   "id": "BR",
@@ -4680,10 +5030,28 @@
             },
             {
               "node": {
+                "text": "Алпиниста",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Скалолаз",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Скелелаз",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             }
@@ -4701,20 +5069,20 @@
           "height": 1397
         },
         "meter_ranking": {
-          "current_rank": 1036,
+          "current_rank": 789,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 530
+            "difference": 178
           }
         },
         "ratings_summary": {
           "vote_count": 0
         },
         "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 28
+          "year": 2027,
+          "month": 4,
+          "day": 29
         },
         "title_genres": {
           "genres": [
@@ -4994,15 +5362,6 @@
             },
             {
               "node": {
-                "text": "Pera Kojot protiv sistema",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Ptica trkačica: Kojot protiv sustava",
                 "country": {
                   "id": "BA",
@@ -5138,6 +5497,15 @@
             },
             {
               "node": {
+                "text": "Пера Којот против система",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Хитрый койот",
                 "country": {
                   "id": "RU",
@@ -5156,6 +5524,18 @@
                   "text": "Hebrew"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "โคโยตี้ ปะทะ แอคเมย์",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "Thai"
+                }
+              }
             }
           ]
         },
@@ -5165,17 +5545,17 @@
           }
         },
         "primary_image": {
-          "id": "rm2202847746",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWEzZmQ2ZTEtNGFiNi00Y2NiLWI4MzktMDgyMDAyNzM1OTFjXkEyXkFqcGc@._V1_.jpg",
+          "id": "rm2684535810",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTEyNTE4YzctODQxOC00OGVkLTkyMzktMzc1MGRhYzRkNWIxXkEyXkFqcGc@._V1_.jpg",
           "width": 1080,
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 217,
+          "current_rank": 218,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 431
+            "difference": 24
           }
         },
         "ratings_summary": {
@@ -5426,6 +5806,15 @@
                   "text": "Russia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Шепотун",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
             }
           ]
         },
@@ -5441,11 +5830,11 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 322,
+          "current_rank": 357,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 277
+            "difference": 35
           }
         },
         "ratings_summary": {
@@ -5677,6 +6066,42 @@
                   "text": "Hungary"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Fragmentos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les Éclats",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Осколки",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Уламки",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
             }
           ]
         },
@@ -5692,15 +6117,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 180,
+          "current_rank": 6,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 134
+            "change_direction": "UP",
+            "difference": 15
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 5.8,
+          "vote_count": 1446
         },
         "release_date": {
           "year": 2026,
@@ -5709,6 +6135,11 @@
         },
         "title_genres": {
           "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
             {
               "genre": {
                 "text": "Drama"
@@ -5773,6 +6204,15 @@
               "node": {
                 "text": "Sterling Point",
                 "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sterling Point",
+                "country": {
                   "id": "CA",
                   "text": "Canada"
                 },
@@ -5787,6 +6227,24 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sterling Point",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sterling Point",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
                 }
               }
             },
@@ -5867,10 +6325,37 @@
             },
             {
               "node": {
+                "text": "Sterling Point - L'isola dei segreti",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Стерлинг Поинт",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Стерлинг-Поинт",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Стерлінґ Пойнт",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             }
@@ -5888,15 +6373,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 1073,
+          "current_rank": 3,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 188
+            "change_direction": "UP",
+            "difference": 270
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.4,
+          "vote_count": 4276
         },
         "release_date": {
           "year": 2026,
@@ -5914,11 +6400,22 @@
               "genre": {
                 "text": "Mystery"
               }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-MA"
+        },
         "original_title_text": {
           "text": "Sterling Point"
+        },
+        "runtime": {
+          "seconds": 3000
         }
       },
       {
@@ -5959,6 +6456,15 @@
               "node": {
                 "text": "Star Wars: Visions Presents - The Ninth Jedi",
                 "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Wars: Visions Presents - The Ninth Jedi",
+                "country": {
                   "id": "GB",
                   "text": "United Kingdom"
                 }
@@ -6032,6 +6538,15 @@
             },
             {
               "node": {
+                "text": "A Star Wars: Látomások bemutatja: A kilencedik jedi",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Star Wars: Visionen präsentiert - Die neunte Jedi",
                 "country": {
                   "id": "DE",
@@ -6045,6 +6560,33 @@
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Wars: Visions presenta - La jedi número 9",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Star Wars: Visions Presenta - The Ninth Jedi",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Звёздные войны: Видения. Девятый джедай",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
                 }
               }
             }
@@ -6062,15 +6604,16 @@
           "height": 1280
         },
         "meter_ranking": {
-          "current_rank": 3095,
+          "current_rank": 89,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 1221
+            "difference": 703
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.0,
+          "vote_count": 820
         },
         "release_date": {
           "year": 2026,
@@ -6101,216 +6644,18 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-14"
+        },
         "original_title_text": {
           "text": "Star Wars: Visions Presents - The Ninth Jedi"
+        },
+        "runtime": {
+          "seconds": 1800
         }
       }
     ],
     "names": [
-      {
-        "id": "nm0837177",
-        "name_text": {
-          "text": "Jason Sudeikis"
-        },
-        "primary_image": {
-          "id": "rm1681406208",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTE4Nzg3Ml5BMl5BanBnXkFtZTgwODc5OTUxMTI@._V1_.jpg",
-          "width": 1356,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm1821446",
-        "name_text": {
-          "text": "Hannah Waddingham"
-        },
-        "primary_image": {
-          "id": "rm3597922304",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjk5ODc5MTU3MF5BMl5BanBnXkFtZTgwOTk2MjI5NDE@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0402360",
-        "name_text": {
-          "text": "Brendan Hunt"
-        },
-        "primary_image": {
-          "id": "rm386528001",
-          "url": "https://m.media-amazon.com/images/M/MV5BODAzMGExMjctNmRmMC00YTJiLTg5ZTctODBkNTZjYTA4YzY5XkEyXkFqcGc@._V1_.jpg",
-          "width": 4480,
-          "height": 5798
-        }
-      },
-      {
-        "id": "nm1017334",
-        "name_text": {
-          "text": "Juno Temple"
-        },
-        "primary_image": {
-          "id": "rm2821908737",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDQ0YWFkYjUtMTkwNy00M2Q5LWFmYjItNWMwOTRiNzIwZmNjXkEyXkFqcGc@._V1_.jpg",
-          "width": 5087,
-          "height": 3391
-        }
-      },
-      {
-        "id": "nm2073429",
-        "name_text": {
-          "text": "Brett Goldstein"
-        },
-        "primary_image": {
-          "id": "rm784806400",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzEyYWNiMDgtNmE3Ny00OGY4LWIxNTItZDVjMTFhOGE3MjQwXkEyXkFqcGc@._V1_.jpg",
-          "width": 3016,
-          "height": 3770
-        }
-      },
-      {
-        "id": "nm0842596",
-        "name_text": {
-          "text": "Jeremy Swift"
-        },
-        "primary_image": {
-          "id": "rm3182000384",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTBmMmRjOTItNGU1OC00YmMyLWI3NGEtZjVjNDk5MWM0YzFmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1125,
-          "height": 1500
-        }
-      },
-      {
-        "id": "nm9058135",
-        "name_text": {
-          "text": "Nikki Rodriguez"
-        },
-        "primary_image": {
-          "id": "rm2270023682",
-          "url": "https://m.media-amazon.com/images/M/MV5BYmNmZmI5NjMtYzVkNy00NTdjLWJiOTItYjZlNDk4ZDZmMzBlXkEyXkFqcGc@._V1_CR79,1,874,1312_.jpg",
-          "width": 874,
-          "height": 1312
-        }
-      },
-      {
-        "id": "nm10840325",
-        "name_text": {
-          "text": "Noah LaLonde"
-        },
-        "primary_image": {
-          "id": "rm769983745",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTgxNGRjY2EtNTYxYS00MjJlLWIzYWUtZWMxNmFmYmNkMTQxXkEyXkFqcGc@._V1_.jpg",
-          "width": 1168,
-          "height": 1724
-        }
-      },
-      {
-        "id": "nm9841773",
-        "name_text": {
-          "text": "Ashby Gentry"
-        },
-        "primary_image": {
-          "id": "rm1801867009",
-          "url": "https://m.media-amazon.com/images/M/MV5BODM3MDQ3ZGEtZjRiMy00ZjY0LWI5NTgtNjM5NWZkMTU3NzZkXkEyXkFqcGc@._V1_.jpg",
-          "width": 375,
-          "height": 503
-        }
-      },
-      {
-        "id": "nm4360085",
-        "name_text": {
-          "text": "Callum Turner"
-        },
-        "primary_image": {
-          "id": "rm3193079810",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWE5M2ExN2ItZjZmOS00NjgwLWI1OGYtOTQwYjMyZTdhNDhiXkEyXkFqcGc@._V1_CR149,72,1692,2537_.jpg",
-          "width": 1692,
-          "height": 2537
-        }
-      },
-      {
-        "id": "nm4834815",
-        "name_text": {
-          "text": "Monica Barbaro"
-        },
-        "primary_image": {
-          "id": "rm3921939969",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzAzNWM1NTgtNzhhMS00OTVmLWI0ZmUtMTMwMjkyMjdkOTUxXkEyXkFqcGc@._V1_.jpg",
-          "width": 860,
-          "height": 1296
-        }
-      },
-      {
-        "id": "nm0000208",
-        "name_text": {
-          "text": "Molly Ringwald"
-        },
-        "primary_image": {
-          "id": "rm3274949632",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjM4MzM1NTkxNF5BMl5BanBnXkFtZTgwMzA4NTk3MjE@._V1_.jpg",
-          "width": 566,
-          "height": 720
-        }
-      },
-      {
-        "id": "nm1638321",
-        "name_text": {
-          "text": "Maya Hawke"
-        },
-        "primary_image": {
-          "id": "rm2722504960",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmI1MTE3NTEtYWE0Yy00ZGU1LTgwZWEtMTE2MDg4ZTg4ZWExXkEyXkFqcGc@._V1_.jpg",
-          "width": 1440,
-          "height": 960
-        }
-      },
-      {
-        "id": "nm2336966",
-        "name_text": {
-          "text": "Greta Lee"
-        },
-        "primary_image": {
-          "id": "rm2572703489",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTZlYjllNTUtMTk2ZS00MTYyLTk4ZmMtZjI1ZDA1MDU3NjJkXkEyXkFqcGc@._V1_.jpg",
-          "width": 1179,
-          "height": 1487
-        }
-      },
-      {
-        "id": "nm0609944",
-        "name_text": {
-          "text": "Wagner Moura"
-        },
-        "primary_image": {
-          "id": "rm2213001217",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzE0YTA3MWEtY2ZiYi00ZDFmLTgyY2QtMTUzZDIwOWU5NGFhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1600,
-          "height": 2000
-        }
-      },
-      {
-        "id": "nm13054640",
-        "name_text": {
-          "text": "Noah Alexander Sosnowski"
-        },
-        "primary_image": {
-          "id": "rm4202407938",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzc2ZGE0MjQtN2UzMS00Zjk0LWI5ODItYTE2ZTNlNzUxM2VmXkEyXkFqcGc@._V1_.jpg",
-          "width": 2400,
-          "height": 3600
-        }
-      },
-      {
-        "id": "nm14607222",
-        "name_text": {
-          "text": "Riley Chung"
-        },
-        "primary_image": {
-          "id": "rm550552066",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWJmYTEzZmUtNmFjYS00MTQzLWFkZDktNTVkYzIyNGZmODFkXkEyXkFqcGc@._V1_.jpg",
-          "width": 2939,
-          "height": 3674
-        }
-      },
       {
         "id": "nm2024927",
         "name_text": {
@@ -6513,6 +6858,210 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
           "width": 289,
           "height": 400
+        }
+      },
+      {
+        "id": "nm0837177",
+        "name_text": {
+          "text": "Jason Sudeikis"
+        },
+        "primary_image": {
+          "id": "rm1681406208",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE3NTE4Nzg3Ml5BMl5BanBnXkFtZTgwODc5OTUxMTI@._V1_.jpg",
+          "width": 1356,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm1821446",
+        "name_text": {
+          "text": "Hannah Waddingham"
+        },
+        "primary_image": {
+          "id": "rm3597922304",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjk5ODc5MTU3MF5BMl5BanBnXkFtZTgwOTk2MjI5NDE@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0402360",
+        "name_text": {
+          "text": "Brendan Hunt"
+        },
+        "primary_image": {
+          "id": "rm386528001",
+          "url": "https://m.media-amazon.com/images/M/MV5BODAzMGExMjctNmRmMC00YTJiLTg5ZTctODBkNTZjYTA4YzY5XkEyXkFqcGc@._V1_.jpg",
+          "width": 4480,
+          "height": 5798
+        }
+      },
+      {
+        "id": "nm1017334",
+        "name_text": {
+          "text": "Juno Temple"
+        },
+        "primary_image": {
+          "id": "rm2821908737",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDQ0YWFkYjUtMTkwNy00M2Q5LWFmYjItNWMwOTRiNzIwZmNjXkEyXkFqcGc@._V1_.jpg",
+          "width": 5087,
+          "height": 3391
+        }
+      },
+      {
+        "id": "nm2073429",
+        "name_text": {
+          "text": "Brett Goldstein"
+        },
+        "primary_image": {
+          "id": "rm784806400",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzEyYWNiMDgtNmE3Ny00OGY4LWIxNTItZDVjMTFhOGE3MjQwXkEyXkFqcGc@._V1_.jpg",
+          "width": 3016,
+          "height": 3770
+        }
+      },
+      {
+        "id": "nm0842596",
+        "name_text": {
+          "text": "Jeremy Swift"
+        },
+        "primary_image": {
+          "id": "rm3182000384",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTBmMmRjOTItNGU1OC00YmMyLWI3NGEtZjVjNDk5MWM0YzFmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1125,
+          "height": 1500
+        }
+      },
+      {
+        "id": "nm9058135",
+        "name_text": {
+          "text": "Nikki Rodriguez"
+        },
+        "primary_image": {
+          "id": "rm2270023682",
+          "url": "https://m.media-amazon.com/images/M/MV5BYmNmZmI5NjMtYzVkNy00NTdjLWJiOTItYjZlNDk4ZDZmMzBlXkEyXkFqcGc@._V1_CR79,1,874,1312_.jpg",
+          "width": 874,
+          "height": 1312
+        }
+      },
+      {
+        "id": "nm10840325",
+        "name_text": {
+          "text": "Noah LaLonde"
+        },
+        "primary_image": {
+          "id": "rm769983745",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTgxNGRjY2EtNTYxYS00MjJlLWIzYWUtZWMxNmFmYmNkMTQxXkEyXkFqcGc@._V1_.jpg",
+          "width": 1168,
+          "height": 1724
+        }
+      },
+      {
+        "id": "nm9841773",
+        "name_text": {
+          "text": "Ashby Gentry"
+        },
+        "primary_image": {
+          "id": "rm1801867009",
+          "url": "https://m.media-amazon.com/images/M/MV5BODM3MDQ3ZGEtZjRiMy00ZjY0LWI5NTgtNjM5NWZkMTU3NzZkXkEyXkFqcGc@._V1_.jpg",
+          "width": 375,
+          "height": 503
+        }
+      },
+      {
+        "id": "nm4360085",
+        "name_text": {
+          "text": "Callum Turner"
+        },
+        "primary_image": {
+          "id": "rm3193079810",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWE5M2ExN2ItZjZmOS00NjgwLWI1OGYtOTQwYjMyZTdhNDhiXkEyXkFqcGc@._V1_CR149,72,1692,2537_.jpg",
+          "width": 1692,
+          "height": 2537
+        }
+      },
+      {
+        "id": "nm4834815",
+        "name_text": {
+          "text": "Monica Barbaro"
+        },
+        "primary_image": {
+          "id": "rm3921939969",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzAzNWM1NTgtNzhhMS00OTVmLWI0ZmUtMTMwMjkyMjdkOTUxXkEyXkFqcGc@._V1_.jpg",
+          "width": 860,
+          "height": 1296
+        }
+      },
+      {
+        "id": "nm0000208",
+        "name_text": {
+          "text": "Molly Ringwald"
+        },
+        "primary_image": {
+          "id": "rm3274949632",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjM4MzM1NTkxNF5BMl5BanBnXkFtZTgwMzA4NTk3MjE@._V1_.jpg",
+          "width": 566,
+          "height": 720
+        }
+      },
+      {
+        "id": "nm1638321",
+        "name_text": {
+          "text": "Maya Hawke"
+        },
+        "primary_image": {
+          "id": "rm2722504960",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmI1MTE3NTEtYWE0Yy00ZGU1LTgwZWEtMTE2MDg4ZTg4ZWExXkEyXkFqcGc@._V1_.jpg",
+          "width": 1440,
+          "height": 960
+        }
+      },
+      {
+        "id": "nm2336966",
+        "name_text": {
+          "text": "Greta Lee"
+        },
+        "primary_image": {
+          "id": "rm2572703489",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTZlYjllNTUtMTk2ZS00MTYyLTk4ZmMtZjI1ZDA1MDU3NjJkXkEyXkFqcGc@._V1_.jpg",
+          "width": 1179,
+          "height": 1487
+        }
+      },
+      {
+        "id": "nm0609944",
+        "name_text": {
+          "text": "Wagner Moura"
+        },
+        "primary_image": {
+          "id": "rm2213001217",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzE0YTA3MWEtY2ZiYi00ZDFmLTgyY2QtMTUzZDIwOWU5NGFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 1600,
+          "height": 2000
+        }
+      },
+      {
+        "id": "nm13054640",
+        "name_text": {
+          "text": "Noah Alexander Sosnowski"
+        },
+        "primary_image": {
+          "id": "rm4202407938",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzc2ZGE0MjQtN2UzMS00Zjk0LWI5ODItYTE2ZTNlNzUxM2VmXkEyXkFqcGc@._V1_.jpg",
+          "width": 2400,
+          "height": 3600
+        }
+      },
+      {
+        "id": "nm14607222",
+        "name_text": {
+          "text": "Riley Chung"
+        },
+        "primary_image": {
+          "id": "rm550552066",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWJmYTEzZmUtNmFjYS00MTQzLWFkZDktNTVkYzIyNGZmODFkXkEyXkFqcGc@._V1_.jpg",
+          "width": 2939,
+          "height": 3674
         }
       },
       {
@@ -6953,10 +7502,10 @@
           "text": "Amélie Hoeferle"
         },
         "primary_image": {
-          "id": "rm338718721",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzhhNmI4ZTItN2ZkOC00NDA5LTg3ODMtZmE4ZmFhODcwNTRkXkEyXkFqcGc@._V1_.jpg",
-          "width": 5152,
-          "height": 7728
+          "id": "rm113244930",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjZiN2ZmNmUtYWI4Ny00OWEwLThhYWQtYTIyMWUzNjQxZjMxXkEyXkFqcGc@._V1_CR889,576,3333,5000_.jpg",
+          "width": 3333,
+          "height": 5000
         }
       },
       {
@@ -7059,30 +7608,6 @@
     "videos": [],
     "images": [
       {
-        "id": "rm645315842",
-        "url": "https://m.media-amazon.com/images/M/MV5BNzY4NTZhMTYtNWU2ZS00ODYxLTk4ZjAtOTNhNzAwYTMyYzFkXkEyXkFqcGc@._V1_.jpg",
-        "width": 8462,
-        "height": 4760
-      },
-      {
-        "id": "rm4208772866",
-        "url": "https://m.media-amazon.com/images/M/MV5BM2MyMjAzMjYtMWJiYi00OTg2LTllNTYtMGNiOTllZDBjZWRhXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 1800
-      },
-      {
-        "id": "rm908378370",
-        "url": "https://m.media-amazon.com/images/M/MV5BMTcwZGM0MDktZGUzYy00YWFkLWI0OTctYzg0NGVjZTBkZWVkXkEyXkFqcGc@._V1_.jpg",
-        "width": 2560,
-        "height": 1708
-      },
-      {
-        "id": "rm1667943170",
-        "url": "https://m.media-amazon.com/images/M/MV5BZWZlMzBmNzgtY2I0NS00ZWVmLTk2NDEtZGU0YzE3ZWFiYWRhXkEyXkFqcGc@._V1_.jpg",
-        "width": 7200,
-        "height": 4050
-      },
-      {
         "id": "rm1487374850",
         "url": "https://m.media-amazon.com/images/M/MV5BODdmZTQyZGItZjMyNi00NDJmLWE4ZDMtMGNkZWFjMjlmZGI1XkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
@@ -7105,6 +7630,30 @@
         "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
         "width": 1920,
         "height": 1281
+      },
+      {
+        "id": "rm645315842",
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY4NTZhMTYtNWU2ZS00ODYxLTk4ZjAtOTNhNzAwYTMyYzFkXkEyXkFqcGc@._V1_.jpg",
+        "width": 8462,
+        "height": 4760
+      },
+      {
+        "id": "rm4208772866",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2MyMjAzMjYtMWJiYi00OTg2LTllNTYtMGNiOTllZDBjZWRhXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 1800
+      },
+      {
+        "id": "rm908378370",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcwZGM0MDktZGUzYy00YWFkLWI0OTctYzg0NGVjZTBkZWVkXkEyXkFqcGc@._V1_.jpg",
+        "width": 2560,
+        "height": 1708
+      },
+      {
+        "id": "rm1667943170",
+        "url": "https://m.media-amazon.com/images/M/MV5BZWZlMzBmNzgtY2I0NS00ZWVmLTk2NDEtZGU0YzE3ZWFiYWRhXkEyXkFqcGc@._V1_.jpg",
+        "width": 7200,
+        "height": 4050
       },
       {
         "id": "rm4246979074",
