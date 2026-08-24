@@ -1,49 +1,6 @@
 {
-  "updated_at": "2026-08-21 01:44:59",
+  "updated_at": "2026-08-25 06:54:20",
   "entries": [
-    {
-      "name": "Outer Banks",
-      "ttconst": "tt10293938",
-      "rmconst": "rm4246979074",
-      "detail": "Season 5 premieres August 20 on Netflix",
-      "description": "We’ve only got 10 episodes left of this hit teen drama from Netflix, and you can expect even higher stakes as the Pogues seek out revenge. Last season ended with Chandler killing his son JJ while Kiara watched. Now, the gang are in a race to reclaim the Blue Crown and take vengeance on their fallen friend. The final season is coming in a single bingeable drop on August 20, just in time for summer’s end. — Adrienne",
-      "relatedconst": [
-        "nm6795924",
-        "nm3218692",
-        "nm6045536",
-        "nm6043149",
-        "nm5260792"
-      ],
-      "viconst": "vi291752729"
-    },
-    {
-      "name": "Insidious Out of the Further",
-      "ttconst": "tt32393988",
-      "rmconst": "rm1754318338",
-      "detail": "In theaters August 21",
-      "description": "We’re up to the sixth Insidious installment in this franchise created by James Wan and Leigh Whannell about generational hauntings and the creepy purgatory that connects them all. In <i>Out of the Further</i>, a set of scary stalkers compel a young mother to use her powers of astral projection only to discover the Further is bleeding into the real world. Horror icon Lin Shaye returns as Elise, the medium who has been helping families battle their (literal) demons since the first film dropped sixteen years ago, alongside a whole host of new faces to the franchise. — Adrienne",
-      "relatedconst": [
-        "nm4633678",
-        "nm5155952",
-        "nm5114966",
-        "nm0005417",
-        "nm0819874"
-      ],
-      "viconst": "vi3693398809"
-    },
-    {
-      "name": "Mutiny",
-      "ttconst": "tt32338669",
-      "rmconst": "rm1262605314",
-      "detail": "In theaters August 21",
-      "description": "From the director of <i>Plane</i> comes <i>Mutiny</i> (I'll let you guess where this one's set), the latest ultraviolent popcorn romp from action legend Jason Statham. After witnessing his billionaire boss's murder and being framed for the crime, Cole Reed (Statham) boards a cargo ship on a one-man crusade to avenge his death, only to discover an international conspiracy. Chaos ensues. Annabelle Wallis and Adrian Lester round out the cast. — Vanessa",
-      "relatedconst": [
-        "nm0005458",
-        "nm1834115",
-        "nm0504412"
-      ],
-      "viconst": "vi2636172057"
-    },
     {
       "name": "The Dog Stars",
       "ttconst": "tt21285562",
@@ -59,16 +16,19 @@
       "viconst": "vi3173501721"
     },
     {
-      "name": "Cliffhanger",
-      "ttconst": "tt1441251",
-      "rmconst": "rm4172833793",
-      "detail": "In theaters August 28",
-      "description": "No offense intended: You might have a better chance at catching this remake of Sylvester Stallone’s ‘90s comeback thriller on streaming. (The movie is being distributed by Row K Entertainment, a truly indie studio that’s having a tough time in the industry currently.) The plot has been tweaked to focus on a grief-stricken father-daughter duo, played by Pierce Brosnan and Lily James, who face off against a series of unexpected foes, all of them dangling off edges and corners of the Italian Alps. — Arno",
+      "name": "The Whisper Man",
+      "ttconst": "tt11561116",
+      "rmconst": "rm1195690754",
+      "detail": "Premieres August 28 on Netflix",
+      "description": "This crime-thriller looks designed to keep you at home and off your phone on a Friday night. Generational trauma returns for father and son Robert De Niro and Adam Scott, as a serial killer from their shared past re-emerges, despite being locked away in prison for life. \"The Whisper Man\" the first of famed genre writer Alex North’s novels to be adapted into a movie, and for the uninitiated, it might remind you of <i>The Silence of the Lambs</i>, right down to Hannibal Lecter having an accomplice. — Arno",
       "relatedconst": [
-        "nm0000112",
-        "nm4141252",
-        "nm4836100"
-      ]
+        "nm0000134",
+        "nm0004395",
+        "nm1157358",
+        "nm0512934",
+        "nm0000474"
+      ],
+      "viconst": "vi1096534809"
     },
     {
       "name": "Coyote vs Acme",
@@ -85,19 +45,73 @@
       "viconst": "vi3262368537"
     },
     {
-      "name": "The Whisper Man",
-      "ttconst": "tt11561116",
-      "rmconst": "rm1195690754",
-      "detail": "Premieres August 28 on Netflix",
-      "description": "This crime-thriller looks designed to keep you at home and off your phone on a Friday night. Generational trauma returns for father and son Robert De Niro and Adam Scott, as a serial killer from their shared past re-emerges, despite being locked away in prison for life. \"The Whisper Man\" the first of famed genre writer Alex North’s novels to be adapted into a movie, and for the uninitiated, it might remind you of <i>The Silence of the Lambs</i>, right down to Hannibal Lecter having an accomplice. — Arno",
+      "name": "Cliffhanger",
+      "ttconst": "tt1441251",
+      "rmconst": "rm4172833793",
+      "detail": "In theaters August 28",
+      "description": "No offense intended: You might have a better chance at catching this remake of Sylvester Stallone’s ‘90s comeback thriller on streaming. (The movie is being distributed by Row K Entertainment, a truly indie studio that’s having a tough time in the industry currently.) The plot has been tweaked to focus on a grief-stricken father-daughter duo, played by Pierce Brosnan and Lily James, who face off against a series of unexpected foes, all of them dangling off edges and corners of the Italian Alps. — Arno",
       "relatedconst": [
-        "nm0000134",
-        "nm0004395",
-        "nm1157358",
-        "nm0512934",
-        "nm0000474"
+        "nm0000112",
+        "nm4141252",
+        "nm4836100"
+      ]
+    },
+    {
+      "name": "Lanterns",
+      "ttconst": "tt26545992",
+      "rmconst": "rm345363202",
+      "detail": "Streaming on HBO Max",
+      "description": "Kyle Chandler (“Friday Night Lights”) and Aaron Pierre (<i>Rebel Ridge</i>) join the DC Universe as two members of the intergalactic peacekeeping group, the Green Lantern Corps. In what looks to be a very grounded premise for the HBO series, Hal Jordan (Chandler) takes new recruit John Stewart (Pierre) under his wing as the pair investigate a murder in Nebraska. Fans of the “Watchmen” limited series will be interested to know that “Lanterns” shared co-creator in Damon Lindelof (\"Lost,\" \"The Leftovers\"), who worked wonders with that source material. Crossing our ring fingers that he can do the same for the DCU. — James",
+      "relatedconst": [
+        "nm7543974",
+        "nm0151419",
+        "nm0277213",
+        "nm0001473"
       ],
-      "viconst": "vi1096534809"
+      "viconst": "vi33868569"
+    },
+    {
+      "name": "Outer Banks",
+      "ttconst": "tt10293938",
+      "rmconst": "rm4246979074",
+      "detail": "Season 5 streaming on Netflix",
+      "description": "We’ve only got 10 episodes left of this hit teen drama from Netflix, and you can expect even higher stakes as the Pogues seek out revenge. Last season ended with Chandler killing his son JJ while Kiara watched. Now, the gang are in a race to reclaim the Blue Crown and take vengeance on their fallen friend. The final season is coming in a single bingeable drop on August 20, just in time for summer’s end. — Adrienne",
+      "relatedconst": [
+        "nm6795924",
+        "nm3218692",
+        "nm6045536",
+        "nm6043149",
+        "nm5260792"
+      ],
+      "viconst": "vi291752729"
+    },
+    {
+      "name": "Insidious Out of the Further",
+      "ttconst": "tt32393988",
+      "rmconst": "rm1754318338",
+      "detail": "In theaters",
+      "description": "We’re up to the sixth Insidious installment in this franchise created by James Wan and Leigh Whannell about generational hauntings and the creepy purgatory that connects them all. In <i>Out of the Further</i>, a set of scary stalkers compel a young mother to use her powers of astral projection only to discover the Further is bleeding into the real world. Horror icon Lin Shaye returns as Elise, the medium who has been helping families battle their (literal) demons since the first film dropped sixteen years ago, alongside a whole host of new faces to the franchise. — Adrienne",
+      "relatedconst": [
+        "nm4633678",
+        "nm5155952",
+        "nm5114966",
+        "nm0005417",
+        "nm0819874"
+      ],
+      "viconst": "vi3693398809"
+    },
+    {
+      "name": "Mutiny",
+      "ttconst": "tt32338669",
+      "rmconst": "rm1262605314",
+      "detail": "In theaters",
+      "description": "From the director of <i>Plane</i> comes <i>Mutiny</i> (I'll let you guess where this one's set), the latest ultraviolent popcorn romp from action legend Jason Statham. After witnessing his billionaire boss's murder and being framed for the crime, Cole Reed (Statham) boards a cargo ship on a one-man crusade to avenge his death, only to discover an international conspiracy. Chaos ensues. Annabelle Wallis and Adrian Lester round out the cast. — Vanessa",
+      "relatedconst": [
+        "nm0005458",
+        "nm1834115",
+        "nm0504412"
+      ],
+      "viconst": "vi2636172057"
     },
     {
       "name": "Reacher",
@@ -140,20 +154,6 @@
         "nm0000949",
         "nm0355024"
       ]
-    },
-    {
-      "name": "Lanterns",
-      "ttconst": "tt26545992",
-      "rmconst": "rm345363202",
-      "detail": "Streaming on HBO Max",
-      "description": "Kyle Chandler (“Friday Night Lights”) and Aaron Pierre (<i>Rebel Ridge</i>) join the DC Universe as two members of the intergalactic peacekeeping group, the Green Lantern Corps. In what looks to be a very grounded premise for the HBO series, Hal Jordan (Chandler) takes new recruit John Stewart (Pierre) under his wing as the pair investigate a murder in Nebraska. Fans of the “Watchmen” limited series will be interested to know that “Lanterns” shared co-creator in Damon Lindelof (\"Lost,\" \"The Leftovers\"), who worked wonders with that source material. Crossing our ring fingers that he can do the same for the DCU. — James",
-      "relatedconst": [
-        "nm7543974",
-        "nm0151419",
-        "nm0277213",
-        "nm0001473"
-      ],
-      "viconst": "vi33868569"
     },
     {
       "name": "Ted Lasso",
@@ -261,6 +261,1798 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt21285562",
+        "title_text": {
+          "text": "The Dog Stars"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Das Ende der Sterne",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Das Ende der Sterne",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Das Ende der Sterne",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Guerra De Los Últimos",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Guerra De Los Últimos",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La Guerra De Los Últimos",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Собачьи звёзды",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Собачьи звёзды",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Chòm Sao Bất Diệt",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Constelația câinelui",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gwiazdozbiór Psa",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kutya csillagkép",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La constelación del perro",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La constellation du chien",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La guerra de los últimos",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Na Companhia das Estrelas",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ponto Sem Retorno",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Šuns žvaigždynas",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tähtedest juhitud",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Dog Stars - Le stelle dopo la fine",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vzhlížet ke hvězdám",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Сазвежђе пса",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Сузір'я великого пса",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ラスト・サバイバー",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "寂地",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "末世行者",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife."
+          }
+        },
+        "primary_image": {
+          "id": "rm110021890",
+          "url": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_.jpg",
+          "width": 2025,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 16,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 17
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 28
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Dog Stars"
+        },
+        "runtime": {
+          "seconds": 7080
+        }
+      },
+      {
+        "id": "tt11561116",
+        "title_text": {
+          "text": "The Whisper Man"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Whisper Man",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Suttogó",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Barnehviskeren",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Der Kinderflüsterer",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fısıltı Adam",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "L'uomo dei sussurri",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Homem que Sussurra",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Susurran tu nombre",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Szeptacz",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Шаптач",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Шёпот за окном",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Шепотун",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A grieving father and his young son relocate to the quiet town of Featherbank, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulate that Whisper Man worked with an accomplice."
+          }
+        },
+        "primary_image": {
+          "id": "rm3022767618",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 66,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 170
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 28
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Whisper Man"
+        },
+        "runtime": {
+          "seconds": 6660
+        }
+      },
+      {
+        "id": "tt1756855",
+        "title_text": {
+          "text": "Coyote vs. Acme"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "Spanish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs. Acme",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pera Kojot protiv sistema",
+                "country": {
+                  "id": "BA",
+                  "text": "Bosnia and Herzegovina"
+                },
+                "language": {
+                  "text": "Serbian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pera Kojot protiv sistema",
+                "country": {
+                  "id": "ME",
+                  "text": "Montenegro"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ptica trkačica: Kojot protiv sustava",
+                "country": {
+                  "id": "BA",
+                  "text": "Bosnia and Herzegovina"
+                },
+                "language": {
+                  "text": "Croatian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ptica trkačica: Kojot protiv sustava",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote Acme'ye Karşı",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote v. Acme",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coyote vs Acme",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gråben vs. Acme",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Koijots pret Acme",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Koiott vs. Acme",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kojootti vs. Acme",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kojot proti sistemu",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kojotas prieš Akmę",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Prérifarkas visszavág",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Struś Pędziwiatr i zemsta Kojota",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Койот проти Акме",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Койота срещу Акме",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Пера Којот против система",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Хитрый койот",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "לוני טונס מציגים: קיוטי נגד אקמי",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "โคโยตี้ ปะทะ แอคเมย์",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "Thai"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters."
+          }
+        },
+        "primary_image": {
+          "id": "rm2684535810",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTEyNTE4YzctODQxOC00OGVkLTkyMzktMzc1MGRhYzRkNWIxXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 30,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 54
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.8,
+          "vote_count": 957
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 28
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Animation"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Family"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG"
+        },
+        "original_title_text": {
+          "text": "Coyote vs. Acme"
+        },
+        "runtime": {
+          "seconds": 6060
+        }
+      },
+      {
+        "id": "tt1441251",
+        "title_text": {
+          "text": "Cliffhanger"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2027
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger 2: kuilun partaalla 2",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cliffhanger Reboot",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Riesgo Total Cliffhanger",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Risco Total",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Алпиниста",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Скалолаз",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Скелелаз",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A mountain guide and his daughter's alpine climbing business in the Italian Alps faces a tragic event, forcing them to confront and overcome adversity as dangerous foes emerge, unleashing chaos."
+          }
+        },
+        "primary_image": {
+          "id": "rm2916984322",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_.jpg",
+          "width": 926,
+          "height": 1397
+        },
+        "meter_ranking": {
+          "current_rank": 805,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 199
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2027,
+          "month": 2,
+          "day": 24
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "Cliffhanger"
+        },
+        "runtime": {
+          "seconds": 7200
+        }
+      },
+      {
+        "id": "tt26545992",
+        "title_text": {
+          "text": "Lanterns"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lámpások",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanternas",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Latarnie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фењери",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фонари",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "綠光軍團",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland."
+          }
+        },
+        "primary_image": {
+          "id": "rm2473903874",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1396
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 11
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.0,
+          "vote_count": 11367
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Lanterns"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
       {
         "id": "tt10293938",
         "title_text": {
@@ -674,7 +2466,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his father's disappearance."
+            "plain_text": "On North Carolina's Outer Banks, a tight-knit group of working-class teenagers known as the Pogues embark on dangerous treasure hunts, uncovering buried secrets, family mysteries, romance, and rivalries while fighting to stay together."
           }
         },
         "primary_image": {
@@ -684,16 +2476,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 103,
+          "current_rank": 7,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 38
+            "difference": 96
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 110349
+          "vote_count": 111763
         },
         "release_date": {
           "year": 2020,
@@ -899,6 +2691,33 @@
             },
             {
               "node": {
+                "text": "La noche del demonio: Están entre nosotros",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La noche del demonio: Están entre nosotros",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La noche del demonio: Están entre nosotros",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "La Noche del Demonio: Están Entre Nosotros",
                 "country": {
                   "id": "CL",
@@ -995,7 +2814,7 @@
             },
             {
               "node": {
-                "text": "Insidious: Fuera del Más Allá",
+                "text": "Insidious: Fuera del más allá",
                 "country": {
                   "id": "ES",
                   "text": "Spain"
@@ -1049,15 +2868,6 @@
             },
             {
               "node": {
-                "text": "La noche del demonio: Están entre nosotros",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "La Noche Del Demonio: Están Entre Nosotros",
                 "country": {
                   "id": "MX",
@@ -1085,6 +2895,18 @@
             },
             {
               "node": {
+                "text": "Ruhlar Bölgesi: Aramızdalar",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Sobrenatural: Agora Entre Nós",
                 "country": {
                   "id": "BR",
@@ -1103,7 +2925,7 @@
             },
             {
               "node": {
-                "text": "Астрална подмуклост: Изван даљине",
+                "text": "Астрална подмуклост: Они су међу нама",
                 "country": {
                   "id": "RS",
                   "text": "Serbia"
@@ -1145,15 +2967,16 @@
           "height": 2100
         },
         "meter_ranking": {
-          "current_rank": 75,
+          "current_rank": 5,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 53
+            "difference": 70
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.3,
+          "vote_count": 5261
         },
         "release_date": {
           "year": 2026,
@@ -1405,6 +3228,15 @@
             },
             {
               "node": {
+                "text": "Dumpis",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "El motín",
                 "country": {
                   "id": "ES",
@@ -1439,6 +3271,15 @@
                 "country": {
                   "id": "PT",
                   "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mutiny - lavastettu syylliseksi",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
                 }
               }
             },
@@ -1513,15 +3354,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 81,
+          "current_rank": 4,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 92
+            "difference": 77
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 5.7,
+          "vote_count": 7807
         },
         "release_date": {
           "year": 2026,
@@ -1555,1471 +3397,6 @@
         },
         "runtime": {
           "seconds": 5700
-        }
-      },
-      {
-        "id": "tt21285562",
-        "title_text": {
-          "text": "The Dog Stars"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Das Ende der Sterne",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Das Ende der Sterne",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "German"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Das Ende der Sterne",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Guerra De Los Últimos",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La Guerra De Los Últimos",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Собачьи звёзды",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Собачьи звёзды",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Chòm Sao Bất Diệt",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Constelația câinelui",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gwiazdozbiór Psa",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kutya csillagkép",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La constelación del perro",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La constellation du chien",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La guerra de los últimos",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Na Companhia das Estrelas",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ponto Sem Retorno",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Šuns žvaigždynas",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tähtedest juhitud",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Dog Stars - Le stelle dopo la fine",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vzhlížet ke hvězdám",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Сазвежђе пса",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Сузір'я великого пса",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ラスト・サバイバー",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "寂地",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "末世行者",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife."
-          }
-        },
-        "primary_image": {
-          "id": "rm110021890",
-          "url": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_.jpg",
-          "width": 2025,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 33,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 29
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 28
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Dog Stars"
-        },
-        "runtime": {
-          "seconds": 7080
-        }
-      },
-      {
-        "id": "tt1441251",
-        "title_text": {
-          "text": "Cliffhanger"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2027
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger 2: kuilun partaalla 2",
-                "country": {
-                  "id": "FI",
-                  "text": "Finland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cliffhanger Reboot",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Riesgo Total Cliffhanger",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Risco Total",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Алпиниста",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Скалолаз",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Скелелаз",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A mountain guide and his daughter's alpine climbing business in the Italian Alps faces a tragic event, forcing them to confront and overcome adversity as dangerous foes emerge, unleashing chaos."
-          }
-        },
-        "primary_image": {
-          "id": "rm2916984322",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTNlOGUxYjAtMTZhNi00Yjg1LWI0ZGYtY2Q0ZmI4OGQ3ZjAxXkEyXkFqcGc@._V1_.jpg",
-          "width": 926,
-          "height": 1397
-        },
-        "meter_ranking": {
-          "current_rank": 1004,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 215
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2027,
-          "month": 4,
-          "day": 29
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Cliffhanger"
-        },
-        "runtime": {
-          "seconds": 7200
-        }
-      },
-      {
-        "id": "tt1756855",
-        "title_text": {
-          "text": "Coyote vs. Acme"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "Spanish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote vs. Acme",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Pera Kojot protiv sistema",
-                "country": {
-                  "id": "BA",
-                  "text": "Bosnia and Herzegovina"
-                },
-                "language": {
-                  "text": "Serbian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Pera Kojot protiv sistema",
-                "country": {
-                  "id": "ME",
-                  "text": "Montenegro"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ptica trkačica: Kojot protiv sustava",
-                "country": {
-                  "id": "BA",
-                  "text": "Bosnia and Herzegovina"
-                },
-                "language": {
-                  "text": "Croatian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ptica trkačica: Kojot protiv sustava",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote Acme'ye Karşı",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coyote v. Acme",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gråben vs. Acme",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Koijots pret Acme",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Koiott vs. Acme",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kojootti vs. Acme",
-                "country": {
-                  "id": "FI",
-                  "text": "Finland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kojot proti sistemu",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kojotas prieš Akmę",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Prérifarkas visszavág",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Struś Pędziwiatr i zemsta Kojota",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Койот проти Акме",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Койота срещу Акме",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Пера Којот против система",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Хитрый койот",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "לוני טונס מציגים: קיוטי נגד אקמי",
-                "country": {
-                  "id": "IL",
-                  "text": "Israel"
-                },
-                "language": {
-                  "text": "Hebrew"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "โคโยตี้ ปะทะ แอคเมย์",
-                "country": {
-                  "id": "TH",
-                  "text": "Thailand"
-                },
-                "language": {
-                  "text": "Thai"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters."
-          }
-        },
-        "primary_image": {
-          "id": "rm2684535810",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTEyNTE4YzctODQxOC00OGVkLTkyMzktMzc1MGRhYzRkNWIxXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 84,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 134
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 28
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Animation"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Family"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG"
-        },
-        "original_title_text": {
-          "text": "Coyote vs. Acme"
-        },
-        "runtime": {
-          "seconds": 6060
-        }
-      },
-      {
-        "id": "tt11561116",
-        "title_text": {
-          "text": "The Whisper Man"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Whisper Man",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Suttogó",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Barnehviskeren",
-                "country": {
-                  "id": "NO",
-                  "text": "Norway"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Fısıltı Adam",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "L'uomo dei sussurri",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "O Homem que Sussurra",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Susurran tu nombre",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Szeptacz",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Шаптач",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Шёпот за окном",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Шепотун",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A grieving father and his young son relocate to the quiet town of Featherbank, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulate that Whisper Man worked with an accomplice."
-          }
-        },
-        "primary_image": {
-          "id": "rm3022767618",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 236,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 121
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 28
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Whisper Man"
-        },
-        "runtime": {
-          "seconds": 6660
         }
       },
       {
@@ -3430,16 +3807,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 1,
+          "current_rank": 2,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 23
+            "change_direction": "DOWN",
+            "difference": 1
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.0,
-          "vote_count": 304350
+          "vote_count": 306525
         },
         "release_date": {
           "year": 2022,
@@ -3717,6 +4094,15 @@
             },
             {
               "node": {
+                "text": "Ąžuolų gatvės gale",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Capătul Străzii Stejar",
                 "country": {
                   "id": "RO",
@@ -3840,7 +4226,7 @@
             },
             {
               "node": {
-                "text": "Крај Храстове улице",
+                "text": "Последњи дани Улице храстова",
                 "country": {
                   "id": "RS",
                   "text": "Serbia"
@@ -3909,13 +4295,13 @@
           "current_rank": 3,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 18
+            "change_direction": "FLAT",
+            "difference": 0
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.6,
-          "vote_count": 19054
+          "vote_count": 27175
         },
         "release_date": {
           "year": 2026,
@@ -4111,16 +4497,16 @@
           "height": 6000
         },
         "meter_ranking": {
-          "current_rank": 113,
+          "current_rank": 310,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 295
+            "change_direction": "DOWN",
+            "difference": 197
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.9,
-          "vote_count": 385
+          "aggregate_rating": 6.1,
+          "vote_count": 551
         },
         "release_date": {
           "year": 2026,
@@ -4153,315 +4539,7 @@
           "text": "The Wrong Girls"
         },
         "runtime": {
-          "seconds": 6000
-        }
-      },
-      {
-        "id": "tt26545992",
-        "title_text": {
-          "text": "Lanterns"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lámpások",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanternas",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Latarnie",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фењери",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фонари",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "綠光軍團",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland."
-          }
-        },
-        "primary_image": {
-          "id": "rm2473903874",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1396
-        },
-        "meter_ranking": {
-          "current_rank": 12,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 50
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.2,
-          "vote_count": 6621
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Lanterns"
-        },
-        "runtime": {
-          "seconds": 3600
+          "seconds": 5940
         }
       },
       {
@@ -4884,16 +4962,16 @@
           "height": 1000
         },
         "meter_ranking": {
-          "current_rank": 3,
+          "current_rank": 5,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 1
+            "difference": 2
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.7,
-          "vote_count": 458286
+          "vote_count": 460046
         },
         "release_date": {
           "year": 2020,
@@ -5256,16 +5334,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 27,
+          "current_rank": 60,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 9
+            "difference": 33
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 27848
+          "vote_count": 28105
         },
         "release_date": {
           "year": 2023,
@@ -5680,16 +5758,16 @@
           "height": 1551
         },
         "meter_ranking": {
-          "current_rank": 13,
+          "current_rank": 27,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 5
+            "difference": 14
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.3,
-          "vote_count": 3570
+          "vote_count": 4302
         },
         "release_date": {
           "year": 2026,
@@ -5929,6 +6007,15 @@
             },
             {
               "node": {
+                "text": "La Ultima Copa",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Ngôi Nhà Cuối Cùng",
                 "country": {
                   "id": "VN",
@@ -5954,6 +6041,15 @@
                 },
                 "language": {
                   "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Το τελευταίο σπίτι",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
                 }
               }
             },
@@ -6010,16 +6106,16 @@
           "height": 1280
         },
         "meter_ranking": {
-          "current_rank": 4,
+          "current_rank": 7,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 1
+            "difference": 3
           }
         },
         "ratings_summary": {
           "aggregate_rating": 5.5,
-          "vote_count": 41540
+          "vote_count": 47918
         },
         "release_date": {
           "year": 2026,
@@ -6278,6 +6374,24 @@
             },
             {
               "node": {
+                "text": "Strzępy",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Крхотине",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Осколки",
                 "country": {
                   "id": "RU",
@@ -6308,16 +6422,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 10,
+          "current_rank": 17,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 4
+            "difference": 7
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.8,
-          "vote_count": 2395
+          "aggregate_rating": 5.9,
+          "vote_count": 2938
         },
         "release_date": {
           "year": 2026,
@@ -6585,16 +6699,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 4,
+          "current_rank": 9,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 1
+            "difference": 5
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.4,
-          "vote_count": 8188
+          "vote_count": 10395
         },
         "release_date": {
           "year": 2026,
@@ -6816,16 +6930,16 @@
           "height": 1478
         },
         "meter_ranking": {
-          "current_rank": 214,
+          "current_rank": 471,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 125
+            "difference": 257
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.9,
-          "vote_count": 1188
+          "vote_count": 1391
         },
         "release_date": {
           "year": 2026,
@@ -6868,6 +6982,246 @@
       }
     ],
     "names": [
+      {
+        "id": "nm8624059",
+        "name_text": {
+          "text": "Jacob Elordi"
+        },
+        "primary_image": {
+          "id": "rm3901153026",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTUyNTBhYzYtNGEyNC00NjlhLWI4YWUtNzA5OTg1YjkyZDQxXkEyXkFqcGc@._V1_.jpg",
+          "width": 3193,
+          "height": 4847
+        }
+      },
+      {
+        "id": "nm4960279",
+        "name_text": {
+          "text": "Margaret Qualley"
+        },
+        "primary_image": {
+          "id": "rm65252610",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2E2ZThiYzYtYjc4MS00YTY0LTg0ODctNWNlYzZkOWE2MWYwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1145,
+          "height": 1443
+        }
+      },
+      {
+        "id": "nm0000982",
+        "name_text": {
+          "text": "Josh Brolin"
+        },
+        "primary_image": {
+          "id": "rm1057851904",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_.jpg",
+          "width": 266,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0005049",
+        "name_text": {
+          "text": "Allison Janney"
+        },
+        "primary_image": {
+          "id": "rm2649933312",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAyNjc2NzgxM15BMl5BanBnXkFtZTgwODQyMjM1MjE@._V1_.jpg",
+          "width": 1496,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000134",
+        "name_text": {
+          "text": "Robert De Niro"
+        },
+        "primary_image": {
+          "id": "rm418418432",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_.jpg",
+          "width": 303,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0004395",
+        "name_text": {
+          "text": "Adam Scott"
+        },
+        "primary_image": {
+          "id": "rm2732812033",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWVhOGE3NjYtZDlmMC00NTdhLTkzZmMtMjBlOGRmYWE0MGY5XkEyXkFqcGc@._V1_CR198,0,1375,2063_.jpg",
+          "width": 1375,
+          "height": 2063
+        }
+      },
+      {
+        "id": "nm1157358",
+        "name_text": {
+          "text": "Michelle Monaghan"
+        },
+        "primary_image": {
+          "id": "rm3812989698",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzUzMTNkY2QtOTBkZi00YjFlLThmMTgtM2NjNTQ1NzZiNTQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 3998,
+          "height": 6000
+        }
+      },
+      {
+        "id": "nm0512934",
+        "name_text": {
+          "text": "Hamish Linklater"
+        },
+        "primary_image": {
+          "id": "rm1898504960",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjEwNzE1Mjc1MV5BMl5BanBnXkFtZTgwNTgyMjgyNzE@._V1_.jpg",
+          "width": 1683,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000474",
+        "name_text": {
+          "text": "Michael Keaton"
+        },
+        "primary_image": {
+          "id": "rm1929554433",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTRlODM4M2QtOTUxMy00Y2NhLTk0ZWMtZGFjYWM2MTdmMzA0XkEyXkFqcGc@._V1_.jpg",
+          "width": 1860,
+          "height": 3000
+        }
+      },
+      {
+        "id": "nm0287182",
+        "name_text": {
+          "text": "Will Forte"
+        },
+        "primary_image": {
+          "id": "rm1919133440",
+          "url": "https://m.media-amazon.com/images/M/MV5BODE5ODkwNTg4Nl5BMl5BanBnXkFtZTcwODcwMTY1OQ@@._V1_.jpg",
+          "width": 1560,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm1078479",
+        "name_text": {
+          "text": "John Cena"
+        },
+        "primary_image": {
+          "id": "rm1723045888",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MzkzNTIyN15BMl5BanBnXkFtZTYwNzUzOTA2._V1_.jpg",
+          "width": 267,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm7093076",
+        "name_text": {
+          "text": "Lana Condor"
+        },
+        "primary_image": {
+          "id": "rm4214156288",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIwMjU2MTk5MV5BMl5BanBnXkFtZTgwMDg1MTM5NjE@._V1_.jpg",
+          "width": 506,
+          "height": 754
+        }
+      },
+      {
+        "id": "nm0126260",
+        "name_text": {
+          "text": "P.J. Byrne"
+        },
+        "primary_image": {
+          "id": "rm937044481",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDUzNzFiMzMtNTllMy00ZWU5LTkyMjktNmMwZGFkMDg2ZGFmXkEyXkFqcGc@._V1_.jpg",
+          "width": 2048,
+          "height": 1363
+        }
+      },
+      {
+        "id": "nm0000112",
+        "name_text": {
+          "text": "Pierce Brosnan"
+        },
+        "primary_image": {
+          "id": "rm2320011008",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTMwMjMxNzM4OV5BMl5BanBnXkFtZTcwNDM5NzkxMw@@._V1_.jpg",
+          "width": 293,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm4141252",
+        "name_text": {
+          "text": "Lily James"
+        },
+        "primary_image": {
+          "id": "rm965800704",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTgxMjM2NTAyMV5BMl5BanBnXkFtZTgwOTU4NjU2NDE@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm4836100",
+        "name_text": {
+          "text": "Nell Tiger Free"
+        },
+        "primary_image": {
+          "id": "rm246123778",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjBjY2NlM2EtZmQ2Yi00ZGM4LThlMWYtZTNhMWMwZmQ0Mzg2XkEyXkFqcGc@._V1_.jpg",
+          "width": 310,
+          "height": 332
+        }
+      },
+      {
+        "id": "nm7543974",
+        "name_text": {
+          "text": "Aaron Pierre"
+        },
+        "primary_image": {
+          "id": "rm367904257",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MmNhNTItOTVhMi00YWNhLTkwZjUtMDliMGM1YWRkNGJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 1030,
+          "height": 1254
+        }
+      },
+      {
+        "id": "nm0151419",
+        "name_text": {
+          "text": "Kyle Chandler"
+        },
+        "primary_image": {
+          "id": "rm2832564480",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
+          "width": 1391,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0277213",
+        "name_text": {
+          "text": "Nathan Fillion"
+        },
+        "primary_image": {
+          "id": "rm2737497600",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
+          "width": 576,
+          "height": 720
+        }
+      },
+      {
+        "id": "nm0001473",
+        "name_text": {
+          "text": "Laura Linney"
+        },
+        "primary_image": {
+          "id": "rm1109625344",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
+          "width": 289,
+          "height": 400
+        }
+      },
       {
         "id": "nm6795924",
         "name_text": {
@@ -7025,198 +7379,6 @@
         }
       },
       {
-        "id": "nm8624059",
-        "name_text": {
-          "text": "Jacob Elordi"
-        },
-        "primary_image": {
-          "id": "rm3901153026",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTUyNTBhYzYtNGEyNC00NjlhLWI4YWUtNzA5OTg1YjkyZDQxXkEyXkFqcGc@._V1_.jpg",
-          "width": 3193,
-          "height": 4847
-        }
-      },
-      {
-        "id": "nm4960279",
-        "name_text": {
-          "text": "Margaret Qualley"
-        },
-        "primary_image": {
-          "id": "rm65252610",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2E2ZThiYzYtYjc4MS00YTY0LTg0ODctNWNlYzZkOWE2MWYwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1145,
-          "height": 1443
-        }
-      },
-      {
-        "id": "nm0000982",
-        "name_text": {
-          "text": "Josh Brolin"
-        },
-        "primary_image": {
-          "id": "rm1057851904",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_.jpg",
-          "width": 266,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0005049",
-        "name_text": {
-          "text": "Allison Janney"
-        },
-        "primary_image": {
-          "id": "rm2649933312",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjAyNjc2NzgxM15BMl5BanBnXkFtZTgwODQyMjM1MjE@._V1_.jpg",
-          "width": 1496,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000112",
-        "name_text": {
-          "text": "Pierce Brosnan"
-        },
-        "primary_image": {
-          "id": "rm2320011008",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTMwMjMxNzM4OV5BMl5BanBnXkFtZTcwNDM5NzkxMw@@._V1_.jpg",
-          "width": 293,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm4141252",
-        "name_text": {
-          "text": "Lily James"
-        },
-        "primary_image": {
-          "id": "rm965800704",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTgxMjM2NTAyMV5BMl5BanBnXkFtZTgwOTU4NjU2NDE@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm4836100",
-        "name_text": {
-          "text": "Nell Tiger Free"
-        },
-        "primary_image": {
-          "id": "rm246123778",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjBjY2NlM2EtZmQ2Yi00ZGM4LThlMWYtZTNhMWMwZmQ0Mzg2XkEyXkFqcGc@._V1_.jpg",
-          "width": 310,
-          "height": 332
-        }
-      },
-      {
-        "id": "nm0287182",
-        "name_text": {
-          "text": "Will Forte"
-        },
-        "primary_image": {
-          "id": "rm1919133440",
-          "url": "https://m.media-amazon.com/images/M/MV5BODE5ODkwNTg4Nl5BMl5BanBnXkFtZTcwODcwMTY1OQ@@._V1_.jpg",
-          "width": 1560,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm1078479",
-        "name_text": {
-          "text": "John Cena"
-        },
-        "primary_image": {
-          "id": "rm1723045888",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ5MzkzNTIyN15BMl5BanBnXkFtZTYwNzUzOTA2._V1_.jpg",
-          "width": 267,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm7093076",
-        "name_text": {
-          "text": "Lana Condor"
-        },
-        "primary_image": {
-          "id": "rm4214156288",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjIwMjU2MTk5MV5BMl5BanBnXkFtZTgwMDg1MTM5NjE@._V1_.jpg",
-          "width": 506,
-          "height": 754
-        }
-      },
-      {
-        "id": "nm0126260",
-        "name_text": {
-          "text": "P.J. Byrne"
-        },
-        "primary_image": {
-          "id": "rm937044481",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDUzNzFiMzMtNTllMy00ZWU5LTkyMjktNmMwZGFkMDg2ZGFmXkEyXkFqcGc@._V1_.jpg",
-          "width": 2048,
-          "height": 1363
-        }
-      },
-      {
-        "id": "nm0000134",
-        "name_text": {
-          "text": "Robert De Niro"
-        },
-        "primary_image": {
-          "id": "rm418418432",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjAwNDU3MzcyOV5BMl5BanBnXkFtZTcwMjc0MTIxMw@@._V1_.jpg",
-          "width": 303,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0004395",
-        "name_text": {
-          "text": "Adam Scott"
-        },
-        "primary_image": {
-          "id": "rm2732812033",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWVhOGE3NjYtZDlmMC00NTdhLTkzZmMtMjBlOGRmYWE0MGY5XkEyXkFqcGc@._V1_CR198,0,1375,2063_.jpg",
-          "width": 1375,
-          "height": 2063
-        }
-      },
-      {
-        "id": "nm1157358",
-        "name_text": {
-          "text": "Michelle Monaghan"
-        },
-        "primary_image": {
-          "id": "rm3812989698",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzUzMTNkY2QtOTBkZi00YjFlLThmMTgtM2NjNTQ1NzZiNTQ5XkEyXkFqcGc@._V1_.jpg",
-          "width": 3998,
-          "height": 6000
-        }
-      },
-      {
-        "id": "nm0512934",
-        "name_text": {
-          "text": "Hamish Linklater"
-        },
-        "primary_image": {
-          "id": "rm1898504960",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjEwNzE1Mjc1MV5BMl5BanBnXkFtZTgwNTgyMjgyNzE@._V1_.jpg",
-          "width": 1683,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000474",
-        "name_text": {
-          "text": "Michael Keaton"
-        },
-        "primary_image": {
-          "id": "rm1929554433",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTRlODM4M2QtOTUxMy00Y2NhLTk0ZWMtZGFjYWM2MTdmMzA0XkEyXkFqcGc@._V1_.jpg",
-          "width": 1860,
-          "height": 3000
-        }
-      },
-      {
         "id": "nm2024927",
         "name_text": {
           "text": "Alan Ritchson"
@@ -7370,54 +7532,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BOWIxOTc1NDMtMTExNC00YjgwLTg1ZjctMDEzMzRjODdjNTRmXkEyXkFqcGc@._V1_.jpg",
           "width": 1071,
           "height": 1053
-        }
-      },
-      {
-        "id": "nm7543974",
-        "name_text": {
-          "text": "Aaron Pierre"
-        },
-        "primary_image": {
-          "id": "rm367904257",
-          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MmNhNTItOTVhMi00YWNhLTkwZjUtMDliMGM1YWRkNGJjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1030,
-          "height": 1254
-        }
-      },
-      {
-        "id": "nm0151419",
-        "name_text": {
-          "text": "Kyle Chandler"
-        },
-        "primary_image": {
-          "id": "rm2832564480",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
-          "width": 1391,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0277213",
-        "name_text": {
-          "text": "Nathan Fillion"
-        },
-        "primary_image": {
-          "id": "rm2737497600",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
-          "width": 576,
-          "height": 720
-        }
-      },
-      {
-        "id": "nm0001473",
-        "name_text": {
-          "text": "Laura Linney"
-        },
-        "primary_image": {
-          "id": "rm1109625344",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
-          "width": 289,
-          "height": 400
         }
       },
       {
@@ -7820,6 +7934,36 @@
     "videos": [],
     "images": [
       {
+        "id": "rm2841105666",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjdkMTY4YjktY2ExNC00NjIxLTk0MDQtYTRlZTg2YTkzMTcyXkEyXkFqcGc@._V1_.jpg",
+        "width": 6240,
+        "height": 4160
+      },
+      {
+        "id": "rm1195690754",
+        "url": "https://m.media-amazon.com/images/M/MV5BOWE5ODkyY2YtY2VkOS00ZjkxLTkzMjItZTlkY2RhZWI1ZmExXkEyXkFqcGc@._V1_.jpg",
+        "width": 4450,
+        "height": 2967
+      },
+      {
+        "id": "rm948810242",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGE2OTllNTQtNzJiZi00YTRkLTkzOTctMWVlNjk5ODExNTUyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1685
+      },
+      {
+        "id": "rm4172833793",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2U4ZDBiOGItNWFlNC00NjI3LTk5ODAtOWE2YTQxYjE5MmE2XkEyXkFqcGc@._V1_.jpg",
+        "width": 8192,
+        "height": 4320
+      },
+      {
+        "id": "rm345363202",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1281
+      },
+      {
         "id": "rm4246979074",
         "url": "https://m.media-amazon.com/images/M/MV5BZjczNzk1YjAtYTAwYy00OTIzLTliYTItYWE1ZjQ3YmU4MGRhXkEyXkFqcGc@._V1_.jpg",
         "width": 3600,
@@ -7838,30 +7982,6 @@
         "height": 2000
       },
       {
-        "id": "rm2841105666",
-        "url": "https://m.media-amazon.com/images/M/MV5BNjdkMTY4YjktY2ExNC00NjIxLTk0MDQtYTRlZTg2YTkzMTcyXkEyXkFqcGc@._V1_.jpg",
-        "width": 6240,
-        "height": 4160
-      },
-      {
-        "id": "rm4172833793",
-        "url": "https://m.media-amazon.com/images/M/MV5BY2U4ZDBiOGItNWFlNC00NjI3LTk5ODAtOWE2YTQxYjE5MmE2XkEyXkFqcGc@._V1_.jpg",
-        "width": 8192,
-        "height": 4320
-      },
-      {
-        "id": "rm948810242",
-        "url": "https://m.media-amazon.com/images/M/MV5BOGE2OTllNTQtNzJiZi00YTRkLTkzOTctMWVlNjk5ODExNTUyXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1685
-      },
-      {
-        "id": "rm1195690754",
-        "url": "https://m.media-amazon.com/images/M/MV5BOWE5ODkyY2YtY2VkOS00ZjkxLTkzMjItZTlkY2RhZWI1ZmExXkEyXkFqcGc@._V1_.jpg",
-        "width": 4450,
-        "height": 2967
-      },
-      {
         "id": "rm1487374850",
         "url": "https://m.media-amazon.com/images/M/MV5BODdmZTQyZGItZjMyNi00NDJmLWE4ZDMtMGNkZWFjMjlmZGI1XkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
@@ -7878,12 +7998,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BMDliNzEyNGYtZDY2Ni00Nzk3LTllMDctZTY1ZjczNDhjOWZiXkEyXkFqcGc@._V1_.jpg",
         "width": 4500,
         "height": 3000
-      },
-      {
-        "id": "rm345363202",
-        "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1281
       },
       {
         "id": "rm645315842",
