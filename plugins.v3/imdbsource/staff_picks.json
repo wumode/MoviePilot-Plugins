@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 18:54:26",
+  "updated_at": "2026-09-03 00:55:55",
   "entries": [
     {
       "name": "The Gentlemen",
@@ -28,6 +28,20 @@
         "nm9841972"
       ],
       "viconst": "vi1130089241"
+    },
+    {
+      "name": "Lanterns",
+      "ttconst": "tt26545992",
+      "rmconst": "rm345363202",
+      "detail": "Streaming on HBO Max",
+      "description": "Kyle Chandler (“Friday Night Lights”) and Aaron Pierre (<i>Rebel Ridge</i>) join the DC Universe as two members of the intergalactic peacekeeping group, the Green Lantern Corps. In what looks to be a very grounded premise for the HBO series, Hal Jordan (Chandler) takes new recruit John Stewart (Pierre) under his wing as the pair investigate a murder in Nebraska. Fans of the “Watchmen” limited series will be interested to know that “Lanterns” shared co-creator in Damon Lindelof (\"Lost,\" \"The Leftovers\"), who worked wonders with that source material. Crossing our ring fingers that he can do the same for the DCU. — James",
+      "relatedconst": [
+        "nm7543974",
+        "nm0151419",
+        "nm0277213",
+        "nm0001473"
+      ],
+      "viconst": "vi33868569"
     },
     {
       "name": "Hope",
@@ -599,7 +613,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.0,
-          "vote_count": 182598
+          "vote_count": 182746
         },
         "release_date": {
           "year": 2024,
@@ -855,6 +869,314 @@
         },
         "runtime": {
           "seconds": 6600
+        }
+      },
+      {
+        "id": "tt26545992",
+        "title_text": {
+          "text": "Lanterns"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lámpások",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanternas",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Latarnie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фењери",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фонари",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "綠光軍團",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland."
+          }
+        },
+        "primary_image": {
+          "id": "rm2473903874",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1396
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "FLAT",
+            "difference": 0
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.9,
+          "vote_count": 20719
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Lanterns"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -1184,7 +1506,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.9,
-          "vote_count": 1226
+          "vote_count": 1271
         },
         "release_date": {
           "year": 2026,
@@ -1629,7 +1951,7 @@
         "release_date": {
           "year": 2026,
           "month": 9,
-          "day": 11
+          "day": 10
         },
         "title_genres": {
           "genres": [
@@ -2335,7 +2657,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 154017
+          "vote_count": 154128
         },
         "release_date": {
           "year": 2022,
@@ -3092,7 +3414,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 226035
+          "vote_count": 226074
         },
         "release_date": {
           "year": 2022,
@@ -3386,6 +3708,18 @@
             },
             {
               "node": {
+                "text": "バイオハザード",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "惡靈古堡：爆發夜",
                 "country": {
                   "id": "TW",
@@ -3413,10 +3747,10 @@
           }
         },
         "primary_image": {
-          "id": "rm3610693122",
-          "url": "https://m.media-amazon.com/images/M/MV5BN2Y5YTQ1NGYtMmRjYi00ODAyLWFhY2EtYjM0Yzc2NjU4N2MyXkEyXkFqcGc@._V1_.jpg",
-          "width": 6072,
-          "height": 9000
+          "id": "rm189332994",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 2964
         },
         "meter_ranking": {
           "current_rank": 52,
@@ -3778,7 +4112,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 122196
+          "vote_count": 122273
         },
         "release_date": {
           "year": 2025,
@@ -4505,7 +4839,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.9,
-          "vote_count": 364259
+          "vote_count": 364292
         },
         "release_date": {
           "year": 2011,
@@ -4811,6 +5145,18 @@
                 "country": {
                   "id": "IN",
                   "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
                 },
                 "language": {
                   "text": "English"
@@ -5318,7 +5664,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 5.1,
-          "vote_count": 279
+          "vote_count": 285
         },
         "release_date": {
           "year": 2026,
@@ -5444,6 +5790,54 @@
         "id": "nm9841972",
         "name_text": {
           "text": "Somiron Sarkar"
+        }
+      },
+      {
+        "id": "nm7543974",
+        "name_text": {
+          "text": "Aaron Pierre"
+        },
+        "primary_image": {
+          "id": "rm367904257",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MmNhNTItOTVhMi00YWNhLTkwZjUtMDliMGM1YWRkNGJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 1030,
+          "height": 1254
+        }
+      },
+      {
+        "id": "nm0151419",
+        "name_text": {
+          "text": "Kyle Chandler"
+        },
+        "primary_image": {
+          "id": "rm2832564480",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
+          "width": 1391,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0277213",
+        "name_text": {
+          "text": "Nathan Fillion"
+        },
+        "primary_image": {
+          "id": "rm2737497600",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
+          "width": 576,
+          "height": 720
+        }
+      },
+      {
+        "id": "nm0001473",
+        "name_text": {
+          "text": "Laura Linney"
+        },
+        "primary_image": {
+          "id": "rm1109625344",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
+          "width": 289,
+          "height": 400
         }
       },
       {
@@ -6222,6 +6616,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BOGVhYmE2NDMtYjc3MC00Yjg3LWE0YTEtODk4NTU4NjgzNzRlXkEyXkFqcGc@._V1_.jpg",
         "width": 3840,
         "height": 1603
+      },
+      {
+        "id": "rm345363202",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1281
       },
       {
         "id": "rm3743597570",
