@@ -1,48 +1,6 @@
 {
-  "updated_at": "2026-09-03 00:55:55",
+  "updated_at": "2026-09-09 06:54:23",
   "entries": [
-    {
-      "name": "The Gentlemen",
-      "ttconst": "tt13210838",
-      "rmconst": "rm649853186",
-      "detail": "Season 2 premieres September 3 on Netflix",
-      "description": "Guy Ritchie's hit action-comedy series, which sports an 8.0 IMDb rating, returns to Netflix for Season 2. The new season finds Eddie Horniman (Theo James) and Susie Glass (Kaya Scodelario) embracing Britain's criminal underground after their hostile takeover of Susie's now-imprisoned dad's weed empire. The show is  pulling an \"Emily in Paris\" of sorts by shifting some of the action to Italy for a spell. — Arno",
-      "relatedconst": [
-        "nm3772243",
-        "nm2546012",
-        "nm0935653",
-        "nm0002064",
-        "nm3958526"
-      ],
-      "viconst": "vi4070951449"
-    },
-    {
-      "name": "Mayday",
-      "ttconst": "tt28014327",
-      "rmconst": "rm2186069506",
-      "detail": "Premieres September 4 on Apple TV+",
-      "description": "What decade is it? Because here come Ryan Reynolds and Sir Kenneth Branagh with a Cold War-era action-comedy movie set inside the late ‘80s Soviet Union. You will guess Reynolds's role correctly: He plays a military operative (a U.S. Navy pilot) who gets stranded behind enemy lines. Branagh gets the Jackman role as a gruff former KGB agent with a secret fetish for American culture. Okay, I am staying home yet again on a Friday night (Apple TV tends to do this to me with their original movies). The nice guys who co-directed <i>Dungeons & Dragons: Honor Among Thieves</i> are behind this survival story. — Arno",
-      "relatedconst": [
-        "nm0005351",
-        "nm0000110",
-        "nm9841972"
-      ],
-      "viconst": "vi1130089241"
-    },
-    {
-      "name": "Lanterns",
-      "ttconst": "tt26545992",
-      "rmconst": "rm345363202",
-      "detail": "Streaming on HBO Max",
-      "description": "Kyle Chandler (“Friday Night Lights”) and Aaron Pierre (<i>Rebel Ridge</i>) join the DC Universe as two members of the intergalactic peacekeeping group, the Green Lantern Corps. In what looks to be a very grounded premise for the HBO series, Hal Jordan (Chandler) takes new recruit John Stewart (Pierre) under his wing as the pair investigate a murder in Nebraska. Fans of the “Watchmen” limited series will be interested to know that “Lanterns” shared co-creator in Damon Lindelof (\"Lost,\" \"The Leftovers\"), who worked wonders with that source material. Crossing our ring fingers that he can do the same for the DCU. — James",
-      "relatedconst": [
-        "nm7543974",
-        "nm0151419",
-        "nm0277213",
-        "nm0001473"
-      ],
-      "viconst": "vi33868569"
-    },
     {
       "name": "Hope",
       "ttconst": "tt27369017",
@@ -86,6 +44,48 @@
         "nm7035760"
       ],
       "viconst": "vi3210660633"
+    },
+    {
+      "name": "Lanterns",
+      "ttconst": "tt26545992",
+      "rmconst": "rm345363202",
+      "detail": "Streaming on HBO Max",
+      "description": "Kyle Chandler (“Friday Night Lights”) and Aaron Pierre (<i>Rebel Ridge</i>) join the DC Universe as two members of the intergalactic peacekeeping group, the Green Lantern Corps. In what looks to be a very grounded premise for the HBO series, Hal Jordan (Chandler) takes new recruit John Stewart (Pierre) under his wing as the pair investigate a murder in Nebraska. Fans of the “Watchmen” limited series will be interested to know that “Lanterns” has a shared co-creator in Damon Lindelof (\"Lost,\" \"The Leftovers\"), who worked wonders with that source material. Crossing our ring fingers that he can do the same for the DCU. — James",
+      "relatedconst": [
+        "nm7543974",
+        "nm0151419",
+        "nm0277213",
+        "nm0001473"
+      ],
+      "viconst": "vi33868569"
+    },
+    {
+      "name": "The Gentlemen",
+      "ttconst": "tt13210838",
+      "rmconst": "rm649853186",
+      "detail": "Season 2 streaming on Netflix",
+      "description": "Guy Ritchie's hit action-comedy series, which sports an 8.0 IMDb rating, returns to Netflix for Season 2. The new season finds Eddie Horniman (Theo James) and Susie Glass (Kaya Scodelario) embracing Britain's criminal underground after their hostile takeover of Susie's now-imprisoned dad's weed empire. The show is  pulling an \"Emily in Paris\" of sorts by shifting some of the action to Italy for a spell. — Arno",
+      "relatedconst": [
+        "nm3772243",
+        "nm2546012",
+        "nm0935653",
+        "nm0002064",
+        "nm3958526"
+      ],
+      "viconst": "vi4070951449"
+    },
+    {
+      "name": "Mayday",
+      "ttconst": "tt28014327",
+      "rmconst": "rm2186069506",
+      "detail": "Streaming on Apple TV+",
+      "description": "What decade is it? Because here come Ryan Reynolds and Sir Kenneth Branagh with a Cold War-era action-comedy movie set inside the late ‘80s Soviet Union. You will guess Reynolds's role correctly: He plays a military operative (a U.S. Navy pilot) who gets stranded behind enemy lines. Branagh gets the Jackman role as a gruff former KGB agent with a secret fetish for American culture. Okay, I am staying home yet again on a Friday night (Apple TV tends to do this to me with their original movies). The nice guys who co-directed <i>Dungeons & Dragons: Honor Among Thieves</i> are behind this survival story. — Arno",
+      "relatedconst": [
+        "nm0005351",
+        "nm0000110",
+        "nm9841972"
+      ],
+      "viconst": "vi1130089241"
     },
     {
       "name": "Slow Horses",
@@ -250,6 +250,1581 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt27369017",
+        "title_text": {
+          "text": "Hope"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "BN",
+                  "text": "Brunei"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Espoir",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope - Remény",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope: El primer impacto",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope: O Primeiro Impacto",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "HOPE：逆襲希望港",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hopeu",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lootuse sadam",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vùng Tử Địa",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Witajcie w Hope",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Нада",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Надежда",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "希望：末日血戰",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before."
+          }
+        },
+        "primary_image": {
+          "id": "rm384091394",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_.jpg",
+          "width": 8100,
+          "height": 12000
+        },
+        "meter_ranking": {
+          "current_rank": 32,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 48
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.9,
+          "vote_count": 1776
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 9,
+          "day": 9
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Hopeu"
+        },
+        "runtime": {
+          "seconds": 9600
+        }
+      },
+      {
+        "id": "tt32588798",
+        "title_text": {
+          "text": "Practical Magic 2"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hechizo de amor: La magia continúa",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hechizo de amor: La magia continúa",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les ensorceleuses 2",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les ensorceleuses 2",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2 - Zauberhafte Schwestern",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2 - Zauberhafte Schwestern",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic: Family Legacy",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic: Family Legacy",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Практическая магия 2",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Практическая магия 2",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amori & incantesimi 2",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Amour et magie 2",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Aşkın Büyüsü 2",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Átkozott boszorkák 2.",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bùa Yêu: Bí Mật Gia Tộc",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Čarovnice za vsak dan 2",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ce vrăji mai fac fetele 2",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Da Magia à Sedução: Feitiço de Amor",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hechizo de Amor: La Magia Continúa",
+                "country": {
+                  "id": "DO",
+                  "text": "Dominican Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Igapäevane nõiakunst 2",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Les Ensorceleuses 2",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Magia e Sedução: Segredos de Família",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Magická posadnutosť 2",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Magická posedlost 2",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Magija 2",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2: The Book of Magic",
+                "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic 2: Zauberhafte Schwestern",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Practical Magic: Magi i familien",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Praktinė magija 2",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Praktiskā maģija 2",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Totalna magia 2",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Практична магија 2",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Практична магія 2",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Приложна магия 2",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Պրակտիկ մոգություն 2",
+                "country": {
+                  "id": "AM",
+                  "text": "Armenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "קסם מעשי 2",
+                "country": {
+                  "id": "IL",
+                  "text": "Israel"
+                },
+                "language": {
+                  "text": "Hebrew"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "السحر العملي 2",
+                "country": {
+                  "id": "KW",
+                  "text": "Kuwait"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "プラクティカル・マジック　魔女たちの秘密",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "巫法闖情關：魔女秘密",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "超異能快感：魔法之書",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other."
+          }
+        },
+        "primary_image": {
+          "id": "rm2879453442",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
+        },
+        "meter_ranking": {
+          "current_rank": 19,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 23
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 9,
+          "day": 10
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "Practical Magic 2"
+        },
+        "runtime": {
+          "seconds": 6600
+        }
+      },
+      {
+        "id": "tt36983905",
+        "title_text": {
+          "text": "The Uprising"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising - Für die Freiheit",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising - Für die Freiheit",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising - Für die Freiheit",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Revolta",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El hombre que desafió al rey",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kapina",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La révolte",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Rage",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Uprising - Cuore ribelle",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ülestõus",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Восставший",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Побуна",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Based on the true story of the uprising that inspired the legend of Robin Hood, Andrew Garfield stars as the leader of a rebellion against the tyranny of King Richard II in a fight for justice."
+          }
+        },
+        "primary_image": {
+          "id": "rm1547617794",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1600
+        },
+        "meter_ranking": {
+          "current_rank": 49,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 26
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 9,
+          "day": 11
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "War"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Uprising"
+        },
+        "runtime": {
+          "seconds": 7620
+        }
+      },
+      {
+        "id": "tt26545992",
+        "title_text": {
+          "text": "Lanterns"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lámpások",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanternas",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Latarnie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фењери",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фонари",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "綠光軍團",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland."
+          }
+        },
+        "primary_image": {
+          "id": "rm2473903874",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1396
+        },
+        "meter_ranking": {
+          "current_rank": 3,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 2
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.8,
+          "vote_count": 27100
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Lanterns"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
       {
         "id": "tt13210838",
         "title_text": {
@@ -604,16 +2179,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 19,
+          "current_rank": 1,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 16
+            "difference": 18
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.0,
-          "vote_count": 182746
+          "vote_count": 187337
         },
         "release_date": {
           "year": 2024,
@@ -792,6 +2367,15 @@
             },
             {
               "node": {
+                "text": "Báo Động Mayday",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Katastrofa w duecie",
                 "country": {
                   "id": "PL",
@@ -822,15 +2406,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 67,
+          "current_rank": 1,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 291
+            "difference": 66
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.9,
+          "vote_count": 15810
         },
         "release_date": {
           "year": 2026,
@@ -869,1375 +2454,6 @@
         },
         "runtime": {
           "seconds": 6600
-        }
-      },
-      {
-        "id": "tt26545992",
-        "title_text": {
-          "text": "Lanterns"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lámpások",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanternas",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Latarnie",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фењери",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фонари",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "綠光軍團",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Lanterns follows new recruit John Stewart and Lantern legend Hal Jordan, two intergalactic cops drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland."
-          }
-        },
-        "primary_image": {
-          "id": "rm2473903874",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1396
-        },
-        "meter_ranking": {
-          "current_rank": 1,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "FLAT",
-            "difference": 0
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.9,
-          "vote_count": 20719
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Lanterns"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt27369017",
-        "title_text": {
-          "text": "Hope"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "BN",
-                  "text": "Brunei"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope - Remény",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hope: O Primeiro Impacto",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "HOPE：逆襲希望港",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hopeu",
-                "country": {
-                  "id": "KR",
-                  "text": "South Korea"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lootuse sadam",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vùng Tử Địa",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Witajcie w Hope",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Нада",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Надежда",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "希望：末日血戰",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before."
-          }
-        },
-        "primary_image": {
-          "id": "rm384091394",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_.jpg",
-          "width": 8100,
-          "height": 12000
-        },
-        "meter_ranking": {
-          "current_rank": 80,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 60
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 6.9,
-          "vote_count": 1271
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 9,
-          "day": 9
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "Hopeu"
-        },
-        "runtime": {
-          "seconds": 9600
-        }
-      },
-      {
-        "id": "tt32588798",
-        "title_text": {
-          "text": "Practical Magic 2"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hechizo de amor: La magia continúa",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hechizo de amor: La magia continúa",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Les ensorceleuses 2",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Les ensorceleuses 2",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2 - Zauberhafte Schwestern",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2 - Zauberhafte Schwestern",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "German"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Практическая магия 2",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Практическая магия 2",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amori & incantesimi 2",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Amour et magie 2",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Aşkın Büyüsü 2",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Átkozott boszorkák 2.",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Bùa Yêu: Bí Mật Gia Tộc",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Da Magia à Sedução: Feitiço de Amor",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Igapäevane nõiakunst 2",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Magia e Sedução: Segredos de Família",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic 2: Zauberhafte Schwestern",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic: Family Legacy",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Practical Magic: Magi i familien",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Totalna magia 2",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Практична магија 2",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "巫法闖情關：魔女秘密",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "超異能快感：魔法之書",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other."
-          }
-        },
-        "primary_image": {
-          "id": "rm2879453442",
-          "url": "https://m.media-amazon.com/images/M/MV5BMWUyY2UyNjgtYTg5MC00MDZmLWE1MzEtZmU2YWE2ZTMzMjUwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
-        },
-        "meter_ranking": {
-          "current_rank": 42,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 48
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 9,
-          "day": 10
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "Practical Magic 2"
-        },
-        "runtime": {
-          "seconds": 6600
-        }
-      },
-      {
-        "id": "tt36983905",
-        "title_text": {
-          "text": "The Uprising"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Uprising",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising - Für die Freiheit",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising - Für die Freiheit",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "German"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising - Für die Freiheit",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Revolta",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El hombre que desafió al rey",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Kapina",
-                "country": {
-                  "id": "FI",
-                  "text": "Finland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La révolte",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Rage",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Uprising - Cuore ribelle",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ülestõus",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Восставший",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Побуна",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Based on the true story of the uprising that inspired the legend of Robin Hood, Andrew Garfield stars as the leader of a rebellion against the tyranny of King Richard II in a fight for justice."
-          }
-        },
-        "primary_image": {
-          "id": "rm2436613634",
-          "url": "https://m.media-amazon.com/images/M/MV5BODc1ZWRlMjQtMDc4NC00ODczLWIwNGMtZmFlZjA3YzIyZWVhXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1440
-        },
-        "meter_ranking": {
-          "current_rank": 75,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 75
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 9,
-          "day": 11
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "History"
-              }
-            },
-            {
-              "genre": {
-                "text": "War"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Uprising"
-        },
-        "runtime": {
-          "seconds": 7620
         }
       },
       {
@@ -2642,22 +2858,22 @@
           }
         },
         "primary_image": {
-          "id": "rm1717285890",
-          "url": "https://m.media-amazon.com/images/M/MV5BY2NkNTBiYWUtMGFiZS00MGI4LWE3YjMtZTU3NzhhZmEyYzlkXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
+          "id": "rm3037722626",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmM2NDhmYjktNTIzZC00YjIwLWE1ZmUtNzM1MTNiMTU2NjdjXkEyXkFqcGc@._V1_.jpg",
+          "width": 605,
+          "height": 755
         },
         "meter_ranking": {
-          "current_rank": 27,
+          "current_rank": 21,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
+            "change_direction": "UP",
             "difference": 6
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 154128
+          "vote_count": 154910
         },
         "release_date": {
           "year": 2022,
@@ -2838,11 +3054,11 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 352,
+          "current_rank": 82,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 2
+            "difference": 270
           }
         },
         "ratings_summary": {
@@ -3405,16 +3621,16 @@
           "height": 2000
         },
         "meter_ranking": {
-          "current_rank": 133,
+          "current_rank": 74,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 35
+            "change_direction": "UP",
+            "difference": 59
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 226074
+          "vote_count": 226212
         },
         "release_date": {
           "year": 2022,
@@ -3482,6 +3698,15 @@
               "node": {
                 "text": "Resident Evil",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -3493,6 +3718,15 @@
                 "country": {
                   "id": "BN",
                   "text": "Brunei"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
                 }
               }
             },
@@ -3533,6 +3767,24 @@
               "node": {
                 "text": "Resident Evil",
                 "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil",
+                "country": {
                   "id": "FR",
                   "text": "France"
                 }
@@ -3544,30 +3796,6 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Resident Evil",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Resident Evil",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -3660,15 +3888,6 @@
             },
             {
               "node": {
-                "text": "A Kaptár",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
                 "text": "Resident Evil: Noche Cero",
                 "country": {
                   "id": "AR",
@@ -3678,10 +3897,10 @@
             },
             {
               "node": {
-                "text": "Vùng Đất Quỷ Dữ",
+                "text": "Resident Evil: Noche Cero",
                 "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -3694,6 +3913,42 @@
                 },
                 "language": {
                   "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Обитель зла",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Kaptár",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil: Noche cero",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vùng Đất Quỷ Dữ",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
                 }
               }
             },
@@ -3747,17 +4002,17 @@
           }
         },
         "primary_image": {
-          "id": "rm189332994",
-          "url": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 2964
+          "id": "rm2159016706",
+          "url": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 52,
+          "current_rank": 29,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 6
+            "difference": 23
           }
         },
         "ratings_summary": {
@@ -4103,16 +4358,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 70,
+          "current_rank": 25,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 6
+            "change_direction": "UP",
+            "difference": 45
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 122273
+          "vote_count": 123025
         },
         "release_date": {
           "year": 2025,
@@ -4199,8 +4454,32 @@
               "node": {
                 "text": "The Love Hypothesis",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
                   "id": "IN",
                   "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
                 },
                 "language": {
                   "text": "English"
@@ -4222,6 +4501,18 @@
                 "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -4278,11 +4569,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 59,
+          "current_rank": 158,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 2009
+            "change_direction": "DOWN",
+            "difference": 99
           }
         },
         "ratings_summary": {
@@ -4830,16 +5121,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 72,
+          "current_rank": 61,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
+            "change_direction": "UP",
             "difference": 11
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.9,
-          "vote_count": 364292
+          "vote_count": 364515
         },
         "release_date": {
           "year": 2011,
@@ -5020,7 +5311,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Follows Deborah Wayne as she enters her freshman year at Hillman College, her parents' HBCU alma mater, where she must escape their shadow and build her own legacy."
+            "plain_text": "Deborah Wayne enters her freshman year at Hillman College, her parents' HBCU alma mater, where she must escape their shadow and build her own legacy."
           }
         },
         "primary_image": {
@@ -5030,11 +5321,11 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 1602,
+          "current_rank": 628,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 703
+            "change_direction": "UP",
+            "difference": 974
           }
         },
         "ratings_summary": {
@@ -5267,15 +5558,16 @@
           "height": 3600
         },
         "meter_ranking": {
-          "current_rank": 205,
+          "current_rank": 31,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 71
+            "change_direction": "UP",
+            "difference": 174
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.7,
+          "vote_count": 227
         },
         "release_date": {
           "year": 2026,
@@ -5284,11 +5576,6 @@
         },
         "title_genres": {
           "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
             {
               "genre": {
                 "text": "Biography"
@@ -5344,6 +5631,18 @@
               "node": {
                 "text": "Unabomber",
                 "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
                   "id": "DE",
                   "text": "Germany"
                 }
@@ -5362,8 +5661,32 @@
               "node": {
                 "text": "Unabomber",
                 "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
                   "id": "IN",
                   "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
                 },
                 "language": {
                   "text": "English"
@@ -5390,6 +5713,18 @@
             },
             {
               "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Унабомбер",
                 "country": {
                   "id": "RU",
@@ -5411,11 +5746,11 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 37,
+          "current_rank": 193,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 3426
+            "change_direction": "DOWN",
+            "difference": 156
           }
         },
         "ratings_summary": {
@@ -5640,6 +5975,15 @@
                   "text": "Poland"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Психопатка",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
             }
           ]
         },
@@ -5655,16 +5999,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 788,
+          "current_rank": 896,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 56
+            "change_direction": "DOWN",
+            "difference": 108
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.1,
-          "vote_count": 285
+          "aggregate_rating": 5.0,
+          "vote_count": 293
         },
         "release_date": {
           "year": 2026,
@@ -5702,144 +6046,6 @@
       }
     ],
     "names": [
-      {
-        "id": "nm3772243",
-        "name_text": {
-          "text": "Theo James"
-        },
-        "primary_image": {
-          "id": "rm2689979649",
-          "url": "https://m.media-amazon.com/images/M/MV5BYmM2NDA1NmItN2MzZS00NmVlLWE5MjYtOTFkMWM2OWRmMTk1XkEyXkFqcGc@._V1_.jpg",
-          "width": 975,
-          "height": 1300
-        }
-      },
-      {
-        "id": "nm2546012",
-        "name_text": {
-          "text": "Kaya Scodelario"
-        },
-        "primary_image": {
-          "id": "rm3408743937",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjY2OGYzZmMtYWQ4MC00Y2Y0LWFjYTctYzkxMmYxMTZhZGJjXkEyXkFqcGc@._V1_.jpg",
-          "width": 749,
-          "height": 1000
-        }
-      },
-      {
-        "id": "nm0935653",
-        "name_text": {
-          "text": "Ray Winstone"
-        },
-        "primary_image": {
-          "id": "rm115969024",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTM2MTU1OV5BMl5BanBnXkFtZTcwNDAzNTQyMw@@._V1_.jpg",
-          "width": 1614,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0002064",
-        "name_text": {
-          "text": "Giancarlo Esposito"
-        },
-        "primary_image": {
-          "id": "rm3255274240",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_.jpg",
-          "width": 281,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm3958526",
-        "name_text": {
-          "text": "Daniel Ings"
-        },
-        "primary_image": {
-          "id": "rm3553314049",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzZiNzNiYjktNGNiNC00Mzc4LWFiNTYtYjJhZjliZGM0ZTQ4XkEyXkFqcGc@._V1_CR2297,297,3112,4668_.jpg",
-          "width": 3112,
-          "height": 4668
-        }
-      },
-      {
-        "id": "nm0005351",
-        "name_text": {
-          "text": "Ryan Reynolds"
-        },
-        "primary_image": {
-          "id": "rm1172232961",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzRiNDhiMDQtYWZkMS00ZjU5LTg5NzUtOTc4NzE2Yzc0ZWUwXkEyXkFqcGc@._V1_.jpg",
-          "width": 2034,
-          "height": 3000
-        }
-      },
-      {
-        "id": "nm0000110",
-        "name_text": {
-          "text": "Kenneth Branagh"
-        },
-        "primary_image": {
-          "id": "rm2013376768",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjI0NTQ4Mjk5Ml5BMl5BanBnXkFtZTcwMDc1NjkzNw@@._V1_.jpg",
-          "width": 1427,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm9841972",
-        "name_text": {
-          "text": "Somiron Sarkar"
-        }
-      },
-      {
-        "id": "nm7543974",
-        "name_text": {
-          "text": "Aaron Pierre"
-        },
-        "primary_image": {
-          "id": "rm367904257",
-          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MmNhNTItOTVhMi00YWNhLTkwZjUtMDliMGM1YWRkNGJjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1030,
-          "height": 1254
-        }
-      },
-      {
-        "id": "nm0151419",
-        "name_text": {
-          "text": "Kyle Chandler"
-        },
-        "primary_image": {
-          "id": "rm2832564480",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
-          "width": 1391,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0277213",
-        "name_text": {
-          "text": "Nathan Fillion"
-        },
-        "primary_image": {
-          "id": "rm2737497600",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
-          "width": 576,
-          "height": 720
-        }
-      },
-      {
-        "id": "nm0001473",
-        "name_text": {
-          "text": "Laura Linney"
-        },
-        "primary_image": {
-          "id": "rm1109625344",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
-          "width": 289,
-          "height": 400
-        }
-      },
       {
         "id": "nm1058565",
         "name_text": {
@@ -6006,6 +6212,144 @@
           "url": "https://m.media-amazon.com/images/M/MV5BODJmYmJiYWUtYjJjMi00MGE4LTk2YWEtMTM2NDU4NmY4NjQ0XkEyXkFqcGc@._V1_.jpg",
           "width": 1288,
           "height": 1906
+        }
+      },
+      {
+        "id": "nm7543974",
+        "name_text": {
+          "text": "Aaron Pierre"
+        },
+        "primary_image": {
+          "id": "rm367904257",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MmNhNTItOTVhMi00YWNhLTkwZjUtMDliMGM1YWRkNGJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 1030,
+          "height": 1254
+        }
+      },
+      {
+        "id": "nm0151419",
+        "name_text": {
+          "text": "Kyle Chandler"
+        },
+        "primary_image": {
+          "id": "rm2832564480",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
+          "width": 1391,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0277213",
+        "name_text": {
+          "text": "Nathan Fillion"
+        },
+        "primary_image": {
+          "id": "rm2737497600",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
+          "width": 576,
+          "height": 720
+        }
+      },
+      {
+        "id": "nm0001473",
+        "name_text": {
+          "text": "Laura Linney"
+        },
+        "primary_image": {
+          "id": "rm1109625344",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
+          "width": 289,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm3772243",
+        "name_text": {
+          "text": "Theo James"
+        },
+        "primary_image": {
+          "id": "rm2689979649",
+          "url": "https://m.media-amazon.com/images/M/MV5BYmM2NDA1NmItN2MzZS00NmVlLWE5MjYtOTFkMWM2OWRmMTk1XkEyXkFqcGc@._V1_.jpg",
+          "width": 975,
+          "height": 1300
+        }
+      },
+      {
+        "id": "nm2546012",
+        "name_text": {
+          "text": "Kaya Scodelario"
+        },
+        "primary_image": {
+          "id": "rm3408743937",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjY2OGYzZmMtYWQ4MC00Y2Y0LWFjYTctYzkxMmYxMTZhZGJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 749,
+          "height": 1000
+        }
+      },
+      {
+        "id": "nm0935653",
+        "name_text": {
+          "text": "Ray Winstone"
+        },
+        "primary_image": {
+          "id": "rm115969024",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTM2MTU1OV5BMl5BanBnXkFtZTcwNDAzNTQyMw@@._V1_.jpg",
+          "width": 1614,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0002064",
+        "name_text": {
+          "text": "Giancarlo Esposito"
+        },
+        "primary_image": {
+          "id": "rm3255274240",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_.jpg",
+          "width": 281,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm3958526",
+        "name_text": {
+          "text": "Daniel Ings"
+        },
+        "primary_image": {
+          "id": "rm3553314049",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzZiNzNiYjktNGNiNC00Mzc4LWFiNTYtYjJhZjliZGM0ZTQ4XkEyXkFqcGc@._V1_CR2297,297,3112,4668_.jpg",
+          "width": 3112,
+          "height": 4668
+        }
+      },
+      {
+        "id": "nm0005351",
+        "name_text": {
+          "text": "Ryan Reynolds"
+        },
+        "primary_image": {
+          "id": "rm1172232961",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzRiNDhiMDQtYWZkMS00ZjU5LTg5NzUtOTc4NzE2Yzc0ZWUwXkEyXkFqcGc@._V1_.jpg",
+          "width": 2034,
+          "height": 3000
+        }
+      },
+      {
+        "id": "nm0000110",
+        "name_text": {
+          "text": "Kenneth Branagh"
+        },
+        "primary_image": {
+          "id": "rm2013376768",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjI0NTQ4Mjk5Ml5BMl5BanBnXkFtZTcwMDc1NjkzNw@@._V1_.jpg",
+          "width": 1427,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm9841972",
+        "name_text": {
+          "text": "Somiron Sarkar"
         }
       },
       {
@@ -6606,24 +6950,6 @@
     "videos": [],
     "images": [
       {
-        "id": "rm649853186",
-        "url": "https://m.media-amazon.com/images/M/MV5BNjAyNDY4YzctZDdhZC00YTZlLTk5ZDYtMzc4YmZmMjk0ZDZiXkEyXkFqcGc@._V1_.jpg",
-        "width": 8266,
-        "height": 5511
-      },
-      {
-        "id": "rm2186069506",
-        "url": "https://m.media-amazon.com/images/M/MV5BOGVhYmE2NDMtYjc3MC00Yjg3LWE0YTEtODk4NTU4NjgzNzRlXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1603
-      },
-      {
-        "id": "rm345363202",
-        "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1281
-      },
-      {
         "id": "rm3743597570",
         "url": "https://m.media-amazon.com/images/M/MV5BODY3Y2MxNDktY2UxNS00OTEyLWI0MGUtNDY4YjQ0OGRmZWE1XkEyXkFqcGc@._V1_.jpg",
         "width": 4096,
@@ -6640,6 +6966,24 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZTAwYzMwMjMtZDAzNi00NzQ3LThkYWEtMTExMGJkYjkyOGYzXkEyXkFqcGc@._V1_.jpg",
         "width": 1581,
         "height": 1054
+      },
+      {
+        "id": "rm345363202",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1281
+      },
+      {
+        "id": "rm649853186",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAyNDY4YzctZDdhZC00YTZlLTk5ZDYtMzc4YmZmMjk0ZDZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 8266,
+        "height": 5511
+      },
+      {
+        "id": "rm2186069506",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGVhYmE2NDMtYjc3MC00Yjg3LWE0YTEtODk4NTU4NjgzNzRlXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1603
       },
       {
         "id": "rm1815989506",
