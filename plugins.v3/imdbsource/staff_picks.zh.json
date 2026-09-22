@@ -1,12 +1,82 @@
 {
-  "updated_at": "2026-09-17 06:54:15",
+  "updated_at": "2026-09-23 06:54:21",
   "entries": [
+    {
+      "name": "爱情假说",
+      "ttconst": "tt22526100",
+      "rmconst": "rm1212009730",
+      "detail": "Premieres September 23 on Prime Video",
+      "description": "莉莉·莱因哈特（《河谷镇》）与汤姆·巴特曼（《三人要泰》）联袂主演这部改编自阿里·哈泽尔伍德畅销小说的电影。片中，一名女博士生与她的教授为了验证各自的爱情理论，开启了一段契约恋爱。虽然剧情走向或许不难预料，但你可知道，哈泽尔伍德的这部小说最初其实是关于凯洛·伦和蕾伊的《星球大战》同人小说？——James",
+      "relatedconst": [
+        "nm3929887",
+        "nm5290643",
+        "nm6721226"
+      ],
+      "viconst": "vi3765160729"
+    },
+    {
+      "name": "美国恐怖故事",
+      "ttconst": "tt1844624",
+      "rmconst": "rm1827470850",
+      "detail": "Season 13 premieres September 24 on FX",
+      "description": "虽说并非人人都能接受，但《美恐》的粉丝们偏偏就爱瑞恩·墨菲在他这部长寿剧集里那种“包罗万象”的狂放风格。回溯到 2011 年的第一季，从性感幽灵、古怪邻居到疯狂科学家、少年跟踪狂、恶魔胎儿以及红发谋杀犯双胞胎，墨菲和他的团队向来敢想敢干，从不畏手畏脚。第 13 季自然也不例外。此前曾有传闻称新一季是《女巫集会》的续集，但制片人透露，这其实是“所有季度”的大集合。杰西卡·兰格、莎拉·保罗森、伊万·彼得斯、凯西·贝茨和艾玛·罗伯茨都将回归，一人分饰多角，重塑往季经典形象。墨菲在接受《综艺》<i>(Variety)</i> 采访时表示：“这就像是《复仇者联盟》！他们将集结在一起，共同对抗终极邪恶。”——Adrienne",
+      "relatedconst": [
+        "nm0001448",
+        "nm0005299",
+        "nm1404239",
+        "nm0000870"
+      ],
+      "viconst": "vi2243611161"
+    },
+    {
+      "name": "不同的世界",
+      "ttconst": "tt33081352",
+      "rmconst": "rm2324350210",
+      "detail": "Premieres September 24 on Netflix",
+      "description": "让我们重返当下的希尔曼学院。在 80 年代经典剧集中备受喜爱的惠特莉和德维恩，如今他们的女儿德博拉·韦恩也来到校园开启了大一生活。除了与一众新生共同成长，原版剧集中的元老级角色惠特莉·吉尔伯特（贾斯敏·盖伊饰）、德维恩·韦恩（卡迪姆·哈迪森饰）、弗雷迪·布鲁克斯（克里·萨默饰）和朗·约翰逊（达里尔·M·贝尔饰）也将悉数回归。不过对某些观众来说，少了丽莎·博内特饰演的丹妮丝·胡克斯塔布，这个世界总觉得少了点什么。——Arno",
+      "relatedconst": [
+        "nm14291945",
+        "nm15998059",
+        "nm0362429",
+        "nm0004982",
+        "nm14291945"
+      ],
+      "viconst": "vi3715287833"
+    },
+    {
+      "name": "黄金时段",
+      "ttconst": "tt34206385",
+      "rmconst": "rm1213779714",
+      "detail": "In theaters September 25",
+      "description": "在下一部作品中，戏路多变的罗伯特·帕丁森将挑战出演电视记者兼《诱捕性侵犯》主持人克里斯·汉森。汉森的这档偷拍节目在 21 世纪初曾轰动一时，节目组诱导潜在的性侵者与未成年人见面并将其当场抓获，记录了该节目的兴衰起伏。然而，所有爆火的节目终有落幕之时，随着一系列骇人听闻的事件发生（这很可能构成电影的高潮），该剧集于 2008 年停播。这部影片风格类似于《夜行者》<i>(Nightcrawler)</i>，是一部值得期待的犯罪惊悚片，千万别错过预告片，它本身就是一件艺术品。——Adrienne",
+      "relatedconst": [
+        "nm1500155",
+        "nm0267506",
+        "nm1711114",
+        "nm0923266"
+      ],
+      "viconst": "vi2410859033"
+    },
+    {
+      "name": "大学炸弹客",
+      "ttconst": "tt6933238",
+      "rmconst": "rm976615682",
+      "detail": "Premieres September 25 on Netflix",
+      "description": "Netflix 继续深耕真实罪案题材，推出关于“大学航空炸弹客”泰德·卡辛斯基的新片。雅各布·特伦布莱饰演卡辛斯基，影片通过双时线叙事，展现了这位年轻的数学天才如何从哈佛本科生沦为实验对象，并最终走上国内恐怖分子之路。谢琳·伍德蕾在片中饰演 FBI 探员乔安妮·米勒，拉塞尔·克劳则饰演哈佛教授亨利·默里，正是他利用卡辛斯基进行了一系列违背伦理的心理实验。——Adrienne",
+      "relatedconst": [
+        "nm5016878",
+        "nm0000128",
+        "nm0940362",
+        "nm1834115"
+      ],
+      "viconst": "vi967428633"
+    },
     {
       "name": "生化危机：爆发夜",
       "ttconst": "tt35538033",
       "rmconst": "rm2462186754",
-      "detail": "In theaters September 18",
-      "description": "忘掉你对《生化危机》系列电影的所有认知吧。导演扎克·克雷格（去年的恐怖片黑马《武器》的创作者）曾表示，他从未看过之前的全部七部《生化危机》电影，而是选择将影片植根于原著游戏世界。在《武器》中饰演瘾君子詹姆斯并大放异彩后，奥斯汀·艾布拉姆斯（也将出演即将上映的《坠入鲸渊》）此次担纲主角，饰演一名医药快递员。当病毒爆发导致浣熊市沦为丧尸肆虐之地时，他的派送路线也随之发生了惊险的转折。——詹姆斯",
+      "detail": "In theaters",
+      "description": "忘掉你对《生化危机》系列电影的所有认知吧。导演扎克·克雷格（去年恐怖片黑马《武器》<i>(Weapons)</i> 的创作者）曾表示，他从未看过之前的任何一部《生化危机》电影，而是选择将影片根植于原著游戏世界。在《武器》中饰演瘾君子詹姆斯并大肆抢戏的奥斯汀·艾布拉姆斯（也将出演即将上映的《鲸落》<i>(Whalefall)</i>）此次担纲主演，饰演一名医药快递员，当病毒爆发让浣熊市沦为丧尸乐园时，他的配送之路发生了惊人的转折。——James",
       "relatedconst": [
         "nm3641002",
         "nm3236159",
@@ -17,11 +87,11 @@
       "viconst": "vi3829713689"
     },
     {
-      "name": "怪物：莉齐·博登的故事",
+      "name": "怪物",
       "ttconst": "tt13207736",
       "rmconst": "rm1796012290",
-      "detail": "Premieres September 17 on Netflix",
-      "description": "随着《美国恐怖故事》本月下旬回归以及《碎片》首季完结，我们正处于瑞恩·墨菲的高产季。墨菲“怪物”系列的第四部将讲述被控用斧头杀人的莉齐·波登的故事。埃拉·比蒂（曾出演《宿敌》）饰演莉齐，这名年轻女子因涉嫌在1892年谋杀父亲和继母而受审。该剧将延续“怪物”系列的典型风格，采用高度主观化的叙事手法，将未经证实的传闻转化为剧情点，涵盖了从家庭矛盾到莉齐与女仆（薇姬·克里普斯饰）之间致命情史的方方面面。曾在《怪物》第三季中饰演爱德华·盖恩的查理·汉纳姆，将与墨菲的老搭档比莉·洛德以及丽贝卡·豪尔一同回归，饰演命途多舛的波登一家。——阿德里安娜",
+      "detail": "Streaming on Netflix",
+      "description": "随着《美国恐怖故事》本月回归，以及《碎片》完成首季亮相，我们已深处“瑞恩·墨菲季”。墨菲“杀手选集”系列的第四部将讲述被控为斧头杀手的莉齐·波登的故事。艾拉·比蒂（《宿敌》）饰演莉齐，这名年轻女子因涉嫌在 1892 年杀害父亲和继母而受审。延续《怪物》系列的典型风格，本剧将采用高度艺术加工的手法，将未经证实的传闻转化为剧情点，涵盖从家庭矛盾到莉齐与女佣（薇姬·克里普斯饰）之间致命恋情的一切。在第三季中饰演艾德·盖恩的查理·汉纳姆也将回归，与墨菲的老搭档比莉·洛德以及丽贝卡·豪尔共同演绎这命途多舛的波登一家。——Adrienne",
       "relatedconst": [
         "nm13701799",
         "nm0402271",
@@ -36,7 +106,7 @@
       "ttconst": "tt5875444",
       "rmconst": "rm1815989506",
       "detail": "Season 6 streaming on Apple TV+",
-      "description": "第六季中，杰克逊·兰姆（加里·奥德曼饰）和“泥沼府”的成员们陷入了亡命天涯的境地，他们正遭到系统性的针对，成员接连遇害。虽然种种迹象指向军情五处高层戴安娜·塔弗纳（克里斯汀·斯科特·托马斯饰），但第一季中被认为已牺牲的特工西德·贝克（奥利维亚·库克饰）的意外回归，让局势变得更加铺朔迷离。新一季改编自米克·赫伦的两部小说（《乔之国》和《泥沼府》），而这部 Apple TV 的热门剧集此前已获第七季续订。——詹姆斯",
+      "description": "第六季中，杰克逊·兰姆（加里·奥德曼饰）和“泥沼府”的小组成员们被迫踏上逃亡之路，因为他们正遭到有组织的针对，成员相继遇害。虽然种种迹象指向军情五处主管戴安娜·塔弗纳（克里斯汀·斯科特·托马斯饰），但随着第一季中被认为已牺牲的特工西德·贝克（奥利维亚·库克饰）意外回归，局势变得扑朔迷离。新一季改编自米克·赫伦的两部小说（《祖国》和《泥沼府》），而这部 Apple TV+ 的热门剧集此前已官宣续订第七季。——James",
       "relatedconst": [
         "nm0000198",
         "nm4110963",
@@ -50,8 +120,8 @@
       "name": "侠女内莉",
       "ttconst": "tt33539520",
       "rmconst": "rm1857812738",
-      "detail": "Premieres September 16 on Prime Video",
-      "description": "随着这部以弗朗西丝·尼格利为主角的衍生剧问世，《侠探杰克》正式开启了自己的宇宙。尼格利曾是杰克·雷彻在军中的门生，现在芝加哥担任私家侦探。由玛丽亚·斯滕饰演的尼格利曾出现在《侠探杰克》的前三季中。阿兰·里奇森将客串出演《尼格利》第一季。在这一季中，这位私家侦探的一位老友在一场离奇事故中丧生，她随即展开行动，誓要寻得真相与正义。——阿诺",
+      "detail": "Streaming on Prime Video",
+      "description": "随着这部以弗朗西丝·尼格利为核心的衍生剧问世，《侠探杰克》正式开启了自己的宇宙。尼格利曾是杰克·雷彻在军队时的得意门生，如今在芝加哥担任私家侦探。由玛丽亚·斯滕饰演的尼格利在《侠探杰克》前三季中均有亮相，随后便开启了个人剧集的制作。阿兰·里奇森将在《尼格利》第一季中客串出演。本季中，这位私家侦探的一位老友在一场可疑的事故中丧生，她为此展开调查，誓要寻得真相与正义。——Arno",
       "relatedconst": [
         "nm3080233",
         "nm9709536",
@@ -63,11 +133,56 @@
       "viconst": "vi2797193753"
     },
     {
+      "name": "绿灯军团",
+      "ttconst": "tt26545992",
+      "rmconst": "rm345363202",
+      "detail": "Streaming on HBO Max",
+      "description": "凯尔·钱德勒（《胜利之光》）和亚伦·皮埃尔（《利奇菲尔德》<i>(Rebel Ridge)</i>）正式加盟 DC 宇宙，饰演星际维和组织“绿灯军团”的成员。这部 HBO 剧集的设定似乎非常写实：哈尔·乔丹（钱德勒饰）悉心指导新成员约翰·斯图尔特（皮埃尔饰），两人共同调查发生在内布拉斯加州的一起谋杀案。《守望者》限定剧的粉丝们一定会感兴趣，因为《绿灯侠》的联合主创之一正是戴蒙·林德洛夫（《迷失》、《守望尘世》），他曾完美改编过那部经典素材。让我们祈祷他也能为 DC 宇宙带来同样的奇迹。——James",
+      "relatedconst": [
+        "nm7543974",
+        "nm0151419",
+        "nm0277213",
+        "nm0001473"
+      ],
+      "viconst": "vi33868569"
+    },
+    {
+      "name": "黑帮领地",
+      "ttconst": "tt31510819",
+      "rmconst": "rm2104490242",
+      "detail": "Season 2 streaming on Paramount+",
+      "description": "汤姆·哈迪饰演的黑帮“解决师”哈里·达·索萨回归《黑帮之地》第二季。这部大热剧集在 Paramount+ 首播期间曾多次刷新收视纪录。第二季将展现哈里根家族犯罪帝国的裂痕，其内部爆发了一场激烈的内战。据报道，第三季已在筹备中，尽管此前有传闻称哈迪与剧集主管杰兹·巴特沃斯发生争执，导致其是否继续参演一度充满变数。全新 10 集将从 9 月 18 日起每周更新。——Arno",
+      "relatedconst": [
+        "nm0362766",
+        "nm0000545",
+        "nm0000112",
+        "nm0005216",
+        "nm6978918",
+        "nm0175916"
+      ],
+      "viconst": "vi3216689689"
+    },
+    {
+      "name": "绅士们",
+      "ttconst": "tt13210838",
+      "rmconst": "rm649853186",
+      "detail": "Season 2 streaming on Netflix",
+      "description": "盖·里奇执导、IMDb 评分高达 8.0 的热门动作喜剧剧集回归 Netflix 第二季。在新一季中，埃迪·霍尼曼（西奥·詹姆斯饰）和苏茜·格拉斯（卡雅·斯考达里奥饰）在强行接管了苏茜那入狱父亲的大麻帝国后，正式投身英国地下犯罪世界。该剧还将效仿《艾米丽在巴黎》，将部分剧情舞台转移到意大利。——Arno",
+      "relatedconst": [
+        "nm3772243",
+        "nm2546012",
+        "nm0935653",
+        "nm0002064",
+        "nm3958526"
+      ],
+      "viconst": "vi4070951449"
+    },
+    {
       "name": "希望",
       "ttconst": "tt27369017",
       "rmconst": "rm3743597570",
       "detail": "In theaters",
-      "description": "备受推崇的编剧兼导演罗泓轸在《哭声》上映十年后，带着一部怪兽电影重返影坛。该片在戛纳电影节首映时评价两极分化，不仅在全球范围内签下了多项发行协议，更因在这个通常温文尔雅的电影节上展现了无休止的外星浩劫而引发热议。黄政民（曾出演《哭声》）和郑浩妍（曾出演《鱿鱼游戏》）在片中饰演警察，被派往一座偏远韩国村庄处理正在酝酿的危机。好莱坞明星（也是现实中的夫妻）艾丽西亚·维坎德和迈克尔·法斯宾德也将在片中惊艳亮相。对于追求极致视听的影迷来说，发行商 NEON 已安排该片于9月7日开始在美国进行为期两天的宽幅胶片格式放映。——阿诺",
+      "description": "继《哭声》<i>(The Wailing)</i> 十年后，备受推崇的编剧兼导演罗泓轸携新作回归。这部怪兽电影在戛纳电影节首映，引发了观众两极分化的评价，在全球范围内签下了多项发行协议，并因在这个一向文明的电影节上展示了无休止的外星混乱场面而成为新闻焦点。黄政民（《哭声》）与郑浩妍（《鱿鱼游戏》）联袂主演，饰演被派往韩国偏远村庄应对混乱的警察。好莱坞明星（也是现实中的夫妻）艾丽西亚·维坎德和迈克尔·法斯宾德也将惊艳亮相。对于追求大银幕效果的观众，发行商 NEON 争取到了 9 月 7 日起在美国为期两天的特殊大画幅放映。——Arno",
       "relatedconst": [
         "nm1058565",
         "nm9475707",
@@ -83,7 +198,7 @@
       "ttconst": "tt32588798",
       "rmconst": "rm1128579842",
       "detail": "In theaters",
-      "description": "我的血，你的血，我们的血。续集的血。感谢灵界把《巫法闯情关2》送到我们面前，让这28年的时光仿佛从未流逝。很高兴看到桑德拉·布洛克、妮可·基德曼、斯托卡特·詹宁（我心目中的双冠女王）和黛安·韦斯特依然聚在一起召唤四方。在这个关于家族纽带、温馨的新英格兰生活以及黑魔法诱惑的故事中，欧文斯家族最年轻的一代——萨莉的孩子凯莉和安东尼娅——将协助女巫团打破那道禁止她们获得真爱的诅咒。尽管《巫法闯情关》开创了自己的亚类型，但目前我非常沉迷于这部续集所散发出的那种类似《魔女游戏》或《寡妇湾》的氛围。——阿诺",
+      "description": "我的血，你的血，我们的血，续集的血。感谢灵界把《超自然力量 2》<i>(Practical Magic 2)</i> 带给我们，让这 28 年的时光仿佛从未流逝。很高兴看到桑德拉·布洛克、妮可·基德曼、斯托卡特·詹宁和戴安·韦斯特依然聚在一起举行仪式。在这个关于家族纽带、温馨新英格兰生活以及黑魔法诱惑的故事中，欧文家族的年轻一代——萨莉的孩子凯莉和安东尼娅——将协助女巫团，力求打破那个禁锢家族成员获得真爱的诅咒。尽管《超自然力量》开创了自己的亚类型，但我现在非常沉迷于这部续集散发出的那种类似于《魔女游戏》<i>(The Craft)</i> 或“寡妇湾”的氛围。——Arno",
       "relatedconst": [
         "nm0000113",
         "nm0000173",
@@ -97,7 +212,7 @@
       "ttconst": "tt36983905",
       "rmconst": "rm2615934466",
       "detail": "In theaters",
-      "description": "导演保罗·格林格拉斯重新演绎了1381年的英国农民起义，让怒火中烧的安德鲁·加菲尔德对抗理查二世的暴政。《起义》完全处于格林格拉斯的拿手领域，融合了他《谍影重重》系列中那种写实的手持摄影动作风格，以及他对历史剧的热忱，尤其是那些关于普通人集体求生的故事（如《血色星期天》、《联航93》）。——詹姆斯",
+      "description": "导演保罗·格林格拉斯重新演绎了 1381 年的英国农民起义，由怒火中烧的安德鲁·加菲尔德对抗理查二世的暴政。《起义》<i>(The Uprising)</i> 完美契合格林格拉斯的个人风格，融合了他《谍影重重》系列中那种写实、手持摄影的动作场面，以及他对历史剧的热情，尤其是关于普通人为了生存集体抗争的故事（如《血色星期天》、《联航 93》）。——James",
       "relatedconst": [
         "nm1940449",
         "nm0068260",
@@ -107,40 +222,11 @@
       "viconst": "vi3210660633"
     },
     {
-      "name": "绿灯军团",
-      "ttconst": "tt26545992",
-      "rmconst": "rm345363202",
-      "detail": "Streaming on HBO Max",
-      "description": "凯尔·钱德勒（曾出演《胜利之光》）和亚伦·皮埃尔（曾出演《利奇里奇》）加入 DC 宇宙，饰演星际维和组织“绿灯军团”的两名成员。Hal Jordan（钱德勒饰）带领新成员 John Stewart（皮埃尔饰）调查内布拉斯加州的一起谋杀案，这对于一部 HBO 剧集来说，设定显得非常写实。《守望者》限定剧的粉丝们会感兴趣的是，《绿灯侠》的联合主创之一是戴蒙·林德洛夫（曾主创《迷失》、《守望尘世》），他曾对那部原著进行了绝佳的改编。让我们交叉戴着戒指的手指祈祷，希望他也能为 DC 宇宙带来同样的魔力。——詹姆斯",
-      "relatedconst": [
-        "nm7543974",
-        "nm0151419",
-        "nm0277213",
-        "nm0001473"
-      ],
-      "viconst": "vi33868569"
-    },
-    {
-      "name": "绅士们",
-      "ttconst": "tt13210838",
-      "rmconst": "rm649853186",
-      "detail": "Season 2 streaming on Netflix",
-      "description": "盖·里奇执导、IMDb 评分高达 8.0 的热门动作喜剧剧集回归 Netflix 开启第二季。在新一季中，埃迪·霍尼曼（西奥·詹姆斯饰）和苏茜·格拉斯（卡雅·斯考达里奥饰）在强行接管了苏茜那身陷囹圄的父亲的杂草帝国后，开始深入融入英国的犯罪黑帮。这部剧还玩了一把类似《艾米丽在巴黎》的套路，将部分剧情转场至意大利。——阿诺",
-      "relatedconst": [
-        "nm3772243",
-        "nm2546012",
-        "nm0935653",
-        "nm0002064",
-        "nm3958526"
-      ],
-      "viconst": "vi4070951449"
-    },
-    {
       "name": "求救信号",
       "ttconst": "tt28014327",
       "rmconst": "rm2186069506",
       "detail": "Streaming on Apple TV+",
-      "description": "现在是哪个年代？瑞恩·雷诺兹和肯尼思·布拉纳爵士带着一部冷战背景的动作喜剧片来了，故事设定在80年代末的苏联。你一定能猜到雷诺兹的角色：他饰演一名坠落在敌后的美国海军飞行员。布拉纳则饰演一名粗鲁的前克格勃特工，他对美国文化有着某种秘密癖好。好吧，周五晚上我又得宅在家里了（Apple TV 的原创电影总能让我如此）。执导过《龙与地下城：侠盗荣耀》的那对黄金搭档是这部生存故事的幕后推手。——阿诺",
+      "description": "现在是哪个年代？瑞安·雷诺兹和肯尼思·布拉纳爵士带着一部冷战背景的动作喜剧片杀回来了，故事设定在 80 年代后期的苏联。雷诺兹的角色你肯定能猜个八九不离十：他饰演一名执行任务时被困在敌后的军事特工（美国海军飞行员）。布拉纳则拿到了一个类似休·杰克曼式的角色，饰演一名性格粗鲁、对美国文化有着秘密痴迷的前克格勃特工。行吧，看来周五晚上我又得宅在家里了（Apple TV 的原创电影总是能让我乖乖待着）。这部求生题材作品由《龙与地下城：侠盗荣耀》的导演搭档执导。—— Arno",
       "relatedconst": [
         "nm0005351",
         "nm0000110",
@@ -149,97 +235,11 @@
       "viconst": "vi1130089241"
     },
     {
-      "name": "黑帮领地",
-      "ttconst": "tt31510819",
-      "rmconst": "rm2104490242",
-      "detail": "Season 2 premieres September 18 on Paramount+",
-      "description": "汤姆·哈迪饰演的黑帮清理人哈里·达·索萨回归《黑帮之地》第二季。这部大热剧集在派拉蒙+首季播出期间曾多次刷新收视纪录。第二季将揭示哈里根家族犯罪帝国内部的裂痕，一场内战随即爆发。据报道，第三季已在筹备中，不过你可能听说过哈迪与剧集主创杰兹·巴特沃思之间曾发生争执，导致哈迪的继续参演一度悬而未决。十集新内容将于9月18日开始每周更新。——阿诺",
-      "relatedconst": [
-        "nm0362766",
-        "nm0000545",
-        "nm0000112",
-        "nm0005216",
-        "nm6978918",
-        "nm0175916"
-      ],
-      "viconst": "vi3216689689"
-    },
-    {
-      "name": "爱情假说",
-      "ttconst": "tt22526100",
-      "rmconst": "rm1212009730",
-      "detail": "Premieres September 23 on Prime Video",
-      "description": "莉莉·莱因哈特（曾出演《河谷镇》）和汤姆·巴特曼（曾出演《三人要解》）主演这部改编自阿里·哈泽尔伍德畅销小说的电影。片中，一名博士生和她的教授为了测试他们的爱情理论而开始了一段契约恋爱。也许你能猜到剧情走向，但你知道吗？哈泽尔伍德的小说最初其实是关于凯洛·伦和蕾伊的《星球大战》同人小说。——詹姆斯",
-      "relatedconst": [
-        "nm3929887",
-        "nm5290643",
-        "nm6721226"
-      ],
-      "viconst": "vi3765160729"
-    },
-    {
-      "name": "美国恐怖故事",
-      "ttconst": "tt1844624",
-      "rmconst": "rm1827470850",
-      "detail": "Season 13 premieres September 24 on FX",
-      "description": "虽然并非人人都能接受，但“美恐”粉丝们就爱瑞恩·墨菲那种把所有元素都往里塞的创作风格。从2011年的第一季开始——包含了性感鬼魂、古怪邻居、疯狂科学家、少年跟踪狂、恶魔胎儿和红发杀人双胞胎——墨菲和他的合作者们就从不畏惧大开杀戒。对第13季也别抱有其他期待。虽然有传言称下一部是《女巫团》的续集，但制片人表示这实际上是“所有季节”的结合。杰西卡·兰格、莎拉·保罗森、伊万·彼得斯、凯西·贝茨和艾玛·罗伯茨都将回归，饰演……所有人，因为他们每个人都将扮演前几季中的多个角色。“这就像复仇者联盟！”墨菲告诉《综艺》杂志，“他们聚在一起打败终极邪恶。”——阿德里安娜",
-      "relatedconst": [
-        "nm0001448",
-        "nm0005299",
-        "nm1404239",
-        "nm0000870"
-      ],
-      "viconst": "vi2243611161"
-    },
-    {
-      "name": "A Different World",
-      "ttconst": "tt33081352",
-      "rmconst": "rm2324350210",
-      "detail": "Premieres September 24 on Netflix",
-      "description": "让我们重返当下的希尔曼学院，深受观众喜爱的80年代经典剧集中惠特利和德怀恩的女儿德博拉·韦恩来到了校园，开启了她的大学生活。除了一众大一新生，原版剧集中的元老角色也将悉数登场，包括惠特利·吉尔伯特（贾斯敏·盖饰）、德怀恩·韦恩（卡迪姆·哈迪森饰）、弗雷迪·布鲁克斯（克里·萨莫饰）和朗·约翰逊（达里尔·M·贝尔饰）。不过对我们中的一些人来说，如果没有丽莎·博内特饰演的丹尼斯·赫克萨布尔，这个世界总觉得少了点什么。——阿诺",
-      "relatedconst": [
-        "nm14291945",
-        "nm15998059",
-        "nm0362429",
-        "nm0004982",
-        "nm14291945"
-      ],
-      "viconst": "vi3715287833"
-    },
-    {
-      "name": "黄金时段",
-      "ttconst": "tt34206385",
-      "rmconst": "rm1213779714",
-      "detail": "In theaters September 25",
-      "description": "戏路多变的罗伯特·帕丁森下一次将挑战自我，饰演电视记者、《猎捕掠食者》主持人克里斯·汉森。汉森的这档偷拍节目曾是21世纪初的一个现象级节目，它引诱潜在的掠食者与未成年人见面并将其逮捕。但所有爆红的作品终有落幕之时，到2008年，该系列因一系列令人毛骨悚然的事件而停播，这些事件很可能构成了电影的高潮。期待一部《夜行者》风格的犯罪惊悚片吧，千万别错过预告片，它本身就是一件艺术品。——阿德里安娜",
-      "relatedconst": [
-        "nm1500155",
-        "nm0267506",
-        "nm1711114",
-        "nm0923266"
-      ],
-      "viconst": "vi2410859033"
-    },
-    {
-      "name": "大学炸弹客",
-      "ttconst": "tt6933238",
-      "rmconst": "rm976615682",
-      "detail": "Premieres September 25 on Netflix",
-      "description": "Netflix 继续深耕真实罪案题材，推出关于“大学航空炸弹客”泰德·卡辛斯基的新片。雅各布·特伦布莱领衔主演，在双线叙事中展现了这位数学天才如何从哈佛学子沦为实验对象，最终变成国内恐怖分子的历程。谢琳·伍德蕾饰演 FBI 探员乔安妮·米勒，罗素·克劳则出演哈佛教授亨利·默里，正是他曾对卡辛斯基进行了一系列违背伦理的心理实验。—— Adrienne",
-      "relatedconst": [
-        "nm5016878",
-        "nm0000128",
-        "nm0940362",
-        "nm1834115"
-      ],
-      "viconst": "vi967428633"
-    },
-    {
       "name": "维多利亚时代的精神病人",
       "ttconst": "tt34374553",
       "rmconst": "rm566740226",
       "detail": "In theaters September 25",
-      "description": "别急着拿它和《美国精神病人》做比较，导演扎克里·威格（曾执导《禁锢》）的这部恐怖喜剧新作在血腥混乱之余，很可能还会让你开怀大笑。影片改编自编剧弗吉尼亚·费托的同名小说，《维多利亚精神病人》讲述了可能（绝对）疯掉（有杀人倾向？）的女家庭教师温妮弗雷德·诺蒂（麦卡·梦露饰）的故事，她带着一身“绝活”来到一座偏远的哥特式庄园，为那里古板的住户们服务。场面会失控吗？那是肯定的。你会看得过瘾吗？当然。会见血吗？用维多利亚时代的话说：“那是自然。”—— Adrienne",
+      "description": "看到扎克里·威格（《禁忌代号》）执导的这部恐怖喜剧新片，请先忍住拿它和《美国精神病人》做比较的冲动，因为它在血腥混乱之余，很可能会让你捧腹大笑。影片改编自编剧弗吉尼亚·费托的同名小说，讲述了麦卡·门罗饰演的家庭教师温妮弗雷德·诺蒂的故事。这位教师可能（绝对）疯了（甚至想杀人？），她带着自己的“特殊技能”，来到一座偏远的哥特式庄园，为那里古板的住户服务。局面会失控吗？当然。你会看得过瘾吗？那是肯定。会有血腥场面吗？用维多利亚时代的话说：“那是必然。” —— Adrienne",
       "relatedconst": [
         "nm2140860",
         "nm5057169",
@@ -251,6 +251,1457 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt22526100",
+        "title_text": {
+          "text": "The Love Hypothesis"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Hipótese do Amor",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Aşk Hipotez",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "La hipótesis del amor",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Love Hypothesis - Il teorema dell'amore",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "在一次冲动的接吻后，两位科学家阴差阳副地开始了契约恋爱，在验证爱情理论的同时，也开始重新审视彼此。"
+          }
+        },
+        "primary_image": {
+          "id": "rm1045362946",
+          "url": "https://m.media-amazon.com/images/M/MV5BYWI2ZWZjZGItZDFiMi00ODBmLThmODktY2FlZmNkNmU4YTEzXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 91,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 125
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 9,
+          "day": 23
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "The Love Hypothesis"
+        },
+        "runtime": {
+          "seconds": 6600
+        }
+      },
+      {
+        "id": "tt1844624",
+        "title_text": {
+          "text": "American Horror Story"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2011
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "AE",
+                  "text": "United Arab Emirates"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "PH",
+                  "text": "Philippines"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Asylum",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Asylum",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Asylum",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Asylum",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Murder House",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Murder House",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Murder House",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Apocalypse",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Apocalypse",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Coven",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Coven",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Cult",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Cult",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Freak Show",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Freak Show",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Hotel",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: Hotel",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: New York City",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "American Horror Story: New York City",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Американская история ужасов",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Американская история ужасов",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "AHS",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "AHS: 1984",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ameerika õudukas",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ameerika õudukas: Hotell",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "这是一部恐怖类选集剧，每一季都围绕不同的角色和地点展开，展现恐怖题材的多样面貌。由瑞恩·墨菲和布拉德·法尔查克创作并监制。"
+          }
+        },
+        "primary_image": {
+          "id": "rm127662850",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM3NTZjMDctYWQ3YS00NjQ4LWIwMjItNmIwZTlkM2U4NjRkXkEyXkFqcGc@._V1_.jpg",
+          "width": 2400,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 25,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 3
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.9,
+          "vote_count": 365171
+        },
+        "release_date": {
+          "year": 2011,
+          "month": 10,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "American Horror Story"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt33081352",
+        "title_text": {
+          "text": "A Different World"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Different World",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Um Mundo Diferente",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Um Mundo Diferente",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Inny świat",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "德博拉·韦恩进入了希尔曼学院开启大一生活。这所传统黑人大学是她父母的母校，在这里，她必须努力走出父母的阴影，谱写属于自己的传奇。"
+          }
+        },
+        "primary_image": {
+          "id": "rm1639369730",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGIwZDc3OWYtZTZkOS00NmRjLTk3NTAtNjQzODI3ZTI4MWU4XkEyXkFqcGc@._V1_.jpg",
+          "width": 510,
+          "height": 755
+        },
+        "meter_ranking": {
+          "current_rank": 793,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 54
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 9,
+          "day": 24
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "A Different World"
+        },
+        "runtime": {
+          "seconds": 1800
+        }
+      },
+      {
+        "id": "tt34206385",
+        "title_text": {
+          "text": "Primetime"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Primetime",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "實境誘捕",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "實境誘捕",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "En direct",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hiilgeaeg",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Karstais raidlaiks",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Прайм-тайм",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "2006年，《诱捕性侵犯》主持人克里斯·汉森着手创造电视史上的奇迹。"
+          }
+        },
+        "primary_image": {
+          "id": "rm3470522882",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_.jpg",
+          "width": 2430,
+          "height": 3600
+        },
+        "meter_ranking": {
+          "current_rank": 31,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 3
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.6,
+          "vote_count": 618
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 9,
+          "day": 25
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Primetime"
+        },
+        "runtime": {
+          "seconds": 6600
+        }
+      },
+      {
+        "id": "tt6933238",
+        "title_text": {
+          "text": "Unabomber"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Unabomber",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Унабомбер",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "一名哈佛学生在经历心理实验后沦为“大学航空炸弹客”。多年后，一名 FBI 探员在追捕过程中揭开了他的过去，以及那些经历如何塑造了他那场致命的恐怖活动——在 1978 年至 1995 年间，他共造成 3 人死亡，23 人受伤。"
+          }
+        },
+        "primary_image": {
+          "id": "rm104200450",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDE2ODhlNTUtYjdiOS00OTlmLTg5OGMtMGNjZWZmNWE4MGJiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 399,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 7
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 9,
+          "day": 25
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Unabomber"
+        },
+        "runtime": {
+          "seconds": 5820
+        }
+      },
       {
         "id": "tt35538033",
         "title_text": {
@@ -418,6 +1869,15 @@
               "node": {
                 "text": "Resident Evil",
                 "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil",
+                "country": {
                   "id": "NZ",
                   "text": "New Zealand"
                 },
@@ -457,6 +1917,15 @@
               "node": {
                 "text": "Resident Evil",
                 "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil",
+                "country": {
                   "id": "US",
                   "text": "United States"
                 }
@@ -471,6 +1940,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil: Noche cero",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
                 }
               }
             },
@@ -494,10 +1972,37 @@
             },
             {
               "node": {
+                "text": "Resident Evil: Noche cero",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil: Noche cero",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Resident Evil: Noche Cero",
                 "country": {
                   "id": "AR",
                   "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil: Noche Cero",
+                "country": {
+                  "id": "DO",
+                  "text": "Dominican Republic"
                 }
               }
             },
@@ -533,10 +2038,73 @@
             },
             {
               "node": {
+                "text": "ريزدنت ايفل",
+                "country": {
+                  "id": "BH",
+                  "text": "Bahrain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ريزدنت ايفل",
+                "country": {
+                  "id": "SA",
+                  "text": "Saudi Arabia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "A Kaptár",
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Absoliutus blogis",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nevidno zlo",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Nezūdošais ļaunums",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Pritajeno Zlo",
+                "country": {
+                  "id": "ME",
+                  "text": "Montenegro"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Resident Evil: Оселя зла",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             },
@@ -551,10 +2119,31 @@
             },
             {
               "node": {
+                "text": "Заразно зло",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Притајено зло",
                 "country": {
                   "id": "RS",
                   "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ბოროტების სავანე",
+                "country": {
+                  "id": "GE",
+                  "text": "Georgia"
                 }
               }
             },
@@ -581,6 +2170,18 @@
             },
             {
               "node": {
+                "text": "生化危机：爆发夜",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "生化危機",
                 "country": {
                   "id": "HK",
@@ -595,25 +2196,26 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "讲述了一名倒霉的快递员被派往一家偏远的医院运送包裹。他很快发现自己陷入了一场病毒爆发的中心，必须在变异生物的围攻中杀出一条血路以求生存。"
+            "plain_text": "一名倒霉的快递员受命前往偏远医院递送包裹。不料他很快卷入了一场病毒爆发，必须在变异生物的围攻中杀出一条血路以求生存。"
           }
         },
         "primary_image": {
-          "id": "rm2159016706",
-          "url": "https://m.media-amazon.com/images/M/MV5BODIwYTk4MWYtMGUxYS00OWUzLTg5MDYtNzg5MmYyNzcyNThkXkEyXkFqcGc@._V1_.jpg",
+          "id": "rm1866452482",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGVmNzRlZTctNTU2OS00MTQwLWI2ZWQtOGViMjc4ODNlNzVmXkEyXkFqcGc@._V1_.jpg",
           "width": 1080,
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 16,
+          "current_rank": 1,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 13
+            "difference": 15
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.7,
+          "vote_count": 41400
         },
         "release_date": {
           "year": 2026,
@@ -646,7 +2248,7 @@
           "text": "Resident Evil"
         },
         "runtime": {
-          "seconds": 5400
+          "seconds": 5640
         }
       },
       {
@@ -827,18 +2429,6 @@
                 },
                 "language": {
                   "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Monster",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
                 }
               }
             },
@@ -1153,12 +2743,21 @@
                   "text": "Slovakia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Monstre",
+                "country": {
+                  "id": "NO",
+                  "text": "Norway"
+                }
+              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "这部真实罪案题材的诗选剧对那些极端行为震惊社会的个体进行了多层面的心理剖析。"
+            "plain_text": "这部真实罪案选集剧对那些因极端行为而震惊社会的个体进行了多层面的心理剖析。"
           }
         },
         "primary_image": {
@@ -1168,16 +2767,16 @@
           "height": 2000
         },
         "meter_ranking": {
-          "current_rank": 78,
+          "current_rank": 1,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 4
+            "change_direction": "UP",
+            "difference": 77
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 226394
+          "vote_count": 228783
         },
         "release_date": {
           "year": 2022,
@@ -1635,7 +3234,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一群军情五处特工组成的废柴团队在间谍世界的尔虞我诈中穿行，保护英国免受邪恶势力的侵害。"
+            "plain_text": "一群军情五处的边缘特工组成了一支“废柴联盟”，他们在尔虞我诈的谍战世界中穿梭，誓要保护英国免受邪恶势力的侵害。"
           }
         },
         "primary_image": {
@@ -1645,16 +3244,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 13,
+          "current_rank": 8,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 8
+            "difference": 5
           }
         },
         "ratings_summary": {
           "aggregate_rating": 8.3,
-          "vote_count": 156026
+          "vote_count": 157685
         },
         "release_date": {
           "year": 2022,
@@ -1838,12 +3437,21 @@
                   "text": "Serbia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Нили",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "尼格利凭借与杰克·雷彻及110特调组共事的经验，踏上了一场揭露阴险威胁的危险任务，冒着生命危险去揭开谜团。"
+            "plain_text": "尼格利凭借在杰克·雷彻麾下以及 110 特别调查组积累的丰富经验，踏上了一场揭露阴谋的危险征程，不惜冒着生命危险去解开谜团。"
           }
         },
         "primary_image": {
@@ -1853,15 +3461,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 85,
+          "current_rank": 2,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 3
+            "change_direction": "UP",
+            "difference": 83
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.8,
+          "vote_count": 8738
         },
         "release_date": {
           "year": 2026,
@@ -1897,8 +3506,1085 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-MA"
+        },
         "original_title_text": {
           "text": "Neagley"
+        },
+        "runtime": {
+          "seconds": 3000
+        }
+      },
+      {
+        "id": "tt26545992",
+        "title_text": {
+          "text": "Lanterns"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanterns",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Linternas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lámpások",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lanternas",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Latarnie",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ліхтарі",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фењери",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фонари",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "綠光軍團",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "《绿灯侠》讲述了新成员约翰·斯图尔特与传奇绿灯侠哈尔·乔丹的故事。这两位星际警察在调查美国腹地的一起谋杀案时，被卷入了一场发生在地球上的黑暗谜团。"
+          }
+        },
+        "primary_image": {
+          "id": "rm2473903874",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1396
+        },
+        "meter_ranking": {
+          "current_rank": 4,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 1
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.8,
+          "vote_count": 39195
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 8,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Lanterns"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt31510819",
+        "title_text": {
+          "text": "MobLand"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2025
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "MobLand",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tierra de mafiosos",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tierra de mafiosos",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "Latin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gengsztervilág",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Lãnh Địa Tử Chiến",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Strefa gangsterów",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Terra da Máfia",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Associate",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tierra de mafia",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Země gangů",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Гангстерленд",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Земля Гангстерів",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "黑幫領地",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "权力更迭之际，两个敌对的犯罪家族爆发冲突，这场恶战足以撼动整个帝国。处在交火中心的哈里·达·索萨是一名精明的江湖“解决师”，他深知在势力碰撞之时，忠诚究竟意味着什么。"
+          }
+        },
+        "primary_image": {
+          "id": "rm2425485314",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDc4MmYxNTAtM2ViYy00YWQ4LThjZWUtNDZjNTZjNDFhNzBjXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 6,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 8
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.3,
+          "vote_count": 126091
+        },
+        "release_date": {
+          "year": 2025,
+          "month": 3,
+          "day": 30
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "MobLand"
+        },
+        "runtime": {
+          "seconds": 3000
+        }
+      },
+      {
+        "id": "tt13210838",
+        "title_text": {
+          "text": "The Gentlemen"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "Hindi"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Los caballeros",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Los caballeros",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Los caballeros",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Džentelmenai",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dżentelmeni",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gangsteri cu stil",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gospoda",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Magnatas do Crime",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Quý Ông Thế Giới Ngầm",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Senhores do Crime: A Série",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Gentlemen: La serie",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Úriemberek",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Господа",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Джентльмени",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Джентльмены",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ジェントルメン",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "紳士追殺令",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "绅士们",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "绅士们(剧版)",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "当贵族出身的埃迪继承家族庄园时，他惊讶地发现这里竟然是一个庞大大麻帝国的所在地，而那些经营者们根本没打算离开。"
+          }
+        },
+        "primary_image": {
+          "id": "rm4125245441",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 3,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 2
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.1,
+          "vote_count": 198419
+        },
+        "release_date": {
+          "year": 2024,
+          "month": 3,
+          "day": 7
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "The Gentlemen"
+        },
+        "runtime": {
+          "seconds": 3000
         }
       },
       {
@@ -2153,6 +4839,15 @@
             },
             {
               "node": {
+                "text": "Cerības osta",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Espoir",
                 "country": {
                   "id": "CA",
@@ -2169,6 +4864,15 @@
                 "country": {
                   "id": "HU",
                   "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hope: Atacul final",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
                 }
               }
             },
@@ -2260,7 +4964,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "在偏远港口小镇的郊区有了神秘发现。居民们发现自己陷入了一场绝望的生存之战，对抗他们从未遇过的未知存在。"
+            "plain_text": "在偏远港口小镇的郊区，人们有了一项神秘发现。居民们很快发现自己陷入了一场绝望的生存之战，对手是他们从未见过的未知生物。"
           }
         },
         "primary_image": {
@@ -2270,16 +4974,16 @@
           "height": 12000
         },
         "meter_ranking": {
-          "current_rank": 10,
+          "current_rank": 13,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 22
+            "change_direction": "DOWN",
+            "difference": 3
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.9,
-          "vote_count": 6055
+          "aggregate_rating": 6.8,
+          "vote_count": 7876
         },
         "release_date": {
           "year": 2026,
@@ -2836,7 +5540,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "一个世代传承的女巫家族被诅咒数世纪无法获得真爱，她们试图通过直面黑暗秘密和为彼此牺牲来打破魔咒。"
+            "plain_text": "一个世代为巫的家族被诅咒数百年无法获得爱情，她们试图通过直面黑暗秘密和彼此牺牲来打破魔咒。"
           }
         },
         "primary_image": {
@@ -2846,16 +5550,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 2,
+          "current_rank": 6,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 17
+            "change_direction": "DOWN",
+            "difference": 4
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.4,
-          "vote_count": 5525
+          "aggregate_rating": 6.3,
+          "vote_count": 8341
         },
         "release_date": {
           "year": 2026,
@@ -2867,11 +5571,6 @@
             {
               "genre": {
                 "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
               }
             },
             {
@@ -3109,6 +5808,15 @@
             },
             {
               "node": {
+                "text": "Rebelia",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "The Rage",
                 "country": {
                   "id": "GB",
@@ -3156,7 +5864,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "影片根据启发了罗宾汉传奇的真实起义故事改编，安德鲁·加菲尔德饰演起义领袖，反抗理查二世的暴政，为正义而战。"
+            "plain_text": "影片根据启发了罗宾汉传说的真实起义故事改编，安德鲁·加菲尔德饰演起义领袖，率领民众反抗理查二世的暴政，为正义而战。"
           }
         },
         "primary_image": {
@@ -3166,16 +5874,16 @@
           "height": 1000
         },
         "meter_ranking": {
-          "current_rank": 19,
+          "current_rank": 29,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 30
+            "change_direction": "DOWN",
+            "difference": 10
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.3,
-          "vote_count": 1824
+          "vote_count": 2680
         },
         "release_date": {
           "year": 2026,
@@ -3214,717 +5922,6 @@
         },
         "runtime": {
           "seconds": 7680
-        }
-      },
-      {
-        "id": "tt26545992",
-        "title_text": {
-          "text": "Lanterns"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanterns",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Linternas",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lámpások",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lanternas",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Latarnie",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фењери",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фонари",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "綠光軍團",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "《绿灯侠》讲述了新成员 John Stewart 和传奇绿灯侠 Hal Jordan 的故事，这两名星际警察在调查美国腹地的一起谋杀案时，被卷入了一场发生在地球的黑暗谜团。"
-          }
-        },
-        "primary_image": {
-          "id": "rm2473903874",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2ZjZDNlNDgtMjJlMy00NGRjLThlMGEtM2U4N2E4MDUwNjNmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1396
-        },
-        "meter_ranking": {
-          "current_rank": 3,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "FLAT",
-            "difference": 0
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.8,
-          "vote_count": 33983
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 8,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Lanterns"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt13210838",
-        "title_text": {
-          "text": "The Gentlemen"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2024
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Los caballeros",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Los caballeros",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Los caballeros",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Džentelmenai",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Dżentelmeni",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gangsteri cu stil",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gospoda",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Magnatas do Crime",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Quý Ông Thế Giới Ngầm",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Senhores do Crime: A Série",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Gentlemen: La serie",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Úriemberek",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Господа",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Джентльмени",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Джентльмены",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ジェントルメン",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "紳士追殺令",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "绅士们",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "绅士们(剧版)",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "贵族青年埃迪继承了家族庄园，却发现这里竟然是一个庞大的杂草帝国所在地，而且其经营者们根本不打算离开。"
-          }
-        },
-        "primary_image": {
-          "id": "rm4125245441",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzM0YzFhMTYtYjZkNS00MWRmLTg2ZDgtY2MzYjQ5ODVmOTI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 1,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "FLAT",
-            "difference": 0
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.0,
-          "vote_count": 193938
-        },
-        "release_date": {
-          "year": 2024,
-          "month": 3,
-          "day": 7
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "The Gentlemen"
-        },
-        "runtime": {
-          "seconds": 3000
         }
       },
       {
@@ -4094,7 +6091,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "特洛伊·布伦南中尉在苏联领土执行侦察任务时发生意外，被迫迫降并在俄罗斯荒野中求生，同时还要躲避抓捕或寻求营救。"
+            "plain_text": "特洛伊·布伦南中尉在苏联领空执行侦察任务时遭遇意外，被迫在俄罗斯荒野迫降。在躲避搜捕并等待营救的过程中，他必须在严酷的环境中艰难求生。"
           }
         },
         "primary_image": {
@@ -4104,16 +6101,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 1,
+          "current_rank": 5,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "FLAT",
-            "difference": 0
+            "change_direction": "DOWN",
+            "difference": 4
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 29789
+          "vote_count": 36938
         },
         "release_date": {
           "year": 2026,
@@ -4152,1803 +6149,6 @@
         },
         "runtime": {
           "seconds": 6600
-        }
-      },
-      {
-        "id": "tt31510819",
-        "title_text": {
-          "text": "MobLand"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2025
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "MobLand",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tierra de mafiosos",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tierra de mafiosos",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "Latin"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gengsztervilág",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Lãnh Địa Tử Chiến",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Strefa gangsterów",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Terra da Máfia",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Associate",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tierra de mafia",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Země gangů",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Гангстерленд",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Земля Гангстерів",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "黑幫領地",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "随着两个敌对犯罪家族陷入一场足以倾覆帝国的激战，权力变得唾手可得。哈里·达·索萨被夹在战火之中，作为一名精明的街头“清理人”，他深知当对立势力碰撞时，忠诚究竟斤两几何。"
-          }
-        },
-        "primary_image": {
-          "id": "rm2425485314",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDc4MmYxNTAtM2ViYy00YWQ4LThjZWUtNDZjNTZjNDFhNzBjXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 14,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 11
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.3,
-          "vote_count": 124170
-        },
-        "release_date": {
-          "year": 2025,
-          "month": 3,
-          "day": 30
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "MobLand"
-        },
-        "runtime": {
-          "seconds": 3000
-        }
-      },
-      {
-        "id": "tt22526100",
-        "title_text": {
-          "text": "The Love Hypothesis"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Hipótese do Amor",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Aşk Hipotez",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "La hipótesis del amor",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Love Hypothesis - Il teorema dell'amore",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "在一次冲动的亲吻后，两名科学家陷入了一段契约关系，以此测试他们关于爱情以及对彼此的理论。"
-          }
-        },
-        "primary_image": {
-          "id": "rm1045362946",
-          "url": "https://m.media-amazon.com/images/M/MV5BYWI2ZWZjZGItZDFiMi00ODBmLThmODktY2FlZmNkNmU4YTEzXkEyXkFqcGc@._V1_.jpg",
-          "width": 2000,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 216,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 58
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 9,
-          "day": 23
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "The Love Hypothesis"
-        }
-      },
-      {
-        "id": "tt1844624",
-        "title_text": {
-          "text": "American Horror Story"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2011
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "AE",
-                  "text": "United Arab Emirates"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "Hindi"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "KR",
-                  "text": "South Korea"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "PH",
-                  "text": "Philippines"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Asylum",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Asylum",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Asylum",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Asylum",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Murder House",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Murder House",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Murder House",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Apocalypse",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Apocalypse",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Coven",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Coven",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Cult",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Cult",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Freak Show",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Freak Show",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Hotel",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: Hotel",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: New York City",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "American Horror Story: New York City",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Американская история ужасов",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Американская история ужасов",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "AHS",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "AHS: 1984",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ameerika õudukas",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ameerika õudukas: Hotell",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "这是一部恐怖题材的诗选剧，每季聚焦不同的角色和地点，展现恐怖元素的不同侧面。由瑞恩·墨菲和布拉德·法尔查克创作并制作。"
-          }
-        },
-        "primary_image": {
-          "id": "rm127662850",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTM3NTZjMDctYWQ3YS00NjQ4LWIwMjItNmIwZTlkM2U4NjRkXkEyXkFqcGc@._V1_.jpg",
-          "width": 2400,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 28,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 33
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.9,
-          "vote_count": 364800
-        },
-        "release_date": {
-          "year": 2011,
-          "month": 10,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "American Horror Story"
-        },
-        "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt33081352",
-        "title_text": {
-          "text": "A Different World"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Different World",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Um Mundo Diferente",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Um Mundo Diferente",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Inny świat",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "德博拉·韦恩进入了希尔曼学院开启大一生活，这是她父母曾就读的历史悠久的黑人大学，她必须摆脱父母的阴影，建立属于自己的传奇。"
-          }
-        },
-        "primary_image": {
-          "id": "rm1639369730",
-          "url": "https://m.media-amazon.com/images/M/MV5BNGIwZDc3OWYtZTZkOS00NmRjLTk3NTAtNjQzODI3ZTI4MWU4XkEyXkFqcGc@._V1_.jpg",
-          "width": 510,
-          "height": 755
-        },
-        "meter_ranking": {
-          "current_rank": 847,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 219
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 9,
-          "day": 24
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "A Different World"
-        },
-        "runtime": {
-          "seconds": 1800
-        }
-      },
-      {
-        "id": "tt34206385",
-        "title_text": {
-          "text": "Primetime"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Primetime",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "實境誘捕",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "實境誘捕",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "En direct",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Hiilgeaeg",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Karstais raidlaiks",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Прайм-тайм",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "2006年，《猎捕掠食者》主持人克里斯·汉森着手创造电视历史。"
-          }
-        },
-        "primary_image": {
-          "id": "rm3470522882",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTcyZGI2NWQtOTU3NS00NTEyLTliNDItNTQyNmFkMGZmZGQzXkEyXkFqcGc@._V1_.jpg",
-          "width": 2430,
-          "height": 3600
-        },
-        "meter_ranking": {
-          "current_rank": 28,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 3
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.7,
-          "vote_count": 449
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 9,
-          "day": 25
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Biography"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Primetime"
-        },
-        "runtime": {
-          "seconds": 6600
-        }
-      },
-      {
-        "id": "tt6933238",
-        "title_text": {
-          "text": "Unabomber"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Unabomber",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Унабомбер",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "一名哈佛学生在经历心理实验后沦为“大学航空炸弹客”。多年后，一名 FBI 探员在追捕过程中揭开了他的过去，展现了那段经历如何塑造了他从 1978 年到 1995 年间致 3 死 23 伤的致命恐怖活动。"
-          }
-        },
-        "primary_image": {
-          "id": "rm104200450",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDE2ODhlNTUtYjdiOS00OTlmLTg5OGMtMGNjZWZmNWE4MGJiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 392,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 199
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 9,
-          "day": 25
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Biography"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Unabomber"
-        },
-        "runtime": {
-          "seconds": 5820
         }
       },
       {
@@ -6145,7 +6345,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "1858 年，性格古怪的年轻女家庭教师温妮弗雷德·诺蒂来到偏远的哥特式庄园“恩索府邸”。随着温妮弗雷德逐渐融入，府上的仆人开始莫名失踪，主人家也开始怀疑这位新来的家庭教师是不是有点不对劲。"
+            "plain_text": "1858年，性格古怪的年轻家庭教师温妮弗雷德·诺蒂来到偏远的哥特式庄园恩索尔府邸。随着她的融入，庄园里的佣人开始接连莫名失踪，主人家也开始怀疑这位新来的家庭教师是否另有所图。"
           }
         },
         "primary_image": {
@@ -6155,16 +6355,16 @@
           "height": 755
         },
         "meter_ranking": {
-          "current_rank": 950,
+          "current_rank": 564,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 54
+            "change_direction": "UP",
+            "difference": 386
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.1,
-          "vote_count": 300
+          "aggregate_rating": 5.2,
+          "vote_count": 321
         },
         "release_date": {
           "year": 2026,
@@ -6202,6 +6402,246 @@
       }
     ],
     "names": [
+      {
+        "id": "nm3929887",
+        "name_text": {
+          "text": "Lili Reinhart"
+        },
+        "primary_image": {
+          "id": "rm1416851969",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTYyZTIxZDgtMjdhOC00ZGRkLThmMzgtYTFmOTgyYTU4M2M1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1179,
+          "height": 1600
+        }
+      },
+      {
+        "id": "nm5290643",
+        "name_text": {
+          "text": "Tom Bateman"
+        },
+        "primary_image": {
+          "id": "rm1868901120",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTU2NzQ1NTYtNDkyNy00YTZhLWEwZTItOGI1YzE3NWViODJiXkEyXkFqcGc@._V1_.jpg",
+          "width": 768,
+          "height": 1008
+        }
+      },
+      {
+        "id": "nm6721226",
+        "name_text": {
+          "text": "Nicholas Duvernay"
+        },
+        "primary_image": {
+          "id": "rm2181015042",
+          "url": "https://m.media-amazon.com/images/M/MV5BMmNkNjY4ZmQtMTRkZS00YzZhLTkyZDgtYmYzZWFjMjZjZGYyXkEyXkFqcGc@._V1_CR483,1,301,452_.jpg",
+          "width": 301,
+          "height": 452
+        }
+      },
+      {
+        "id": "nm0001448",
+        "name_text": {
+          "text": "Jessica Lange"
+        },
+        "primary_image": {
+          "id": "rm2007536384",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjg5ODIyMjY0NF5BMl5BanBnXkFtZTcwNDcyNjY0MQ@@._V1_.jpg",
+          "width": 485,
+          "height": 600
+        }
+      },
+      {
+        "id": "nm0005299",
+        "name_text": {
+          "text": "Sarah Paulson"
+        },
+        "primary_image": {
+          "id": "rm1739688448",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUzMTA3NjM4MV5BMl5BanBnXkFtZTcwNjk1NTAyMg@@._V1_.jpg",
+          "width": 260,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm1404239",
+        "name_text": {
+          "text": "Evan Peters"
+        },
+        "primary_image": {
+          "id": "rm3782307585",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTFmYTQyZGQtZjlmNi00YjMyLTkzNzgtZWIxMTQ0OTk4YjFjXkEyXkFqcGc@._V1_CR22,0,2020,3030_.jpg",
+          "width": 2020,
+          "height": 3030
+        }
+      },
+      {
+        "id": "nm0000870",
+        "name_text": {
+          "text": "Kathy Bates"
+        },
+        "primary_image": {
+          "id": "rm3751954177",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTMxMmE5ZDctY2NmMC00ZDhjLWEzOTctOTczODQ1ZDM1NDRiXkEyXkFqcGc@._V1_.jpg",
+          "width": 976,
+          "height": 946
+        }
+      },
+      {
+        "id": "nm14291945",
+        "name_text": {
+          "text": "Maleah Joi Moon"
+        },
+        "primary_image": {
+          "id": "rm2870050305",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTk1YjUwODctMTQ1Mi00OThhLWExNDEtMDQ4NzcwNWZhZWE3XkEyXkFqcGc@._V1_.jpg",
+          "width": 300,
+          "height": 450
+        }
+      },
+      {
+        "id": "nm15998059",
+        "name_text": {
+          "text": "Cornell Young IV"
+        },
+        "primary_image": {
+          "id": "rm3242748161",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzBjYjZhMzItN2E1MS00ODgzLWI4NjQtY2QwZmI5NmMzN2Q1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1620
+        }
+      },
+      {
+        "id": "nm0362429",
+        "name_text": {
+          "text": "Kadeem Hardison"
+        },
+        "primary_image": {
+          "id": "rm1309986562",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTM5ZGQ2YzYtZGFjMy00ODM3LWFhNmItMWQzZDhkMzFjYmRlXkEyXkFqcGc@._V1_.jpg",
+          "width": 2203,
+          "height": 3000
+        }
+      },
+      {
+        "id": "nm0004982",
+        "name_text": {
+          "text": "Jasmine Guy"
+        },
+        "primary_image": {
+          "id": "rm559061248",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTgwNDc3NV5BMl5BanBnXkFtZTYwNDM3MTg3._V1_.jpg",
+          "width": 485,
+          "height": 661
+        }
+      },
+      {
+        "id": "nm14291945",
+        "name_text": {
+          "text": "Maleah Joi Moon"
+        },
+        "primary_image": {
+          "id": "rm2870050305",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTk1YjUwODctMTQ1Mi00OThhLWExNDEtMDQ4NzcwNWZhZWE3XkEyXkFqcGc@._V1_.jpg",
+          "width": 300,
+          "height": 450
+        }
+      },
+      {
+        "id": "nm1500155",
+        "name_text": {
+          "text": "Robert Pattinson"
+        },
+        "primary_image": {
+          "id": "rm2444987904",
+          "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
+          "width": 301,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0267506",
+        "name_text": {
+          "text": "Anna Faris"
+        },
+        "primary_image": {
+          "id": "rm3450044672",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA5MTY5NjMyMF5BMl5BanBnXkFtZTcwNjM0NTI4Mw@@._V1_.jpg",
+          "width": 376,
+          "height": 490
+        }
+      },
+      {
+        "id": "nm1711114",
+        "name_text": {
+          "text": "Skyler Gisondo"
+        },
+        "primary_image": {
+          "id": "rm3198420480",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzMyMjc4YzYtMjg5YS00YzBjLTgzZmUtYmE5YmNkZTAzMmU5XkEyXkFqcGc@._V1_.jpg",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "id": "nm0923266",
+        "name_text": {
+          "text": "Merritt Wever"
+        },
+        "primary_image": {
+          "id": "rm4039621120",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIyMTY1OTAwMF5BMl5BanBnXkFtZTcwNTI5OTM0NA@@._V1_.jpg",
+          "width": 1361,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm5016878",
+        "name_text": {
+          "text": "Jacob Tremblay"
+        },
+        "primary_image": {
+          "id": "rm497517314",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTU4ZGMxMGMtMTc3ZC00NmQzLWIyNTktOGEyNGMwNjRkMThkXkEyXkFqcGc@._V1_CR887,244,3333,5000_.jpg",
+          "width": 3333,
+          "height": 5000
+        }
+      },
+      {
+        "id": "nm0000128",
+        "name_text": {
+          "text": "Russell Crowe"
+        },
+        "primary_image": {
+          "id": "rm2298720512",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQyMTExNTMxOF5BMl5BanBnXkFtZTcwNDg1NzkzNw@@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0940362",
+        "name_text": {
+          "text": "Shailene Woodley"
+        },
+        "primary_image": {
+          "id": "rm2584818945",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGRkMTFiY2QtYTc1Mi00YzYyLTgwZTctNGJmM2JiODVjNGY4XkEyXkFqcGc@._V1_.jpg",
+          "width": 4096,
+          "height": 1716
+        }
+      },
+      {
+        "id": "nm1834115",
+        "name_text": {
+          "text": "Annabelle Wallis"
+        },
+        "primary_image": {
+          "id": "rm2936091904",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA2MjU2NjE1OV5BMl5BanBnXkFtZTgwNTMyMTAzMjI@._V1_.jpg",
+          "width": 2048,
+          "height": 1316
+        }
+      },
       {
         "id": "nm3641002",
         "name_text": {
@@ -6449,6 +6889,186 @@
         }
       },
       {
+        "id": "nm7543974",
+        "name_text": {
+          "text": "Aaron Pierre"
+        },
+        "primary_image": {
+          "id": "rm367904257",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MmNhNTItOTVhMi00YWNhLTkwZjUtMDliMGM1YWRkNGJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 1030,
+          "height": 1254
+        }
+      },
+      {
+        "id": "nm0151419",
+        "name_text": {
+          "text": "Kyle Chandler"
+        },
+        "primary_image": {
+          "id": "rm2832564480",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
+          "width": 1391,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0277213",
+        "name_text": {
+          "text": "Nathan Fillion"
+        },
+        "primary_image": {
+          "id": "rm2737497600",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
+          "width": 576,
+          "height": 720
+        }
+      },
+      {
+        "id": "nm0001473",
+        "name_text": {
+          "text": "Laura Linney"
+        },
+        "primary_image": {
+          "id": "rm1109625344",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
+          "width": 289,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0362766",
+        "name_text": {
+          "text": "Tom Hardy"
+        },
+        "primary_image": {
+          "id": "rm370524672",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_.jpg",
+          "width": 1366,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000545",
+        "name_text": {
+          "text": "Helen Mirren"
+        },
+        "primary_image": {
+          "id": "rm1029102080",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjA4MzY2ODU2MV5BMl5BanBnXkFtZTcwOTQ3ODY4OQ@@._V1_.jpg",
+          "width": 1617,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000112",
+        "name_text": {
+          "text": "Pierce Brosnan"
+        },
+        "primary_image": {
+          "id": "rm2320011008",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTMwMjMxNzM4OV5BMl5BanBnXkFtZTcwNDM5NzkxMw@@._V1_.jpg",
+          "width": 293,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0005216",
+        "name_text": {
+          "text": "Janet McTeer"
+        },
+        "primary_image": {
+          "id": "rm4239747585",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjdjOWE1N2EtZjU2Zi00ODA4LWFiZjAtMDY3YTY0MzgxYjc2XkEyXkFqcGc@._V1_.jpg",
+          "width": 355,
+          "height": 435
+        }
+      },
+      {
+        "id": "nm6978918",
+        "name_text": {
+          "text": "Anson Boon"
+        },
+        "primary_image": {
+          "id": "rm1262390530",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjlkZTNkYmItZTA2NS00ZmMzLTg0OWQtN2E5NWJlZWYxMWZlXkEyXkFqcGc@._V1_CR313,100,281,421_.jpg",
+          "width": 281,
+          "height": 421
+        }
+      },
+      {
+        "id": "nm0175916",
+        "name_text": {
+          "text": "Paddy Considine"
+        },
+        "primary_image": {
+          "id": "rm1677201153",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjJmNDViMmQtNjdmOC00YjMxLTk2YjYtY2YwMzYzZjRkNWNkXkEyXkFqcGc@._V1_.jpg",
+          "width": 4365,
+          "height": 6548
+        }
+      },
+      {
+        "id": "nm3772243",
+        "name_text": {
+          "text": "Theo James"
+        },
+        "primary_image": {
+          "id": "rm2689979649",
+          "url": "https://m.media-amazon.com/images/M/MV5BYmM2NDA1NmItN2MzZS00NmVlLWE5MjYtOTFkMWM2OWRmMTk1XkEyXkFqcGc@._V1_.jpg",
+          "width": 975,
+          "height": 1300
+        }
+      },
+      {
+        "id": "nm2546012",
+        "name_text": {
+          "text": "Kaya Scodelario"
+        },
+        "primary_image": {
+          "id": "rm3408743937",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjY2OGYzZmMtYWQ4MC00Y2Y0LWFjYTctYzkxMmYxMTZhZGJjXkEyXkFqcGc@._V1_.jpg",
+          "width": 749,
+          "height": 1000
+        }
+      },
+      {
+        "id": "nm0935653",
+        "name_text": {
+          "text": "Ray Winstone"
+        },
+        "primary_image": {
+          "id": "rm115969024",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTM2MTU1OV5BMl5BanBnXkFtZTcwNDAzNTQyMw@@._V1_.jpg",
+          "width": 1614,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0002064",
+        "name_text": {
+          "text": "Giancarlo Esposito"
+        },
+        "primary_image": {
+          "id": "rm3255274240",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_.jpg",
+          "width": 281,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm3958526",
+        "name_text": {
+          "text": "Daniel Ings"
+        },
+        "primary_image": {
+          "id": "rm3553314049",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzZiNzNiYjktNGNiNC00Mzc4LWFiNTYtYjJhZjliZGM0ZTQ4XkEyXkFqcGc@._V1_CR2297,297,3112,4668_.jpg",
+          "width": 3112,
+          "height": 4668
+        }
+      },
+      {
         "id": "nm1058565",
         "name_text": {
           "text": "Hwang Jung-min"
@@ -6617,114 +7237,6 @@
         }
       },
       {
-        "id": "nm7543974",
-        "name_text": {
-          "text": "Aaron Pierre"
-        },
-        "primary_image": {
-          "id": "rm367904257",
-          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MmNhNTItOTVhMi00YWNhLTkwZjUtMDliMGM1YWRkNGJjXkEyXkFqcGc@._V1_.jpg",
-          "width": 1030,
-          "height": 1254
-        }
-      },
-      {
-        "id": "nm0151419",
-        "name_text": {
-          "text": "Kyle Chandler"
-        },
-        "primary_image": {
-          "id": "rm2832564480",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTM5NDM4ODg3MV5BMl5BanBnXkFtZTcwNTA3MTk3Mw@@._V1_.jpg",
-          "width": 1391,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0277213",
-        "name_text": {
-          "text": "Nathan Fillion"
-        },
-        "primary_image": {
-          "id": "rm2737497600",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTkxODM3ODY2Nl5BMl5BanBnXkFtZTgwMzAyMjU2NzE@._V1_.jpg",
-          "width": 576,
-          "height": 720
-        }
-      },
-      {
-        "id": "nm0001473",
-        "name_text": {
-          "text": "Laura Linney"
-        },
-        "primary_image": {
-          "id": "rm1109625344",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTMyMDc3Mzc2M15BMl5BanBnXkFtZTcwMjc5OTcyMg@@._V1_.jpg",
-          "width": 289,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm3772243",
-        "name_text": {
-          "text": "Theo James"
-        },
-        "primary_image": {
-          "id": "rm2689979649",
-          "url": "https://m.media-amazon.com/images/M/MV5BYmM2NDA1NmItN2MzZS00NmVlLWE5MjYtOTFkMWM2OWRmMTk1XkEyXkFqcGc@._V1_.jpg",
-          "width": 975,
-          "height": 1300
-        }
-      },
-      {
-        "id": "nm2546012",
-        "name_text": {
-          "text": "Kaya Scodelario"
-        },
-        "primary_image": {
-          "id": "rm3408743937",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjY2OGYzZmMtYWQ4MC00Y2Y0LWFjYTctYzkxMmYxMTZhZGJjXkEyXkFqcGc@._V1_.jpg",
-          "width": 749,
-          "height": 1000
-        }
-      },
-      {
-        "id": "nm0935653",
-        "name_text": {
-          "text": "Ray Winstone"
-        },
-        "primary_image": {
-          "id": "rm115969024",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTM2MTU1OV5BMl5BanBnXkFtZTcwNDAzNTQyMw@@._V1_.jpg",
-          "width": 1614,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0002064",
-        "name_text": {
-          "text": "Giancarlo Esposito"
-        },
-        "primary_image": {
-          "id": "rm3255274240",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_.jpg",
-          "width": 281,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm3958526",
-        "name_text": {
-          "text": "Daniel Ings"
-        },
-        "primary_image": {
-          "id": "rm3553314049",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzZiNzNiYjktNGNiNC00Mzc4LWFiNTYtYjJhZjliZGM0ZTQ4XkEyXkFqcGc@._V1_CR2297,297,3112,4668_.jpg",
-          "width": 3112,
-          "height": 4668
-        }
-      },
-      {
         "id": "nm0005351",
         "name_text": {
           "text": "Ryan Reynolds"
@@ -6752,318 +7264,6 @@
         "id": "nm9841972",
         "name_text": {
           "text": "Somiron Sarkar"
-        }
-      },
-      {
-        "id": "nm0362766",
-        "name_text": {
-          "text": "Tom Hardy"
-        },
-        "primary_image": {
-          "id": "rm370524672",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ3ODEyNjA4Nl5BMl5BanBnXkFtZTgwMTE4ODMyMjE@._V1_.jpg",
-          "width": 1366,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000545",
-        "name_text": {
-          "text": "Helen Mirren"
-        },
-        "primary_image": {
-          "id": "rm1029102080",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjA4MzY2ODU2MV5BMl5BanBnXkFtZTcwOTQ3ODY4OQ@@._V1_.jpg",
-          "width": 1617,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000112",
-        "name_text": {
-          "text": "Pierce Brosnan"
-        },
-        "primary_image": {
-          "id": "rm2320011008",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTMwMjMxNzM4OV5BMl5BanBnXkFtZTcwNDM5NzkxMw@@._V1_.jpg",
-          "width": 293,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0005216",
-        "name_text": {
-          "text": "Janet McTeer"
-        },
-        "primary_image": {
-          "id": "rm4239747585",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjdjOWE1N2EtZjU2Zi00ODA4LWFiZjAtMDY3YTY0MzgxYjc2XkEyXkFqcGc@._V1_.jpg",
-          "width": 355,
-          "height": 435
-        }
-      },
-      {
-        "id": "nm6978918",
-        "name_text": {
-          "text": "Anson Boon"
-        },
-        "primary_image": {
-          "id": "rm1262390530",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjlkZTNkYmItZTA2NS00ZmMzLTg0OWQtN2E5NWJlZWYxMWZlXkEyXkFqcGc@._V1_CR313,100,281,421_.jpg",
-          "width": 281,
-          "height": 421
-        }
-      },
-      {
-        "id": "nm0175916",
-        "name_text": {
-          "text": "Paddy Considine"
-        },
-        "primary_image": {
-          "id": "rm1677201153",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjJmNDViMmQtNjdmOC00YjMxLTk2YjYtY2YwMzYzZjRkNWNkXkEyXkFqcGc@._V1_.jpg",
-          "width": 4365,
-          "height": 6548
-        }
-      },
-      {
-        "id": "nm3929887",
-        "name_text": {
-          "text": "Lili Reinhart"
-        },
-        "primary_image": {
-          "id": "rm1416851969",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTYyZTIxZDgtMjdhOC00ZGRkLThmMzgtYTFmOTgyYTU4M2M1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1179,
-          "height": 1600
-        }
-      },
-      {
-        "id": "nm5290643",
-        "name_text": {
-          "text": "Tom Bateman"
-        },
-        "primary_image": {
-          "id": "rm1868901120",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTU2NzQ1NTYtNDkyNy00YTZhLWEwZTItOGI1YzE3NWViODJiXkEyXkFqcGc@._V1_.jpg",
-          "width": 768,
-          "height": 1008
-        }
-      },
-      {
-        "id": "nm6721226",
-        "name_text": {
-          "text": "Nicholas Duvernay"
-        },
-        "primary_image": {
-          "id": "rm2181015042",
-          "url": "https://m.media-amazon.com/images/M/MV5BMmNkNjY4ZmQtMTRkZS00YzZhLTkyZDgtYmYzZWFjMjZjZGYyXkEyXkFqcGc@._V1_CR483,1,301,452_.jpg",
-          "width": 301,
-          "height": 452
-        }
-      },
-      {
-        "id": "nm0001448",
-        "name_text": {
-          "text": "Jessica Lange"
-        },
-        "primary_image": {
-          "id": "rm2007536384",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjg5ODIyMjY0NF5BMl5BanBnXkFtZTcwNDcyNjY0MQ@@._V1_.jpg",
-          "width": 485,
-          "height": 600
-        }
-      },
-      {
-        "id": "nm0005299",
-        "name_text": {
-          "text": "Sarah Paulson"
-        },
-        "primary_image": {
-          "id": "rm1739688448",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTUzMTA3NjM4MV5BMl5BanBnXkFtZTcwNjk1NTAyMg@@._V1_.jpg",
-          "width": 260,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm1404239",
-        "name_text": {
-          "text": "Evan Peters"
-        },
-        "primary_image": {
-          "id": "rm3782307585",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTFmYTQyZGQtZjlmNi00YjMyLTkzNzgtZWIxMTQ0OTk4YjFjXkEyXkFqcGc@._V1_CR22,0,2020,3030_.jpg",
-          "width": 2020,
-          "height": 3030
-        }
-      },
-      {
-        "id": "nm0000870",
-        "name_text": {
-          "text": "Kathy Bates"
-        },
-        "primary_image": {
-          "id": "rm3751954177",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTMxMmE5ZDctY2NmMC00ZDhjLWEzOTctOTczODQ1ZDM1NDRiXkEyXkFqcGc@._V1_.jpg",
-          "width": 976,
-          "height": 946
-        }
-      },
-      {
-        "id": "nm14291945",
-        "name_text": {
-          "text": "Maleah Joi Moon"
-        },
-        "primary_image": {
-          "id": "rm2870050305",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTk1YjUwODctMTQ1Mi00OThhLWExNDEtMDQ4NzcwNWZhZWE3XkEyXkFqcGc@._V1_.jpg",
-          "width": 300,
-          "height": 450
-        }
-      },
-      {
-        "id": "nm15998059",
-        "name_text": {
-          "text": "Cornell Young IV"
-        },
-        "primary_image": {
-          "id": "rm3242748161",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzBjYjZhMzItN2E1MS00ODgzLWI4NjQtY2QwZmI5NmMzN2Q1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1620
-        }
-      },
-      {
-        "id": "nm0362429",
-        "name_text": {
-          "text": "Kadeem Hardison"
-        },
-        "primary_image": {
-          "id": "rm1309986562",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTM5ZGQ2YzYtZGFjMy00ODM3LWFhNmItMWQzZDhkMzFjYmRlXkEyXkFqcGc@._V1_.jpg",
-          "width": 2203,
-          "height": 3000
-        }
-      },
-      {
-        "id": "nm0004982",
-        "name_text": {
-          "text": "Jasmine Guy"
-        },
-        "primary_image": {
-          "id": "rm559061248",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTgwNDc3NV5BMl5BanBnXkFtZTYwNDM3MTg3._V1_.jpg",
-          "width": 485,
-          "height": 661
-        }
-      },
-      {
-        "id": "nm14291945",
-        "name_text": {
-          "text": "Maleah Joi Moon"
-        },
-        "primary_image": {
-          "id": "rm2870050305",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTk1YjUwODctMTQ1Mi00OThhLWExNDEtMDQ4NzcwNWZhZWE3XkEyXkFqcGc@._V1_.jpg",
-          "width": 300,
-          "height": 450
-        }
-      },
-      {
-        "id": "nm1500155",
-        "name_text": {
-          "text": "Robert Pattinson"
-        },
-        "primary_image": {
-          "id": "rm2444987904",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzk0MDQ5OTUxMV5BMl5BanBnXkFtZTcwMDM5ODk5Mg@@._V1_.jpg",
-          "width": 301,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0267506",
-        "name_text": {
-          "text": "Anna Faris"
-        },
-        "primary_image": {
-          "id": "rm3450044672",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjA5MTY5NjMyMF5BMl5BanBnXkFtZTcwNjM0NTI4Mw@@._V1_.jpg",
-          "width": 376,
-          "height": 490
-        }
-      },
-      {
-        "id": "nm1711114",
-        "name_text": {
-          "text": "Skyler Gisondo"
-        },
-        "primary_image": {
-          "id": "rm3198420480",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzMyMjc4YzYtMjg5YS00YzBjLTgzZmUtYmE5YmNkZTAzMmU5XkEyXkFqcGc@._V1_.jpg",
-          "width": 800,
-          "height": 800
-        }
-      },
-      {
-        "id": "nm0923266",
-        "name_text": {
-          "text": "Merritt Wever"
-        },
-        "primary_image": {
-          "id": "rm4039621120",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjIyMTY1OTAwMF5BMl5BanBnXkFtZTcwNTI5OTM0NA@@._V1_.jpg",
-          "width": 1361,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm5016878",
-        "name_text": {
-          "text": "Jacob Tremblay"
-        },
-        "primary_image": {
-          "id": "rm497517314",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTU4ZGMxMGMtMTc3ZC00NmQzLWIyNTktOGEyNGMwNjRkMThkXkEyXkFqcGc@._V1_CR887,244,3333,5000_.jpg",
-          "width": 3333,
-          "height": 5000
-        }
-      },
-      {
-        "id": "nm0000128",
-        "name_text": {
-          "text": "Russell Crowe"
-        },
-        "primary_image": {
-          "id": "rm2298720512",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQyMTExNTMxOF5BMl5BanBnXkFtZTcwNDg1NzkzNw@@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0940362",
-        "name_text": {
-          "text": "Shailene Woodley"
-        },
-        "primary_image": {
-          "id": "rm2584818945",
-          "url": "https://m.media-amazon.com/images/M/MV5BNGRkMTFiY2QtYTc1Mi00YzYyLTgwZTctNGJmM2JiODVjNGY4XkEyXkFqcGc@._V1_.jpg",
-          "width": 4096,
-          "height": 1716
-        }
-      },
-      {
-        "id": "nm1834115",
-        "name_text": {
-          "text": "Annabelle Wallis"
-        },
-        "primary_image": {
-          "id": "rm2936091904",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjA2MjU2NjE1OV5BMl5BanBnXkFtZTgwNTMyMTAzMjI@._V1_.jpg",
-          "width": 2048,
-          "height": 1316
         }
       },
       {
@@ -7118,72 +7318,6 @@
     "videos": [],
     "images": [
       {
-        "id": "rm2462186754",
-        "url": "https://m.media-amazon.com/images/M/MV5BYjAwYjZlZDMtMzk3ZC00ZmRlLTk1OTYtZWI2N2IyMWFiYTBhXkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 2160
-      },
-      {
-        "id": "rm1796012290",
-        "url": "https://m.media-amazon.com/images/M/MV5BMDgwMTIyOGQtYjVlOC00N2NiLTlmOGYtN2E2MjJhMTc4YzRhXkEyXkFqcGc@._V1_.jpg",
-        "width": 3600,
-        "height": 1946
-      },
-      {
-        "id": "rm1815989506",
-        "url": "https://m.media-amazon.com/images/M/MV5BZTM4NzUzMTMtNjdhZC00MDFjLWE2NTgtYzAzYmYxNjA1YjkyXkEyXkFqcGc@._V1_.jpg",
-        "width": 8256,
-        "height": 5504
-      },
-      {
-        "id": "rm1857812738",
-        "url": "https://m.media-amazon.com/images/M/MV5BYWM3YWRkOTktYzA2MS00ODc5LTk3ZjItNDE5YjVkY2IwN2Q5XkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 2000
-      },
-      {
-        "id": "rm3743597570",
-        "url": "https://m.media-amazon.com/images/M/MV5BODY3Y2MxNDktY2UxNS00OTEyLWI0MGUtNDY4YjQ0OGRmZWE1XkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 2731
-      },
-      {
-        "id": "rm1128579842",
-        "url": "https://m.media-amazon.com/images/M/MV5BMjE1OTQ3MzAtNDIxZS00YWZmLWFiYWYtYmUxOTdmNDY4ZTFkXkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 1789
-      },
-      {
-        "id": "rm2615934466",
-        "url": "https://m.media-amazon.com/images/M/MV5BZTAwYzMwMjMtZDAzNi00NzQ3LThkYWEtMTExMGJkYjkyOGYzXkEyXkFqcGc@._V1_.jpg",
-        "width": 1581,
-        "height": 1054
-      },
-      {
-        "id": "rm345363202",
-        "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1281
-      },
-      {
-        "id": "rm649853186",
-        "url": "https://m.media-amazon.com/images/M/MV5BNjAyNDY4YzctZDdhZC00YTZlLTk5ZDYtMzc4YmZmMjk0ZDZiXkEyXkFqcGc@._V1_.jpg",
-        "width": 8266,
-        "height": 5511
-      },
-      {
-        "id": "rm2186069506",
-        "url": "https://m.media-amazon.com/images/M/MV5BOGVhYmE2NDMtYjc3MC00Yjg3LWE0YTEtODk4NTU4NjgzNzRlXkEyXkFqcGc@._V1_.jpg",
-        "width": 3840,
-        "height": 1603
-      },
-      {
-        "id": "rm2104490242",
-        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNmUyZmQtMmU2Zi00ZmViLWJjNmYtMGRiOTY1MGU3ZjlkXkEyXkFqcGc@._V1_.jpg",
-        "width": 6351,
-        "height": 4234
-      },
-      {
         "id": "rm1212009730",
         "url": "https://m.media-amazon.com/images/M/MV5BYWU3Y2EyZTMtNjM1Ni00YjFjLWI2MWEtOWJhYjljN2EzNmY4XkEyXkFqcGc@._V1_.jpg",
         "width": 3900,
@@ -7212,6 +7346,72 @@
         "url": "https://m.media-amazon.com/images/M/MV5BMGNmODc1MjMtZDJmNS00ZjA4LTk1MjEtOWExZmI1ZmM0MmZlXkEyXkFqcGc@._V1_.jpg",
         "width": 4200,
         "height": 2800
+      },
+      {
+        "id": "rm2462186754",
+        "url": "https://m.media-amazon.com/images/M/MV5BYjAwYjZlZDMtMzk3ZC00ZmRlLTk1OTYtZWI2N2IyMWFiYTBhXkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 2160
+      },
+      {
+        "id": "rm1796012290",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDgwMTIyOGQtYjVlOC00N2NiLTlmOGYtN2E2MjJhMTc4YzRhXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 1946
+      },
+      {
+        "id": "rm1815989506",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTM4NzUzMTMtNjdhZC00MDFjLWE2NTgtYzAzYmYxNjA1YjkyXkEyXkFqcGc@._V1_.jpg",
+        "width": 8256,
+        "height": 5504
+      },
+      {
+        "id": "rm1857812738",
+        "url": "https://m.media-amazon.com/images/M/MV5BYWM3YWRkOTktYzA2MS00ODc5LTk3ZjItNDE5YjVkY2IwN2Q5XkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2000
+      },
+      {
+        "id": "rm345363202",
+        "url": "https://m.media-amazon.com/images/M/MV5BOTcyNmI2MDAtNzJlNy00NDRkLTk1N2UtNDUxMDc1NjI3MTAxXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1281
+      },
+      {
+        "id": "rm2104490242",
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNmUyZmQtMmU2Zi00ZmViLWJjNmYtMGRiOTY1MGU3ZjlkXkEyXkFqcGc@._V1_.jpg",
+        "width": 6351,
+        "height": 4234
+      },
+      {
+        "id": "rm649853186",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAyNDY4YzctZDdhZC00YTZlLTk5ZDYtMzc4YmZmMjk0ZDZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 8266,
+        "height": 5511
+      },
+      {
+        "id": "rm3743597570",
+        "url": "https://m.media-amazon.com/images/M/MV5BODY3Y2MxNDktY2UxNS00OTEyLWI0MGUtNDY4YjQ0OGRmZWE1XkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 2731
+      },
+      {
+        "id": "rm1128579842",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE1OTQ3MzAtNDIxZS00YWZmLWFiYWYtYmUxOTdmNDY4ZTFkXkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 1789
+      },
+      {
+        "id": "rm2615934466",
+        "url": "https://m.media-amazon.com/images/M/MV5BZTAwYzMwMjMtZDAzNi00NzQ3LThkYWEtMTExMGJkYjkyOGYzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1581,
+        "height": 1054
+      },
+      {
+        "id": "rm2186069506",
+        "url": "https://m.media-amazon.com/images/M/MV5BOGVhYmE2NDMtYjc3MC00Yjg3LWE0YTEtODk4NTU4NjgzNzRlXkEyXkFqcGc@._V1_.jpg",
+        "width": 3840,
+        "height": 1603
       },
       {
         "id": "rm566740226",
