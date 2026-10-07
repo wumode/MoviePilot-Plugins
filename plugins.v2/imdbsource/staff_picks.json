@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-01 18:54:30",
+  "updated_at": "2026-10-07 12:54:28",
   "entries": [
     {
       "name": "East of Eden",
       "ttconst": "tt21097264",
       "rmconst": "rm2597844994",
-      "detail": "Premieres October 1 on Netflix",
+      "detail": "Streaming on Netflix",
       "description": "The new “East of Eden” adaptation is a family affair in more ways than one. Not only does the story focus on the tale of two troubled households, but it is also created and written by Zoe Kazan, granddaughter of Hollywood legend Elia Kazan, who directed the 1955 film version of the novel. This time around, the younger Kazan will tell a more complete version of Steinbeck’s generational epic that brings Florence Pugh’s Cathy to the center of the drama. With Christopher Abbott and Mike Faist stepping into the roles of the Trask brothers, this Netflix miniseries looks poised to be the next big binge watch. — Adrienne",
       "relatedconst": [
         "nm6073955",
@@ -19,7 +19,7 @@
       "name": "Verity",
       "ttconst": "tt32261958",
       "rmconst": "rm3347761922",
-      "detail": "In theaters October 2",
+      "detail": "In theaters",
       "description": "They may be marketing this new Colleen Hoover adaptation as a “romantic thriller” but all signs point to <i>Verity</i> being a good, old-fashioned gothic horror story. We’ve got the innocent protagonist in Dakota Johnson, who plays a ghostwriter hired to finish the novel of a famous author left unconscious after a family tragedy. Then there’s Josh Hartnett, the conveniently handsome husband of the comatose Verity. Finally, we have Verity herself, played by Anne Hathaway, whose writings may hold the key to her mysterious injuries. Add in a remote lake house and you’ve got a recipe for a gothic melodrama fueled by obsession, lies, and devastating secrets. — Adrienne",
       "relatedconst": [
         "nm0004266",
@@ -33,7 +33,7 @@
       "name": "Digger",
       "ttconst": "tt31450459",
       "rmconst": "rm2336616962",
-      "detail": "In theaters October 2",
+      "detail": "In theaters",
       "description": "Ready for one of the most divisive movies of the year — one that might become Tom Cruise’s modern-day <i>Magnolia</i>? This satire from filmmaker Alejandro G. Iñárritu, who has experienced popular and critical schisms before with both <i>Babel</i> and <i>Bardo</i>, situates Cruise as the most powerful man in the world, a man who essentially jumps up on Oprah’s couch to declare he’s going to save the world. — Arno",
       "relatedconst": [
         "nm0000129",
@@ -49,7 +49,7 @@
       "name": "Beware Boiúna",
       "ttconst": "tt10377864",
       "rmconst": "rm4178953474",
-      "detail": "In theaters October 2",
+      "detail": "In theaters",
       "description": "Believe it or not, the world <i>does</i> need another movie about a giant killer snake, and <i>Beware Boiúna</i> is that movie. Like the best animal attack movies, <i>Beware Boiúna</i> invests in the human dynamics before it tears them apart, as a medical humanitarian team (featuring <i>Happy Death Day</i>’s Jessica Rothe and <i>Fear Street</i>’s Kiana Madeira) runs afoul of mercenaries (led by Logan Marshall-Green) exploiting the natural resources of the Amazon. Enter Boiúna, the giant snake spirit who takes her job of maintaining balance in the jungle seriously, and at the expense of these human intruders. — James",
       "relatedconst": [
         "nm2854112",
@@ -89,6 +89,22 @@
         "nm3340982"
       ],
       "viconst": "vi3851799065"
+    },
+    {
+      "name": "Animals",
+      "ttconst": "tt31049299",
+      "rmconst": "rm2467363842",
+      "detail": "Premieres October 9 on Netflix",
+      "description": "Ben Affleck directs and stars in this political thriller from Netflix, in which he plays a Los Angeles mayoral candidate whose son is kidnapped, putting him and his wife (Kerry Washington) in a situation where coming up with the ransom money means exposing dark secrets from their past. Affleck originally envisioned Matt Damon starring opposite the director’s ex-wife Jennifer Garner, but Damon’s schedule wouldn’t allow it due to filming a little arthouse flick known as Christopher Nolan’s <i>The Odyssey</i>. — James",
+      "relatedconst": [
+        "nm0000255",
+        "nm0913488",
+        "nm0000096",
+        "nm3081796",
+        "nm1645334",
+        "nm2578315"
+      ],
+      "viconst": "vi294504985"
     },
     {
       "name": "The Social Reckoning",
@@ -139,7 +155,7 @@
       "ttconst": "tt43739386",
       "rmconst": "rm3326145026",
       "detail": "Premieres Oct 9 on Shudder",
-      "description": "If one thing’s for certain, horror fans love an anthology film, and the V/H/S franchise has been delivering found footage frights in that format since 2012. Since then, the series has gone viral[/llnk], taken us back to the ‘80s, ‘90s, and beyond, and celebrated the spookiest night of the year. Now, they’re exploring the malicious side of the melodic with four horror shorts from directors like Ernest Dickerson, David Moreau, and Renee Zhan, as well as musicians RZA, Tobias Forge, and featuring Jim Henson’s Creature Shop alongside legendary metal monsters, GWAR. Now that’s a line-up I’d happily play on repeat. — Adrienne",
+      "description": "If one thing’s for certain, horror fans love an anthology film, and the V/H/S franchise has been delivering found footage frights in that format since 2012. Since then, the series has gone viral, taken us back to the ‘80s, ‘90s, and beyond, and celebrated the spookiest night of the year. Now, they’re exploring the malicious side of the melodic with four horror shorts from directors like Ernest Dickerson, David Moreau, and Renee Zhan, as well as musicians RZA, Tobias Forge, and featuring Jim Henson’s Creature Shop alongside legendary metal monsters, GWAR. Now that’s a line-up I’d happily play on repeat. — Adrienne",
       "relatedconst": [
         "nm0186225",
         "nm0350309"
@@ -370,15 +386,6 @@
               "node": {
                 "text": "East of Eden",
                 "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "East of Eden",
-                "country": {
                   "id": "JP",
                   "text": "Japan"
                 },
@@ -479,6 +486,15 @@
             },
             {
               "node": {
+                "text": "La valle dell'Eden",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Na wschód od Edenu",
                 "country": {
                   "id": "PL",
@@ -533,6 +549,15 @@
             },
             {
               "node": {
+                "text": "К востоку от Эдема",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "伊甸園東",
                 "country": {
                   "id": "TW",
@@ -548,13 +573,13 @@
           }
         },
         "primary_image": {
-          "id": "rm2186594562",
-          "url": "https://m.media-amazon.com/images/M/MV5BY2FhZjRkNDEtMWViZC00YmM2LTljNTMtY2U4MzE3MDY0YmMwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
+          "id": "rm982643458",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmI2ODMyNjctZTA1MS00ODNhLWI3ZjAtMmE4MDE4OWRjMWZlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 69,
+          "current_rank": 1,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
@@ -562,7 +587,8 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 8.1,
+          "vote_count": 7464
         },
         "release_date": {
           "year": 2026,
@@ -578,8 +604,14 @@
             }
           ]
         },
+        "certificate": {
+          "rating": "TV-MA"
+        },
         "original_title_text": {
           "text": "East of Eden"
+        },
+        "runtime": {
+          "seconds": 3600
         }
       },
       {
@@ -686,18 +718,6 @@
               "node": {
                 "text": "Verity",
                 "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Verity",
-                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -724,15 +744,6 @@
                 "country": {
                   "id": "IT",
                   "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Verity",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
                 }
               }
             },
@@ -996,6 +1007,24 @@
             },
             {
               "node": {
+                "text": "Verity: La sombra del engaño",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Verity: La sombra del engaño",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "不存在的罪人",
                 "country": {
                   "id": "HK",
@@ -1091,7 +1120,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "Lowen Ashleigh, hired to ghostwrite for Verity Crawford, uncovers what appears to be Verity's autobiographical notes. She wrestles with the confessions about Verity's husband and finds separating fiction from reality challenging"
+            "plain_text": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers what appears to be Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy."
           }
         },
         "primary_image": {
@@ -1101,16 +1130,16 @@
           "height": 1600
         },
         "meter_ranking": {
-          "current_rank": 23,
+          "current_rank": 2,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 25
+            "difference": 21
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.1,
-          "vote_count": 551
+          "aggregate_rating": 6.0,
+          "vote_count": 9210
         },
         "release_date": {
           "year": 2026,
@@ -1148,7 +1177,7 @@
           "text": "Verity"
         },
         "runtime": {
-          "seconds": 6840
+          "seconds": 7020
         }
       },
       {
@@ -1300,18 +1329,6 @@
               "node": {
                 "text": "Digger",
                 "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Digger",
-                "country": {
                   "id": "HU",
                   "text": "Hungary"
                 }
@@ -1414,8 +1431,29 @@
               "node": {
                 "text": "Digger",
                 "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Digger",
+                "country": {
                   "id": "US",
                   "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Digger",
+                "country": {
+                  "id": "UY",
+                  "text": "Uruguay"
                 }
               }
             },
@@ -1451,6 +1489,45 @@
             },
             {
               "node": {
+                "text": "挖掘者",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "挖掘者",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Digers",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Judy",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Untitled comedy ensemble led by Tom Cruise",
                 "country": {
                   "id": "XWW",
@@ -1464,15 +1541,6 @@
                 "country": {
                   "id": "RS",
                   "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "挖掘者",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
                 }
               }
             }
@@ -1490,16 +1558,16 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 13,
+          "current_rank": 1,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 25
+            "difference": 12
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.1,
-          "vote_count": 576
+          "aggregate_rating": 7.3,
+          "vote_count": 18956
         },
         "release_date": {
           "year": 2026,
@@ -1567,6 +1635,18 @@
                 "country": {
                   "id": "ES",
                   "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Beware Boiúna",
+                "country": {
+                  "id": "ID",
+                  "text": "Indonesia"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -1680,16 +1760,16 @@
           "height": 1167
         },
         "meter_ranking": {
-          "current_rank": 237,
+          "current_rank": 76,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 190
+            "difference": 161
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 88
+          "aggregate_rating": 6.1,
+          "vote_count": 537
         },
         "release_date": {
           "year": 2026,
@@ -1914,6 +1994,15 @@
                   "text": "Serbia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "魔女嘉莉",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
             }
           ]
         },
@@ -1929,16 +2018,16 @@
           "height": 700
         },
         "meter_ranking": {
-          "current_rank": 154,
+          "current_rank": 29,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 45
+            "change_direction": "UP",
+            "difference": 125
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.1,
-          "vote_count": 168
+          "aggregate_rating": 6.5,
+          "vote_count": 320
         },
         "release_date": {
           "year": 2026,
@@ -2155,16 +2244,15 @@
           "height": 1007
         },
         "meter_ranking": {
-          "current_rank": 167,
+          "current_rank": 119,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 71
+            "change_direction": "UP",
+            "difference": 48
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.5,
-          "vote_count": 165
+          "vote_count": 0
         },
         "release_date": {
           "year": 2026,
@@ -2200,6 +2288,265 @@
         },
         "original_title_text": {
           "text": "Below"
+        }
+      },
+      {
+        "id": "tt31049299",
+        "title_text": {
+          "text": "Animals"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animals",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Állatok",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Animales",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Hayvanlar",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Sobrevivência",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zwierzęta",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Животиње",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Животные",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Desperate to pay their son's ransom, a mayoral candidate and his wife resort to extreme measures, revealing dark secrets they never intended to bring to light."
+          }
+        },
+        "primary_image": {
+          "id": "rm1923283714",
+          "url": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_.jpg",
+          "width": 1383,
+          "height": 2048
+        },
+        "meter_ranking": {
+          "current_rank": 82,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 92
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 10,
+          "day": 9
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Animals"
+        },
+        "runtime": {
+          "seconds": 6360
         }
       },
       {
@@ -2287,18 +2634,6 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Social Reckoning",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -2541,11 +2876,11 @@
           "height": 2100
         },
         "meter_ranking": {
-          "current_rank": 99,
+          "current_rank": 41,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 6
+            "difference": 58
           }
         },
         "ratings_summary": {
@@ -2659,18 +2994,6 @@
               "node": {
                 "text": "Other Mommy",
                 "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Other Mommy",
-                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -2756,6 +3079,102 @@
             },
             {
               "node": {
+                "text": "Madre siniestra",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Madre siniestra",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Madre siniestra",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Madre siniestra",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Madre siniestra",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Madre siniestra",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Malfaisante",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Malfaisante",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Malfaisante",
+                "country": {
+                  "id": "MA",
+                  "text": "Morocco"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Malfaisante",
+                "country": {
+                  "id": "SN",
+                  "text": "Senegal"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Чужая мама",
                 "country": {
                   "id": "KZ",
@@ -2772,6 +3191,45 @@
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Чужая мама",
+                "country": {
+                  "id": "UZ",
+                  "text": "Uzbekistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "الأم الأخرى",
+                "country": {
+                  "id": "BH",
+                  "text": "Bahrain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "الأم الأخرى",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "Arabic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "الأم الأخرى",
+                "country": {
+                  "id": "SA",
+                  "text": "Saudi Arabia"
                 }
               }
             },
@@ -2798,6 +3256,15 @@
             },
             {
               "node": {
+                "text": "Cealaltă mamă",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Cita mammīte",
                 "country": {
                   "id": "LV",
@@ -2814,6 +3281,24 @@
                 },
                 "language": {
                   "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Druga mama",
+                "country": {
+                  "id": "ME",
+                  "text": "Montenegro"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Druga mamica",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
                 }
               }
             },
@@ -2855,19 +3340,10 @@
             },
             {
               "node": {
-                "text": "Madre siniestra",
+                "text": "Macocha",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Malfaisante",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
+                  "id": "SK",
+                  "text": "Slovakia"
                 }
               }
             },
@@ -2877,6 +3353,15 @@
                 "country": {
                   "id": "IT",
                   "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Neskutečná máma",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
                 }
               }
             },
@@ -2918,31 +3403,19 @@
             },
             {
               "node": {
-                "text": "Друга мама",
+                "text": "Yad ana",
                 "country": {
-                  "id": "RS",
-                  "text": "Serbia"
+                  "id": "AZ",
+                  "text": "Azerbaijan"
                 }
               }
             },
             {
               "node": {
-                "text": "另一個媽咪",
+                "text": "Άλλη Μαμά",
                 "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "衣櫃裡的媽咪",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
+                  "id": "GR",
+                  "text": "Greece"
                 }
               }
             }
@@ -2954,17 +3427,17 @@
           }
         },
         "primary_image": {
-          "id": "rm623757058",
-          "url": "https://m.media-amazon.com/images/M/MV5BNWU2MzZlNmItYzVmYi00Y2Y4LWI4NTktNTg3NDE0MGE5NGRkXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1350
+          "id": "rm2453730050",
+          "url": "https://m.media-amazon.com/images/M/MV5BOGUyODYyYTctMmY0Mi00ZWIwLThjYWItZDJmODY4NGU1YjY1XkEyXkFqcGc@._V1_.jpg",
+          "width": 3158,
+          "height": 5000
         },
         "meter_ranking": {
-          "current_rank": 61,
+          "current_rank": 21,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 11
+            "change_direction": "UP",
+            "difference": 40
           }
         },
         "ratings_summary": {
@@ -2980,6 +3453,11 @@
             {
               "genre": {
                 "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
               }
             }
           ]
@@ -3086,18 +3564,6 @@
               "node": {
                 "text": "Fjord",
                 "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Fjord",
-                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -3189,6 +3655,24 @@
             },
             {
               "node": {
+                "text": "Фьорд",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Фьорд",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Fiord",
                 "country": {
                   "id": "PL",
@@ -3211,15 +3695,6 @@
                 "country": {
                   "id": "FI",
                   "text": "Finland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Фьорд",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
                 }
               }
             },
@@ -3258,21 +3733,21 @@
           "height": 3600
         },
         "meter_ranking": {
-          "current_rank": 249,
+          "current_rank": 214,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 58
+            "difference": 35
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 3951
+          "vote_count": 4168
         },
         "release_date": {
           "year": 2026,
           "month": 10,
-          "day": 9
+          "day": 23
         },
         "title_genres": {
           "genres": [
@@ -3331,15 +3806,16 @@
           "height": 2560
         },
         "meter_ranking": {
-          "current_rank": 2170,
+          "current_rank": 938,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 1575
+            "difference": 1232
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.1,
+          "vote_count": 32
         },
         "release_date": {
           "year": 2026,
@@ -3488,6 +3964,15 @@
                   "text": "Russia"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "幻視任務",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
             }
           ]
         },
@@ -3503,11 +3988,11 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 247,
+          "current_rank": 71,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 185
+            "difference": 176
           }
         },
         "ratings_summary": {
@@ -3522,7 +4007,27 @@
           "genres": [
             {
               "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
                 "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
               }
             }
           ]
@@ -3741,16 +4246,16 @@
           "height": 1481
         },
         "meter_ranking": {
-          "current_rank": 197,
+          "current_rank": 44,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 107
+            "change_direction": "UP",
+            "difference": 153
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.7,
-          "vote_count": 123
+          "aggregate_rating": 8.0,
+          "vote_count": 181
         },
         "release_date": {
           "year": 2026,
@@ -3812,6 +4317,15 @@
               "node": {
                 "text": "Street Fighter",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -3851,6 +4365,15 @@
               "node": {
                 "text": "Street Fighter",
                 "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
                   "id": "CO",
                   "text": "Colombia"
                 }
@@ -3862,6 +4385,15 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
                 }
               }
             },
@@ -3896,32 +4428,8 @@
               "node": {
                 "text": "Street Fighter",
                 "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
                   "id": "HU",
                   "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -4059,7 +4567,7 @@
             },
             {
               "node": {
-                "text": "Phim Street Fighter - Đấu Sĩ Đường Phố",
+                "text": "Phim Street Fighter",
                 "country": {
                   "id": "VN",
                   "text": "Vietnam"
@@ -4081,6 +4589,15 @@
                 "country": {
                   "id": "EE",
                   "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "스트리트 파이터",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
                 }
               }
             },
@@ -4131,11 +4648,11 @@
           "height": 1300
         },
         "meter_ranking": {
-          "current_rank": 74,
+          "current_rank": 46,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 47
+            "difference": 28
           }
         },
         "ratings_summary": {
@@ -4297,15 +4814,16 @@
           "height": 12000
         },
         "meter_ranking": {
-          "current_rank": 17,
+          "current_rank": 22,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 64
+            "change_direction": "DOWN",
+            "difference": 5
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.4,
+          "vote_count": 131
         },
         "release_date": {
           "year": 2026,
@@ -4349,6 +4867,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Sacrifice",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Sacrifice",
@@ -4594,16 +5121,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 65,
+          "current_rank": 173,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 62
+            "difference": 108
           }
         },
         "ratings_summary": {
           "aggregate_rating": 5.1,
-          "vote_count": 1587
+          "vote_count": 1797
         },
         "release_date": {
           "year": 2026,
@@ -5129,16 +5656,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 182,
+          "current_rank": 142,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 48
+            "change_direction": "UP",
+            "difference": 40
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.9,
-          "vote_count": 130695
+          "vote_count": 130876
         },
         "release_date": {
           "year": 2022,
@@ -5200,6 +5727,15 @@
               "node": {
                 "text": "Clayface",
                 "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -5248,6 +5784,15 @@
               "node": {
                 "text": "Clayface",
                 "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
                   "id": "FR",
                   "text": "France"
                 }
@@ -5268,18 +5813,6 @@
                 "country": {
                   "id": "GR",
                   "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "ID",
-                  "text": "Indonesia"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -5486,11 +6019,11 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 40,
+          "current_rank": 53,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 62
+            "change_direction": "DOWN",
+            "difference": 13
           }
         },
         "ratings_summary": {
@@ -5752,7 +6285,7 @@
             },
             {
               "node": {
-                "text": "Клара и Солнце",
+                "text": "Клара и солнце",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
@@ -5800,11 +6333,11 @@
           "height": 9000
         },
         "meter_ranking": {
-          "current_rank": 656,
+          "current_rank": 351,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 173
+            "change_direction": "UP",
+            "difference": 305
           }
         },
         "ratings_summary": {
@@ -6035,16 +6568,16 @@
           "height": 6246
         },
         "meter_ranking": {
-          "current_rank": 191,
+          "current_rank": 124,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 3
+            "change_direction": "UP",
+            "difference": 67
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.4,
-          "vote_count": 347
+          "vote_count": 376
         },
         "release_date": {
           "year": 2026,
@@ -6443,6 +6976,78 @@
           "url": "https://m.media-amazon.com/images/M/MV5BZjUzNjYyOGItZjFhYi00ZWFhLTkzZDYtMmUyYTFjODNkNWQ2XkEyXkFqcGc@._V1_CR569,0,909,1364_.jpg",
           "width": 909,
           "height": 1364
+        }
+      },
+      {
+        "id": "nm0000255",
+        "name_text": {
+          "text": "Ben Affleck"
+        },
+        "primary_image": {
+          "id": "rm1407777794",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmRjNjcyZTUtYmVkOS00MzVmLThjMzQtZDVjNzJiNTc5NTRiXkEyXkFqcGc@._V1_.jpg",
+          "width": 7293,
+          "height": 4865
+        }
+      },
+      {
+        "id": "nm0913488",
+        "name_text": {
+          "text": "Kerry Washington"
+        },
+        "primary_image": {
+          "id": "rm822718976",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUxNzk2OTQzOF5BMl5BanBnXkFtZTcwMTM0NjIwNw@@._V1_.jpg",
+          "width": 1714,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000096",
+        "name_text": {
+          "text": "Gillian Anderson"
+        },
+        "primary_image": {
+          "id": "rm3522612481",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE1NTVlZTUtNTE3Yi00ZTMzLWFkYjYtYjk1OGFiOWZlOWI3XkEyXkFqcGc@._V1_.jpg",
+          "width": 1788,
+          "height": 2236
+        }
+      },
+      {
+        "id": "nm3081796",
+        "name_text": {
+          "text": "Steven Yeun"
+        },
+        "primary_image": {
+          "id": "rm961601792",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTdkZDYwNzQtNmJhOC00NGRkLWJmOTgtZDM1NGE0ZDFmYTdmXkEyXkFqcGc@._V1_.jpg",
+          "width": 660,
+          "height": 918
+        }
+      },
+      {
+        "id": "nm1645334",
+        "name_text": {
+          "text": "Luis Gerardo Méndez"
+        },
+        "primary_image": {
+          "id": "rm4128859905",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWQ4NDIyMjYtZGE0Ny00MmNmLThiODgtZDRmNTk1ZDBlNjBlXkEyXkFqcGc@._V1_CR364,413,2013,3020_.jpg",
+          "width": 2013,
+          "height": 3020
+        }
+      },
+      {
+        "id": "nm2578315",
+        "name_text": {
+          "text": "Adriana Paz"
+        },
+        "primary_image": {
+          "id": "rm490572546",
+          "url": "https://m.media-amazon.com/images/M/MV5BODA5Y2Y2NmMtNzkxMi00NjU0LTkzYzItNDQ2MDYwZTZjZTgwXkEyXkFqcGc@._V1_.jpg",
+          "width": 3290,
+          "height": 4935
         }
       },
       {
@@ -7179,6 +7784,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZGE4ZmYwZDQtNTI4Zi00YzEwLTg5MzAtODM3MDRkZjY4MjNhXkEyXkFqcGc@._V1_.jpg",
         "width": 4096,
         "height": 2160
+      },
+      {
+        "id": "rm2467363842",
+        "url": "https://m.media-amazon.com/images/M/MV5BZjk5MDI2NTYtODNlNy00ZTkwLWFiYmUtMzNkOTg1NWI1ZjZiXkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 800
       },
       {
         "id": "rm1834154242",
