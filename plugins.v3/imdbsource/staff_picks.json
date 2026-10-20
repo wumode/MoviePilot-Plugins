@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-10-15 06:54:22",
+  "updated_at": "2026-10-21 06:54:18",
   "entries": [
+    {
+      "name": "You Can See Everything",
+      "ttconst": "tt45368240",
+      "rmconst": "rm662437634",
+      "detail": "In theaters",
+      "description": "The internet lost its mind when Nathan Fielder dropped a teaser no one expected for a new documentary no one knew was coming at the Telluride Film Festival. The writer-director has made a name for himself with his peculiar blend of comedy and reality TV that often results in a surrealist examination of the human condition. Expect nothing less from <i>You Can See Everything</i>. Apparently while none of us were looking, Fielder and his crew moved in with Theranos founder Elizabeth Holmes to capture her last month of freedom before beginning her 11-year prison sentence for defrauding investors. The result appears to be a multi-year odyssey that A24 is calling “a mind-bending three-year journey into the abyss.” — Adrienne",
+      "relatedconst": [
+        "nm2358709",
+        "nm7266010"
+      ],
+      "viconst": "vi3833711129"
+    },
+    {
+      "name": "Clayface",
+      "ttconst": "tt34890576",
+      "rmconst": "rm1679542018",
+      "detail": "In theaters October 23",
+      "description": "You’re probably already well-aware of the latest Gotham rogues gallery film from producer Matt Reeves (<i>The Batman</i>). But did you know the script was written by Mike Flanagan? And were you aware it’s directed by James Watkins, the man responsible for such nightmares as <i>Eden Lake</i>, <i>Speak No Evil</i>, and one of the most messed up “Black Mirror” episodes of all time? Given all that, I think we might need to head to the theater to see the tragic tale of actor Matt Hagen, whose pursuit of physical perfection leads him to an experimental procedure that will cost him everything. — Adrienne",
+      "relatedconst": [
+        "nm4151189",
+        "nm7609875",
+        "nm1540404",
+        "nm0550371"
+      ],
+      "viconst": "vi725928729"
+    },
+    {
+      "name": "Klara and the Sun",
+      "ttconst": "tt14371256",
+      "rmconst": "rm1241694978",
+      "detail": "In theaters October 23",
+      "description": "Jenna Ortega stars as Klara, the “Artificial Friend” assigned to bond with a sick 14-year-old girl named Josie (Mia Tharia) in this big screen adaptation of Kazuo Ishiguro’s dystopian novel. Taika Waititi returns to the director’s chair after 2023’s <i>First Goal Wins</i>, and the ensemble cast includes Amy Adams as Josie’s mother, Natasha Lyonne, Steve Buscemi, and Aran (son of Cillian) Murphy. -- James",
+      "relatedconst": [
+        "nm4911194",
+        "nm0010736",
+        "nm9894699",
+        "nm15588612",
+        "nm0005169",
+        "nm0000114"
+      ],
+      "viconst": "vi1181141785"
+    },
+    {
+      "name": "Wicker",
+      "ttconst": "tt29611136",
+      "rmconst": "rm2990928386",
+      "detail": "In theaters October 30",
+      "description": "Alexander Skarsgård’s hotness is not restricted to human form. In what might be our most anticipated indie movie of the year, the Skars plays a man who is brought to life by his village’s basketmaker (Peter Dinklage), who weaves him together from wood and other natural materials. His sole purpose is to bring happiness and carnal pleasure to Olivia Colman’s character, a fisherwoman who has been ridiculed and ostracized from her rigid 17th-century coastal village community. What a reason to live any sort of life. The movie feels like a shot across the bow of the AI era, making its eccentricities that much more appealing. — Arno",
+      "relatedconst": [
+        "nm1469236",
+        "nm0002907",
+        "nm0227759",
+        "nm4456120",
+        "nm0001290",
+        "nm9702409"
+      ],
+      "viconst": "vi877513497"
+    },
     {
       "name": "VisionQuest",
       "ttconst": "tt23112594",
@@ -20,7 +78,7 @@
       "name": "Crystal Lake",
       "ttconst": "tt23148340",
       "rmconst": "rm2128004354",
-      "detail": "Premieres October 15 on Peacock",
+      "detail": "Streaming on Peacock",
       "description": "Fans familiar with the horrors of Camp Crystal Lake know it all started with a tragedy. And this October, we’ll get to witness the fallout from those events in the new series “Crystal Lake.” Linda Cardellini stars as Pamela Voorhees in the eight-episode season that follows the mourning mother with murderous intentions. But as we all know, it’s not just Pam the residents of this doomed town need to fear. There’s something in the woods around Crystal Lake, and “all it knows how to do is kill.” — Adrienne",
       "relatedconst": [
         "nm0004802",
@@ -31,37 +89,10 @@
       "viconst": "vi3579497241"
     },
     {
-      "name": "Street Fighter",
-      "ttconst": "tt27419420",
-      "rmconst": "rm3215653890",
-      "detail": "In theaters October 16",
-      "description": "Call us crazy, but the third big screen adaptation of the classic arcade fighting game could be a charm in this bumpy film franchise. Noah Centineo (<i>To All the Boys I’ve Loved Before</i>) and Andrew Koji (“Warrior”) star as fighting duo Ken and Ryu, who reunite to compete in the World Warrior Tournament, battling such foes as franchise faves Blanka (Jason Momoa), Chun-Li (Callina Liang), M. Bison (David Dastmalchian), not to mention the inspired casting of singer Orville Peck as Vega. The trailer gives us hope that <i>Street Fighter</i> captures that feeling of mashing buttons on your controller.  — James",
-      "relatedconst": [
-        "nm3170207",
-        "nm4010671",
-        "nm13153010",
-        "nm2810287",
-        "nm11312187"
-      ],
-      "viconst": "vi3400452633"
-    },
-    {
-      "name": "You Can See Everything",
-      "ttconst": "tt45368240",
-      "rmconst": "rm662437634",
-      "detail": "In theaters October 16",
-      "description": "The internet lost its mind when Nathan Fielder dropped a teaser no one expected for a new documentary no one knew was coming at the Telluride Film Festival. The writer-director has made a name for himself with his peculiar blend of comedy and reality TV that often results in a surrealist examination of the human condition. Expect nothing less from <i>You Can See Everything</i>. Apparently while none of us were looking, Fielder and his crew moved in with Theranos founder Elizabeth Holmes to capture her last month of freedom before beginning her 11-year prison sentence for defrauding investors. The result appears to be a multi-year odyssey that A24 is calling “a mind-bending three-year journey into the abyss.” — Adrienne",
-      "relatedconst": [
-        "nm2358709",
-        "nm7266010"
-      ],
-      "viconst": "vi3833711129"
-    },
-    {
       "name": "Whalefall",
       "ttconst": "tt28535715",
       "rmconst": "rm1315228930",
-      "detail": "In theaters October 16",
+      "detail": "In theaters",
       "description": "Survival horror is getting weird. Based on Daniel Kraus's bestseller about a diver who is swallowed by a sperm whale while searching for his father's remains, the film stars Austin Abrams and is helmed by Brian Duffield, who has thrived under story constraints before, directing the underrated (and mostly dialogue-free) sci-fi thriller <i>No One Will Save You</i>. Abrams has been on a roll since <i>Weapons</i> and <i>Resident Evil</i>, so we're hoping his natural charm shines through the scuba gear and whale innards. — James",
       "relatedconst": [
         "nm3641002",
@@ -76,7 +107,7 @@
       "name": "Sense and Sensibility",
       "ttconst": "tt13609648",
       "rmconst": "rm3844260610",
-      "detail": "In theaters October 16",
+      "detail": "In theaters",
       "description": "As one of the most acclaimed adaptations of Jane Austen's works, Ang Lee's 1995 film version of “Sense and Sensibility” sets a high bar for the creative team behind this latest incarnation. Daisy Edgar-Jones and Esmé Creed-Miles star as the Dashwood sisters (previously played by Emma Thompson and Kate Winslet) as they contend with financial and romantic struggles following the death of their father. Also starring George Mackay (as Edward Ferrars, played by Hugh Grant in Lee’s film), Catriona Balfe, and Fiona Shaw, and is the second feature from director Georgia Oakley (<i>Blue Jean</i>). — James",
       "relatedconst": [
         "nm8402992",
@@ -88,10 +119,25 @@
       "viconst": "vi610913049"
     },
     {
+      "name": "Street Fighter",
+      "ttconst": "tt27419420",
+      "rmconst": "rm3215653890",
+      "detail": "In theaters",
+      "description": "Call us crazy, but the third big screen adaptation of the classic arcade fighting game could be a charm in this bumpy film franchise. Noah Centineo (<i>To All the Boys I’ve Loved Before</i>) and Andrew Koji (“Warrior”) star as fighting duo Ken and Ryu, who reunite to compete in the World Warrior Tournament, battling such foes as franchise faves Blanka (Jason Momoa), Chun-Li (Callina Liang), M. Bison (David Dastmalchian), not to mention the inspired casting of singer Orville Peck as Vega. The trailer gives us hope that <i>Street Fighter</i> captures that feeling of mashing buttons on your controller.  — James",
+      "relatedconst": [
+        "nm3170207",
+        "nm4010671",
+        "nm13153010",
+        "nm2810287",
+        "nm11312187"
+      ],
+      "viconst": "vi3400452633"
+    },
+    {
       "name": "Sacrifice",
       "ttconst": "tt32268992",
       "rmconst": "rm879753218",
-      "detail": "Premieres October 16 on Netflix",
+      "detail": "Streaming on Netflix",
       "description": "French filmmaker Romain Gavras has always been a full volume provocateur, and he's going for it again with <i>Sacrifice</i>, his first film in English and his second Netflix movie (after <i>Athena</i>). Chris Evans plays a disgraced movie star mounting a comeback by attending a charitable gala in this thriller that also introduces Anya Taylor-Joy as the head of a radical activist group who believe they can save the world from environmental collapse if they — <i>insert movie title here</i> — three people on this given occasion. — Arno",
       "relatedconst": [
         "nm0262635",
@@ -205,6 +251,18 @@
       "viconst": "vi1068091929"
     },
     {
+      "name": "V/H/S/Mixtape",
+      "ttconst": "tt43739386",
+      "rmconst": "rm3326145026",
+      "detail": "Streaming on Shudder",
+      "description": "If one thing’s for certain, horror fans love an anthology film, and the V/H/S franchise has been delivering found footage frights in that format since 2012. Since then, the series has gone viral, taken us back to the ‘80s, ‘90s, and beyond, and celebrated the spookiest night of the year. Now, they’re exploring the malicious side of the melodic with four horror shorts from directors like Ernest Dickerson, David Moreau, and Renee Zhan, as well as musicians RZA, Tobias Forge, and featuring Jim Henson’s Creature Shop alongside legendary metal monsters, GWAR. Now that’s a line-up I’d happily play on repeat. — Adrienne",
+      "relatedconst": [
+        "nm0186225",
+        "nm0350309"
+      ],
+      "viconst": "vi931383833"
+    },
+    {
       "name": "The Terminal List",
       "ttconst": "tt11743610",
       "rmconst": "rm3631806722",
@@ -219,64 +277,6 @@
         "nm1890981"
       ],
       "viconst": "vi2711734809"
-    },
-    {
-      "name": "Clayface",
-      "ttconst": "tt34890576",
-      "rmconst": "rm1679542018",
-      "detail": "In theaters October 23",
-      "description": "You’re probably already well-aware of the latest Gotham rogues gallery film from producer Matt Reeves (<i>The Batman</i>). But did you know the script was written by Mike Flanagan? And were you aware it’s directed by James Watkins, the man responsible for such nightmares as <i>Eden Lake</i>, <i>Speak No Evil</i>, and one of the most messed up “Black Mirror” episodes of all time? Given all that, I think we might need to head to the theater to see the tragic tale of actor Matt Hagen, whose pursuit of physical perfection leads him to an experimental procedure that will cost him everything. — Adrienne",
-      "relatedconst": [
-        "nm4151189",
-        "nm7609875",
-        "nm1540404",
-        "nm0550371"
-      ],
-      "viconst": "vi725928729"
-    },
-    {
-      "name": "Klara and the Sun",
-      "ttconst": "tt14371256",
-      "rmconst": "rm1241694978",
-      "detail": "In theaters October 23",
-      "description": "Jenna Ortega stars as Klara, the “Artificial Friend” assigned to bond with a sick 14-year-old girl named Josie (Mia Tharia) in this big screen adaptation of Kazuo Ishiguro’s dystopian novel. Taika Waititi returns to the director’s chair after 2023’s <i>First Goal Wins</i>, and the ensemble cast includes Amy Adams as Josie’s mother, Natasha Lyonne, Steve Buscemi, and Aran (son of Cillian) Murphy. -- James",
-      "relatedconst": [
-        "nm4911194",
-        "nm0010736",
-        "nm9894699",
-        "nm15588612",
-        "nm0005169",
-        "nm0000114"
-      ],
-      "viconst": "vi1181141785"
-    },
-    {
-      "name": "Wicker",
-      "ttconst": "tt29611136",
-      "rmconst": "rm2990928386",
-      "detail": "In theaters October 30",
-      "description": "Alexander Skarsgård’s hotness is not restricted to human form. In what might be our most anticipated indie movie of the year, the Skars plays a man who is brought to life by his village’s basketmaker (Peter Dinklage), who weaves him together from wood and other natural materials. His sole purpose is to bring happiness and carnal pleasure to Olivia Colman’s character, a fisherwoman who has been ridiculed and ostracized from her rigid 17th-century coastal village community. What a reason to live any sort of life. The movie feels like a shot across the bow of the AI era, making its eccentricities that much more appealing. — Arno",
-      "relatedconst": [
-        "nm1469236",
-        "nm0002907",
-        "nm0227759",
-        "nm4456120",
-        "nm0001290",
-        "nm9702409"
-      ],
-      "viconst": "vi877513497"
-    },
-    {
-      "name": "V/H/S/Mixtape",
-      "ttconst": "tt43739386",
-      "rmconst": "rm3326145026",
-      "detail": "Streaming on Shudder",
-      "description": "If one thing’s for certain, horror fans love an anthology film, and the V/H/S franchise has been delivering found footage frights in that format since 2012. Since then, the series has gone viral, taken us back to the ‘80s, ‘90s, and beyond, and celebrated the spookiest night of the year. Now, they’re exploring the malicious side of the melodic with four horror shorts from directors like Ernest Dickerson, David Moreau, and Renee Zhan, as well as musicians RZA, Tobias Forge, and featuring Jim Henson’s Creature Shop alongside legendary metal monsters, GWAR. Now that’s a line-up I’d happily play on repeat. — Adrienne",
-      "relatedconst": [
-        "nm0186225",
-        "nm0350309"
-      ],
-      "viconst": "vi931383833"
     },
     {
       "name": "Fjord",
@@ -328,6 +328,1280 @@
   "imdb_items": {
     "titles": [
       {
+        "id": "tt45368240",
+        "title_text": {
+          "text": "You Can See Everything"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "You Can See Everything",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Her Şey Ortada",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Zobaczysz wszystko",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ты можешь видеть всё",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Thirty-four days before she's sent to prison, notorious Theranos founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait becomes a mind-bending three-year journey."
+          }
+        },
+        "primary_image": {
+          "id": "rm4252430338",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
+          "width": 2025,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 1,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 28
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 9.4,
+          "vote_count": 8486
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 10,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Documentary"
+              }
+            },
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "You Can See Everything"
+        },
+        "runtime": {
+          "seconds": 10440
+        }
+      },
+      {
+        "id": "tt34890576",
+        "title_text": {
+          "text": "Clayface"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "BN",
+                  "text": "Brunei"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "GR",
+                  "text": "Greece"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Clayface",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Клэйфейс",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Клэйфейс",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "泥面人",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "泥面人",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Agyagpofa",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cara-de-Barro",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gueule d'argile",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mālģīmis",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Moliaveidis",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Глиноликий",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Клејфејс",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity."
+          }
+        },
+        "primary_image": {
+          "id": "rm3108893186",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjNlMjM4NTAtYjE5YS00ZGYyLWEyMTYtNjFlMmIxZDEzYjhhXkEyXkFqcGc@._V1_.jpg",
+          "width": 2024,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 25,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 10
+          }
+        },
+        "ratings_summary": {
+          "vote_count": 0
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 10,
+          "day": 23
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Clayface"
+        },
+        "runtime": {
+          "seconds": 6480
+        }
+      },
+      {
+        "id": "tt14371256",
+        "title_text": {
+          "text": "Klara and the Sun"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara and the Sun",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara und die Sonne",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara und die Sonne",
+                "country": {
+                  "id": "CH",
+                  "text": "Switzerland"
+                },
+                "language": {
+                  "text": "German"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara und die Sonne",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara e o Sol",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara e o Sol",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara et le soleil",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara et le soleil",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara y el sol",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara y el sol",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara e il sole",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara és a Nap",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara i słońce",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara ile Güneş",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Klara och solen",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tears and Rain",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Клара и солнце",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Клара и сунце",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Клара і Сонце",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "克拉拉與太陽",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A robot girl designed to prevent loneliness tries to save a heartbroken family of humans."
+          }
+        },
+        "primary_image": {
+          "id": "rm1413071618",
+          "url": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 6072,
+          "height": 9000
+        },
+        "meter_ranking": {
+          "current_rank": 63,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 139
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.0,
+          "vote_count": 274
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 10,
+          "day": 23
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "Klara and the Sun"
+        },
+        "runtime": {
+          "seconds": 6960
+        }
+      },
+      {
+        "id": "tt29611136",
+        "title_text": {
+          "text": "Wicker"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wicker",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A Pescadora Solitária",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A vesszőből font férj",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "İdeal Koca",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Muž od pruća",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Плетёный муж",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "就是柳柳的他",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
+          }
+        },
+        "primary_image": {
+          "id": "rm78115586",
+          "url": "https://m.media-amazon.com/images/M/MV5BODliMTEzMTUtOGFlZS00NTgxLThjODEtMzcwNTE1OWE5Mzg2XkEyXkFqcGc@._V1_.jpg",
+          "width": 4000,
+          "height": 6246
+        },
+        "meter_ranking": {
+          "current_rank": 42,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 2
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.4,
+          "vote_count": 624
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 10,
+          "day": 30
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "History"
+              }
+            },
+            {
+              "genre": {
+                "text": "Romance"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Wicker"
+        },
+        "runtime": {
+          "seconds": 6300
+        }
+      },
+      {
         "id": "tt23112594",
         "title_text": {
           "text": "VisionQuest"
@@ -367,6 +1641,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "VisionQuest",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
                 }
               }
             },
@@ -468,7 +1751,7 @@
             },
             {
               "node": {
-                "text": "Вижн в поиске себя",
+                "text": "Квест Вижна",
                 "country": {
                   "id": "RU",
                   "text": "Russia"
@@ -498,16 +1781,16 @@
           "height": 1609
         },
         "meter_ranking": {
-          "current_rank": 55,
+          "current_rank": 5,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 16
+            "difference": 50
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.2,
-          "vote_count": 1400
+          "aggregate_rating": 8.0,
+          "vote_count": 5238
         },
         "release_date": {
           "year": 2026,
@@ -629,6 +1912,15 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Crystal Lake",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
                 }
               }
             },
@@ -760,16 +2052,16 @@
           "height": 1481
         },
         "meter_ranking": {
-          "current_rank": 28,
+          "current_rank": 3,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 16
+            "difference": 25
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.6,
-          "vote_count": 357
+          "aggregate_rating": 7.7,
+          "vote_count": 8462
         },
         "release_date": {
           "year": 2026,
@@ -802,579 +2094,7 @@
           "text": "Crystal Lake"
         },
         "runtime": {
-          "seconds": 3600
-        }
-      },
-      {
-        "id": "tt27419420",
-        "title_text": {
-          "text": "Street Fighter"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "BN",
-                  "text": "Brunei"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Phim Street Fighter",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Street Fighter: Uliczny wojownik",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tänavavõitleja",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "스트리트 파이터",
-                "country": {
-                  "id": "KR",
-                  "text": "South Korea"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ストリートファイター／ザ・ムービー",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "快打旋風",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "街霸",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction."
-          }
-        },
-        "primary_image": {
-          "id": "rm1801377026",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_.jpg",
-          "width": 878,
-          "height": 1300
-        },
-        "meter_ranking": {
-          "current_rank": 22,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 24
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 10,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "Street Fighter"
-        },
-        "runtime": {
-          "seconds": 7140
-        }
-      },
-      {
-        "id": "tt45368240",
-        "title_text": {
-          "text": "You Can See Everything"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "You Can See Everything",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Zobaczysz wszystko",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ты можешь видеть всё",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Thirty-four days before she's sent to prison, notorious Theranos founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait becomes a mind-bending three-year journey."
-          }
-        },
-        "primary_image": {
-          "id": "rm4252430338",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDkwNGRiNjYtZTQ4MC00MWFhLWI3MjYtNzk1MDY2ZTNiY2Q4XkEyXkFqcGc@._V1_.jpg",
-          "width": 2025,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 29,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 7
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.6,
-          "vote_count": 235
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 10,
-          "day": 16
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Documentary"
-              }
-            },
-            {
-              "genre": {
-                "text": "Biography"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "You Can See Everything"
-        },
-        "runtime": {
-          "seconds": 10440
+          "seconds": 3000
         }
       },
       {
@@ -1890,20 +2610,21 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 56,
+          "current_rank": 6,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 18
+            "difference": 50
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.7,
+          "vote_count": 5239
         },
         "release_date": {
           "year": 2026,
           "month": 10,
-          "day": 14
+          "day": 15
         },
         "title_genres": {
           "genres": [
@@ -1931,7 +2652,7 @@
           "text": "Whalefall"
         },
         "runtime": {
-          "seconds": 6360
+          "seconds": 6300
         }
       },
       {
@@ -2309,6 +3030,15 @@
             },
             {
               "node": {
+                "text": "Sensibilidade e Bom Senso",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Sentido y sensibilidad",
                 "country": {
                   "id": "ES",
@@ -2327,7 +3057,7 @@
             },
             {
               "node": {
-                "text": "Λογική και Ευαισθησία",
+                "text": "Λογική και ευαισθησία",
                 "country": {
                   "id": "GR",
                   "text": "Greece"
@@ -2365,7 +3095,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles."
+            "plain_text": "Sisters Elinor and Marianne Dashwood must leave their Sussex estate to live with a distant relative, while facing both romantic and financial struggles."
           }
         },
         "primary_image": {
@@ -2375,16 +3105,16 @@
           "height": 1600
         },
         "meter_ranking": {
-          "current_rank": 28,
+          "current_rank": 13,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "UP",
-            "difference": 4
+            "difference": 15
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 2138
+          "aggregate_rating": 7.3,
+          "vote_count": 4012
         },
         "release_date": {
           "year": 2026,
@@ -2412,7 +3142,408 @@
           "text": "Sense and Sensibility"
         },
         "runtime": {
-          "seconds": 7860
+          "seconds": 7920
+        }
+      },
+      {
+        "id": "tt27419420",
+        "title_text": {
+          "text": "Street Fighter"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "BN",
+                  "text": "Brunei"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Phim Street Fighter",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter: Filma",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Street Fighter: Uliczny wojownik",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Tänavavõitleja",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "스트리트 파이터",
+                "country": {
+                  "id": "KR",
+                  "text": "South Korea"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ストリートファイター／ザ・ムービー",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "快打旋風",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "街霸",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction."
+          }
+        },
+        "primary_image": {
+          "id": "rm1801377026",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_.jpg",
+          "width": 878,
+          "height": 1300
+        },
+        "meter_ranking": {
+          "current_rank": 2,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 20
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 6.2,
+          "vote_count": 11615
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 10,
+          "day": 16
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "Street Fighter"
+        },
+        "runtime": {
+          "seconds": 7140
         }
       },
       {
@@ -2613,6 +3744,15 @@
             },
             {
               "node": {
+                "text": "Apstākļu upuri",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Bogaci i martwi",
                 "country": {
                   "id": "PL",
@@ -2682,16 +3822,16 @@
           "height": 2222
         },
         "meter_ranking": {
-          "current_rank": 240,
+          "current_rank": 16,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 67
+            "change_direction": "UP",
+            "difference": 224
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 5.1,
-          "vote_count": 2063
+          "aggregate_rating": 5.0,
+          "vote_count": 4032
         },
         "release_date": {
           "year": 2026,
@@ -2989,13 +4129,13 @@
           "current_rank": 1,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 28
+            "change_direction": "FLAT",
+            "difference": 0
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.9,
-          "vote_count": 23501
+          "vote_count": 39565
         },
         "release_date": {
           "year": 2026,
@@ -3157,6 +4297,15 @@
               "node": {
                 "text": "Bajo la superficie",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bajo la superficie",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -3168,6 +4317,27 @@
                 "country": {
                   "id": "MX",
                   "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "暗潮之下",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "暗潮之下",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
                 }
               }
             },
@@ -3186,6 +4356,15 @@
                 "country": {
                   "id": "BR",
                   "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Profundo",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
                 }
               }
             },
@@ -3215,18 +4394,6 @@
                   "text": "Ukraine"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "暗潮之下",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
             }
           ]
         },
@@ -3245,13 +4412,13 @@
           "current_rank": 2,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 117
+            "change_direction": "FLAT",
+            "difference": 0
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.4,
-          "vote_count": 13142
+          "aggregate_rating": 6.3,
+          "vote_count": 22619
         },
         "release_date": {
           "year": 2026,
@@ -3592,16 +4759,16 @@
           "height": 1350
         },
         "meter_ranking": {
-          "current_rank": 3,
+          "current_rank": 4,
           "meter_type": "TV_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 2
+            "difference": 1
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.1,
-          "vote_count": 19230
+          "aggregate_rating": 8.0,
+          "vote_count": 25982
         },
         "release_date": {
           "year": 2026,
@@ -3810,6 +4977,15 @@
             },
             {
               "node": {
+                "text": "Instinto Animal",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Sobrevivência",
                 "country": {
                   "id": "BR",
@@ -3879,16 +5055,16 @@
           "height": 2048
         },
         "meter_ranking": {
-          "current_rank": 1,
+          "current_rank": 3,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 81
+            "change_direction": "DOWN",
+            "difference": 2
           }
         },
         "ratings_summary": {
           "aggregate_rating": 5.7,
-          "vote_count": 15428
+          "vote_count": 24824
         },
         "release_date": {
           "year": 2026,
@@ -3942,6 +5118,15 @@
         },
         "akas": {
           "edges": [
+            {
+              "node": {
+                "text": "Other Mommy",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
             {
               "node": {
                 "text": "Other Mommy",
@@ -4418,15 +5603,6 @@
                   "text": "Estonia"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Uma Outra Mãe",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
             }
           ]
         },
@@ -4442,16 +5618,16 @@
           "height": 5000
         },
         "meter_ranking": {
-          "current_rank": 3,
+          "current_rank": 10,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 18
+            "change_direction": "DOWN",
+            "difference": 7
           }
         },
         "ratings_summary": {
           "aggregate_rating": 5.4,
-          "vote_count": 8087
+          "vote_count": 11326
         },
         "release_date": {
           "year": 2026,
@@ -4998,16 +6174,16 @@
           "height": 1600
         },
         "meter_ranking": {
-          "current_rank": 4,
+          "current_rank": 11,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 2
+            "difference": 7
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.0,
-          "vote_count": 16495
+          "aggregate_rating": 6.1,
+          "vote_count": 19960
         },
         "release_date": {
           "year": 2026,
@@ -5216,6 +6392,105 @@
             },
             {
               "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "CR",
+                  "text": "Costa Rica"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "DO",
+                  "text": "Dominican Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "HN",
+                  "text": "Honduras"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "NI",
+                  "text": "Nicaragua"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El poder de la red",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Социальная расплата",
+                "country": {
+                  "id": "BY",
+                  "text": "Belarus"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Социальная расплата",
                 "country": {
                   "id": "KZ",
@@ -5237,10 +6512,28 @@
             },
             {
               "node": {
-                "text": "El poder de la red",
+                "text": "ذا سوشل ريكوننق",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
+                  "id": "KW",
+                  "text": "Kuwait"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ذا سوشل ريكوننق",
+                "country": {
+                  "id": "SA",
+                  "text": "Saudi Arabia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Algoritma cena",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
                 }
               }
             },
@@ -5351,6 +6644,27 @@
             },
             {
               "node": {
+                "text": "Соціальна розплата",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "เปิดโปงโซเชียล",
+                "country": {
+                  "id": "TH",
+                  "text": "Thailand"
+                },
+                "language": {
+                  "text": "Thai"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "社交清算",
                 "country": {
                   "id": "HK",
@@ -5384,16 +6698,16 @@
           "height": 2100
         },
         "meter_ranking": {
-          "current_rank": 10,
+          "current_rank": 24,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 31
+            "change_direction": "DOWN",
+            "difference": 14
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.7,
-          "vote_count": 5832
+          "vote_count": 8155
         },
         "release_date": {
           "year": 2026,
@@ -5427,6 +6741,104 @@
         },
         "runtime": {
           "seconds": 6720
+        }
+      },
+      {
+        "id": "tt43739386",
+        "title_text": {
+          "text": "V/H/S/Mixtape"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "V/H/S/Mixtape",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Mixtape",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "V/H/S/Mixtape",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "З/Л/О: Сборник",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "It presents a new anthology in which music and sound become a source of terror."
+          }
+        },
+        "primary_image": {
+          "id": "rm2561998082",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2M4MjlmMTItYmU4Ni00ZTM3LTk0MzYtODVkNzJlMDc0OTIzXkEyXkFqcGc@._V1_.jpg",
+          "width": 1707,
+          "height": 2560
+        },
+        "meter_ranking": {
+          "current_rank": 186,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "DOWN",
+            "difference": 147
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 4.3,
+          "vote_count": 2251
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 10,
+          "day": 9
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "V/H/S/Mixtape"
+        },
+        "runtime": {
+          "seconds": 5880
         }
       },
       {
@@ -5921,16 +7333,16 @@
           "height": 3000
         },
         "meter_ranking": {
-          "current_rank": 151,
+          "current_rank": 100,
           "meter_type": "TV_METER",
           "rank_change": {
-            "change_direction": "DOWN",
-            "difference": 9
+            "change_direction": "UP",
+            "difference": 51
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.9,
-          "vote_count": 131144
+          "vote_count": 131402
         },
         "release_date": {
           "year": 2022,
@@ -5967,1133 +7379,6 @@
         }
       },
       {
-        "id": "tt34890576",
-        "title_text": {
-          "text": "Clayface"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "BN",
-                  "text": "Brunei"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "GR",
-                  "text": "Greece"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Clayface",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Клэйфейс",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Клэйфейс",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "泥面人",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "泥面人",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Agyagpofa",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cara-de-Barro",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gueule d'argile",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mālģīmis",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Moliaveidis",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Глиноликий",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Клејфејс",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Rising Hollywood star Matt Hagen descends into a horrifying revenge-filled monster when scientific ambition strips him of his identity and humanity."
-          }
-        },
-        "primary_image": {
-          "id": "rm3108893186",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjNlMjM4NTAtYjE5YS00ZGYyLWEyMTYtNjFlMmIxZDEzYjhhXkEyXkFqcGc@._V1_.jpg",
-          "width": 2024,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 35,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 18
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 10,
-          "day": 23
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Clayface"
-        },
-        "runtime": {
-          "seconds": 6480
-        }
-      },
-      {
-        "id": "tt14371256",
-        "title_text": {
-          "text": "Klara and the Sun"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara and the Sun",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara und die Sonne",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara und die Sonne",
-                "country": {
-                  "id": "CH",
-                  "text": "Switzerland"
-                },
-                "language": {
-                  "text": "German"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara und die Sonne",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara e o Sol",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara e o Sol",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara y el sol",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara y el sol",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara e il sole",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara és a Nap",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara et le soleil",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara i słońce",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Klara och solen",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Tears and Rain",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Клара и солнце",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Клара и сунце",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Клара і Сонце",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "克拉拉與太陽",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A robot girl designed to prevent loneliness tries to save a heartbroken family of humans."
-          }
-        },
-        "primary_image": {
-          "id": "rm1413071618",
-          "url": "https://m.media-amazon.com/images/M/MV5BNjQ1YzgwMTMtZDRhNC00MDE0LWFmODctM2ZlNjg5MmNiMDI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 6072,
-          "height": 9000
-        },
-        "meter_ranking": {
-          "current_rank": 202,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 149
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 10,
-          "day": 23
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "Klara and the Sun"
-        },
-        "runtime": {
-          "seconds": 6960
-        }
-      },
-      {
-        "id": "tt29611136",
-        "title_text": {
-          "text": "Wicker"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wicker",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A Pescadora Solitária",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "A vesszőből font férj",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "İdeal Koca",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Muž od pruća",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Плетёный муж",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "就是柳柳的他",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "An ostracized fisherwoman commissions the local basketmaker to weave her a husband, but when her wicker creation proves unexpectedly extraordinary, his presence ignites jealousy and upheaval that threatens their quiet village."
-          }
-        },
-        "primary_image": {
-          "id": "rm78115586",
-          "url": "https://m.media-amazon.com/images/M/MV5BODliMTEzMTUtOGFlZS00NTgxLThjODEtMzcwNTE1OWE5Mzg2XkEyXkFqcGc@._V1_.jpg",
-          "width": 4000,
-          "height": 6246
-        },
-        "meter_ranking": {
-          "current_rank": 44,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 80
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.4,
-          "vote_count": 489
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 10,
-          "day": 30
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "History"
-              }
-            },
-            {
-              "genre": {
-                "text": "Romance"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Wicker"
-        },
-        "runtime": {
-          "seconds": 6300
-        }
-      },
-      {
-        "id": "tt43739386",
-        "title_text": {
-          "text": "V/H/S/Mixtape"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "V/H/S/Mixtape",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Mixtape",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "V/H/S/Mixtape",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "З/Л/О: Сборник",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "It presents a new anthology in which music and sound become a source of terror."
-          }
-        },
-        "primary_image": {
-          "id": "rm2561998082",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2M4MjlmMTItYmU4Ni00ZTM3LTk0MzYtODVkNzJlMDc0OTIzXkEyXkFqcGc@._V1_.jpg",
-          "width": 1707,
-          "height": 2560
-        },
-        "meter_ranking": {
-          "current_rank": 39,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 899
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 4.4,
-          "vote_count": 1577
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 10,
-          "day": 9
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "V/H/S/Mixtape"
-        },
-        "runtime": {
-          "seconds": 5880
-        }
-      },
-      {
         "id": "tt35410859",
         "title_text": {
           "text": "Fjord"
@@ -7110,6 +7395,15 @@
               "node": {
                 "text": "Fjord",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fjord",
+                "country": {
                   "id": "AU",
                   "text": "Australia"
                 }
@@ -7133,6 +7427,18 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fjord",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
                 }
               }
             },
@@ -7366,16 +7672,16 @@
           "height": 3600
         },
         "meter_ranking": {
-          "current_rank": 117,
+          "current_rank": 123,
           "meter_type": "MOVIE_METER",
           "rank_change": {
-            "change_direction": "UP",
-            "difference": 97
+            "change_direction": "DOWN",
+            "difference": 6
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.6,
-          "vote_count": 4610
+          "vote_count": 5071
         },
         "release_date": {
           "year": 2026,
@@ -7706,6 +8012,24 @@
             },
             {
               "node": {
+                "text": "Дигер",
+                "country": {
+                  "id": "MK",
+                  "text": "North Macedonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дигер",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "挖掘者",
                 "country": {
                   "id": "HK",
@@ -7763,10 +8087,10 @@
             },
             {
               "node": {
-                "text": "Дигер",
+                "text": "Діґґер",
                 "country": {
-                  "id": "RS",
-                  "text": "Serbia"
+                  "id": "UA",
+                  "text": "Ukraine"
                 }
               }
             },
@@ -7808,16 +8132,16 @@
           "height": 4096
         },
         "meter_ranking": {
-          "current_rank": 2,
+          "current_rank": 4,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 1
+            "difference": 2
           }
         },
         "ratings_summary": {
           "aggregate_rating": 7.5,
-          "vote_count": 34332
+          "vote_count": 40611
         },
         "release_date": {
           "year": 2026,
@@ -7876,15 +8200,6 @@
                 "country": {
                   "id": "DE",
                   "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Beware Boiúna",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
                 }
               }
             },
@@ -7995,6 +8310,15 @@
             },
             {
               "node": {
+                "text": "Boiúna: La leyenda del Amazonas",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Il Risveglio di Boiúna",
                 "country": {
                   "id": "IT",
@@ -8064,16 +8388,16 @@
           "height": 1167
         },
         "meter_ranking": {
-          "current_rank": 150,
+          "current_rank": 377,
           "meter_type": "MOVIE_METER",
           "rank_change": {
             "change_direction": "DOWN",
-            "difference": 74
+            "difference": 227
           }
         },
         "ratings_summary": {
           "aggregate_rating": 6.1,
-          "vote_count": 883
+          "vote_count": 988
         },
         "release_date": {
           "year": 2026,
@@ -8111,6 +8435,222 @@
       }
     ],
     "names": [
+      {
+        "id": "nm2358709",
+        "name_text": {
+          "text": "Nathan Fielder"
+        },
+        "primary_image": {
+          "id": "rm3588850434",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjg5MWYxZDktZDM2OS00OTI1LTkyNmYtYmQ1ZTY1NThhNjhlXkEyXkFqcGc@._V1_.jpg",
+          "width": 2436,
+          "height": 3310
+        }
+      },
+      {
+        "id": "nm7266010",
+        "name_text": {
+          "text": "Elizabeth Holmes"
+        },
+        "primary_image": {
+          "id": "rm162031616",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTE4MTMwMF5BMl5BanBnXkFtZTgwNjk0NzMyNzM@._V1_.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      },
+      {
+        "id": "nm4151189",
+        "name_text": {
+          "text": "Tom Rhys Harries"
+        },
+        "primary_image": {
+          "id": "rm2092694274",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjFjNWRkNjItNDc3MS00N2I2LWJmN2ItYmE5MWY4ODk4YzI1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1170,
+          "height": 1735
+        }
+      },
+      {
+        "id": "nm7609875",
+        "name_text": {
+          "text": "Naomi Ackie"
+        },
+        "primary_image": {
+          "id": "rm3618867970",
+          "url": "https://m.media-amazon.com/images/M/MV5BZWY0YmY3ZDUtMzFmMi00NjBmLWEyYWYtZTBjMzg1NDM4M2NhXkEyXkFqcGc@._V1_.jpg",
+          "width": 5341,
+          "height": 7116
+        }
+      },
+      {
+        "id": "nm1540404",
+        "name_text": {
+          "text": "Max Minghella"
+        },
+        "primary_image": {
+          "id": "rm1780536320",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTEwNTcwN15BMl5BanBnXkFtZTgwNDU4MDgxMTE@._V1_.jpg",
+          "width": 614,
+          "height": 702
+        }
+      },
+      {
+        "id": "nm0550371",
+        "name_text": {
+          "text": "Eddie Marsan"
+        },
+        "primary_image": {
+          "id": "rm676032000",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTA0MTYwOF5BMl5BanBnXkFtZTgwMjY5MzkzNzM@._V1_.jpg",
+          "width": 1330,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm4911194",
+        "name_text": {
+          "text": "Jenna Ortega"
+        },
+        "primary_image": {
+          "id": "rm3939986433",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTRmNGY5ZTgtMzI1MS00YTIwLWJhZjktOGE5OGEzMWUyYWJhXkEyXkFqcGc@._V1_.jpg",
+          "width": 7543,
+          "height": 4762
+        }
+      },
+      {
+        "id": "nm0010736",
+        "name_text": {
+          "text": "Amy Adams"
+        },
+        "primary_image": {
+          "id": "rm3448061696",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
+          "width": 1340,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm9894699",
+        "name_text": {
+          "text": "Mia Tharia"
+        },
+        "primary_image": {
+          "id": "rm2612720386",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzEyZGE3ODMtNzJlYy00ZmUzLWE4MmItYmRiNzRhNjNmYjdmXkEyXkFqcGc@._V1_.jpg",
+          "width": 3508,
+          "height": 5282
+        }
+      },
+      {
+        "id": "nm15588612",
+        "name_text": {
+          "text": "Aran Murphy"
+        },
+        "primary_image": {
+          "id": "rm2145058050",
+          "url": "https://m.media-amazon.com/images/M/MV5BNGY0NGYzZTAtOTNkYS00ZGUwLTkzNmEtZTBkNDA2NGUwNzU2XkEyXkFqcGc@._V1_.jpg",
+          "width": 1238,
+          "height": 1844
+        }
+      },
+      {
+        "id": "nm0005169",
+        "name_text": {
+          "text": "Natasha Lyonne"
+        },
+        "primary_image": {
+          "id": "rm2563501056",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTEyMzc2MTE2MzheQTJeQWpwZ15BbWU4MDUwNTY0ODYx._V1_.jpg",
+          "width": 1360,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0000114",
+        "name_text": {
+          "text": "Steve Buscemi"
+        },
+        "primary_image": {
+          "id": "rm2916058112",
+          "url": "https://m.media-amazon.com/images/M/MV5BODc0NTU3NDA4M15BMl5BanBnXkFtZTcwNDkxNzQxNA@@._V1_.jpg",
+          "width": 299,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm1469236",
+        "name_text": {
+          "text": "Olivia Colman"
+        },
+        "primary_image": {
+          "id": "rm2676911104",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY4MzU2ODIzNl5BMl5BanBnXkFtZTgwMTM2OTA1NzM@._V1_.jpg",
+          "width": 1365,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0002907",
+        "name_text": {
+          "text": "Alexander Skarsgård"
+        },
+        "primary_image": {
+          "id": "rm1858870528",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_.jpg",
+          "width": 1360,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0227759",
+        "name_text": {
+          "text": "Peter Dinklage"
+        },
+        "primary_image": {
+          "id": "rm307862016",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_.jpg",
+          "width": 321,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm4456120",
+        "name_text": {
+          "text": "Elizabeth Debicki"
+        },
+        "primary_image": {
+          "id": "rm714881792",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTMyZmM5MDMtNzZiMS00ZjhjLTg0NWEtY2JiOWU3ODg5ZWViXkEyXkFqcGc@._V1_.jpg",
+          "width": 450,
+          "height": 555
+        }
+      },
+      {
+        "id": "nm0001290",
+        "name_text": {
+          "text": "Richard E. Grant"
+        },
+        "primary_image": {
+          "id": "rm2640805632",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzA1NDk1Ml5BMl5BanBnXkFtZTgwMjk2NTA0NjM@._V1_.jpg",
+          "width": 530,
+          "height": 709
+        }
+      },
+      {
+        "id": "nm9702409",
+        "name_text": {
+          "text": "Ella Bruccoleri"
+        },
+        "primary_image": {
+          "id": "rm1437718274",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjRiZGE2MTktYTAwNy00MDZjLTllOTYtNzQ1NWJiZDg4ZmY3XkEyXkFqcGc@._V1_.jpg",
+          "width": 5120,
+          "height": 3414
+        }
+      },
       {
         "id": "nm0079273",
         "name_text": {
@@ -8217,90 +8757,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BYjI1M2E1YTMtNzllZi00M2JiLWI3MzAtMzIzZTAwMDI3MzIxXkEyXkFqcGc@._V1_.jpg",
           "width": 1206,
           "height": 1790
-        }
-      },
-      {
-        "id": "nm3170207",
-        "name_text": {
-          "text": "Noah Centineo"
-        },
-        "primary_image": {
-          "id": "rm3772827138",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTU2YjIzMTgtNjIzZi00NGM3LWFhMDQtOTdjYTM3OWM4MGJlXkEyXkFqcGc@._V1_.jpg",
-          "width": 3333,
-          "height": 5000
-        }
-      },
-      {
-        "id": "nm4010671",
-        "name_text": {
-          "text": "Andrew Koji"
-        },
-        "primary_image": {
-          "id": "rm3549265152",
-          "url": "https://m.media-amazon.com/images/M/MV5BZGUxYjlmY2YtYzQ2Yi00Y2UyLThmMjYtYTI3NWM1YmMwNDVjXkEyXkFqcGc@._V1_.jpg",
-          "width": 780,
-          "height": 617
-        }
-      },
-      {
-        "id": "nm13153010",
-        "name_text": {
-          "text": "Callina Liang"
-        },
-        "primary_image": {
-          "id": "rm499510785",
-          "url": "https://m.media-amazon.com/images/M/MV5BYjQ2ODBiNjMtZWI5OS00NGZmLTg0ZGItNDI2NTNmNjhkNTkzXkEyXkFqcGc@._V1_.jpg",
-          "width": 1283,
-          "height": 1886
-        }
-      },
-      {
-        "id": "nm2810287",
-        "name_text": {
-          "text": "David Dastmalchian"
-        },
-        "primary_image": {
-          "id": "rm1670516992",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_.jpg",
-          "width": 2848,
-          "height": 4288
-        }
-      },
-      {
-        "id": "nm11312187",
-        "name_text": {
-          "text": "Orville Peck"
-        },
-        "primary_image": {
-          "id": "rm698267905",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzg2NTkxODctNGMzZC00NzYwLWEzZWYtY2U2MzJjMTA3ZGFiXkEyXkFqcGc@._V1_.jpg",
-          "width": 3000,
-          "height": 2000
-        }
-      },
-      {
-        "id": "nm2358709",
-        "name_text": {
-          "text": "Nathan Fielder"
-        },
-        "primary_image": {
-          "id": "rm3588850434",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjg5MWYxZDktZDM2OS00OTI1LTkyNmYtYmQ1ZTY1NThhNjhlXkEyXkFqcGc@._V1_.jpg",
-          "width": 2436,
-          "height": 3310
-        }
-      },
-      {
-        "id": "nm7266010",
-        "name_text": {
-          "text": "Elizabeth Holmes"
-        },
-        "primary_image": {
-          "id": "rm162031616",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTE4MTMwMF5BMl5BanBnXkFtZTgwNjk0NzMyNzM@._V1_.jpg",
-          "width": 2048,
-          "height": 1152
         }
       },
       {
@@ -8421,6 +8877,66 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMjA0OTE5OTU2MV5BMl5BanBnXkFtZTcwNTk3NTc1NA@@._V1_.jpg",
           "width": 1363,
           "height": 2048
+        }
+      },
+      {
+        "id": "nm3170207",
+        "name_text": {
+          "text": "Noah Centineo"
+        },
+        "primary_image": {
+          "id": "rm3772827138",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTU2YjIzMTgtNjIzZi00NGM3LWFhMDQtOTdjYTM3OWM4MGJlXkEyXkFqcGc@._V1_.jpg",
+          "width": 3333,
+          "height": 5000
+        }
+      },
+      {
+        "id": "nm4010671",
+        "name_text": {
+          "text": "Andrew Koji"
+        },
+        "primary_image": {
+          "id": "rm3549265152",
+          "url": "https://m.media-amazon.com/images/M/MV5BZGUxYjlmY2YtYzQ2Yi00Y2UyLThmMjYtYTI3NWM1YmMwNDVjXkEyXkFqcGc@._V1_.jpg",
+          "width": 780,
+          "height": 617
+        }
+      },
+      {
+        "id": "nm13153010",
+        "name_text": {
+          "text": "Callina Liang"
+        },
+        "primary_image": {
+          "id": "rm499510785",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjQ2ODBiNjMtZWI5OS00NGZmLTg0ZGItNDI2NTNmNjhkNTkzXkEyXkFqcGc@._V1_.jpg",
+          "width": 1283,
+          "height": 1886
+        }
+      },
+      {
+        "id": "nm2810287",
+        "name_text": {
+          "text": "David Dastmalchian"
+        },
+        "primary_image": {
+          "id": "rm1670516992",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTM3Mjc0NzgyN15BMl5BanBnXkFtZTcwOTU3MTE3Nw@@._V1_.jpg",
+          "width": 2848,
+          "height": 4288
+        }
+      },
+      {
+        "id": "nm11312187",
+        "name_text": {
+          "text": "Orville Peck"
+        },
+        "primary_image": {
+          "id": "rm698267905",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzg2NTkxODctNGMzZC00NzYwLWEzZWYtY2U2MzJjMTA3ZGFiXkEyXkFqcGc@._V1_.jpg",
+          "width": 3000,
+          "height": 2000
         }
       },
       {
@@ -8633,10 +9149,10 @@
           "text": "Hoon Lee"
         },
         "primary_image": {
-          "id": "rm3978251776",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTQ4YzIzYmMtMGM2Ny00MWM5LTlhNzItZjA2N2Y3MTFmNDVlXkEyXkFqcGc@._V1_.jpg",
-          "width": 1597,
-          "height": 2396
+          "id": "rm3018061314",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTk0NWMyMDMtNDM5NS00YjZkLThmNDYtMDBlN2Q2ZTkwNmZiXkEyXkFqcGc@._V1_CR57,220,825,1237_.jpg",
+          "width": 825,
+          "height": 1237
         }
       },
       {
@@ -8868,6 +9384,30 @@
         }
       },
       {
+        "id": "nm0186225",
+        "name_text": {
+          "text": "Barbara Crampton"
+        },
+        "primary_image": {
+          "id": "rm144235010",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjE5MTNmMWQtYTZjYi00MjIzLWIzZTUtMDg2NmVlNzk3ZDliXkEyXkFqcGc@._V1_CR520,64,3333,5000_.jpg",
+          "width": 3333,
+          "height": 5000
+        }
+      },
+      {
+        "id": "nm0350309",
+        "name_text": {
+          "text": "Gwar"
+        },
+        "primary_image": {
+          "id": "rm122769408",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDU4ZDM4ZTMtMWY2OS00ZjgxLWE3MTItODdlYjlhY2MzNDEyXkEyXkFqcGc@._V1_.jpg",
+          "width": 3840,
+          "height": 2400
+        }
+      },
+      {
         "id": "nm0695435",
         "name_text": {
           "text": "Chris Pratt"
@@ -8937,222 +9477,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BZjBjMzdjMzctMzk1Yi00MWJjLWI2MDItZTgxYzVjN2MwZTFjXkEyXkFqcGc@._V1_CR102,1,1002,1503_.jpg",
           "width": 1002,
           "height": 1503
-        }
-      },
-      {
-        "id": "nm4151189",
-        "name_text": {
-          "text": "Tom Rhys Harries"
-        },
-        "primary_image": {
-          "id": "rm2092694274",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjFjNWRkNjItNDc3MS00N2I2LWJmN2ItYmE5MWY4ODk4YzI1XkEyXkFqcGc@._V1_.jpg",
-          "width": 1170,
-          "height": 1735
-        }
-      },
-      {
-        "id": "nm7609875",
-        "name_text": {
-          "text": "Naomi Ackie"
-        },
-        "primary_image": {
-          "id": "rm3618867970",
-          "url": "https://m.media-amazon.com/images/M/MV5BZWY0YmY3ZDUtMzFmMi00NjBmLWEyYWYtZTBjMzg1NDM4M2NhXkEyXkFqcGc@._V1_.jpg",
-          "width": 5341,
-          "height": 7116
-        }
-      },
-      {
-        "id": "nm1540404",
-        "name_text": {
-          "text": "Max Minghella"
-        },
-        "primary_image": {
-          "id": "rm1780536320",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTEwNTcwN15BMl5BanBnXkFtZTgwNDU4MDgxMTE@._V1_.jpg",
-          "width": 614,
-          "height": 702
-        }
-      },
-      {
-        "id": "nm0550371",
-        "name_text": {
-          "text": "Eddie Marsan"
-        },
-        "primary_image": {
-          "id": "rm676032000",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTA0MTYwOF5BMl5BanBnXkFtZTgwMjY5MzkzNzM@._V1_.jpg",
-          "width": 1330,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm4911194",
-        "name_text": {
-          "text": "Jenna Ortega"
-        },
-        "primary_image": {
-          "id": "rm3939986433",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTRmNGY5ZTgtMzI1MS00YTIwLWJhZjktOGE5OGEzMWUyYWJhXkEyXkFqcGc@._V1_.jpg",
-          "width": 7543,
-          "height": 4762
-        }
-      },
-      {
-        "id": "nm0010736",
-        "name_text": {
-          "text": "Amy Adams"
-        },
-        "primary_image": {
-          "id": "rm3448061696",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTg2NTk2MTgxMV5BMl5BanBnXkFtZTgwNjcxMjAzMTI@._V1_.jpg",
-          "width": 1340,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm9894699",
-        "name_text": {
-          "text": "Mia Tharia"
-        },
-        "primary_image": {
-          "id": "rm2612720386",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzEyZGE3ODMtNzJlYy00ZmUzLWE4MmItYmRiNzRhNjNmYjdmXkEyXkFqcGc@._V1_.jpg",
-          "width": 3508,
-          "height": 5282
-        }
-      },
-      {
-        "id": "nm15588612",
-        "name_text": {
-          "text": "Aran Murphy"
-        },
-        "primary_image": {
-          "id": "rm2145058050",
-          "url": "https://m.media-amazon.com/images/M/MV5BNGY0NGYzZTAtOTNkYS00ZGUwLTkzNmEtZTBkNDA2NGUwNzU2XkEyXkFqcGc@._V1_.jpg",
-          "width": 1238,
-          "height": 1844
-        }
-      },
-      {
-        "id": "nm0005169",
-        "name_text": {
-          "text": "Natasha Lyonne"
-        },
-        "primary_image": {
-          "id": "rm2563501056",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTEyMzc2MTE2MzheQTJeQWpwZ15BbWU4MDUwNTY0ODYx._V1_.jpg",
-          "width": 1360,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0000114",
-        "name_text": {
-          "text": "Steve Buscemi"
-        },
-        "primary_image": {
-          "id": "rm2916058112",
-          "url": "https://m.media-amazon.com/images/M/MV5BODc0NTU3NDA4M15BMl5BanBnXkFtZTcwNDkxNzQxNA@@._V1_.jpg",
-          "width": 299,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm1469236",
-        "name_text": {
-          "text": "Olivia Colman"
-        },
-        "primary_image": {
-          "id": "rm2676911104",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY4MzU2ODIzNl5BMl5BanBnXkFtZTgwMTM2OTA1NzM@._V1_.jpg",
-          "width": 1365,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0002907",
-        "name_text": {
-          "text": "Alexander Skarsgård"
-        },
-        "primary_image": {
-          "id": "rm1858870528",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY1MjQxNjEzOF5BMl5BanBnXkFtZTgwMTU5ODM2ODE@._V1_.jpg",
-          "width": 1360,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0227759",
-        "name_text": {
-          "text": "Peter Dinklage"
-        },
-        "primary_image": {
-          "id": "rm307862016",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_.jpg",
-          "width": 321,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm4456120",
-        "name_text": {
-          "text": "Elizabeth Debicki"
-        },
-        "primary_image": {
-          "id": "rm714881792",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTMyZmM5MDMtNzZiMS00ZjhjLTg0NWEtY2JiOWU3ODg5ZWViXkEyXkFqcGc@._V1_.jpg",
-          "width": 450,
-          "height": 555
-        }
-      },
-      {
-        "id": "nm0001290",
-        "name_text": {
-          "text": "Richard E. Grant"
-        },
-        "primary_image": {
-          "id": "rm2640805632",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTc2NzA1NDk1Ml5BMl5BanBnXkFtZTgwMjk2NTA0NjM@._V1_.jpg",
-          "width": 530,
-          "height": 709
-        }
-      },
-      {
-        "id": "nm9702409",
-        "name_text": {
-          "text": "Ella Bruccoleri"
-        },
-        "primary_image": {
-          "id": "rm1168899074",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjI4OWU3ODMtZmU0NS00ZjMwLTk5MGQtM2U2MGRhZjIxMTZhXkEyXkFqcGc@._V1_CR1,0,1666,2499_.jpg",
-          "width": 1666,
-          "height": 2499
-        }
-      },
-      {
-        "id": "nm0186225",
-        "name_text": {
-          "text": "Barbara Crampton"
-        },
-        "primary_image": {
-          "id": "rm144235010",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjE5MTNmMWQtYTZjYi00MjIzLWIzZTUtMDg2NmVlNzk3ZDliXkEyXkFqcGc@._V1_CR520,64,3333,5000_.jpg",
-          "width": 3333,
-          "height": 5000
-        }
-      },
-      {
-        "id": "nm0350309",
-        "name_text": {
-          "text": "Gwar"
-        },
-        "primary_image": {
-          "id": "rm122769408",
-          "url": "https://m.media-amazon.com/images/M/MV5BMDU4ZDM4ZTMtMWY2OS00ZjgxLWE3MTItODdlYjlhY2MzNDEyXkEyXkFqcGc@._V1_.jpg",
-          "width": 3840,
-          "height": 2400
         }
       },
       {
@@ -9351,6 +9675,30 @@
     "videos": [],
     "images": [
       {
+        "id": "rm662437634",
+        "url": "https://m.media-amazon.com/images/M/MV5BNDI0M2ZiMDEtZDg1Mi00MWRlLTk4ZmMtODcwMGEwMzAyNDQ2XkEyXkFqcGc@._V1_.jpg",
+        "width": 5973,
+        "height": 4480
+      },
+      {
+        "id": "rm1679542018",
+        "url": "https://m.media-amazon.com/images/M/MV5BZGY5ZmI5M2YtYTM3MC00OTZlLTkwMWYtYTVlNmY0MGQyZmI3XkEyXkFqcGc@._V1_.jpg",
+        "width": 4096,
+        "height": 1797
+      },
+      {
+        "id": "rm1241694978",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2U1MTNlOTYtM2ZjNS00NDFiLTllNDItOTViOGQxMmQ1NjEyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 1688
+      },
+      {
+        "id": "rm2990928386",
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM1ZmUzNWMtMjE2MS00NjMwLThjM2YtYzAwNzllNTRiM2QyXkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 729
+      },
+      {
         "id": "rm2724133634",
         "url": "https://m.media-amazon.com/images/M/MV5BZjQ3ODM4MjEtMjNhZC00MjllLTlkNTAtNjllYjRkZTk2MGJlXkEyXkFqcGc@._V1_.jpg",
         "width": 3840,
@@ -9363,18 +9711,6 @@
         "height": 1561
       },
       {
-        "id": "rm3215653890",
-        "url": "https://m.media-amazon.com/images/M/MV5BZDIwMzQwODYtZTM3Zi00OTUzLWFhZWYtOWZjMGQyYWFiNmE0XkEyXkFqcGc@._V1_.jpg",
-        "width": 1200,
-        "height": 676
-      },
-      {
-        "id": "rm662437634",
-        "url": "https://m.media-amazon.com/images/M/MV5BNDI0M2ZiMDEtZDg1Mi00MWRlLTk4ZmMtODcwMGEwMzAyNDQ2XkEyXkFqcGc@._V1_.jpg",
-        "width": 5973,
-        "height": 4480
-      },
-      {
         "id": "rm1315228930",
         "url": "https://m.media-amazon.com/images/M/MV5BYmFlM2E4MjUtYjUwNi00ZTllLWEzNWMtNWI1MDA0MWE1ODQ5XkEyXkFqcGc@._V1_.jpg",
         "width": 5980,
@@ -9385,6 +9721,12 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZjE4M2M2MjUtNDUwZS00NjUxLWI5M2ItMjBlNzk4YzdmNDVlXkEyXkFqcGc@._V1_.jpg",
         "width": 3595,
         "height": 2160
+      },
+      {
+        "id": "rm3215653890",
+        "url": "https://m.media-amazon.com/images/M/MV5BZDIwMzQwODYtZTM3Zi00OTUzLWFhZWYtOWZjMGQyYWFiNmE0XkEyXkFqcGc@._V1_.jpg",
+        "width": 1200,
+        "height": 676
       },
       {
         "id": "rm879753218",
@@ -9435,34 +9777,16 @@
         "height": 3375
       },
       {
-        "id": "rm3631806722",
-        "url": "https://m.media-amazon.com/images/M/MV5BMDQyZDdkYzQtY2RiNy00MDYzLTkwMDYtNjA5MTU4YThhOTAzXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 2000
-      },
-      {
-        "id": "rm1679542018",
-        "url": "https://m.media-amazon.com/images/M/MV5BZGY5ZmI5M2YtYTM3MC00OTZlLTkwMWYtYTVlNmY0MGQyZmI3XkEyXkFqcGc@._V1_.jpg",
-        "width": 4096,
-        "height": 1797
-      },
-      {
-        "id": "rm1241694978",
-        "url": "https://m.media-amazon.com/images/M/MV5BY2U1MTNlOTYtM2ZjNS00NDFiLTllNDItOTViOGQxMmQ1NjEyXkEyXkFqcGc@._V1_.jpg",
-        "width": 3000,
-        "height": 1688
-      },
-      {
-        "id": "rm2990928386",
-        "url": "https://m.media-amazon.com/images/M/MV5BNjM1ZmUzNWMtMjE2MS00NjMwLThjM2YtYzAwNzllNTRiM2QyXkEyXkFqcGc@._V1_.jpg",
-        "width": 1200,
-        "height": 729
-      },
-      {
         "id": "rm3326145026",
         "url": "https://m.media-amazon.com/images/M/MV5BZDA0ZmZkYzctOTk4My00NWY1LWJkMmUtZDc0NjExZmNlMjc5XkEyXkFqcGc@._V1_.jpg",
         "width": 1866,
         "height": 1050
+      },
+      {
+        "id": "rm3631806722",
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQyZDdkYzQtY2RiNy00MDYzLTkwMDYtNjA5MTU4YThhOTAzXkEyXkFqcGc@._V1_.jpg",
+        "width": 3000,
+        "height": 2000
       },
       {
         "id": "rm3598767362",
