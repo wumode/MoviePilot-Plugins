@@ -1,36 +1,6 @@
 {
-  "updated_at": "2026-11-02 20:21:14",
+  "updated_at": "2026-11-06 18:54:34",
   "entries": [
-    {
-      "name": "Dexter: Resurrection",
-      "ttconst": "tt33043892",
-      "rmconst": "rm2054681346",
-      "detail": "Season 2 premieres October 30 on Paramount+",
-      "description": "Everyone’s favorite serial killer with a heart of gold is back for a second season of this hit spin-off series, and this time Dexter Morgan is taking on the most frightening foe of them all: a mid-life crisis. Uma Thurman returns as Charley, a former Special Ops agent who left her role as right-hand man to billionaire Leon Prater at the end of Season 1. But lest we make it seem like Dexter’s only dilemma is middle age, let us introduce two new serial killers into the mix. Brian Cox and Dan Stevens join the cast for the new 10-episode arc as the New York Ripper and the Five Borough Killer and are sure to make dear Dexter’s life much more complicated. — Adrienne",
-      "relatedconst": [
-        "nm0355910",
-        "nm7165060",
-        "nm0000235",
-        "nm0001664",
-        "nm0004051",
-        "nm1405398"
-      ],
-      "viconst": "vi3951675929"
-    },
-    {
-      "name": "The Gilded Age",
-      "ttconst": "tt4406178",
-      "rmconst": "rm3460346370",
-      "detail": "Season 4 premieres November 1 on HBO Max",
-      "description": "Season 4 of this hit HBO Max series looks like it will be a story of operatic proportions. Bertha (Carrie Coon) finally has the social status she's been craving for so long, but can she and her family withstand the pressures of her success? With Agnes (Christine Baranski) looking for a way back on top, and Marian (Louisa Jacobson) and Peggy (Denée Benton) striving for more stable lives, New York's high society is in for eight episodes of twists and turns. Come for the delicious drama, stay for the insane supporting cast, including Cynthia Nixon, Taissa Farmiga, Dylan Baker, Brian Stokes Mitchell, Jim Gaffigan, and Bill Camp, among others. —Adrienne",
-      "relatedconst": [
-        "nm4689420",
-        "nm1767528",
-        "nm0004724",
-        "nm0633223"
-      ],
-      "viconst": "vi1945422361"
-    },
     {
       "name": "The Greatest",
       "ttconst": "tt15715850",
@@ -93,6 +63,36 @@
         "nm4290253"
       ],
       "viconst": "vi250858009"
+    },
+    {
+      "name": "Dexter: Resurrection",
+      "ttconst": "tt33043892",
+      "rmconst": "rm2054681346",
+      "detail": "Season 2 streaming on Paramount+",
+      "description": "Everyone’s favorite serial killer with a heart of gold is back for a second season of this hit spin-off series, and this time Dexter Morgan is taking on the most frightening foe of them all: a mid-life crisis. Uma Thurman returns as Charley, a former Special Ops agent who left her role as right-hand man to billionaire Leon Prater at the end of Season 1. But lest we make it seem like Dexter’s only dilemma is middle age, let us introduce two new serial killers into the mix. Brian Cox and Dan Stevens join the cast for the new 10-episode arc as the New York Ripper and the Five Borough Killer and are sure to make dear Dexter’s life much more complicated. — Adrienne",
+      "relatedconst": [
+        "nm0355910",
+        "nm7165060",
+        "nm0000235",
+        "nm0001664",
+        "nm0004051",
+        "nm1405398"
+      ],
+      "viconst": "vi3951675929"
+    },
+    {
+      "name": "The Gilded Age",
+      "ttconst": "tt4406178",
+      "rmconst": "rm3460346370",
+      "detail": "Season 4 streaming on HBO Max",
+      "description": "Season 4 of this hit HBO Max series looks like it will be a story of operatic proportions. Bertha (Carrie Coon) finally has the social status she's been craving for so long, but can she and her family withstand the pressures of her success? With Agnes (Christine Baranski) looking for a way back on top, and Marian (Louisa Jacobson) and Peggy (Denée Benton) striving for more stable lives, New York's high society is in for eight episodes of twists and turns. Come for the delicious drama, stay for the insane supporting cast, including Cynthia Nixon, Taissa Farmiga, Dylan Baker, Brian Stokes Mitchell, Jim Gaffigan, and Bill Camp, among others. —Adrienne",
+      "relatedconst": [
+        "nm4689420",
+        "nm1767528",
+        "nm0004724",
+        "nm0633223"
+      ],
+      "viconst": "vi1945422361"
     },
     {
       "name": "The Lord of the Rings: The Rings of Power",
@@ -348,6 +348,1393 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt15715850",
+        "title_text": {
+          "text": "The Greatest"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Greatest",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A legnagyobb",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "El más grande",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Muhammad Ali: El más grande",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Chronicles Ali's life, career highs/lows, triumphs/struggles in/out of ring. Explores his personal relationships as father, husband, brother, son, behind public persona. Depicts defining moments that shaped boxing legend's iconic status."
+          }
+        },
+        "primary_image": {
+          "id": "rm3136484610",
+          "url": "https://m.media-amazon.com/images/M/MV5BYjc5ZjQzZGUtYmNjMC00NjhlLWFiNTAtZjNjOWFjNDBhZWQzXkEyXkFqcGc@._V1_.jpg",
+          "width": 2000,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 480,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 152
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.5,
+          "vote_count": 240
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 11,
+          "day": 4
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Biography"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sport"
+              }
+            }
+          ]
+        },
+        "original_title_text": {
+          "text": "The Greatest"
+        }
+      },
+      {
+        "id": "tt27995113",
+        "title_text": {
+          "text": "Black Doves"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2024
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "NL",
+                  "text": "Netherlands"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Black Doves",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Palomas Negras",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Palomas Negras",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Černá holubice",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Coloms negres",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                },
+                "language": {
+                  "text": "Catalan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Crne golubice",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Fekete galamb",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Palomas negras",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Црне голубице",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Черни гълъби",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Чёрные голуби",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Чорні голуби",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ブラック・ダヴ",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "黑鴿",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "黑鸽",
+                "country": {
+                  "id": "CN",
+                  "text": "China"
+                },
+                "language": {
+                  "text": "Mandarin"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "After her lover is murdered by members of London's underworld, a spy - who is publicly the wife of the British Defence Secretary - is protected by an old friend from their agency."
+          }
+        },
+        "primary_image": {
+          "id": "rm2509632002",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTEwYTVlNmItOGUyYi00MTRjLTliNmItZmZjOTBlMTc2NGMyXkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
+        },
+        "meter_ranking": {
+          "current_rank": 94,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 152
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.2,
+          "vote_count": 77481
+        },
+        "release_date": {
+          "year": 2024,
+          "month": 12,
+          "day": 5
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "Black Doves"
+        },
+        "runtime": {
+          "seconds": 3300
+        }
+      },
+      {
+        "id": "tt15799564",
+        "title_text": {
+          "text": "Wild Horse Nine"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Wild Horse Nine",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Caballo Salvaje Nueve",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Caballo Salvaje Nueve",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Caballo Salvaje Nueve",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cavalo Selvagem Nove",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cavalo Selvagem Nove",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "野馬九號",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "野馬九號",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Caballo salvaje nueve",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Divlji konj broj devet",
+                "country": {
+                  "id": "HR",
+                  "text": "Croatia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Dziki Koń Dziewięć",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Laukinis arklys Devyni",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Metsik hobu üheksa",
+                "country": {
+                  "id": "EE",
+                  "text": "Estonia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Mežonīgais zirgs deviņi",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vadló Kilenc",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Vahşi at Dokuz",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дивљи коњ број девет",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дикая лошадь",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Дикий кінь номер дев'ять",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ワイルド・ホース・ナイン",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "CIA agents Chris and Lee face a trust-testing mission from Santiago to Easter Island during 1973 in Chile."
+          }
+        },
+        "primary_image": {
+          "id": "rm1655173634",
+          "url": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_.jpg",
+          "width": 1688,
+          "height": 2500
+        },
+        "meter_ranking": {
+          "current_rank": 35,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 22
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.1,
+          "vote_count": 3377
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 11,
+          "day": 6
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Crime"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Wild Horse Nine"
+        },
+        "runtime": {
+          "seconds": 7080
+        }
+      },
+      {
+        "id": "tt34384661",
+        "title_text": {
+          "text": "Godzilla Minus Zero"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "ES",
+                  "text": "Spain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "IT",
+                  "text": "Italy"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Trừ Không",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla-0.0",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Gojira -0.0",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Годзила минус нула",
+                "country": {
+                  "id": "RS",
+                  "text": "Serbia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Годзилла: Минус ноль",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ກັອດຊິລລາ ໄມນັສ ຊີໂຣ",
+                "country": {
+                  "id": "LA",
+                  "text": "Laos"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "ゴジラ-0.0",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "哥吉拉-0.0",
+                "country": {
+                  "id": "TW",
+                  "text": "Taiwan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "哥斯拉-0.0",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "Cantonese"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "Set in 1949, the Shikishima family confronts a fresh catastrophe two years after surviving their previous ordeal with the legendary monster."
+          }
+        },
+        "primary_image": {
+          "id": "rm2534392066",
+          "url": "https://m.media-amazon.com/images/M/MV5BYzY2OWFhMTgtODJhMi00NDIyLWIzNTQtYjc4MjE4YTBjYzllXkEyXkFqcGc@._V1_.jpg",
+          "width": 901,
+          "height": 1351
+        },
+        "meter_ranking": {
+          "current_rank": 90,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 4
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 8.1,
+          "vote_count": 4093
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 11,
+          "day": 6
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Action"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Sci-Fi"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "R"
+        },
+        "original_title_text": {
+          "text": "Godzilla Minus Zero"
+        },
+        "runtime": {
+          "seconds": 8100
+        }
+      },
       {
         "id": "tt33043892",
         "title_text": {
@@ -672,7 +2059,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 9.0,
-          "vote_count": 163218
+          "vote_count": 164100
         },
         "release_date": {
           "year": 2025,
@@ -1157,7 +2544,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 55482
+          "vote_count": 55688
         },
         "release_date": {
           "year": 2022,
@@ -1181,1338 +2568,6 @@
         },
         "runtime": {
           "seconds": 3600
-        }
-      },
-      {
-        "id": "tt15715850",
-        "title_text": {
-          "text": "The Greatest"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "The Greatest",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "El más grande",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Chronicles Ali's life, career highs/lows, triumphs/struggles in/out of ring. Explores his personal relationships as father, husband, brother, son, behind public persona. Depicts defining moments that shaped boxing legend's iconic status."
-          }
-        },
-        "primary_image": {
-          "id": "rm3173380354",
-          "url": "https://m.media-amazon.com/images/M/MV5BZmU3ZjE3MTctZjRhNy00NmM1LWI0ZDEtOTVjZjU1YjJiYTRmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1920
-        },
-        "meter_ranking": {
-          "current_rank": 480,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 152
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 11,
-          "day": 4
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Biography"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sport"
-              }
-            }
-          ]
-        },
-        "original_title_text": {
-          "text": "The Greatest"
-        }
-      },
-      {
-        "id": "tt27995113",
-        "title_text": {
-          "text": "Black Doves"
-        },
-        "title_type": {
-          "id": "tvSeries"
-        },
-        "release_year": {
-          "year": 2024
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "NL",
-                  "text": "Netherlands"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Black Doves",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Palomas Negras",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Palomas Negras",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Černá holubice",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Coloms negres",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                },
-                "language": {
-                  "text": "Catalan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Crne golubice",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Fekete galamb",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Palomas negras",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Црне голубице",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Черни гълъби",
-                "country": {
-                  "id": "BG",
-                  "text": "Bulgaria"
-                },
-                "language": {
-                  "text": "Bulgarian"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Чёрные голуби",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Чорні голуби",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ブラック・ダヴ",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "黑鴿",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "黑鸽",
-                "country": {
-                  "id": "CN",
-                  "text": "China"
-                },
-                "language": {
-                  "text": "Mandarin"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "After her lover is murdered by members of London's underworld, a spy - who is publicly the wife of the British Defence Secretary - is protected by an old friend from their agency."
-          }
-        },
-        "primary_image": {
-          "id": "rm2509632002",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTEwYTVlNmItOGUyYi00MTRjLTliNmItZmZjOTBlMTc2NGMyXkEyXkFqcGc@._V1_.jpg",
-          "width": 1500,
-          "height": 2222
-        },
-        "meter_ranking": {
-          "current_rank": 94,
-          "meter_type": "TV_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 152
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 7.2,
-          "vote_count": 77145
-        },
-        "release_date": {
-          "year": 2024,
-          "month": 12,
-          "day": 5
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Mystery"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "TV-MA"
-        },
-        "original_title_text": {
-          "text": "Black Doves"
-        },
-        "runtime": {
-          "seconds": 3300
-        }
-      },
-      {
-        "id": "tt15799564",
-        "title_text": {
-          "text": "Wild Horse Nine"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Wild Horse Nine",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Caballo Salvaje Nueve",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Caballo Salvaje Nueve",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cavalo Selvagem Nove",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cavalo Selvagem Nove",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "野馬九號",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "野馬九號",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Caballo salvaje nueve",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Divlji konj broj devet",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Dziki Koń Dziewięć",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Metsik hobu üheksa",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Mežonīgais zirgs deviņi",
-                "country": {
-                  "id": "LV",
-                  "text": "Latvia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vadló Kilenc",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Vahşi at Dokuz",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Дивљи коњ број девет",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Дикая лошадь",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Дикий кінь номер дев'ять",
-                "country": {
-                  "id": "UA",
-                  "text": "Ukraine"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ワイルド・ホース・ナイン",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "CIA agents Chris and Lee face a trust-testing mission from Santiago to Easter Island during 1973 in Chile."
-          }
-        },
-        "primary_image": {
-          "id": "rm1655173634",
-          "url": "https://m.media-amazon.com/images/M/MV5BOTlkOGFlYWYtN2VlNC00NjNhLWIxYmMtNDVhZTQ4YmQ4ZTdiXkEyXkFqcGc@._V1_.jpg",
-          "width": 1688,
-          "height": 2500
-        },
-        "meter_ranking": {
-          "current_rank": 35,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 22
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.1,
-          "vote_count": 1957
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 11,
-          "day": 6
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Crime"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Wild Horse Nine"
-        },
-        "runtime": {
-          "seconds": 7080
-        }
-      },
-      {
-        "id": "tt34384661",
-        "title_text": {
-          "text": "Godzilla Minus Zero"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "HU",
-                  "text": "Hungary"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "XWW",
-                  "text": "World-wide"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Minus Zero",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla Trừ Không",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Godzilla-0.0",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Gojira -0.0",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Годзила минус нула",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Годзилла: Минус ноль",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "ゴジラ-0.0",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                },
-                "language": {
-                  "text": "Japanese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "哥吉拉-0.0",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "哥斯拉-0.0",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "Set in 1949, the Shikishima family confronts a fresh catastrophe two years after surviving their previous ordeal with the legendary monster."
-          }
-        },
-        "primary_image": {
-          "id": "rm2534392066",
-          "url": "https://m.media-amazon.com/images/M/MV5BYzY2OWFhMTgtODJhMi00NDIyLWIzNTQtYjc4MjE4YTBjYzllXkEyXkFqcGc@._V1_.jpg",
-          "width": 901,
-          "height": 1351
-        },
-        "meter_ranking": {
-          "current_rank": 90,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 4
-          }
-        },
-        "ratings_summary": {
-          "aggregate_rating": 8.0,
-          "vote_count": 1065
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 11,
-          "day": 6
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Action"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Horror"
-              }
-            },
-            {
-              "genre": {
-                "text": "Sci-Fi"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "R"
-        },
-        "original_title_text": {
-          "text": "Godzilla Minus Zero"
-        },
-        "runtime": {
-          "seconds": 8100
         }
       },
       {
@@ -3052,7 +3107,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 447210
+          "vote_count": 447522
         },
         "release_date": {
           "year": 2022,
@@ -3618,18 +3673,6 @@
               "node": {
                 "text": "Ebenezer",
                 "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -3647,6 +3690,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -4154,6 +4206,18 @@
             },
             {
               "node": {
+                "text": "Psychose victorienne",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Victorian Psycho: A nevelőnő",
                 "country": {
                   "id": "HU",
@@ -4193,7 +4257,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.1,
-          "vote_count": 484
+          "vote_count": 494
         },
         "release_date": {
           "year": 2026,
@@ -4874,6 +4938,15 @@
             },
             {
               "node": {
+                "text": "Bado žaidynės: aukų dienai auštant",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Đấu Trường Sinh Tử: Bình Minh Của Lễ Chiêu Quân",
                 "country": {
                   "id": "VN",
@@ -5471,7 +5544,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 118464
+          "vote_count": 118574
         },
         "release_date": {
           "year": 2021,
@@ -5652,6 +5725,15 @@
               "node": {
                 "text": "Yo soy Rocky",
                 "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Yo soy Rocky",
+                "country": {
                   "id": "ES",
                   "text": "Spain"
                 }
@@ -5675,6 +5757,15 @@
                 "country": {
                   "id": "RU",
                   "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Aš būsiu Rokis",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
                 }
               }
             },
@@ -5728,6 +5819,18 @@
             },
             {
               "node": {
+                "text": "Moi, Rocky",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Rocky sono io",
                 "country": {
                   "id": "IT",
@@ -5755,7 +5858,7 @@
             },
             {
               "node": {
-                "text": "洛基：一戰成名",
+                "text": "我就是洛基",
                 "country": {
                   "id": "TW",
                   "text": "Taiwan"
@@ -5766,7 +5869,7 @@
         },
         "plot": {
           "plot_text": {
-            "plain_text": "A true story of an unknown actor who believed he wasn't meant to just write Rocky, but to play Rocky Balboa. Facing constant rejection, Sylvester Stallone risks everything, refusing to give up the lead role against impossible odds."
+            "plain_text": "A true account of an unknown actor who believed he wasn't meant to just write \"Rocky\", but to play Rocky Balboa. Facing constant rejection, Sylvester Stallone risks everything, refusing to give up the lead role against impossible odds."
           }
         },
         "primary_image": {
@@ -5784,8 +5887,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.8,
-          "vote_count": 978
+          "aggregate_rating": 7.9,
+          "vote_count": 1340
         },
         "release_date": {
           "year": 2026,
@@ -5884,6 +5987,18 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Paper Tiger",
+                "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
                 }
               }
             },
@@ -6099,7 +6214,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 904
+          "vote_count": 942
         },
         "release_date": {
           "year": 2026,
@@ -6447,10 +6562,10 @@
           }
         },
         "primary_image": {
-          "id": "rm1677046274",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTI3YmIzNzYtOTcwNy00ZTZiLTg5NmQtMTUyNGY1ZWVmZDJiXkEyXkFqcGc@._V1_.jpg",
-          "width": 3009,
-          "height": 3736
+          "id": "rm3707892738",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGUwOTQ0ZjMtYzA3NS00YWJiLWE3YzEtOGI1YzNkZGFlOWQ5XkEyXkFqcGc@._V1_.jpg",
+          "width": 1600,
+          "height": 2000
         },
         "meter_ranking": {
           "current_rank": 226,
@@ -6462,7 +6577,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 55188
+          "vote_count": 55322
         },
         "release_date": {
           "year": 2023,
@@ -6588,6 +6703,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Good Daughter",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
                 }
               }
             },
@@ -7374,6 +7498,15 @@
             },
             {
               "node": {
+                "text": "Klifa Būta jaunās nedienas Holivudā",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Las nuevas desventuras de Cliff Booth",
                 "country": {
                   "id": "ES",
@@ -7455,10 +7588,10 @@
           }
         },
         "primary_image": {
-          "id": "rm2465920002",
-          "url": "https://m.media-amazon.com/images/M/MV5BNzUwMGJhMTItZTMyYy00MmNmLTg1NDctYzFmYzczNGM1MDI0XkEyXkFqcGc@._V1_.jpg",
-          "width": 1280,
-          "height": 1921
+          "id": "rm2333078530",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDgzOWExNGMtOWVhNy00ZGVlLTg1MDQtODA4NWFjOTM5MzE1XkEyXkFqcGc@._V1_.jpg",
+          "width": 1500,
+          "height": 2222
         },
         "meter_ranking": {
           "current_rank": 260,
@@ -7538,6 +7671,15 @@
               "node": {
                 "text": "Focker-in-Law",
                 "country": {
+                  "id": "BN",
+                  "text": "Brunei"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Focker-in-Law",
+                "country": {
                   "id": "CA",
                   "text": "Canada"
                 },
@@ -7559,6 +7701,18 @@
               "node": {
                 "text": "Focker-in-Law",
                 "country": {
+                  "id": "HK",
+                  "text": "Hong Kong"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Focker-in-Law",
+                "country": {
                   "id": "IE",
                   "text": "Ireland"
                 },
@@ -7573,6 +7727,18 @@
                 "country": {
                   "id": "IN",
                   "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Focker-in-Law",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
                 },
                 "language": {
                   "text": "English"
@@ -8386,7 +8552,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 20610
+          "vote_count": 20679
         },
         "release_date": {
           "year": 2025,
@@ -8424,126 +8590,6 @@
       }
     ],
     "names": [
-      {
-        "id": "nm0355910",
-        "name_text": {
-          "text": "Michael C. Hall"
-        },
-        "primary_image": {
-          "id": "rm75739392",
-          "url": "https://m.media-amazon.com/images/M/MV5BNDYwMzkwNjc0Ml5BMl5BanBnXkFtZTcwMDU1NTMzNw@@._V1_.jpg",
-          "width": 1348,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm7165060",
-        "name_text": {
-          "text": "Jack Alcott"
-        },
-        "primary_image": {
-          "id": "rm1637827585",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDQxYTgzZWEtYmMxMy00YzYxLTlmMWQtYjFjNDcyNWIyMzIxXkEyXkFqcGc@._V1_.jpg",
-          "width": 2902,
-          "height": 4347
-        }
-      },
-      {
-        "id": "nm0000235",
-        "name_text": {
-          "text": "Uma Thurman"
-        },
-        "primary_image": {
-          "id": "rm1744622848",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE@._V1_.jpg",
-          "width": 1363,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm0001664",
-        "name_text": {
-          "text": "James Remar"
-        },
-        "primary_image": {
-          "id": "rm1178898946",
-          "url": "https://m.media-amazon.com/images/M/MV5BMzA2MTRjMmMtNTViYi00Zjc2LTg5NDUtNWI3ZTZmMDI5N2QwXkEyXkFqcGc@._V1_.jpg",
-          "width": 1860,
-          "height": 2480
-        }
-      },
-      {
-        "id": "nm0004051",
-        "name_text": {
-          "text": "Brian Cox"
-        },
-        "primary_image": {
-          "id": "rm2021265665",
-          "url": "https://m.media-amazon.com/images/M/MV5BNTk2MTg1MjYtMmQ5Yy00OTI0LTkyYmQtMDVlNDQ5MTQyMzU3XkEyXkFqcGc@._V1_.jpg",
-          "width": 2368,
-          "height": 3553
-        }
-      },
-      {
-        "id": "nm1405398",
-        "name_text": {
-          "text": "Dan Stevens"
-        },
-        "primary_image": {
-          "id": "rm3215915776",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
-          "width": 428,
-          "height": 594
-        }
-      },
-      {
-        "id": "nm4689420",
-        "name_text": {
-          "text": "Carrie Coon"
-        },
-        "primary_image": {
-          "id": "rm2459611138",
-          "url": "https://m.media-amazon.com/images/M/MV5BZDFmNWQzZWYtZDBlNS00ZTlhLWI0YzctODYwZGY5YWI3ZWMxXkEyXkFqcGc@._V1_.jpg",
-          "width": 5343,
-          "height": 8011
-        }
-      },
-      {
-        "id": "nm1767528",
-        "name_text": {
-          "text": "Morgan Spector"
-        },
-        "primary_image": {
-          "id": "rm1081533953",
-          "url": "https://m.media-amazon.com/images/M/MV5BM2YyYmE5YWItNWRhYS00MDUwLTk2MjYtN2MwMzllM2M4Mjg2XkEyXkFqcGc@._V1_.jpg",
-          "width": 1125,
-          "height": 1500
-        }
-      },
-      {
-        "id": "nm0004724",
-        "name_text": {
-          "text": "Christine Baranski"
-        },
-        "primary_image": {
-          "id": "rm1054117632",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
-          "width": 299,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0633223",
-        "name_text": {
-          "text": "Cynthia Nixon"
-        },
-        "primary_image": {
-          "id": "rm3580400640",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjIxNzgxMDU4OV5BMl5BanBnXkFtZTcwOTM3MTU5MQ@@._V1_.jpg",
-          "width": 267,
-          "height": 400
-        }
-      },
       {
         "id": "nm13955802",
         "name_text": {
@@ -8818,6 +8864,126 @@
           "url": "https://m.media-amazon.com/images/M/MV5BNGZiMGUzNmUtNmQwOC00MmQ1LWE1NzEtYWJkYTQwNzI2YWFmXkEyXkFqcGc@._V1_.jpg",
           "width": 3737,
           "height": 4915
+        }
+      },
+      {
+        "id": "nm0355910",
+        "name_text": {
+          "text": "Michael C. Hall"
+        },
+        "primary_image": {
+          "id": "rm75739392",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDYwMzkwNjc0Ml5BMl5BanBnXkFtZTcwMDU1NTMzNw@@._V1_.jpg",
+          "width": 1348,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm7165060",
+        "name_text": {
+          "text": "Jack Alcott"
+        },
+        "primary_image": {
+          "id": "rm1637827585",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDQxYTgzZWEtYmMxMy00YzYxLTlmMWQtYjFjNDcyNWIyMzIxXkEyXkFqcGc@._V1_.jpg",
+          "width": 2902,
+          "height": 4347
+        }
+      },
+      {
+        "id": "nm0000235",
+        "name_text": {
+          "text": "Uma Thurman"
+        },
+        "primary_image": {
+          "id": "rm1744622848",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjMxNzk1MTQyMl5BMl5BanBnXkFtZTgwMDIzMDEyMTE@._V1_.jpg",
+          "width": 1363,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm0001664",
+        "name_text": {
+          "text": "James Remar"
+        },
+        "primary_image": {
+          "id": "rm1178898946",
+          "url": "https://m.media-amazon.com/images/M/MV5BMzA2MTRjMmMtNTViYi00Zjc2LTg5NDUtNWI3ZTZmMDI5N2QwXkEyXkFqcGc@._V1_.jpg",
+          "width": 1860,
+          "height": 2480
+        }
+      },
+      {
+        "id": "nm0004051",
+        "name_text": {
+          "text": "Brian Cox"
+        },
+        "primary_image": {
+          "id": "rm2021265665",
+          "url": "https://m.media-amazon.com/images/M/MV5BNTk2MTg1MjYtMmQ5Yy00OTI0LTkyYmQtMDVlNDQ5MTQyMzU3XkEyXkFqcGc@._V1_.jpg",
+          "width": 2368,
+          "height": 3553
+        }
+      },
+      {
+        "id": "nm1405398",
+        "name_text": {
+          "text": "Dan Stevens"
+        },
+        "primary_image": {
+          "id": "rm3215915776",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTY5OTI2MF5BMl5BanBnXkFtZTgwNDkzMzIxMzE@._V1_.jpg",
+          "width": 428,
+          "height": 594
+        }
+      },
+      {
+        "id": "nm4689420",
+        "name_text": {
+          "text": "Carrie Coon"
+        },
+        "primary_image": {
+          "id": "rm2459611138",
+          "url": "https://m.media-amazon.com/images/M/MV5BZDFmNWQzZWYtZDBlNS00ZTlhLWI0YzctODYwZGY5YWI3ZWMxXkEyXkFqcGc@._V1_.jpg",
+          "width": 5343,
+          "height": 8011
+        }
+      },
+      {
+        "id": "nm1767528",
+        "name_text": {
+          "text": "Morgan Spector"
+        },
+        "primary_image": {
+          "id": "rm1081533953",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2YyYmE5YWItNWRhYS00MDUwLTk2MjYtN2MwMzllM2M4Mjg2XkEyXkFqcGc@._V1_.jpg",
+          "width": 1125,
+          "height": 1500
+        }
+      },
+      {
+        "id": "nm0004724",
+        "name_text": {
+          "text": "Christine Baranski"
+        },
+        "primary_image": {
+          "id": "rm1054117632",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTUwMTYwMDUyM15BMl5BanBnXkFtZTcwNTk1MzQxMw@@._V1_.jpg",
+          "width": 299,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0633223",
+        "name_text": {
+          "text": "Cynthia Nixon"
+        },
+        "primary_image": {
+          "id": "rm3580400640",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjIxNzgxMDU4OV5BMl5BanBnXkFtZTcwOTM3MTU5MQ@@._V1_.jpg",
+          "width": 267,
+          "height": 400
         }
       },
       {
@@ -9796,18 +9962,6 @@
     "videos": [],
     "images": [
       {
-        "id": "rm2054681346",
-        "url": "https://m.media-amazon.com/images/M/MV5BY2VmZGMwODktZDRhYi00ZjY4LTg2NTEtMGVkMzQ4MWE3ZGE1XkEyXkFqcGc@._V1_.jpg",
-        "width": 5654,
-        "height": 3769
-      },
-      {
-        "id": "rm3460346370",
-        "url": "https://m.media-amazon.com/images/M/MV5BN2Q4ZmViNjUtZjRjZC00ZGM0LTliM2MtNzI3MzYxM2M1OWQ1XkEyXkFqcGc@._V1_.jpg",
-        "width": 1920,
-        "height": 1440
-      },
-      {
         "id": "rm3862688002",
         "url": "https://m.media-amazon.com/images/M/MV5BNDBkNTI1NWYtNDQ0MC00MmI2LWFiNjItZjUxYzU0Yjk1OTM2XkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
@@ -9830,6 +9984,18 @@
         "url": "https://m.media-amazon.com/images/M/MV5BZTU0OGFhYmItMDkzMy00NzA5LThiMzItMjBhZDIzYWFhYjBhXkEyXkFqcGc@._V1_.jpg",
         "width": 4096,
         "height": 2304
+      },
+      {
+        "id": "rm2054681346",
+        "url": "https://m.media-amazon.com/images/M/MV5BY2VmZGMwODktZDRhYi00ZjY4LTg2NTEtMGVkMzQ4MWE3ZGE1XkEyXkFqcGc@._V1_.jpg",
+        "width": 5654,
+        "height": 3769
+      },
+      {
+        "id": "rm3460346370",
+        "url": "https://m.media-amazon.com/images/M/MV5BN2Q4ZmViNjUtZjRjZC00ZGM0LTliM2MtNzI3MzYxM2M1OWQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 1440
       },
       {
         "id": "rm2413950722",
