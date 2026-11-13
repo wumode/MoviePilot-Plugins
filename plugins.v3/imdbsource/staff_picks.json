@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-11-11 18:54:21",
+  "updated_at": "2026-11-14 06:55:20",
   "entries": [
+    {
+      "name": "The Body",
+      "ttconst": "tt8014982",
+      "rmconst": "rm4040096514",
+      "detail": "Streaming on Netflix",
+      "description": "OK, maybe I haven’t been watching the show (and maybe I’m not the target demo for this teen supernatural horror series on Netflix). But I have been watching the data on IMDb, and “The Body” has been one of the top titles on the site this week and has an impressive 7.5 rating (as of Nov. 13). The creative force behind the story of Catholic school girls experiencing something strange is writer/director Quinn Shephard, who previously served as showrunner for “Under the Bridge,” the 2024 Hulu true crime thriller that earned Lily Gladstone an Emmy nomination. — James",
+      "relatedconst": [
+        "nm15605354",
+        "nm10017808",
+        "nm7289275",
+        "nm3060479",
+        "nm2106801",
+        "nm8402202"
+      ],
+      "viconst": "vi3337865753"
+    },
+    {
+      "name": "Ebenezer",
+      "ttconst": "tt38773219",
+      "rmconst": "rm3116483586",
+      "detail": "In theaters",
+      "description": "Can 2026 Johnny Depp lure audiences to theaters with a dark themed holiday movie? If he had made <i>Ebenenzer</i> in, say, 1992 with Tim Burton, chances are we'd all own 4K copies of the film and pack theaters every year for a Christmastime revival. It’s tricky to predict how indie horror maven Ti West’s version of Charles Dickens’ <i>A Christmas Carol</i> will perform during its theatrical run, and what word of mouth will be like when opening weekend audiences decide if West’s interpretation, which certainly is not canon, is worth the cost of admission. But the movie could be more of a success in the Christmas Future. — Arno",
+      "relatedconst": [
+        "nm0000136",
+        "nm0005212",
+        "nm0342488",
+        "nm2057859",
+        "nm7436993",
+        "nm6003807"
+      ],
+      "viconst": "vi3330918937"
+    },
     {
       "name": "The Lord of the Rings: The Rings of Power",
       "ttconst": "tt7631058",
       "rmconst": "rm2413950722",
-      "detail": "Season 3 premieres November 11 on Prime Video",
-      "description": "Sauron continues his ascent in Season 3, as \"Rings of Power\" brings some major events from Tolkien's lore to the screen, including the war between the Elves and Sauron, and the forging of the One Ring (to rule them all). Jamie Campbell Bower joins \"Rings of Power\" in a pivotal role as Celeborn, the Elven lord and long-lost husband of Galadriel, who returns just in time for all hell to break loose. Start your binge-watch when the first four of eight episodes drop on Nov. 11. — Vanessa",
+      "detail": "Season 3 streaming on Prime Video",
+      "description": "Sauron continues his ascent in Season 3, as \"Rings of Power\" brings some major events from Tolkien's lore to the screen, including the war between the Elves and Sauron, and the forging of the One Ring (to rule them all). Jamie Campbell Bower joins \"Rings of Power\" in a pivotal role as Celeborn, the Elven lord and long-lost husband of Galadriel, who returns just in time for all hell to break loose. Start your binge-watch when the first four of eight episodes drop on Nov. 11. — Vanessa",
       "relatedconst": [
         "nm6077056",
         "nm3033454",
@@ -21,7 +53,7 @@
       "name": "How to Rob a Bank",
       "ttconst": "tt35866986",
       "rmconst": "rm2271267842",
-      "detail": "In theaters November 13",
+      "detail": "In theaters",
       "description": "Although this social media-heavy action-heist doesn't tread a lot of new ground, the cast is what's got us interested. The law-vs-outlaw divide pits Nicholas Hoult and Pete Davidson, leading the robbers with a message, against John C. Reilly and Zoë Kravitz, who try to take them down. And with David Leitch at the helm (<i>Bullet Train</i>, <i>Deadpool 2</i>, <i>The Fall Guy</i>), crazy stunts and over-the-top action are pretty much a given. — Vanessa",
       "relatedconst": [
         "nm0396558",
@@ -34,26 +66,10 @@
       "viconst": "vi2275199513"
     },
     {
-      "name": "Ebenezer",
-      "ttconst": "tt38773219",
-      "rmconst": "rm3116483586",
-      "detail": "In theaters November 13",
-      "description": "Can 2026 Johnny Depp lure audiences to theaters with a dark themed holiday movie? If he had made <i>Ebenenzer</i> in, say, 1992 with Tim Burton, chances are we'd all own 4K copies of the film and pack theaters every year for a Christmastime revival. It’s tricky to predict how indie horror maven Ti West’s version of Charles Dickens’ <i>A Christmas Carol</i> will perform during its theatrical run, and what word of mouth will be like when opening weekend audiences decide if West’s interpretation, which certainly is not canon, is worth the cost of admission. But the movie could be more of a success in the Christmas Future. — Arno",
-      "relatedconst": [
-        "nm0000136",
-        "nm0005212",
-        "nm0342488",
-        "nm2057859",
-        "nm7436993",
-        "nm6003807"
-      ],
-      "viconst": "vi3330918937"
-    },
-    {
       "name": "Victorian Psycho",
       "ttconst": "tt34374553",
       "rmconst": "rm566740226",
-      "detail": "In theaters November 13",
+      "detail": "In theaters",
       "description": "Resist the urge to make <i>American Psycho</i> comparisons with this new horror-comedy from Zachary Wigon (<i>Sanctuary</i>), which is likely to bring a few more belly laughs along with its mayhem. Based on screenwriter Virginia Feito’s novel of the same name, <i>Victorian Psycho</i> follows the possibly (definitely) insane (homicidal?) governess Winifred Notty (Maika Monroe) as she brings her unique set of skills to service the stuffy inhabitants of a remote gothic manor. Is all hell about to break loose? Yes. Are you going to have a great time watching it happen? Also yes. Will there be blood? As the Victorians might say, “Most assuredly.” — Adrienne",
       "relatedconst": [
         "nm2140860",
@@ -100,7 +116,7 @@
       "ttconst": "tt15799564",
       "rmconst": "rm2038747394",
       "detail": "In theaters",
-      "description": "Few filmmakers combine rich character work, biting humor, and an evocative sense of place quite like Martin McDonagh. John Malkovich and Sam Rockwell are pitch-perfect as two aging CIA operatives who leave 1973 Chile for a holiday on Easter Island to see “the big heads.” But what begins as an odd-couple getaway gradually becomes a reckoning with friendship, mortality, and lives spent doing terrible things. Against the remote beauty of Rapa Nui and its ancient monuments, McDonagh turns their rueful romp into something darkly funny and unexpectedly tender: a story about two men confronting what, if anything, they’ll leave behind. — Matt",
+      "description": "Few filmmakers combine rich character work, biting humor, and an evocative sense of place quite like Martin McDonagh. John Malkovich and Sam Rockwell are pitch-perfect as two aging CIA operatives who leave 1973 Chile for a holiday on Easter Island to see “the big heads.” But what begins as an odd-couple getaway gradually becomes a reckoning with friendship, mortality, and lives spent doing terrible things. Against the remote beauty of Rapa Nui and its ancient monuments, McDonagh turns their rueful romp into something darkly funny and unexpectedly tender: a story about two men confronting what, if anything, they’ll leave behind. — Matt",
       "relatedconst": [
         "nm0000518",
         "nm0005377",
@@ -115,7 +131,7 @@
       "ttconst": "tt34384661",
       "rmconst": "rm2903490818",
       "detail": "In theaters",
-      "description": "<i>Godzilla Minus Zero</i> looks to build on its predecessor’s successes by picking up two years after the events of <i>Godzilla Minus One</i>. As postwar Japan is in rebuilding mode, the Shikishima family quickly realizes they’re going to face a second round with Godzilla. And this time, the King of the Monsters will have to defend its title against King Ghidorah, the towering, dragon-like Titan that has become a central figure in the current Warner Bros. MonsterVerse movies but hasn’t been seen in a Toho production in 25 years. Writer-director and visual effects titan Takashi Yamazaki returns for the sequel, which was filmed in IMAX for our collective pleasure. It’s also the first Godzilla movie to earn an R rating! — Arno",
+      "description": "<i>Godzilla Minus Zero</i> looks to build on its predecessor’s successes by picking up two years after the events of <i>Godzilla Minus One</i>. As postwar Japan is in rebuilding mode, the Shikishima family quickly realizes they’re going to face a second round with Godzilla. And this time, the King of the Monsters will have to defend its title against King Ghidorah, the towering, dragon-like Titan that has become a central figure in the current Warner Bros. MonsterVerse movies but hasn’t been seen in a Toho production in 25 years. Writer-director and visual effects titan Takashi Yamazaki returns for the sequel, which was filmed in IMAX for our collective pleasure. It’s also the first Godzilla movie to earn an R rating! — Arno",
       "relatedconst": [
         "nm1126340",
         "nm4947538",
@@ -130,7 +146,7 @@
       "name": "Dexter: Resurrection",
       "ttconst": "tt33043892",
       "rmconst": "rm2054681346",
-      "detail": "Season 2 streaming on Paramount+",
+      "detail": "Season 2 streaming on Paramount+",
       "description": "Everyone’s favorite serial killer with a heart of gold is back for a second season of this hit spin-off series, and this time Dexter Morgan is taking on the most frightening foe of them all: a mid-life crisis. Uma Thurman returns as Charley, a former Special Ops agent who left her role as right-hand man to billionaire Leon Prater at the end of Season 1. But lest we make it seem like Dexter’s only dilemma is middle age, let us introduce two new serial killers into the mix. Brian Cox and Dan Stevens join the cast for the new 10-episode arc as the New York Ripper and the Five Borough Killer and are sure to make dear Dexter’s life much more complicated. — Adrienne",
       "relatedconst": [
         "nm0355910",
@@ -175,7 +191,7 @@
       "ttconst": "tt36786185",
       "rmconst": "rm3643797506",
       "detail": "Series premieres on Netflix November 19",
-      "description": "It could be serendipitous timing for “The Altruists” in the wake of the Elizabeth Holmes documentary <i>You Can See Everything</i> becoming a cultural phenomenon. Julia Garner and Anthony Boyle co-star in this mini-series about convicted cryptocurrency felons Caroline Ellison and Sam Bankman-Fried. Expect a new wave of journalism about the duo, and seek out this summer’s <i>New York Magazine</i> story on Bankman-Fried to get the deepest dive on his life behind bars. The series is essentially mirroring “The Dropout,” since there's a torrent of Ellison/Bankman-Fried documentaries coming our way soon. — Arno",
+      "description": "It could be serendipitous timing for “The Altruists” in the wake of the Elizabeth Holmes documentary <i>You Can See Everything</i> becoming a cultural phenomenon. Julia Garner and Anthony Boyle co-star in this mini-series about convicted cryptocurrency felons Caroline Ellison and Sam Bankman-Fried. Expect a new wave of journalism about the duo, and seek out this summer’s <i>New York Magazine</i> story on Bankman-Fried to get the deepest dive on his life behind bars. The series is essentially mirroring “The Dropout,” since there's a torrent of Ellison/Bankman-Fried documentaries coming our way soon. — Arno",
       "relatedconst": [
         "nm3400186",
         "nm4996269",
@@ -187,8 +203,8 @@
       "name": "The Hunger Games: Sunrise on the Reaping",
       "ttconst": "tt32558705",
       "rmconst": "rm4090297602",
-      "detail": "In theaters November 20",
-      "description": "The story of Haymitch Abernathy’s first Hunger Games has been completely eclipsed by the news that Katniss and Peeta will appear in the latest prequel, even though the movie is set more than two decades before the original trilogy (Suzanne Collins readers already know her fifth and maybe final Hunger Gs novel has a fast-forward section to the Team Peeta era). The return of Jennifer Lawrence and Josh Hutcherson is a gift to fans and a coup for the franchise, which we sense will continue to live on, especially if the second prequel bests the first at the box office (which still matters in instances like this). Back to young Abernathy: The role is a score for Joseph Zada, who’s set himself up nicely after “We Were Liars.” — Arno",
+      "detail": "In theaters November 20",
+      "description": "The story of Haymitch Abernathy’s first Hunger Games has been completely eclipsed by the news that Katniss and Peeta will appear in the latest prequel, even though the movie is set more than two decades before the original trilogy (Suzanne Collins readers already know her fifth and maybe final Hunger Gs novel has a fast-forward section to the Team Peeta era). The return of Jennifer Lawrence and Josh Hutcherson is a gift to fans and a coup for the franchise, which we sense will continue to live on, especially if the second prequel bests the first at the box office (which still matters in instances like this). Back to young Abernathy: The role is a score for Joseph Zada, who’s set himself up nicely after “We Were Liars.” — Arno",
       "relatedconst": [
         "nm10511461",
         "nm5085683",
@@ -204,7 +220,7 @@
       "ttconst": "tt11041332",
       "rmconst": "rm2871521538",
       "detail": "Season 4 premieres November 20 on Paramount+",
-      "description": "We’ll get to see exactly how many Yellowjackets make it back home to Wiskayok, NJ in the fourth and final season of the hit series that has been dinged, battered, and still beloved over the course of its previous three seasons. But things don’t necessarily get less brutal for the survivors back home; brace for a new murderous plot to be set into motion, as Molly Ringwald, June Squibb, and others bring to an end this fever dream for some permanently scarred teens. — Arno",
+      "description": "We’ll get to see exactly how many Yellowjackets make it back home to Wiskayok, NJ in the fourth and final season of the hit series that has been dinged, battered, and still beloved over the course of its previous three seasons. But things don’t necessarily get less brutal for the survivors back home; brace for a new murderous plot to be set into motion, as Molly Ringwald, June Squibb, and others bring to an end this fever dream for some permanently scarred teens. — Arno",
       "relatedconst": [
         "nm0001491",
         "nm0000207",
@@ -219,22 +235,21 @@
       "name": "I Play Rocky",
       "ttconst": "tt11995650",
       "rmconst": "rm3688613122",
-      "detail": "In theaters November 20",
+      "detail": "In theaters November 20",
       "description": "Expect a fairly faithful adaptation of the creation of the film <i>Rocky</i> in this docudrama from director Peter Farrelly. Starring Anthony Ippolito as Sylvester Stallone, <i>I Play Rocky</i> follows a young artist’s unlikely journey from unknown actor to Hollywood success story. Stallone famously wrote the script for his Oscar-winning movie in just three days and then refused to sell it unless he was allowed to play the title role. <i>I Play Rocky</i> dramatizes those events into a movie that is already gathering positive press after its premiere at TIFF earlier this fall. — Adrienne",
       "relatedconst": [
         "nm3067471",
         "nm1455681",
         "nm4150847",
         "nm0000369"
-      ],
-      "viconst": "vi1214040857"
+      ]
     },
     {
       "name": "Paper Tiger",
       "ttconst": "tt34385689",
       "rmconst": "rm2099247618",
-      "detail": "In theaters November 20",
-      "description": "It's the cast that's turning heads with James Gray's crime drama about a pair of brothers who become entangled with the Russian mafia when they agree to a scheme that's too good to be true. Adam Driver and Miles Teller turn up the tension as the duped siblings, alongside Scarlett Johansson who plays Teller's terrorized wife in this period drama that is sure to raise your blood pressure. — Arno",
+      "detail": "In theaters November 20",
+      "description": "It's the cast that's turning heads with James Gray's crime drama about a pair of brothers who become entangled with the Russian mafia when they agree to a scheme that's too good to be true. Adam Driver and Miles Teller turn up the tension as the duped siblings, alongside Scarlett Johansson who plays Teller's terrorized wife in this period drama that is sure to raise your blood pressure. — Arno",
       "relatedconst": [
         "nm3485845",
         "nm0424060",
@@ -247,7 +262,7 @@
       "ttconst": "tt12324366",
       "rmconst": "rm3562338562",
       "detail": "Season 3 premieres November 20 on Prime Video",
-      "description": "Season 3 of this much-loved reimagining of Greek mythology is bringing a darker tone to Percy and The Seven’s adventures. This time, the eight-episode season will adapt author Rick Riordan’s third book in the series, “The Titan’s Curse,” which leaves Percy to face the disappearance of Annabeth and the Great Prophecy that says one demigod child is fated to either raise Olympus to new heights or bring it crashing down to ruin. — Adrienne",
+      "description": "Season 3 of this much-loved reimagining of Greek mythology is bringing a darker tone to Percy and The Seven’s adventures. This time, the eight-episode season will adapt author Rick Riordan’s third book in the series, “The Titan’s Curse,” which leaves Percy to face the disappearance of Annabeth and the Great Prophecy that says one demigod child is fated to either raise Olympus to new heights or bring it crashing down to ruin. — Adrienne",
       "relatedconst": [
         "nm11880640",
         "nm7122558",
@@ -262,7 +277,7 @@
       "ttconst": "tt31842126",
       "rmconst": "rm1666957826",
       "detail": "Series premieres November 23 on Peacock",
-      "description": "Karin Slaughter might have her next TV moment this fall. The author, who has the hit series “Will Trent” to her credit, serves as showrunner here, overseeing the adaptation of her novel. The story concerns two estranged sisters (Rose Byrne and Meghann Fahy) who reunite nearly 30 years after a traumatic childhood experience which left their mother dead and the rest of their family deeply fractured and traumatized. In their small town, which looks sort of like the world of “Task” (a compliment), another bone-chilling event makes their family history high-stakes headline news again. — Arno",
+      "description": "Karin Slaughter might have her next TV moment this fall. The author, who has the hit series “Will Trent” to her credit, serves as showrunner here, overseeing the adaptation of her novel. The story concerns two estranged sisters (Rose Byrne and Meghann Fahy) who reunite nearly 30 years after a traumatic childhood experience which left their mother dead and the rest of their family deeply fractured and traumatized. In their small town, which looks sort of like the world of “Task” (a compliment), another bone-chilling event makes their family history high-stakes headline news again. — Arno",
       "relatedconst": [
         "nm3627601",
         "nm0126284"
@@ -273,8 +288,8 @@
       "name": "Hexed",
       "ttconst": "tt38077943",
       "rmconst": "rm746844418",
-      "detail": "In theaters November 25",
-      "description": "Disney has owned the Thanksgiving weekend box office the past two years with mega-franchise sequels <i>Moana 2</i> and <i>Zootopia 2</i>, but this year the studio is placing its bets on an original animated feature <i>Hexed</i>. Hailee Steinfeld voices Billie Doe, a teen girl who discovers latent magical powers that lead her to Hexe, the magical realm of witches. As is customary, the voice cast is stacked with names that will mean more to parents than kids. — James",
+      "detail": "In theaters November 25",
+      "description": "Disney has owned the Thanksgiving weekend box office the past two years with mega-franchise sequels <i>Moana 2</i> and <i>Zootopia 2</i>, but this year the studio is placing its bets on an original animated feature <i>Hexed</i>. Hailee Steinfeld voices Billie Doe, a teen girl who discovers latent magical powers that lead her to Hexe, the magical realm of witches. As is customary, the voice cast is stacked with names that will mean more to parents than kids. — James",
       "relatedconst": [
         "nm2794962",
         "nm0000149",
@@ -289,7 +304,7 @@
       "name": "The Further Mis-Adventures of Cliff Booth",
       "ttconst": "tt36408401",
       "rmconst": "rm1079500546",
-      "detail": "In theaters November 25",
+      "detail": "In theaters November 25",
       "description": "Quentin Tarantino’s output as director will never match the voracious appetite for his films from movie fans. Thankfully, he’s enlisted David Fincher to direct the follow-up to <i>Once Upon a Time in... Hollywood</i>. Based on Tarantino’s script, this sequel catches up with stuntman Cliff Booth (Brad Pitt) eight years after the events of <i>Once Upon a Time</i>, now a “studio fixer” who gets mixed up with a new host of characters around Los Angeles (some seedy, some <i>really</i> seedy), including a talent agent (Elizabeth Debicki), a football star-turned-actor (Yahya Abdul-Mateen II), a TV star (Scott Caan) and his wife (Carla Gugino), and the return of Timothy Olyphant as Western star James Stacy. — James",
       "relatedconst": [
         "nm0000093",
@@ -305,8 +320,8 @@
       "name": "Focker-in-Law",
       "ttconst": "tt34966140",
       "rmconst": "rm3497448706",
-      "detail": "In theaters November 25",
-      "description": "If there’s a formula for mainstream comedy success in 2026, it seems to be early 2000s nostalgia. The two biggest comedies at the box office this year have been <i>The Devil Wears Prada 2</i> and <i>Scary Movie</i>. Cue Robert de Niro and Ben Stiller’s reunion in <i>Focker-In-Law</i>, the third sequel to 2000’s <i>Meet the Parents</i> and the first since 2010’s <i>Little Fockers</i>. This time around, the franchise gets an infusion of youth with the introduction of Ariana Grande, who plays foil to Stiller as his prospective daughter-in-law, soon to be wed to son Henry, played by rising star Skyler Gisondo (<i>Primetime</i>, <i>Superman</i>). — James",
+      "detail": "In theaters November 25",
+      "description": "If there’s a formula for mainstream comedy success in 2026, it seems to be early 2000s nostalgia. The two biggest comedies at the box office this year have been <i>The Devil Wears Prada 2</i> and <i>Scary Movie</i>. Cue Robert de Niro and Ben Stiller’s reunion in <i>Focker-In-Law</i>, the third sequel to 2000’s <i>Meet the Parents</i> and the first since 2010’s <i>Little Fockers</i>. This time around, the franchise gets an infusion of youth with the introduction of Ariana Grande, who plays foil to Stiller as his prospective daughter-in-law, soon to be wed to son Henry, played by rising star Skyler Gisondo (<i>Primetime</i>, <i>Superman</i>). — James",
       "relatedconst": [
         "nm0000134",
         "nm0001774",
@@ -334,7 +349,7 @@
       "ttconst": "tt31038430",
       "rmconst": "rm3207917826",
       "detail": "Season 2 premieres November 26 on Netflix",
-      "description": "Where do you go after a killer has been revealed and there’s no apparent end to the bad behavior in the ritzy enclave of Maple Brook, Texas? We’ll find out over eight episodes as “The Hunting Wives” Season 2 picks up right after the events of Season 1 and dares to take a time jump into the future into a land that has not been traversed in Rebecca Cutter’s novels. Who knows what the terms and conditions of the frenemy alliance between Sophie (Brittany Snow) and Margo (Malin Akerman) will look like, but we do know “Widow’s Bay” legend and recent Emmy nominee Dale Dickey will add to the Season 2 fracas, and Netflix has already renewed the series for Season 3. — Arno",
+      "description": "Where do you go after a killer has been revealed and there’s no apparent end to the bad behavior in the ritzy enclave of Maple Brook, Texas? We’ll find out over eight episodes as “The Hunting Wives” Season 2 picks up right after the events of Season 1 and dares to take a time jump into the future into a land that has not been traversed in Rebecca Cutter’s novels. Who knows what the terms and conditions of the frenemy alliance between Sophie (Brittany Snow) and Margo (Malin Akerman) will look like, but we do know “Widow’s Bay” legend and recent Emmy nominee Dale Dickey will add to the Season 2 fracas, and Netflix has already renewed the series for Season 3. — Arno",
       "relatedconst": [
         "nm0811242",
         "nm0015196",
@@ -348,6 +363,810 @@
   ],
   "imdb_items": {
     "titles": [
+      {
+        "id": "tt8014982",
+        "title_text": {
+          "text": "The Body"
+        },
+        "title_type": {
+          "id": "tvSeries"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "A test",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ciało",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "O Corpo",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "The Body －私たちの十字架－",
+                "country": {
+                  "id": "JP",
+                  "text": "Japan"
+                },
+                "language": {
+                  "text": "Japanese"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Тело",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Тіло",
+                "country": {
+                  "id": "UA",
+                  "text": "Ukraine"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A group of misbehaving Catholic school girls experience prophetic visions after a dance-team initiation goes wrong, triggering mass hysteria throughout their town."
+          }
+        },
+        "primary_image": {
+          "id": "rm2312369410",
+          "url": "https://m.media-amazon.com/images/M/MV5BY2QzYzRkYzctNDI3Zi00MWFmLWJhOTYtMDA4MzQ3YzZmNjg3XkEyXkFqcGc@._V1_.jpg",
+          "width": 450,
+          "height": 630
+        },
+        "meter_ranking": {
+          "current_rank": 192,
+          "meter_type": "TV_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 198
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.5,
+          "vote_count": 3306
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 11,
+          "day": 11
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Horror"
+              }
+            },
+            {
+              "genre": {
+                "text": "Mystery"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "TV-MA"
+        },
+        "original_title_text": {
+          "text": "The Body"
+        },
+        "runtime": {
+          "seconds": 3600
+        }
+      },
+      {
+        "id": "tt38773219",
+        "title_text": {
+          "text": "Ebenezer"
+        },
+        "title_type": {
+          "id": "movie"
+        },
+        "release_year": {
+          "year": 2026
+        },
+        "akas": {
+          "edges": [
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "AU",
+                  "text": "Australia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "BN",
+                  "text": "Brunei"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "CA",
+                  "text": "Canada"
+                },
+                "language": {
+                  "text": "French"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "CO",
+                  "text": "Colombia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "GB",
+                  "text": "United Kingdom"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "IE",
+                  "text": "Ireland"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "IN",
+                  "text": "India"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "MY",
+                  "text": "Malaysia"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "NZ",
+                  "text": "New Zealand"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "SE",
+                  "text": "Sweden"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "SG",
+                  "text": "Singapore"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "US",
+                  "text": "United States"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer",
+                "country": {
+                  "id": "ZA",
+                  "text": "South Africa"
+                },
+                "language": {
+                  "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Los fantasmas de Navidad",
+                "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Los fantasmas de Navidad",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Los fantasmas de Navidad",
+                "country": {
+                  "id": "CL",
+                  "text": "Chile"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Los fantasmas de Navidad",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Los fantasmas de Navidad",
+                "country": {
+                  "id": "PE",
+                  "text": "Peru"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Los fantasmas de Navidad",
+                "country": {
+                  "id": "VE",
+                  "text": "Venezuela"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scrooge",
+                "country": {
+                  "id": "BE",
+                  "text": "Belgium"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scrooge",
+                "country": {
+                  "id": "DK",
+                  "text": "Denmark"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scrooge",
+                "country": {
+                  "id": "FR",
+                  "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scrooge",
+                "country": {
+                  "id": "MG",
+                  "text": "Madagascar"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Scrooge",
+                "country": {
+                  "id": "MQ",
+                  "text": "Martinique"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Скрудж",
+                "country": {
+                  "id": "KG",
+                  "text": "Kyrgyzstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Скрудж",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Скрудж",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Скрудж",
+                "country": {
+                  "id": "TJ",
+                  "text": "Tajikistan"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "إبنيزر",
+                "country": {
+                  "id": "EG",
+                  "text": "Egypt"
+                },
+                "language": {
+                  "text": "Arabic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "إبنيزر",
+                "country": {
+                  "id": "KW",
+                  "text": "Kuwait"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "إبنيزر",
+                "country": {
+                  "id": "LB",
+                  "text": "Lebanon"
+                },
+                "language": {
+                  "text": "Arabic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "إبنيزر",
+                "country": {
+                  "id": "SA",
+                  "text": "Saudi Arabia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer - Eine Weihnachtsgeschichte",
+                "country": {
+                  "id": "AT",
+                  "text": "Austria"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer - Eine Weihnachtsgeschichte",
+                "country": {
+                  "id": "DE",
+                  "text": "Germany"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: A Christmas Carol",
+                "country": {
+                  "id": "CY",
+                  "text": "Cyprus"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: A Christmas Carol",
+                "country": {
+                  "id": "IS",
+                  "text": "Iceland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer - Božićna Priča",
+                "country": {
+                  "id": "ME",
+                  "text": "Montenegro"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer - Um Conto de Natal",
+                "country": {
+                  "id": "PT",
+                  "text": "Portugal"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer e os Fantasmas do Natal",
+                "country": {
+                  "id": "BR",
+                  "text": "Brazil"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer Scrooge. Opowieść wigilijna",
+                "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Bir Noel Şarkısı",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Božična pesem",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: O poveste de Craciun",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Phép Màu Đêm Giáng Sinh",
+                "country": {
+                  "id": "VN",
+                  "text": "Vietnam"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Saiturin joulu",
+                "country": {
+                  "id": "FI",
+                  "text": "Finland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Vánoční koleda",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ebenezer: Vianočná koleda",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ponas Skrudžas ir Kalėdų dvasios",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            }
+          ]
+        },
+        "plot": {
+          "plot_text": {
+            "plain_text": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption."
+          }
+        },
+        "primary_image": {
+          "id": "rm1928446978",
+          "url": "https://m.media-amazon.com/images/M/MV5BY2Y0NWM2N2EtMjdkMS00NTc0LTg4NDctZmUyYTA4YWZlY2EwXkEyXkFqcGc@._V1_.jpg",
+          "width": 2025,
+          "height": 3000
+        },
+        "meter_ranking": {
+          "current_rank": 24,
+          "meter_type": "MOVIE_METER",
+          "rank_change": {
+            "change_direction": "UP",
+            "difference": 49
+          }
+        },
+        "ratings_summary": {
+          "aggregate_rating": 7.0,
+          "vote_count": 1577
+        },
+        "release_date": {
+          "year": 2026,
+          "month": 11,
+          "day": 13
+        },
+        "title_genres": {
+          "genres": [
+            {
+              "genre": {
+                "text": "Adventure"
+              }
+            },
+            {
+              "genre": {
+                "text": "Comedy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Drama"
+              }
+            },
+            {
+              "genre": {
+                "text": "Fantasy"
+              }
+            },
+            {
+              "genre": {
+                "text": "Thriller"
+              }
+            }
+          ]
+        },
+        "certificate": {
+          "rating": "PG-13"
+        },
+        "original_title_text": {
+          "text": "Ebenezer"
+        },
+        "runtime": {
+          "seconds": 6960
+        }
+      },
       {
         "id": "tt7631058",
         "title_text": {
@@ -885,7 +1704,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 448056
+          "vote_count": 449132
         },
         "release_date": {
           "year": 2022,
@@ -1075,6 +1894,24 @@
               "node": {
                 "text": "Cómo robar un banco",
                 "country": {
+                  "id": "AR",
+                  "text": "Argentina"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cómo robar un banco",
+                "country": {
+                  "id": "BO",
+                  "text": "Bolivia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cómo robar un banco",
+                "country": {
                   "id": "CL",
                   "text": "Chile"
                 }
@@ -1100,28 +1937,10 @@
             },
             {
               "node": {
-                "text": "Cómo Robar Un Banco",
+                "text": "Cómo robar un banco",
                 "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cómo Robar Un Banco",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Cómo Robar Un Banco",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
+                  "id": "PE",
+                  "text": "Peru"
                 }
               }
             },
@@ -1160,6 +1979,36 @@
             },
             {
               "node": {
+                "text": "Как ограбить банк",
+                "country": {
+                  "id": "BY",
+                  "text": "Belarus"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Как ограбить банк",
+                "country": {
+                  "id": "KZ",
+                  "text": "Kazakhstan"
+                },
+                "language": {
+                  "text": "Russian"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Как ограбить банк",
+                "country": {
+                  "id": "RU",
+                  "text": "Russia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Comment braquer une banque",
                 "country": {
                   "id": "CA",
@@ -1176,6 +2025,24 @@
                 "country": {
                   "id": "FR",
                   "text": "France"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cómo Robar Un Banco",
+                "country": {
+                  "id": "EC",
+                  "text": "Ecuador"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Cómo Robar Un Banco",
+                "country": {
+                  "id": "MX",
+                  "text": "Mexico"
                 }
               }
             },
@@ -1199,22 +2066,55 @@
             },
             {
               "node": {
-                "text": "Как ограбить банк",
+                "text": "Kako opljačkati banku",
                 "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                },
-                "language": {
-                  "text": "Russian"
+                  "id": "HR",
+                  "text": "Croatia"
                 }
               }
             },
             {
               "node": {
-                "text": "Как ограбить банк",
+                "text": "Kako opljačkati banku",
                 "country": {
-                  "id": "RU",
-                  "text": "Russia"
+                  "id": "ME",
+                  "text": "Montenegro"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "كيف تسرق بنكاً",
+                "country": {
+                  "id": "BH",
+                  "text": "Bahrain"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "كيف تسرق بنكاً",
+                "country": {
+                  "id": "SA",
+                  "text": "Saudi Arabia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Ako vykradnúť banku",
+                "country": {
+                  "id": "SK",
+                  "text": "Slovakia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Bankı necə qarət etmək olar",
+                "country": {
+                  "id": "AZ",
+                  "text": "Azerbaijan"
                 }
               }
             },
@@ -1250,6 +2150,15 @@
             },
             {
               "node": {
+                "text": "Cum să spargi o bancă",
+                "country": {
+                  "id": "RO",
+                  "text": "Romania"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Hogyan rabolj bankot",
                 "country": {
                   "id": "HU",
@@ -1268,10 +2177,37 @@
             },
             {
               "node": {
+                "text": "Jak udělat banku",
+                "country": {
+                  "id": "CZ",
+                  "text": "Czech Republic"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Kā aplaupīt banku",
                 "country": {
                   "id": "LV",
                   "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kaip apiplėšti banką",
+                "country": {
+                  "id": "LT",
+                  "text": "Lithuania"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Kako oropati banko",
+                "country": {
+                  "id": "SI",
+                  "text": "Slovenia"
                 }
               }
             },
@@ -1301,45 +2237,6 @@
                   "text": "Greece"
                 }
               }
-            },
-            {
-              "node": {
-                "text": "Како опљачкати банку",
-                "country": {
-                  "id": "RS",
-                  "text": "Serbia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "打劫銀行是咁的",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "Cantonese"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "搶銀行先修班",
-                "country": {
-                  "id": "TW",
-                  "text": "Taiwan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "銀行強盗完全マニュアル",
-                "country": {
-                  "id": "JP",
-                  "text": "Japan"
-                }
-              }
             }
           ]
         },
@@ -1363,7 +2260,8 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 6.4,
+          "vote_count": 767
         },
         "release_date": {
           "year": 2026,
@@ -1407,564 +2305,6 @@
         },
         "runtime": {
           "seconds": 7320
-        }
-      },
-      {
-        "id": "tt38773219",
-        "title_text": {
-          "text": "Ebenezer"
-        },
-        "title_type": {
-          "id": "movie"
-        },
-        "release_year": {
-          "year": 2026
-        },
-        "akas": {
-          "edges": [
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "AU",
-                  "text": "Australia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "BN",
-                  "text": "Brunei"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "CA",
-                  "text": "Canada"
-                },
-                "language": {
-                  "text": "French"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "CO",
-                  "text": "Colombia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "GB",
-                  "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "IE",
-                  "text": "Ireland"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "IN",
-                  "text": "India"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "MX",
-                  "text": "Mexico"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "MY",
-                  "text": "Malaysia"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "NZ",
-                  "text": "New Zealand"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "SE",
-                  "text": "Sweden"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "SG",
-                  "text": "Singapore"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "US",
-                  "text": "United States"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer",
-                "country": {
-                  "id": "ZA",
-                  "text": "South Africa"
-                },
-                "language": {
-                  "text": "English"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Los fantasmas de Navidad",
-                "country": {
-                  "id": "AR",
-                  "text": "Argentina"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Los fantasmas de Navidad",
-                "country": {
-                  "id": "BO",
-                  "text": "Bolivia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Los fantasmas de Navidad",
-                "country": {
-                  "id": "CL",
-                  "text": "Chile"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Los fantasmas de Navidad",
-                "country": {
-                  "id": "EC",
-                  "text": "Ecuador"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Los fantasmas de Navidad",
-                "country": {
-                  "id": "PE",
-                  "text": "Peru"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Los fantasmas de Navidad",
-                "country": {
-                  "id": "VE",
-                  "text": "Venezuela"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge",
-                "country": {
-                  "id": "BE",
-                  "text": "Belgium"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge",
-                "country": {
-                  "id": "DK",
-                  "text": "Denmark"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge",
-                "country": {
-                  "id": "FR",
-                  "text": "France"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge",
-                "country": {
-                  "id": "MG",
-                  "text": "Madagascar"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge",
-                "country": {
-                  "id": "MQ",
-                  "text": "Martinique"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Скрудж",
-                "country": {
-                  "id": "KG",
-                  "text": "Kyrgyzstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Скрудж",
-                "country": {
-                  "id": "KZ",
-                  "text": "Kazakhstan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Скрудж",
-                "country": {
-                  "id": "RU",
-                  "text": "Russia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Скрудж",
-                "country": {
-                  "id": "TJ",
-                  "text": "Tajikistan"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer - Eine Weihnachtsgeschichte",
-                "country": {
-                  "id": "AT",
-                  "text": "Austria"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer - Eine Weihnachtsgeschichte",
-                "country": {
-                  "id": "DE",
-                  "text": "Germany"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: A Christmas Carol",
-                "country": {
-                  "id": "CY",
-                  "text": "Cyprus"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: A Christmas Carol",
-                "country": {
-                  "id": "IS",
-                  "text": "Iceland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer - Božićna Priča",
-                "country": {
-                  "id": "ME",
-                  "text": "Montenegro"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer - Um Conto de Natal",
-                "country": {
-                  "id": "PT",
-                  "text": "Portugal"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer e os Fantasmas do Natal",
-                "country": {
-                  "id": "BR",
-                  "text": "Brazil"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer Scrooge. Opowieść wigilijna",
-                "country": {
-                  "id": "PL",
-                  "text": "Poland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Bir Noel Şarkısı",
-                "country": {
-                  "id": "TR",
-                  "text": "Turkey"
-                },
-                "language": {
-                  "text": "Turkish"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Božična pesem",
-                "country": {
-                  "id": "SI",
-                  "text": "Slovenia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: O poveste de Craciun",
-                "country": {
-                  "id": "RO",
-                  "text": "Romania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Phép Màu Đêm Giáng Sinh",
-                "country": {
-                  "id": "VN",
-                  "text": "Vietnam"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Saiturin joulu",
-                "country": {
-                  "id": "FI",
-                  "text": "Finland"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Vánoční koleda",
-                "country": {
-                  "id": "CZ",
-                  "text": "Czech Republic"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ebenezer: Vianočná koleda",
-                "country": {
-                  "id": "SK",
-                  "text": "Slovakia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Ponas Skrudžas ir Kalėdų dvasios",
-                "country": {
-                  "id": "LT",
-                  "text": "Lithuania"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge e gli spiriti del Natale (2026)",
-                "country": {
-                  "id": "IT",
-                  "text": "Italy"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge y los fantasmas de la Navidad",
-                "country": {
-                  "id": "ES",
-                  "text": "Spain"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scrooge: Božićna priča",
-                "country": {
-                  "id": "HR",
-                  "text": "Croatia"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Scroogei jõulud",
-                "country": {
-                  "id": "EE",
-                  "text": "Estonia"
-                }
-              }
-            }
-          ]
-        },
-        "plot": {
-          "plot_text": {
-            "plain_text": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption."
-          }
-        },
-        "primary_image": {
-          "id": "rm1928446978",
-          "url": "https://m.media-amazon.com/images/M/MV5BY2Y0NWM2N2EtMjdkMS00NTc0LTg4NDctZmUyYTA4YWZlY2EwXkEyXkFqcGc@._V1_.jpg",
-          "width": 2025,
-          "height": 3000
-        },
-        "meter_ranking": {
-          "current_rank": 24,
-          "meter_type": "MOVIE_METER",
-          "rank_change": {
-            "change_direction": "UP",
-            "difference": 49
-          }
-        },
-        "ratings_summary": {
-          "vote_count": 0
-        },
-        "release_date": {
-          "year": 2026,
-          "month": 11,
-          "day": 13
-        },
-        "title_genres": {
-          "genres": [
-            {
-              "genre": {
-                "text": "Adventure"
-              }
-            },
-            {
-              "genre": {
-                "text": "Comedy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Drama"
-              }
-            },
-            {
-              "genre": {
-                "text": "Fantasy"
-              }
-            },
-            {
-              "genre": {
-                "text": "Thriller"
-              }
-            }
-          ]
-        },
-        "certificate": {
-          "rating": "PG-13"
-        },
-        "original_title_text": {
-          "text": "Ebenezer"
-        },
-        "runtime": {
-          "seconds": 6960
         }
       },
       {
@@ -2174,6 +2514,18 @@
             },
             {
               "node": {
+                "text": "Sapık",
+                "country": {
+                  "id": "TR",
+                  "text": "Turkey"
+                },
+                "language": {
+                  "text": "Turkish"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Victorian Psycho: A nevelőnő",
                 "country": {
                   "id": "HU",
@@ -2212,8 +2564,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 6.2,
-          "vote_count": 520
+          "aggregate_rating": 6.3,
+          "vote_count": 639
         },
         "release_date": {
           "year": 2026,
@@ -2429,8 +2781,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 7.5,
-          "vote_count": 919
+          "aggregate_rating": 7.6,
+          "vote_count": 1139
         },
         "release_date": {
           "year": 2026,
@@ -2760,8 +3112,8 @@
           }
         },
         "primary_image": {
-          "id": "rm2509632002",
-          "url": "https://m.media-amazon.com/images/M/MV5BZTEwYTVlNmItOGUyYi00MTRjLTliNmItZmZjOTBlMTc2NGMyXkEyXkFqcGc@._V1_.jpg",
+          "id": "rm1155097601",
+          "url": "https://m.media-amazon.com/images/M/MV5BMDQyNzE2NmYtMzExMy00NTBjLWE4ODItNjI1OTNkZWVjNDUyXkEyXkFqcGc@._V1_.jpg",
           "width": 1500,
           "height": 2222
         },
@@ -2775,7 +3127,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.2,
-          "vote_count": 79269
+          "vote_count": 80052
         },
         "release_date": {
           "year": 2024,
@@ -3203,7 +3555,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 11634
+          "vote_count": 14659
         },
         "release_date": {
           "year": 2026,
@@ -3482,6 +3834,15 @@
               "node": {
                 "text": "Godzilla Minus Zero",
                 "country": {
+                  "id": "PL",
+                  "text": "Poland"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "Godzilla Minus Zero",
+                "country": {
                   "id": "PT",
                   "text": "Portugal"
                 }
@@ -3526,6 +3887,15 @@
                 },
                 "language": {
                   "text": "English"
+                }
+              }
+            },
+            {
+              "node": {
+                "text": "G Minus Zero",
+                "country": {
+                  "id": "XWW",
+                  "text": "World-wide"
                 }
               }
             },
@@ -3641,8 +4011,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.0,
-          "vote_count": 18230
+          "aggregate_rating": 7.9,
+          "vote_count": 22978
         },
         "release_date": {
           "year": 2026,
@@ -4012,7 +4382,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 9.0,
-          "vote_count": 165490
+          "vote_count": 165942
         },
         "release_date": {
           "year": 2025,
@@ -4497,7 +4867,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 8.1,
-          "vote_count": 55969
+          "vote_count": 56088
         },
         "release_date": {
           "year": 2022,
@@ -5788,7 +6158,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.7,
-          "vote_count": 118747
+          "vote_count": 118823
         },
         "release_date": {
           "year": 2021,
@@ -6063,6 +6433,15 @@
             },
             {
               "node": {
+                "text": "Es esmu Rokijs",
+                "country": {
+                  "id": "LV",
+                  "text": "Latvia"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Eu Sou o Rocky",
                 "country": {
                   "id": "BR",
@@ -6120,6 +6499,18 @@
             },
             {
               "node": {
+                "text": "Аз съм Роки",
+                "country": {
+                  "id": "BG",
+                  "text": "Bulgaria"
+                },
+                "language": {
+                  "text": "Bulgarian"
+                }
+              }
+            },
+            {
+              "node": {
                 "text": "Играм Рокија",
                 "country": {
                   "id": "RS",
@@ -6144,10 +6535,10 @@
           }
         },
         "primary_image": {
-          "id": "rm3469014530",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTY0MWFkODAtNDdhNS00MzIwLThhMjItMzczMDQ3OWUxMGI0XkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1920
+          "id": "rm898758146",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTk4NjRhZjgtODAxYS00OTE3LWFhZjEtNmIyNzhhZDE0NTA3XkEyXkFqcGc@._V1_.jpg",
+          "width": 2025,
+          "height": 3000
         },
         "meter_ranking": {
           "current_rank": 15,
@@ -6158,8 +6549,8 @@
           }
         },
         "ratings_summary": {
-          "aggregate_rating": 8.0,
-          "vote_count": 2348
+          "aggregate_rating": 8.1,
+          "vote_count": 3129
         },
         "release_date": {
           "year": 2026,
@@ -6267,18 +6658,6 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Paper Tiger",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -6506,7 +6885,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.9,
-          "vote_count": 1261
+          "vote_count": 1354
         },
         "release_date": {
           "year": 2026,
@@ -6869,7 +7248,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 7.0,
-          "vote_count": 55524
+          "vote_count": 55619
         },
         "release_date": {
           "year": 2023,
@@ -7027,19 +7406,28 @@
                   "text": "English"
                 }
               }
+            },
+            {
+              "node": {
+                "text": "Apja lánya",
+                "country": {
+                  "id": "HU",
+                  "text": "Hungary"
+                }
+              }
             }
           ]
         },
         "plot": {
           "plot_text": {
-            "plain_text": "The Quinn sisters, Samantha and Charlotte, have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence."
+            "plain_text": "Sisters Samantha and Charlotte Quinn have spent the last 28 years trying to piece together the lives that were fractured by a single night of violence."
           }
         },
         "primary_image": {
-          "id": "rm4073126914",
-          "url": "https://m.media-amazon.com/images/M/MV5BMjNkZGU0OTItYjViYS00NzUzLWEzNjUtMmU0NTgxNjU4OTI0XkEyXkFqcGc@._V1_.jpg",
-          "width": 2025,
-          "height": 3000
+          "id": "rm2193418754",
+          "url": "https://m.media-amazon.com/images/M/MV5BNDk5MjI5ODMtZGNmZS00NjFmLTkwZjktOGFiMTQxMjcwMWQ3XkEyXkFqcGc@._V1_.jpg",
+          "width": 675,
+          "height": 1000
         },
         "meter_ranking": {
           "current_rank": 130,
@@ -7050,7 +7438,8 @@
           }
         },
         "ratings_summary": {
-          "vote_count": 0
+          "aggregate_rating": 7.4,
+          "vote_count": 428
         },
         "release_date": {
           "year": 2026,
@@ -7916,8 +8305,8 @@
         },
         "release_date": {
           "year": 2026,
-          "month": 11,
-          "day": 25
+          "month": 12,
+          "day": 23
         },
         "title_genres": {
           "genres": [
@@ -8007,18 +8396,6 @@
                 "country": {
                   "id": "GB",
                   "text": "United Kingdom"
-                }
-              }
-            },
-            {
-              "node": {
-                "text": "Focker-in-Law",
-                "country": {
-                  "id": "HK",
-                  "text": "Hong Kong"
-                },
-                "language": {
-                  "text": "English"
                 }
               }
             },
@@ -8886,7 +9263,7 @@
         },
         "ratings_summary": {
           "aggregate_rating": 6.8,
-          "vote_count": 20787
+          "vote_count": 20859
         },
         "release_date": {
           "year": 2025,
@@ -8924,6 +9301,150 @@
       }
     ],
     "names": [
+      {
+        "id": "nm15605354",
+        "name_text": {
+          "text": "Kristina Bogic"
+        },
+        "primary_image": {
+          "id": "rm3542858754",
+          "url": "https://m.media-amazon.com/images/M/MV5BMWU3MGU5NGMtYjdkZi00YWI2LWE2MWEtOWFkODY0ZGNiODZiXkEyXkFqcGc@._V1_CR318,0,1999,2999_.jpg",
+          "width": 1999,
+          "height": 2999
+        }
+      },
+      {
+        "id": "nm10017808",
+        "name_text": {
+          "text": "Sara Boustany"
+        },
+        "primary_image": {
+          "id": "rm3248419074",
+          "url": "https://m.media-amazon.com/images/M/MV5BZTkxMjQ4MDktOWEyZi00ZmUzLThkM2EtNGQzZDcxNjVhOWQ3XkEyXkFqcGc@._V1_.jpg",
+          "width": 1741,
+          "height": 2317
+        }
+      },
+      {
+        "id": "nm7289275",
+        "name_text": {
+          "text": "Geena Meszaros"
+        },
+        "primary_image": {
+          "id": "rm1388112386",
+          "url": "https://m.media-amazon.com/images/M/MV5BM2I0MjE1M2QtYjRhYi00MzFiLTlmMGQtMjY1YWQyMTYyNTAyXkEyXkFqcGc@._V1_.jpg",
+          "width": 3443,
+          "height": 5164
+        }
+      },
+      {
+        "id": "nm3060479",
+        "name_text": {
+          "text": "Nnamdi Asomugha"
+        },
+        "primary_image": {
+          "id": "rm4055651584",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTkzMTgwMTQ2Nl5BMl5BanBnXkFtZTgwNTU2ODQ5NDM@._V1_.jpg",
+          "width": 1360,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm2106801",
+        "name_text": {
+          "text": "Louisa Krause"
+        },
+        "primary_image": {
+          "id": "rm2826249473",
+          "url": "https://m.media-amazon.com/images/M/MV5BMjI1NmVlOWMtN2Y0Zi00NDg4LTliY2MtNDM5ZDQ4NmU5N2NiXkEyXkFqcGc@._V1_.jpg",
+          "width": 294,
+          "height": 440
+        }
+      },
+      {
+        "id": "nm8402202",
+        "name_text": {
+          "text": "Sofia Wylie"
+        },
+        "primary_image": {
+          "id": "rm3762063106",
+          "url": "https://m.media-amazon.com/images/M/MV5BNmQ3MzVlOTQtOTc5ZC00YjQxLWEyMzgtMDMyNDVjMmM2YzQzXkEyXkFqcGc@._V1_.jpg",
+          "width": 1292,
+          "height": 1614
+        }
+      },
+      {
+        "id": "nm0000136",
+        "name_text": {
+          "text": "Johnny Depp"
+        },
+        "primary_image": {
+          "id": "rm4061373441",
+          "url": "https://m.media-amazon.com/images/M/MV5BZjA3NzZiZDktZjc2My00MzY2LThhOWMtZGFjYzg4ZDI2ZWVmXkEyXkFqcGc@._V1_.jpg",
+          "width": 1080,
+          "height": 1591
+        }
+      },
+      {
+        "id": "nm0005212",
+        "name_text": {
+          "text": "Ian McKellen"
+        },
+        "primary_image": {
+          "id": "rm230854144",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjgyNjk3MV5BMl5BanBnXkFtZTcwNTA3NTY5Mg@@._V1_.jpg",
+          "width": 295,
+          "height": 400
+        }
+      },
+      {
+        "id": "nm0342488",
+        "name_text": {
+          "text": "Rupert Grint"
+        },
+        "primary_image": {
+          "id": "rm1713408513",
+          "url": "https://m.media-amazon.com/images/M/MV5BODUwOTc5N2MtNTVmZi00MWE0LWE0Y2QtOTAyOTEzZDg1NGFiXkEyXkFqcGc@._V1_.jpg",
+          "width": 2400,
+          "height": 3600
+        }
+      },
+      {
+        "id": "nm2057859",
+        "name_text": {
+          "text": "Andrea Riseborough"
+        },
+        "primary_image": {
+          "id": "rm2198319104",
+          "url": "https://m.media-amazon.com/images/M/MV5BMTU5MTUzNDAwN15BMl5BanBnXkFtZTcwMjA0NjcyNw@@._V1_.jpg",
+          "width": 1353,
+          "height": 2048
+        }
+      },
+      {
+        "id": "nm7436993",
+        "name_text": {
+          "text": "Tramell Tillman"
+        },
+        "primary_image": {
+          "id": "rm3236110593",
+          "url": "https://m.media-amazon.com/images/M/MV5BMGI1ODNiOWUtYmJmZS00YmIyLTg0YmMtNDQ3OTQ1NmE5NGM5XkEyXkFqcGc@._V1_.jpg",
+          "width": 3150,
+          "height": 4200
+        }
+      },
+      {
+        "id": "nm6003807",
+        "name_text": {
+          "text": "Robert Strange"
+        },
+        "primary_image": {
+          "id": "rm4134759937",
+          "url": "https://m.media-amazon.com/images/M/MV5BYTc1Y2VkMzgtMDQ2Yi00MDY2LWFhZTctYTdmYWNlOGFlMmFhXkEyXkFqcGc@._V1_.jpg",
+          "width": 4029,
+          "height": 6043
+        }
+      },
       {
         "id": "nm6077056",
         "name_text": {
@@ -9066,78 +9587,6 @@
           "url": "https://m.media-amazon.com/images/M/MV5BMTc5MTMyMzUwM15BMl5BanBnXkFtZTgwMTgwMjExNzM@._V1_.jpg",
           "width": 1365,
           "height": 2048
-        }
-      },
-      {
-        "id": "nm0000136",
-        "name_text": {
-          "text": "Johnny Depp"
-        },
-        "primary_image": {
-          "id": "rm4061373441",
-          "url": "https://m.media-amazon.com/images/M/MV5BZjA3NzZiZDktZjc2My00MzY2LThhOWMtZGFjYzg4ZDI2ZWVmXkEyXkFqcGc@._V1_.jpg",
-          "width": 1080,
-          "height": 1591
-        }
-      },
-      {
-        "id": "nm0005212",
-        "name_text": {
-          "text": "Ian McKellen"
-        },
-        "primary_image": {
-          "id": "rm230854144",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MjgyNjk3MV5BMl5BanBnXkFtZTcwNTA3NTY5Mg@@._V1_.jpg",
-          "width": 295,
-          "height": 400
-        }
-      },
-      {
-        "id": "nm0342488",
-        "name_text": {
-          "text": "Rupert Grint"
-        },
-        "primary_image": {
-          "id": "rm1713408513",
-          "url": "https://m.media-amazon.com/images/M/MV5BODUwOTc5N2MtNTVmZi00MWE0LWE0Y2QtOTAyOTEzZDg1NGFiXkEyXkFqcGc@._V1_.jpg",
-          "width": 2400,
-          "height": 3600
-        }
-      },
-      {
-        "id": "nm2057859",
-        "name_text": {
-          "text": "Andrea Riseborough"
-        },
-        "primary_image": {
-          "id": "rm2198319104",
-          "url": "https://m.media-amazon.com/images/M/MV5BMTU5MTUzNDAwN15BMl5BanBnXkFtZTcwMjA0NjcyNw@@._V1_.jpg",
-          "width": 1353,
-          "height": 2048
-        }
-      },
-      {
-        "id": "nm7436993",
-        "name_text": {
-          "text": "Tramell Tillman"
-        },
-        "primary_image": {
-          "id": "rm3236110593",
-          "url": "https://m.media-amazon.com/images/M/MV5BMGI1ODNiOWUtYmJmZS00YmIyLTg0YmMtNDQ3OTQ1NmE5NGM5XkEyXkFqcGc@._V1_.jpg",
-          "width": 3150,
-          "height": 4200
-        }
-      },
-      {
-        "id": "nm6003807",
-        "name_text": {
-          "text": "Robert Strange"
-        },
-        "primary_image": {
-          "id": "rm4134759937",
-          "url": "https://m.media-amazon.com/images/M/MV5BYTc1Y2VkMzgtMDQ2Yi00MDY2LWFhZTctYTdmYWNlOGFlMmFhXkEyXkFqcGc@._V1_.jpg",
-          "width": 4029,
-          "height": 6043
         }
       },
       {
@@ -10296,6 +10745,18 @@
     "videos": [],
     "images": [
       {
+        "id": "rm4040096514",
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEzMmU4YzktZGE0MS00ZTMzLThhOTYtMjA2YzVkMmNiZTMyXkEyXkFqcGc@._V1_.jpg",
+        "width": 3600,
+        "height": 2182
+      },
+      {
+        "id": "rm3116483586",
+        "url": "https://m.media-amazon.com/images/M/MV5BM2IwOTZiZmQtNzU0MC00NDAyLWIzZjMtYzkyYTAxNGRiMWU5XkEyXkFqcGc@._V1_.jpg",
+        "width": 4200,
+        "height": 2878
+      },
+      {
         "id": "rm2413950722",
         "url": "https://m.media-amazon.com/images/M/MV5BOTVjMjVjNmMtMTRkNi00MDk2LTlhNTEtNzhmZWQyMGM1YTg4XkEyXkFqcGc@._V1_.jpg",
         "width": 3000,
@@ -10306,12 +10767,6 @@
         "url": "https://m.media-amazon.com/images/M/MV5BYjYyNTg1OWEtYTE3Ni00YjcwLTg1MTAtNGE3M2JjNmI5NDZjXkEyXkFqcGc@._V1_.jpg",
         "width": 4500,
         "height": 3002
-      },
-      {
-        "id": "rm3116483586",
-        "url": "https://m.media-amazon.com/images/M/MV5BM2IwOTZiZmQtNzU0MC00NDAyLWIzZjMtYzkyYTAxNGRiMWU5XkEyXkFqcGc@._V1_.jpg",
-        "width": 4200,
-        "height": 2878
       },
       {
         "id": "rm566740226",
